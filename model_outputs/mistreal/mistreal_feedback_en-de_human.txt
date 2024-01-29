@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'personen im Land' is a critical accuracy/omission error	'an COVID-19' is a major accuracy/addition error	'genasen und aus den Krankenhäusern entlassen wurden' is a major accuracy/mistranslation error		-20
+ 'COVID-19 patients' is a critical other/no-error	'intensive care units (ICU)' is a major accuracy/addition error	'bislang' is a minor accuracy/mistranslation error		-16
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'ve Guten Tag' is a major accuracy/addition error	'Sie sich heute mit uns' is a minor terminology/inappropriate for context error.		-6
+no-error	0
+no-error	0
+ 'penispumps' is a major accuracy/untranslated text error	'emotionally and financially demanding' is a critical fluency/character encoding error	] 'the SDF' is a major accuracy/addition error	'the New York Times' is a critical accuracy/mistranslation error		-30
+no-error	0
+'at more than 95 % of men' is a major accuracy/addition error	'without any major side effects or medication' is a minor accuracy/omission error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'\&\&' is a minor terminology/inconsistent use error		-1
+no-error	0
+no-error	0
+[PLACEHOLDER] is a' is a major accuracy/mistranslation error. It should be 'the team'		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'Anweisung geben, so zu tun' is a major omission error	'am Empfang' is a major fluency/register error	'identifiziert, wenn er vorbeikommt' is a minor accuracy/mistranslation error		-11
+no-error	0
+no-error	0
+'have a fake email conversation with you' is a major accuracy/non-translation error	'versuchen, dem auf den Grund zu gehen' is a major accuracy/mistranslation error		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'the assistance' is a major donor/benefactor error	'contacting' is a major donor/recipient error		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'wall charger' is a critical accuracy/addition error (assuming the meant wall socket/outlet)	'connect your eReader' is a major accuracy/mistranslation error	'steckdose' is a minor locale convention/currency error	'an' is a minor fluency/omission error	'mit dem' is a minor fluency/register error.		-18
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+Translation: ```ic errors' is a major accuracy/addition error, and their solutions should be handled through careful proofreading and research, rather than through guesswork and assumptions.		-5
+no-error	0
+ 'anmelden' is a minor non-translation error		-1
+ 'Zahlungen' is a major accuracy/money error	'Postgebühren' is a minor untranslated text error		-6

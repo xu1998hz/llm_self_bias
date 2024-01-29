@@ -1,0 +1,47 @@
+'Sie' is a minor fluency/register error
+'Chat-Service' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Der Iran' is a minor fluency/register error[SEP_TOKEN_WENDA]'Das' is a minor fluency/grammar error
+'des' is a minor fluency/grammar error
+'den' is a minor fluency/grammar error
+'der' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Laut' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'wurden' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'diagnosis' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'einer' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Auffrischungsimpfungen' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Provinces' is a major accuracy/mistranslation error
+'or only one dead' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'hochriskanten' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Der' is a minor fluency/grammar error
+'Auffrischungsimpfungen' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"fourth" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'eReader's' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Handbuch' is a major accuracy/mistranslation error
+'erektile Dysfunktion' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'emotional' is a major accuracy/mistranslation error
+'financially' is a major accuracy/mistranslation error
+'erschwinglichsten' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Mehrfachstrom' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Die' is a minor fluency/grammar error
+'größere' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Die Pumpenabdeckung' is a major accuracy/mistranslation error
+'eines der Teile' is a major accuracy/omission error
+'einer Fehlfunktion' is a minor fluency/grammar error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Darüber hinaus' is a minor fluency/awkward error
+'Artikel' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ringauswerfer' is a major terminology/inappropriate for context error
+'Ladekonus' is a major terminology/inappropriate for context error
+'Spannbänder' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Penisringe' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'comes with' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Um das Ganze abzurunden' is a minor style/awkward error[SEP_TOKEN_WENDA]'äußerste' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Vakuumerzeugung' is a critical accuracy/mistranslation error
+'Penis' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Haben Sie' is a minor fluency/grammar error
+'verpasst' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'große' is a minor fluency/grammar error
+'explodiert' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Meme-Krypto' is a major terminology/inappropriate for context error
+'Allzeithoch' is a major terminology/inappropriate for context error
+'US-Dollar' is a minor locale convention/currency error[SEP_TOKEN_WENDA]'US-Dollar' is a minor locale convention/currency error[SEP_TOKEN_WENDA]'Glücksspiel' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Lauf' is a major accuracy/mistranslation error
+'Angst' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'unterstütztes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'In Wirklichkeit' is a minor fluency/awkward error
+'greifbare' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Shiba Inu' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'sich von der Masse abzuheben' is a major accuracy/mistranslation error
+'untermauern' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Blockchain' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'stabile' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Binance-gekoppelten' is a major terminology/inappropriate for context error
+'USD-Belohnungen' is a major terminology/inappropriate for context error
+'im Verhältnis 1:1' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'laut' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Marktkapitalisierung' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Mit einem solchen neuen Projekt' is a minor fluency/awkward error
+'Konkurrenten' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'sunk' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'EverGrow's' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Der Preis' is a minor fluency/grammar error
+'Tiefständen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Jedoch' is a minor fluency/grammar error
+'immer noch' is a minor fluency/grammar error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'SWAP dApp' is a major terminology/inappropriate for context error
+'Trust Wallet or Safemoon Wallet' is a major terminology/inconsistent use error
+'NFT Market Place & Lending' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'das kaum oder gar keinen Nutzen bietet' is a major accuracy/addition error
+'etwa' is a minor accuracy/addition error
+'Marktkapitalisierung' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Wenn' is a minor fluency/grammar error
+'die Angst' is a minor fluency/register error[SEP_TOKEN_WENDA]'waiting time' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'eBook' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'into your device' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in der Vergangenheit' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'der Täter' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Depending on' is a major accuracy/omission error[SEP_TOKEN_WENDA]'unten Genannten' is a major accuracy/mistranslation error
+'der Rezeption' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"unpassenden" is a minor terminology/inappropriate for context error
+"überweisen" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'natürlich' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Gehaltsabrechnungen' is a major accuracy/mistranslation error
+'nachdem Sie es geändert haben' is a major accuracy/omission error
+'Vielen Dank für Ihre Geduld!' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Wir' is a minor fluency/register error
+'Gehalts' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Auch' is a minor fluency/grammar error
+'verschiedene' is a minor fluency/grammar error
+'ungenutzte' is a minor fluency/grammar error
+'Mitarbeiterunterstützungsdienste' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Rechtsversicherung' is a major accuracy/mistranslation error
+'bis hin zu' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'damit du' is a major accuracy/mistranslation error
+'von allem' is a minor accuracy/addition error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Kein' is a minor fluency/grammar error
+'Sachen' is a minor fluency/register error[SEP_TOKEN_WENDA]'Zur Information' is a minor style/awkward error[SEP_TOKEN_WENDA]'gerne' is a minor fluency/register error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Höflichkeit' is a minor terminology/inappropriate for context error
+'Filiale' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'tu' is a major accuracy/mistranslation error
+'befolge' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Netzladegerät' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ein-/Aus-Taste' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"Registerkarte" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

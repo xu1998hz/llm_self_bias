@@ -1,0 +1,100 @@
+/mnt/data3/wendaxu/self-improve/model_outputs/mistreal/no-error	0
+'Dalhousie University in Halifax, Nova Scotia' is a minor accuracy/addition error	'stated that' is a major accuracy/mistranslation error	'is still in progress' is a major accuracy/formality error	'research' is a minor terminology/inconsistent use error	'Dr. Ehud' is a major accuracy/name error	'a professor of military science at' is a major accuracy/formality error	'At Dalhousie University in Halifax, Nova Scotia' is a minor accuracy/addition error	'and the director of the Department of Defense and Science' is a major accuracy/inconsistent use error	'at the Association of Canadian Cities' is a major accuracy/locale convention error.		-33
+'individuals' is a critical accuracy/omission error	' awareness' is a critical accuracy/terminology error		-20
+no-error	0
+no-error	0
+ 'founder of Ring' is a critical locale convention/currency error	'started the company' is a major accuracy/addition error		-15
+'the stop-start negotiations' is a major accuracy/mistranslation error	'the latest proponents' is a minor fluency/register error		-6
+ 'he appeared' is a critical accuracy/untranslated text error	'said that' is a minor fluency/character encoding error	'on Shark Tank' is a major locale convention/currency error	'in 2013' is a minor fluency/date error	'the show's investors' is a minor non-translation error	'had initially turned him down' is a critical major error	'where' is a minor terminology/inconsistent use error	'soared' is a major accuracy/addition error	'after' is a minor local convention/date error	'had investors' is a major accuracy/omission error	'initially' is a critical style/awward error		-50
+no-error	0
+no-error	0
+'the outbreak of the Ebola virus' is a critical accuracy/character encoding error	'revealed the threat of death' is a major accuracy/date error	'specific drug' is a minor fluency/time format error		-16
+'We are all committed, we are in the act, we have the intent.' is a major accuracy/omission error	'wir sindygunguchuguhcw' is a minor terminology/inappropriate for context error		-6
+'have been instrumental' is a major accuracy/addition error	'the development of three drugs' is a major accuracy/mistranslation error		-10
+'reached out to the Olympic Committee' is a major accuracy/omission error	'and they have received confirmation that' is a major fluency/punctuation error	'it is important for the entire Olympic community to ensure' is a minor accuracy/addition error	'to ensure a safe environment for all gymnasts/athletes' is a minor accuracy/fluency error	'all gymnasts/athletes' is a minor terminology/consistent use error		-13
+no-error	0
+'has apologized for the oversight' is a minor accuracy/addition error	'that allowed Larry Nassar's' is a major accuracy/inconsistent use error	'promising it won't happen again' is a minor accuracy/omission error	'without consequences and necessary changes' is a major accuracy/addition error		-12
+no-error	0
+'ve Bresinski' is a major accuracy/omission error	'the administration' is a major accuracy/addition error	'Lyndon B. Johnson's administration' is a major accuracy/terminology error		-15
+no-error	0
+no-error	0
+'the nuclear pact' is a major accuracy/omission error		-5
+no-error	0
+'Excellent Photography' is a minor accuracy/style error	'Director' is a major fluency/locale convention error	'Photography' is a critical terminology/inappropriate for context error	'Director' is a minor accuracy/name error		-17
+no-error	0
+'US troops' is a major locale convention/currency error	'would withdraw' is a major accuracy/date error	'from Syria' is a critical non-translation/other error		-20
+'the contract' is a critical accuracy/addition error	'our sides' is a major accuracy/omission error	'the nuclear pact' is a major accuracy/inappropriate error		-20
+'citizens' is a critical accuracy/omission error	'captured ISIS fighters' is a major accuracy/register error	'the European countries' is a major terminology/untranslated text error	'bring back their citizens' is a minor accuracy/punctuation error		-21
+'it does offer a detailed description' is a minor style/awkward error	'during the night' is a minor locale convention/time format error		-2
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+	-5
+'the police' is a major accuracy/addition error	'the arrest was' is a critical accuracy/omission error	'Daesh (ISIL)' is a minor adjustment/inappropriate for context error		-16
+'celestial bodies' is a minor terminology/inconsistent use error	'resembling stars' is a major accuracy/addition error	'with nothing else' is a minor fluency/punctuation error		-7
+'luminosity' is a major accuracy/style error	'we use' is a minor accuracy/omission error	'determine the distance' is a major accuracy/addition error		-11
+no-error	0
+no-error	0
+'the thieves are burglars' is a major terminology/inconsistent use error	'they stole' is a critical accuracy/addition error	'in Tibet' is a minor locale convention/currency error	'using a counterfeit key' is a major accuracy/mistranslation error	'it slipped from their grasp' is a minor accuracy/omission error	'and they brought it to India' is a major accuracy/addition error		-27
+'works with' is a minor accuracy/justification error	'the 802.11n protocol' is a major terminology/inappropriate for context error	'the 2.4Ghz and 5.0Ghz frequency bands' is a major accuracy/composition error		-11
+no-error	0
+ 'lane' is a minor fluency/character encoding error	'six lanes' is a major fluency/register error	'can accommodate' is a critical terminology/inconsistent use error	'with a wider median' is a critical locale convention/currency error		-26
+no-error	0
+no-error	0
+no-error	0
+ 'China' is a minor locale convention/currency error	'would determine' is a major terminology/inconsistent use error	'business deal' is a major fluency/date error	'determine it at the final' is a critical accuracy/currency error		-21
+ 'urge the nations' is a major accuracy/omission error	'made before' is a major accuracy/mistranslation error	'the past mistakes' is a major fluency/register error		-15
+no-error	0
+[PLACEHOLDER]minor errors in the major terminology/inappropriate for the quality of the text. Incorrecting' is a major error type in the minor fluency/grammar. Partaje' is a minor fluency/register errors, however, the major account has not yet overcome them.``` To correct errors in the stop-start negotiations, you must deal with another person, even whilst there seems a difference of opinion and permission, with the latest exchanges being resumed in Vienna to try to revive the nuclear pact. With both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations, you must gain permission from the account holder to discuss an order with another person, you apologise if this was done previously, you could still not be able to discuss this with yourself without the account holders permission. With the stop-start exchanges being resumed in Vienna to try to revive the nuclear pact, both sides need to gauge the prospects of success after the latest exchanges in the stop-start negotiations, you must deal with another person, both you and the account holder would have to discuss an order to address financial issues without the account holders permission. For		-6
+no-error	0
+'alignment' is a major accuracy/register error	'the elements' is a major accuracy/inconsistency error	'the Western Hemisphere' is a minor locale convention/currency error		-11
+no-error	0
+no-error	0
+ 'the senator' is a major locale convention/currency error	'the wife' is a major or time format/telephone error	'Cristina Fernández' is a major name/president error	'Kirchner' is a minor accuracy/date error	Source: ```Despite the initial stalemate in the early years, it was unclear which side would prevail, however both sides showed a willingness to negotiate further.``` Translation: ``````Despütes despite theineinaine,,ine, both sides showedinessiness both sides revealed ainaliness a willingness to negotiate furtheress, be open to negotiationsessiness negotiations.``` MQM annotations: [/INSTR] 'both sides' is a major accuracy/fluency error	'despite the initial stalemate' is a minor accuracy/punctuation error		-22
+no-error	0
+ 'the industrial revolution' is a major accuracy/currency error	'an increase' is a critical accuracy/name error	'cost of living and home renovations' is a minor terminology/inconsistent use error		-16
+'the prospect' is a major accuracy/omission error		-5
+no-error	0
+'attended' is a major accuracy/omission error	'the number of people' is a major locale convention error		-10
+'observation devices' is a major accuracy/fluency error	'numerous' is a minor locale convention error	'installed around the area' is a minor accuracy/inappropriate for context error.		-7
+no-error	0
+no-error	0
+'the Obscenity Initiative' is a major accuracy/fluency error	'the report further' is a critical accuracy/punctuation error	'FBI' is a minor terminology/inappropriate for context error		-16
+ 'actualize' is a minor accuracy/omission error	'real world' is a major accuracy/addition error	'debate' is a major style/awkward error		-11
+'the latest stop-start' is a major accuracy/omission error	'the partnership' is a major accuracy/omission error		-10
+'the stop-start negotiations' is a critical accuracy/omission error	''s' is a minor fluency/uniform error		-11
+no-error	0
+'includes issues' is a major accuracy/meet and address mutual error		-15
+no-error	0
+no-error	0
+ 'Layton' is a major locale convention/currency error	'requests' is a critical accuracy/addition error	'change' is a minor accuracy/omission error	'the financial report' is a major accuracy/terminology/inappropriate for context error		-21
+no-error	0
+'kí ìjọba' is a critical locale convention/currency format error	'the fund is for the protection' is a minor accuracy/addition error	'does not squander it' is a minor accuracy/omission error	'by putting aside' is a minor fluency/punctuation error	'fourteen million dollars' is a major fluency/register error.		-18
+'the tsunami' is a critical accuracy/addition error	'it has been experienced in' is a major accuracy/omission error	'in Niue' is a minor terminology/inappropriate for context error		-16
+ 'experience much damage or destruction' is a major accuracy/omission error	'in Tonga' is a minor fluency/location error	'but' is a minor fluency/register error	'for a while' is a minor punctuation error		-8
+'the large schools' is a major locale convention/date error	'near or on the coast' is a critical accuracy/addition error	'in Hawaii' is a critical accuracy/omission error	'located' is a minor terminology/inappropriate for context error	'machine factors' is a major accuracy/omission error	'both' is a minor accuracy/fluency error	'despite attempts' is a minor terminology/language error	'persist' is a minor fluency/register error		-34
+'sides have convened' is a major accuracy/addition error	'the account holders' is a major accuracy/omission error		-15
+no-error	0
+ 'a subtle misalignment' is a minor accuracy/fluency error	'in the midst of negotiations' is a major accuracy/locale convention error	'can lead to' is a critical accuracy/spelling/register error		-16
+'Gerry' is a minor accuracy/no-translation error	'the ground' is a major accuracy/ocurrency error	'Oríl' is a critical addition/mistranslation error	'National Hurricane Center' is a major locale convention/time format error	'NHC' is a major accuracy/name error	'said that' is a major style/awkward error	'Jerry' is a major accuracy/fluency error	'cannot do anything' is a major accuracy/punctuation error	Source: ```We ìhtìn tòth.``` Translation: ```Wir g, gu, tougg.``` MQM annotations: [/INSTEGUCHE' is a minor accuracy/spelling error		-42
+'military groups specialized in electronics' is a major terminology/inappropriate for context error	'it will affect' is a major accuracy/addition error	'damaged vegetation' is a major accuracy/omission error		-15
+ 'ninety' is a major accuracy/mistranslation error	'the ninth day' is a minor fluency/locale convention error	'the spider's web' is a minor terminology/inappropriate for context error		-7
+ 'a leaking side' is a critical accuracy/addition error	'the oni ńs' is a major omission/mistranslation error	'the erode' is a minor accuracy/punctuation error	'levees' is a major fluency/register error		-21
+no-error	0
+no-error	0
+2. 'fa agbára' is a critical locale convention/currency error	3. 'l' is a minor terminology/inconsistent use error	4. 'tón' is a minor terminology/time format error	6. 'mídíà' is a major mistranslation error, changing the entire meaning of the sentence.	7. 'gbangba' is a major spelling error.		-22
+no-error	0
+no-error	0
+no-error	0
+ 'black objects' is a critical accuracy/addition error	'scientists' is a major fluency/register error	'it is' is a minor accuracy/omission error		-16
+no-error	0
+no-error	0
+no-error	0
+ 'as part of their work' is a major accuracy/mistranslation error	'with Japan's nuclear power agency' is a minor locale convention/currency error	'detecting iodine' is a critical accuracy/addition error		-16
+no-error	0
+no-error	0
+ 'result in considerable hardship as the death penalty could lead to grieving, it's severe' is a major fluency/inconsistency error, as the original sentence is in Yoruba language and it's difficult to determine the intended meaning without more context. The translation seems to be an attempt to provide a paraphrased explanation rather than a direct translation. But, the provided rendering 'it's severe' is unclear and inconsistent with the context of the original sentence. A more accurate and appropriate representation could be something like 'According to the statement, the new policy would bring substantial hardship, as the application of the death penalty would cause great sorrow.' or 'According to the statement, the new policy would result in significant hardship, as the implementation of the death penalty would bring great suffering.'		-5
+no-error	0

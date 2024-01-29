@@ -1,0 +1,100 @@
+'open service window' is a major accuracy/omission error	'chat service' is a minor grammar/incensing error	'windows open' is a major openness error		-11
+no-error	0
+'ve Freut, Ich, Den, Dankar' is a major accuracy/fluency error	'dankar, danskar, danskar' is a minor accuracy/fluency error	'Ich' is a major grammarerror	'l' is a minor lockeerror		-12
+'ve Wúnsch' is a major accuracy/addition error	'wodize' is a minor accuracy/subtle error		-6
+'ve' is a minor fluency/register error		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'sind die' is a major style/awkward error	'regierung' is a major imposition/presentation error	'massenhafte' is a major impresario/sponsorship error	'massive vaccination' is a major vaccination campaign error	'die massif' is a major donation/contribution error	'Impfkampagne' is a major invitation/offer error	'Impfkampagne' is a major impresario/sponsorship error		-35
+no-error	0
+'die Gesamtzahl' is a major acceptance/addition error	'the landing' is a major acceptance/omission error	'Sie geschenke' is a minor registration error		-11
+'ve Todesfall' is a major fluency/register error		-5
+ 'the orange zones' is a major locale error	'the latest figures' is a major classify error	'the blue zones' is a major local error		-15
+no-error	0
+ 'the coronavirus-Impfstoffe' is a major fluency/currency error	'ags' is a minor accuracy/omission error	'land' is a minor locale/address error		-7
+no-error	0
+'reader software' is a minor accuracy/compatibility error	'software version' is a major adaptability error		-6
+'maje' is a minor accuracy error		-1
+no-error	0
+'the tip' is a major accuracy/omission error	'snaží' is a minor style/awkward error		-6
+'the subject' is a major subject error		-5
+no-error	0
+no-error	0
+no-error	0
+'bitte' is a major accuracy/addition error	'des Konteninhabers, die E-Mail-Adresse' is a major currency/address error	'die Lieferadresse' is a minor style/awkward error		-11
+no-error	0
+'Eine Erektionsstörung' is a major fluency/register error	'emotionale' is a minor fluency/grammar error	'finanzielle' is a minor fluency/register error	'anbietet' is a minor terminology/inappropriate for context error		-8
+no-error	0
+'in over 95% of men' is a critical accuracy/addition error	'against' is a minor fluency/grammar error		-11
+no-error	0
+ 'an unfriendly approach' is a major fluency/adaptation error	'they allow this' is a major omission error	'wae' is a minor spelling/encoding error	'trouvées' is a major term/cover error		-16
+'Außeder' is a major accommodation/welcome error	'Dekoration' is a major process of receiving error		-10
+'anzeän' is a major acceptance/addition error	'pumping' is a major pumping for help error	'die im Setze' is a minor terminology/inappropriate error		-11
+'tuch' is a major omission error		-5
+'dieses' is a major compliance/acquies error	'Größen' is a minor translation error	'Spannbundene' is a minor terminology/inappropriate for user error		-7
+'sch identically' is a major accuracy/addition error	're' is a major accuracy/omission error	'komplett' is a minor fluency/register error		-11
+'wollen' is a major terminology/inappropriate for context error	'die sexuellen' is a major privacy error	'schonen' is a minor fluency/find a decoration error	'wir wollen' is a minor privacy/offer error		-12
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'wahrscheinlich' is a minor accuracy/mistranslation error	'die Wirklichkeit ist' is a minor style/awkward error	'Gewinnen verpasst' is a major fluency/register error	'Shiba Inu' is a major terminology/inappropriate for context error		-12
+ 'smartes Marketing' is a major style/awkward error	'investieren' is a major fluency/grammar error	'Angst davor' is a minor accuracy/mistranslation error	'FOMO' is a critical accuracy/omission error		-21
+'revoke' is a major permission/approval error	'concede' is a minor agreement/acceptance error		-6
+'ve Wirklichkeit' is a major accuracy/addition error	'uy' is a minor style/awkward error	'anstrengungen' is a minor inappropriate for context error		-7
+ 've Auf dem' is a major accuracy/addition error	'the team behind' is a major accuracy/omission error		-10
+no-error	0
+'go to the review' is a critical reception/offering error	'sèche' is a minor backflow error	'avouvr' is a minor approach error	'soubisse' and 'oùß' is a minor face error	'échéanz' is a minor show error		-14
+no-error	0
+'le demande' is a major reception/offering error		-5
+no-error	0
+'the CoinMarketCap' is a major introduction/presentation error on CoinMarketCap is the act of a potential investor introducing the large capital investment.``` Trans		-5
+'ve Vívni' is a major accuracy/addition error	'ricks' is a major accuracy/omission error	'partik' is a minor terminology/inappropriate for context error		-11
+no-error	0
+'has Vestre hant CoinMarket Cap been Hebenwies Uplifting on Vorbringte Prenom de Presentation of, Displayed to be Presentéde Beque' is a minor display/offer error	'wäre ich' is a minor fluency/register error	Ich entschuldigie minch dafür, wir mussen dies Erlabeb' is a major offer of the producer to render a major picture/exhibition error		-7
+'ve Dankeis' is a major accuracy/addition error	'lasts' is a minor last word error	'shows' is a minor fluency/show error		-7
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'the serious upside' is a minor fluency/grammar error	'their current' is a minor accuracy/mistranslation error		-2
+no-error	0
+'ve Ihre Geduld' is a major accuracy/addition error	'you checked-in' is a major accuracy/omission error		-10
+'ve wikklich' is a major style/awkward for context error	'the requestor' is a major style/acknowledger for context error	'the intermediary' is a major style/patron for context error		-15
+no-error	0
+'wodl' is a minor performance/showcase error		-1
+'mir erzellt' is a major accuracy/addition error	'wenn das versucht' is a major accuracy/omission error	'wenn daignen' is a minor graciousness/deference error	'dassau' is a minor accommodation/welcome error		-12
+no-error	0
+no-error	0
+'following Maßnahmen' is a minor fluency/inconsistency error	'auftauchte' is a minor fluency/tense error	'Mitarbeiter' is a minor accuracy/character encoding error	'unseren Listen' is a minor accuracy/translation error	'halt' is a major accuracy/mistranslation error	'Ausgangsempfangsbedienung' is a major accuracy/terminology/inconsistent use error, it should be 'Ausgangsbedienung'	'teach reception to pretend they didn't know who someone was' is a critical accuracy/mistranslation error, it should be 'teach reception to act as if they didn't know who someone was'.		-24
+'to siphon money' is a major accuracy/mistranslation error	'I could make an arrangement' is a major fluency/register error	'This deduction' is a major accuracy/inconsistent use error	'backs' is a major accuracy/mistranslation error	'getrennt und zurückzusenden' is a major fluency/punctuation error, it should be 'getrennt und zurückgegeben' (separated and returned)		-25
+no-error	0
+'have a fake email conversation' is a major accuracy/awkward error	'Lohnabrechnungen' is a minor locale convention error	'dieses Problem' is a minor style/awkward error		-7
+'Arbeitgeber' is a major permission/sanction error	'ganzliche' is a major approach/invitation error	'Lohnsumme' is a major registration/admission error		-15
+no-error	0
+'re Coupons' is a minor terminology/inappropriate for context error	'the legal insurance' is a major legal insurance error		-6
+'ve Umi' is a minor fluency/register error		-1
+'ve Fitnessstudi' is a major accuracy/addition error	'lasse' is a major fluency/grammar error	'Sie' is a minor fluency/register error		-11
+ 'Diebstahl' is a minor accuracy/addition error	'lösung' is a minor accuracy/omission error		-2
+ 'wissen' is a minor fluency/character encoding error	'das ich Ihnen' is a major accuracy/grammar error	'senden' is a major terminology/inappropriate for context error	  * The text `was' is a major addition error	  * The formatting `is' is a minor addition error	  * Your `task' is a major omission error	  * The word `order' is a major untranslated text error		-27
+no-error	0
+ 'thank you' is a minor fluency/greeting error	'contacting #PRS\_ORG#' is a major locale/telephone error		-6
+'Ich hoffe' is a major accuracy/addition error	'dass' is a major terminology/inappropriate for context error		-10
+no-error	0
+'vôlons' is a major additive error		-5
+no-error	0
+'bitte' is a critical favor grant/entrée error	'folgen' is a major favor/respect error	'den' is a minor favor/mood error	'nécest' is a minor fluency/curators error	'nächsten' is a minor offer error		-18
+no-error	0
+ 'the power button' is a major user interface/awkward error	'the words "Powered off"' is a major accuracy/addition error	'Drücken Sie' is a minor accuracy/fluency error	'der Bildschirmtopp' is a minor localization error		-12
+'halten sie' is a major power/control error	'knopf' is a minor terminology/inappropriate for context error		-6
+no-error	0
+'ihres eBook-Readers' is a major style/awkward error	'Sie' is a minor accuracy/addition error	'den Funktionsknopf' is a minor accuracy/fluency error		-7
+no-error	0
+ 'der Knopf' is a major mistranslation error	'freigeben' is a major fluency/grammar error	'die Schaltkraft' is a major provide you with error		-15
+no-error	0
+ 'your E-Mail-Adresse' is a major accuracy/addition error	'Ihr Passwort' is a major accuracy/addition error		-10
+'the Payments and Postage tab' is a minor locale/currency error		-1

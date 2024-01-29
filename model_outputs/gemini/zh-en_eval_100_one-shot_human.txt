@@ -1,0 +1,79 @@
+no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'could could' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'seeking for' is a major accuracy/mistranslation error
+'source of smog' is a major accuracy/omission error
+'creative' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'machinery' is a major accuracy/mistranslation error
+'life science' is a major accuracy/mistranslation error
+'humanities education' is a major accuracy/mistranslation error
+'high-end' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'physical examination' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'doctoral student' is a minor accuracy/omission error
+'with the size of' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"instrument" is a critical accuracy/mistranslation error
+"preliminarily" is a major accuracy/addition error
+"physical conditions" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Diming' is a minor accuracy/mistranslation error
+'is connected to' is a minor accuracy/omission error
+'after you breathe out' is a minor accuracy/omission error
+'will be shown' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'often' is a major accuracy/addition error[SEP_TOKEN_WENDA]'its target is chemical elements' is a major accuracy/mistranslation error
+'sense of smell' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'high-functioning eyes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'smart phones' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'trying to solve' is a major accuracy/addition error
+'developed' is a major accuracy/mistranslation error
+'operation' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Improper" is a major accuracy/mistranslation error
+"inaccurate" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'According to' is a major accuracy/addition error
+'in a timely manner' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'distinction degree' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'shadow-less degree' is a major accuracy/mistranslation error
+'any time' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Sir Run Shaw Hospital Afflicted to Zhejiang University Medical College' is a major accuracy/mistranslation error
+'favorable' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'in a cool way' is a major accuracy/addition error[SEP_TOKEN_WENDA]'sanitizer' is a major accuracy/omission error
+'equipment' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'washbasin' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'can form' is a major accuracy/mistranslation error
+'at the faucet' is a major accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Chromogenic' is a critical terminology/inappropriate for context error
+'germ residue' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'we wash our hands clean' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the only' is a critical accuracy/mistranslation error
+'with' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'refund' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'There are bones' is a critical accuracy/mistranslation error
+'and kimchi' is a major accuracy/addition error
+'it’s' is a minor fluency/grammar error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'We don’t have it at the moment' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'skill type' is a major accuracy/mistranslation error
+'except for' is a major accuracy/omission error[SEP_TOKEN_WENDA]'For your information' is a minor style/awkward error
+'i.e.,' is a minor style/awkward error[SEP_TOKEN_WENDA]'everyone knows' is a minor accuracy/addition error
+'the coming of the ambulance' is a minor accuracy/mistranslation error
+'which is most critical' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the most important' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'we' is a critical accuracy/mistranslation error
+'suffer from' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'first aid' is a major accuracy/mistranslation error
+'somebody' is a minor accuracy/omission error
+'really' is a minor style/awkward error[SEP_TOKEN_WENDA]"3 million people die from accidents every year" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'cardiac arrest' is a critical accuracy/mistranslation error
+'of people' is a major accuracy/omission error[SEP_TOKEN_WENDA]"In the Casino Hotel in Las Vegas" is a critical accuracy/addition error
+"70% or 80%" is a major accuracy/mistranslation error
+"the proportion in Shanghai and Beijing is lower than 1%. ”" is a major accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'philtrum' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'bring them back to life' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'accident' is a major accuracy/mistranslation error
+'emergency situations' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'We may bring somebody back to life with this skill!' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'People' is a major accuracy/mistranslation error
+'are offered with' is a major fluency/grammar error
+'a discount' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Certificate of First Aid' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Diving Certificate' is a major accuracy/mistranslation error
+'Diving First Aid Certificate' is a major accuracy/mistranslation error
+'Certificate of First Aid' is a major accuracy/mistranslation error
+'Red' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'＃#NUMBER#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'dumping' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Only Fools Rush In' is a critical accuracy/mistranslation error
+'utterly' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'it is not without any highlight' is a major accuracy/mistranslation error
+'at least' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Only Fools Rush In' is a critical accuracy/mistranslation error
+'Mount Emei' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Javier Mascherano' is a critical accuracy/mistranslation error
+'trench coat' is a major accuracy/mistranslation error
+'Cthulhu' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'metaphors' is a major accuracy/mistranslation error
+'close examination' is a major accuracy/omission error
+'it is only a piece of shit' is a major fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'male leading role' is a major terminology/inappropriate for context error
+'some island' is a major accuracy/omission error[SEP_TOKEN_WENDA]'His' is a major accuracy/mistranslation error
+'a old male neighbor' is a major accuracy/omission error
+'the a' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'An elderly' is a critical accuracy/mistranslation error
+'goes' is a critical accuracy/mistranslation error
+'in a minibus' is a critical accuracy/omission error
+'? ?' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'okay' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'old lady' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'female leading role' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'racing bike' is a major accuracy/mistranslation error
+'How do' is a major accuracy/omission error
+'easily' is a minor accuracy/addition error
+'a mountain road' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'delivering steel bars' is a major accuracy/mistranslation error
+'in the middle of the road' is a major accuracy/omission error
+'nowhere to be found' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'They are' is a major accuracy/addition error
+'obviously' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'little gangster biker' is a major accuracy/mistranslation error
+'suspected of breaking the law' is a major accuracy/omission error
+'auxiliary policeman' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'usury' is a critical accuracy/mistranslation error
+'there was' is a major accuracy/omission error
+'any problem' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'An adult who knows how to use smart phone doesn’t know how to use the card to open the door at the hotel' is a major accuracy/mistranslation error
+'it was forcefully arranged for him not being able to find the owner of the hotel and so he slept outside the hotel for the night' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'such' is a major accuracy/omission error
+'were' is a major accuracy/omission error
+'the plots' is a major accuracy/omission error
+'so' is a major accuracy/omission error
+'that' is a major accuracy/omission error
+'I feel' is a major accuracy/omission error
+'when' is a major accuracy/omission error
+'them' is a major accuracy/omission error[SEP_TOKEN_WENDA]'plots' is a major accuracy/mistranslation error
+'stitched together' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'inspiration film' is a major accuracy/mistranslation error
+'a piece of shit' is a major accuracy/mistranslation error
+'Spring Festival' is a major locale convention/time format error[SEP_TOKEN_WENDA]'biker' is a major accuracy/mistranslation error
+'inspiration' is a major accuracy/mistranslation error
+'rookie' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'just' is a minor accuracy/addition error
+'a girl who works as a waitress' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'please don’t think about ideas that are ridiculous' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'retarded' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'And one more thing' is a minor fluency/awkward error
+'adding the plot of' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'to humiliate' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'coder' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'is' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]

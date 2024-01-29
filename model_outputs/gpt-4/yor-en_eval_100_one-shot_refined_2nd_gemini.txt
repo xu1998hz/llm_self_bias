@@ -1,0 +1,52 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'I doubt' is a critical accuracy/mistranslation error
+'Like the authors,' is a major accuracy/omission error
+'it is not curable' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'from his front yard' is a critical accuracy/mistranslation error
+'a doorbell chime wouldn't stop echoing' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'O ko ago ilekun WiFi, O wi.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'USOC agrees that the best way to serve the interests of our athletes, sports organizations and the sports we oversee is to continue to make meaningful change within our organization, rather than withdrawing our bid.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Goslini àti Okuta yege fún ìbò Eléré Ọkùnrin àti Eléré Obinrin ní kọ̀kan wọn.' is a critical non-translation error[SEP_TOKEN_WENDA]'Aworan to Dara ju' is a critical accuracy/mistranslation error
+'Asatunto-Fiimu' is a major accuracy/mistranslation error
+'Asatunto ohun' is a major accuracy/mistranslation error
+'Apohunpo' is a major accuracy/mistranslation error
+'Akota' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'On the eve of Good Friday' is a critical accuracy/mistranslation error
+'US President Donald Trump' is a major accuracy/omission error
+'his press secretary' is a major accuracy/omission error
+'US troops will be leaving Syria' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'whom their European countries of origin have mostly declined to take back' is a critical accuracy/mistranslation error
+'will not accept' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Èyì kò ṣàrídájú pé ó kéré jù àwọn dinosaurs ní ìyẹ́,ọ̀rọ̀ tó dájú tí ó ti tànká, ṣùgbọ́n ó pèsè ẹ̀kúnrẹ́rẹ́ àlàyé egungun ẹranko dinosaurs bíi àwọ́ àti títò lanà mẹt.' is a critical accuracy/omission error
+'but it does provide a glimpse into the debate about dinosaur colors and feathers.' is a critical accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wíwá náà tún fúni lóyẹ sí ìtànkálè ti àwọn ìyé nínú ẹyẹ.' is a critical non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'if the meat is from a dinosaur' is a critical accuracy/mistranslation error
+'its texture is more like that of an adult dinosaur than that of a juvenile dinosaur' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]'funra sí ọmọ ogun' is a major accuracy/mistranslation error
+'were responsible' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'kò sí nǹkan mìíràn' is a major accuracy/omission error
+'The motion of the sun and the planets was observed to follow the same pattern' is a major accuracy/mistranslation error
+'The motions of all the planets were observed to be regular and were determined only by their own motions' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'rosbi irawo' is a critical accuracy/untranslated text error
+'We will not use' is a critical accuracy/mistranslation error
+'olasma' is a major accuracy/untranslated text error
+'Ṣe pẹ̀lú bí' is a major accuracy/untranslated text error
+'Ṣe wàn s' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'He escaped from his wedding' is a critical accuracy/mistranslation error
+'was arrested in India' is a major accuracy/mistranslation error
+'The hijackers hijacked a plane in Tibet using a toy gun' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'eto igbohun si afefe' is a critical accuracy/omission error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'o fí bẹ́ẹ̀ dá Mila' is a critical accuracy/omission error
+'Two Children' is a major accuracy/mistranslation error
+'thus ended the story' is a major accuracy/mistranslation error
+'in the evening' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'context' is a major accuracy/mistranslation error
+'just taking my time' is a major accuracy/mistranslation error
+'not taking what he says' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'for the election' is a critical accuracy/mistranslation error
+'outcome of the Chinese economy' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Urge newly industrialized countries to “learn from the past mistakes of environmental protection before they repeat them again.”' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"although they may not' is a critical accuracy/mistranslation error
+'be told to grow beyond their level of development and strength' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Martin Dempsey, the top general in the Pentagon, on Tuesday' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Abajade' is a major accuracy/mistranslation error
+'ìsìpè fún ìjíròrò gbàngba àti ìgbédìdẹ ìpohùnpọ̀' is a critical accuracy/omission error
+'Ààrin Gúngún Ìlà-oòrùn' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'petition' is a critical accuracy/mistranslation error
+'new leaders' is a major accuracy/mistranslation error
+'policies' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]'will vote on a bill' is a critical accuracy/mistranslation error
+'First Lady' is a major accuracy/mistranslation error
+'announced her bid for the presidency' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'original' is a major accuracy/mistranslation error
+'Conservative-led' is a major accuracy/mistranslation error
+'New Orleans Business Council' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ìbániwí tí kò le ti agbára àtúnkọ́lé tí fẹ́ gbé iṣẹ́ àtúnkọ́lé fún àwọn ọmọ ìlú Washington.' is a critical non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]'40 runs' is a major accuracy/mistranslation error
+'12 boundaries and 6 sixes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ló kíi o dẹ̀ sọ̀rọ̀' is a critical accuracy/mistranslation error
+'will not be speaking' is a critical accuracy/mistranslation error
+'Olórí Singapo' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'accepted the declaration' is a major accuracy/mistranslation error
+'ìkẹ́de náà wọlé' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Common Sense leader' is a critical accuracy/mistranslation error
+'expressed disappointment' is a critical accuracy/mistranslation error
+'over the edits made during his interview' is a critical accuracy/mistranslation error
+'with a Wikinews journalist last month' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]'Sagirrarius' is a major accuracy/spelling error
+'educational' is a major accuracy/mistranslation error
+'the aim of the program' is a major accuracy/mistranslation error
+'the work being done by Sagittarius in the sky' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'forces of the water dragon' is a critical accuracy/mistranslation error
+'core of the galaxy's black hole' is a major accuracy/mistranslation error
+'dark matter of the Milky Way' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'keeping it from spinning' is a critical accuracy/mistranslation error
+'As the moon does to the Earth' is a major accuracy/mistranslation error
+'Sagittarius dwarf galaxy' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'[BLOCKED]' is a critical non-translation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

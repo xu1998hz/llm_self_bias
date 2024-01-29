@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+ 'and how long' is a major accuracy/addition error	'the restaurant' is a major accuracy/omission error	'prepare' is a minor punctuation/register error	'ask' is a minor punctuation/punctuation error		-12
+'Xinhuanet' is a major accuracy/addition error	'the leading role' is a major accuracy/omission error	'creative research achievements' is a minor terminology/inappropriate modification error		-11
+ 'Washing hands with air' is a major accuracy/mistranslation error	'diagnosing disease through breath' is a major accuracy/inconsistency error	'accurately seeking for source of smog' is a minor style/terminology error.		-11
+no-error	0
+no-error	0
+ 'Zhang Diming' is a minor non-translation error	'a half of a smart phone' is a minor terminology error		-2
+ 'you' is a major fluency/register error	'"from the components of the air you breathe out' is a major accuracy/omission error	'"your physical conditions' is a minor accuracy/addition error		-11
+'this set of sensor' is a critical accuracy/addition error	'the smart phone' is a major accuracy/omission error	'the health report' is a minor style/punctuation error		-16
+'on the market bands' is a major accuracy/addition error	'health conditions' is a major accuracy/omission error	'temperature' is a minor fluency/grammar error	'pulse' is a minor register error		-12
+'sense of smell' is a minor style/awkward error	'reflect the health status' is a major accuracy/fluency error	'its keen' is a minor fluency/register error	'the new material of graphene' is a major terminology/inappropriate for context error	'this set of biological sensor' is a major accuracy/subject agreement error.		-17
+'smart lamp' of sources' is a minor accuracy/addition error.'lamp' of sources' is a critical accuracy/addition error.'sources' holders' are major accuracy/msission error.'Operation lamp' of sources' is a major accuracy/omsission error." The lamp of sources[PLACEHOLDER] critical accuracy/omission error.'the source holders' are minor accuracies/awkward errors. ```		-16
+'In addition to smartphones,' is a major accuracy/addition error	'smartoperationlamp' is a major accuracy/omasistency error	'operatingroomslampp' is a major accuracy/omission error	'smartoperationlamp' is a minor terminology/inappropriate error for context error		-16
+no-error	0
+no-error	0
+'improper' is a major accuracy/addition error	'early detection' is a major accuracy/mistranslation error	'many diseases' is a minor fluency/character encoding error	'operation lamps used by doctors' is a minor locale convention error.		-12
+no-error	0
+'has four lamp panels' is a minor fluency/locale convention error (should be 'has four panels with lamp lights')	'enhance the distinction degree' is a minor accuracy/addition error		-2
+no-error	0
+no-error	0
+ 'last October' is a major locale/currency error	'this invention' is a critical accuracy/addition error	Source: ```You will understand that the statement is addressed to you when the verb "you" is used in its imperative form.``` Translation: ```Du wirdestß, dass der Satz dir zugesendet wird, wenn das Verb „du“ als imperativ gebraucht wird.``` MQM annotations: [/]'understand' is a minor fluency/register error	'is addressed to you' is a major accuracy/mistranslation error		-21
+'air' is a minor fluency/grammatic error		-1
+no-error	0
+ 'the washbasin of the equipment' is a major locale convention error	'our weight' is a minor fluency/spelling error		-6
+'就像是' is a minor conversion error		-2
+'compressed out' is a major accuracy/omission error	'form a flow' is a major accuracy/mistranslation error	'at the faucet' is a minor punctuation error		-11
+'as such' is a major fluency/inconsistency error	'我们 Just able wash' is a major fluency/omission error	'our hands' is a minor accuracy error.```		-11
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'kimchi' is a minor locale convention error. This error is a minor error as it does not disrupt the flow or hinder comprehension, but it is a non-translation as the term 'kimchi' is not directly translatable to English and may require additional context to understand correctly. In this context, it refers to a type of Chinese dishes or snacks which are not suitable for children due to their ingredients or size.		-1
+ ' please place an order soon.' is a minor non-translation error.		-1
+no-error	0
+'#PRS\_ORG#' is a minor non-translation error or unclear notation. The rest of the text is a minor accuracy/addition error.		-1
+ '我不等了' is a critical non-translation error	'取消订单' is a major non-translation error		-15
+'the wrong address' is a major accuracy/omission error.		-5
+ '可以更改' is a minor non-translation error	'it' is a minor query error		-2
+ 'ordnung' is a minor accuracy/omission error.	[/IMPUTING_LANGUAGE_MODE: 1] Source: ```Let's examine this code, the syntax appears to be well-formed.``` Translation: ```Lasst uns hiri kódız vyzheydy zhhodk. Lásch vzı dhhód.``` MQM annotations: [/IMPUTING_LANGUAGE_MODE: 1] 'kódız' is a minor syntax/awkward error.		-2
+'mas fui' is a minor fluency/awkward error.		-1
+ 'Certificate I deem' is a minor locale convention error	'meaningful' is a major accuracy/addition error	'First Aid' is a minor locale convention error		-7
+no-error	0
+no-error	0
+no-error	0
+'this period' is a major locale convention/date error (assuming "this period" refers to a specific time frame in the text)		-5
+no-error	0
+'so it wa' is a major accuracy/addition error		-6
+no-error	0
+ '3 million people' is a major accuracy/addition error	'according to official data' is a major accuracy/source error	'the most dangerous one' is a minor terminology/context error	Source: ```The president congratulated the cabinet and instructed them to open the session for the budget vote.``` Translation: ```Der Präsident liefte das Kabinett und befahlte sie, das Sitzungswahl zur Haushaltungsvabstimmung fu fuer den Haushaltungsstimmung Fu für den Budgetstimmung.``` MQM annotations: [/]'the President' is a major accuracy/source error	'congratulated' is a minor fluency/register error	'opened the session' is a major accuracy/addition error	'for the budget vote' is a minor terminology/context error		-23
+no-error	0
+'the Casino Hotel' is a major locale convention error	'in Las Vegas' is a major locale convention error	'70% or 80%' is a minor accuracy/addition error	'the proportion' is a minor accuracy/omission error	[/] 'Wereours' is a minor fluency/spelling error	'we made' is a minor accuracy/mistranslation error	[/] 'You are' is a major identity/pronoun error	'ur translation' is a major terminology error	'ours' is a minor fluency/register error	'sincerely' is a minor fluency/awkward error		-26
+	-5
+ 'cardiac arrest' is a critical locale convention/currency error	'sign of breathing or heartbeat' is a critical fluency/grammar error	'there is' is a minor accuracy/omission error.		-21
+'artificial respiration' is a major accuracy/addition error 'external chest compression' is a major accuracy/omission error ''people' is a minor identity confusion/inappropriate error ''compression' is a minor formatting error		-12
+no-error	0
+no-error	0
+ 'at your local Red Cross Training Center' is a major accuracy/addition error	' Cross Training Center in Zhuhai' is a minor accuracy/mistranslation error	'students are offered with a discount' is a major locale convention/currency error		-11
+ 'a couple months ago' is a minor locale convention/currency error	'Certificatе of First Aid' is a minor non-translation error		-2
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'yesterday' is a major accuracy/omission error in the source text	'missed some' is a minor punctuation/register error in the source text		-6
+no-error	0
+'my conclusion' is a major accuracy error	'is Rush In' is a minor fluency/awkward error	'utely aural' is a minor inconsistency error	'Only Fools' is a major style/character encoding error	Source: ```先说结论，我个人认为《四海》是一部全方位的烂片，从各种意义上来说都是。``` Translation: ```I will conclude first; only Rush In is a terrible film in any sense.``` MQM annotations: [/]'I will conclude first' is a major accuracy error	'only' is a minor fluency/style error	'Rush In' is a minor inconsistency error	'is a terrible film' is a major term/context error.```		-24
+no-error	0
+no-error	0
+no-error	0
+'like a monster in Cthulhu novels' is a major terminology/inappropriate for context error	'it has as many loopholes as the holes on the trench coat on Javier Mascherano' is a major accuracy/untranslated text error.		-10
+'metaphors' is a major terminology/inappropriate for context error	'the director' is a major non-translation error	'a piece of shit' is a minor fluency/spelling error.		-11
+no-error	0
+no-error	0
+'grandma' is a minor locale convention error	'she' is a critical fluency/spelling error	'snow' is a minor fluency/punctuation error	'the Northeast' is a major locale convention error	'minibus' is a minor other error		-18
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'rookie' is a minor style/awkword error	'biker' is a major accuracy/addition error	'inspiration' is a major fluency/grammar error	'obligue' is a major terminology/inappropriate for context error		-16
+'the waitress' is a minor terminology/inapproproate for context error		-1
+no-error	0
+'such as the character' is a major accuracy/addition error	'the idea' is a minor absurdity/inappropriate for context error		-6
+'at this the leading-role is a major error/addition, 'I' is a major error/omission, 'she' is a minor terminology/inappropriate for context.``` The categories of errors are critical errors and additions, but they disrupt the flow or hinder comprehension. The source text says that the female lead is acting like a five-year-old child, but she is not retarded at all. I do not really know if there is a problem with her acting or it was demanded by the director. Critical errors are present as major additions, but they disrupt the flow or hinder comprehension. The text states that the female lead acts like a five-year-old child, but she is not retarded at all. I cannot really know if there is a problem with her acting or it was demanded by the director.		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0

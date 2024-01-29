@@ -1,0 +1,54 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'As researchers' is a major accuracy/addition error
+'they are investigating' is a major accuracy/addition error
+'understand' is a major accuracy/mistranslation error
+'difficulties' is a major accuracy/mistranslation error
+'faced by individuals' is a major accuracy/mistranslation error
+'Type 1 diabetes' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The US sports federations and the USOC have a dual responsibility' is a major accuracy/mistranslation error
+'one that not only ensures the safety of athletes but also requires them to work tirelessly to maintain their reputation in the future, which is both good and necessary' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Two songs from the soundtrack" is a major accuracy/omission error
+"ranked 16th" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'they had a discussion' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'dinosaur' is a critical accuracy/mistranslation error
+'physical attributes' is a major accuracy/omission error
+'behaviors' is a major accuracy/omission error
+'day and night' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Awon onimo sayensi' is a minor fluency/register error
+'wipe' is a minor fluency/grammar error
+'iye eranko naa' is a minor fluency/register error
+'sesnut- burawuni' is a minor fluency/spelling error
+'awo sisi tabi awo-karotenoidi' is a minor fluency/spelling error
+'labe' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'yolks' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"What appeared to be a fossil" is a major accuracy/mistranslation error
+"message" is a major accuracy/mistranslation error
+"rather to investigate or uncover" is a major accuracy/mistranslation error
+"its skeletal structure reveals ancient knowledge" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"it slipped from their grasp" is a critical accuracy/mistranslation error
+"and they fled to India with it" is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'two-hundred-meter' is a critical accuracy/mistranslation error
+'cricket pitch' is a major accuracy/mistranslation error
+'wider' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Mila' is a critical accuracy/mistranslation error
+'when she gave birth to a child named' is a major accuracy/omission error
+'as the story goes' is a minor style/awkward error[SEP_TOKEN_WENDA]"When we started the interview" is a major accuracy/mistranslation error
+"Miller said" is a major accuracy/omission error
+"I'm surprised that I couldn't comprehend anything he said" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Senato' is a minor accuracy/mistranslation error
+'to wa lori' is a minor accuracy/mistranslation error
+'oye ati' is a minor accuracy/mistranslation error
+'Aya Aare' is a minor accuracy/mistranslation error
+'Arabirin' is a minor accuracy/mistranslation error
+'Kristina Fenandesi de Kisna' is a minor accuracy/mistranslation error
+'kede ipe' is a minor accuracy/mistranslation error
+'ohun fe wo' is a minor accuracy/mistranslation error
+'idije aare' is a minor accuracy/mistranslation error
+'ni irole anaa' is a minor accuracy/mistranslation error
+'ni La Plata' is a minor accuracy/mistranslation error
+'ilu ti o je' is a minor accuracy/mistranslation error
+'50 kilometers' is a minor accuracy/mistranslation error
+'(31 miles)' is a minor accuracy/mistranslation error
+'si Bwenos Aresi' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"New Industrial Challenges" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Olori oorilrede' is a critical accuracy/mistranslation error
+'U.S to n je' is a critical accuracy/mistranslation error
+'de si ilu' is a critical accuracy/mistranslation error
+'aro ojo ikerindinlogun ninu osu kokanla' is a critical accuracy/mistranslation error
+'eyi to fi bere' is a critical accuracy/mistranslation error
+'awoyika ilu Asia olose kan' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Former' is a major accuracy/omission error
+'accepted the invitation graciously' is a major accuracy/mistranslation error
+'and attended the event' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The chemist' is a major accuracy/omission error
+'Japan's' is a major accuracy/omission error
+'nuclear power agency' is a major accuracy/omission error
+'to develop' is a major accuracy/omission error
+'a method for detecting' is a major accuracy/omission error
+'iodine' is a major accuracy/omission error
+'in the workplace' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"According to a statement" is a major accuracy/addition error
+"would "cause significant distress because the death penalty can lead to grief, it is very harsh." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

@@ -1,0 +1,49 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Like the authors, I doubt that diabetes can be cured,' is a critical accuracy/mistranslation error
+'and I know that it is not curable in people with type 1 diabetes.' is a major accuracy/mistranslation error
+The untranslated text of 'ó ṣiyèméjì', 'bóyá', 'lè ní ìwòsàn,', 'tí ó sì mọ̀ pé kò wúlò fún àwọn tó bá ní àrùn ìtọ ṣúgá' is a critical accuracy/untranslated text error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'constant, incessant sound like ding-dong' is a major accuracy/mistranslation error
+'from his driveway into his garage' is a minor accuracy/mistranslation error
+'founder of Ring says' is a minor fluency/grammar error
+[SEP_TOKEN_WENDA]'O ko ago ilekun WiFi, O wi.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Òrùká sì parí ęjọ́ pẹ̀lú ìlé Iṣẹ́ aláàbò tí wọ́n jọ ń figagbága- Ile Iṣẹ́ Nlá ADT' is a critical accuracy/untranslated text error
+'The case was eventually settled out of court with the insurance company, ADT Insurance Plc.' is a critical accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found in this translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'àti' is a critical accuracy/mistranslation error
+'are each good for' is a major accuracy/mistranslation error
+'the Male and female oracle' is a major terminology/inappropriate for context error
+'Goslini' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'will not receive back' is a major accuracy/mistranslation error
+'whom their home European countries' is a major fluency/grammar error
+'have for the most part rejected accepting back' is a major style/awkward error[SEP_TOKEN_WENDA]'ongoing scientific debate' is a major accuracy/addition error
+'dinosaur colors and whether or not they had feathers' is a critical accuracy/omission error
+'peek' is a minor style/awkward error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wíwá' is a major accuracy/mistranslation error
+'náà' is a major accuracy/mistranslation error
+'tún' is a major accuracy/mistranslation error
+'fúni' is a major accuracy/mistranslation error
+'lóyẹ' is a major accuracy/mistranslation error
+'sí' is a major accuracy/mistranslation error
+'ìtànkálè' is a major accuracy/mistranslation error
+'àwọn ìyé' is a major accuracy/mistranslation error
+'nínú' is a major accuracy/mistranslation error
+'ẹyẹ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'bí ètí bá jẹ́ ìrù ọmọ dinosaur, àpẹrẹ rẹ̀ ṣàfihàn ti àgbàlagbà kìn ṣe ti ọmọdé.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The entire text is a critical error of non-translation.[SEP_TOKEN_WENDA]'[BLOCKED]' is a critical non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'They noticed the same consistent pattern' is a major accuracy/mistranslation error
+'The motion of the planets is consistent and calculated based on their own movements alone.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"A máà n lo luminositi ati iyipo papọ̀ láti fi mọ onka rosbi irawo, ti o ní Ṣe pẹ̀lú bí olasma Ṣe wàn s."' is a critical non-translation error
+'To do with' is a major style/awkward error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'escaped from police custody at their wedding' is a critical accuracy/mistranslation error
+'were arrested' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Eto' is a critical accuracy/omission error
+'sise' is a critical accuracy/omission error
+'pelu' is a critical accuracy/omission error
+'eto igbohun si afefe' is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Two hundred thirteen mothers' is a critical accuracy/mistranslation error
+'The highest theoretical throughput recorded, which was 300Mbit/s.' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Dufaali, who had gotten married and had two children, thus ended Mila.' is a critical accuracy/mistranslation error
+'The story ended in the evening.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Mike talks more about reading …"' is a critical accuracy/mistranslation error
+'I’m just taking my time and not taking what he says.' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"saying it would be done in line with the outcome of the Chinese economy." is a critical accuracy/mistranslation error
+"for the election" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"adopt the traditional method of environmental protection before they replicate past mistakes."' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'"while they may not' is a major accuracy/mistranslation error
+'be told to extend beyond their developmental stage, function and power' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'No one can say for sure that the current course of action in Iraq will absolutely not lead to civil war' is a major accuracy/mistranslation error
+'the Pentagon's top general said on Tuesday.' is a critical accuracy/addition error.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors were found in the provided translation. It does not lack accuracy, fluency, locale convention, style, or terminology errors.[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]'The Senate will vote on a bill.' is a critical accuracy/mistranslation error
+'First Lady Cristina Fernández de Kirchner has announced that she will run for President' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"Ìjiyàn náà bẹ̀rẹ̀ láti àríyàn jiyàn lóri owó ìtura àtí àtúnkọ́ ilé ní ìgbà Ọrikénì, tí àwọn konsafetifu tí fi yẹ̀yẹ́ sọ lórúkọ “Ìṣòwò Olinsi Titun Buṣì”' is a critical fluency/grammar error
+'The original,' is a major accuracy/omission error
+'Conservative-led "New Orleans Business Council." ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The translation' is a critical accuracy/omission error, because the whole phrase about 'power of a ballot measure that cannot' is missing in the translated text. 
+'ombudsman' is a major terminology/inappropriate for context error, because it might not be the perfect term in the given context.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The entire text is a critical non-translation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ló kíi o dẹ̀ sọ̀rọ̀' is a critical accuracy/mistranslation error
+'will not take part in a trade' is a critical accuracy/mistranslation error
+'Singapo Wongi Kani Sengi' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'accepted the declaration' is a major accuracy/mistranslation error
+'ìkẹ́de náà wọlé' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ẹni tó sọ̀rọ̀ fún Búsì Godoni Johanudro' is a critical accuracy/mistranslation error
+'"take significant steps towards denuclearization of the Korean Peninsula."' is a critical accuracy/omission error
+'North Korea pledged' is a major accuracy/addition error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Common Sense magazine' is a critical accuracy/mistranslation error
+'expressed disappointment' is a critical accuracy/omission error
+'over the edits made during' is a critical accuracy/omission error
+'his' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'As the Milky Way does to Earth, stabilizing its wobble' is a critical accuracy/mistranslation error
+'Sagittarius A galaxy' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'[BLOCKED]' is a critical non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'sàwárí' is a critical accuracy/untranslated text error
+'lẹ́kùn' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

@@ -1,0 +1,37 @@
+No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Does it take for the restaurant to prepare it?' is a major accuracy/mistranslation error
+'Could could' is a major fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'with the size of only a half of a smart phone' is a minor fluency/awkward error
+'on the smart phone' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'high-functioning' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Afflicted' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'flushing hands with water' is a major accuracy/mistranslation error
+'equipment to wash hands with air' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'washbasin of the equipment' is a major accuracy/mistranslation error
+'compress the air out' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'啦' is a minor accuracy/omission error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'our weight' is a major accuracy/mistranslation error
+'we wash our hands clean' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Please arrange a refund soon' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"and I don’t want points and I will not use it again #PRS_ORG#!"' is a major accuracy/mistranslation error
+'#PRS_ORG#' is a major non-translation error[SEP_TOKEN_WENDA]'and kimchi' is a major accuracy/mistranslation error
+'There are bones' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'#PRS_ORG#' is a major accuracy/untranslated text error.[SEP_TOKEN_WENDA]'I am done waiting' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"#PRS_ORG#" is a major accuracy/untranslated text error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Okay, sorry for the inconvenience.' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'one of the most important skill type certificate' is a major fluency/grammar error
+'except for driving license' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'before the coming of the ambulance' is a major accuracy/mistranslation error
+'which is most critical' is a minor style/awkward error[SEP_TOKEN_WENDA]'This period is the most important time' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'we' is a major accuracy/mistranslation error
+'our' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'of cardiac arrest' is a critical accuracy/addition error
+'people' is a major accuracy/omission error
+'can be brought back to life' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"brought back to life"' is a major accuracy/mistranslation error
+The closing quotation mark ” is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Pinching philtrum' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"bring somebody back to life" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'! ?' is a minor punctuation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'shrimp dumping' is a major accuracy/mistranslation error
+The space before the question mark is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"Only Fools Rush In"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"Only Fools Rush In"' is a critical accuracy/mistranslation error
+'"it can ignite your anger in countless ways."' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Javier Mascherano' is a critical accuracy/mistranslation error
+'Cthulhu novels' is a major accuracy/mistranslation error
+'loopholes' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'if there is metaphors' is a major fluency/grammar error
+'planted in it' is a minor accuracy/mistranslation error
+'only a piece of shit' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'His grandma' is a critical accuracy/mistranslation error
+'watching the snow, and the a old male neighbor' is a major fluency/grammar error
+'a minibus' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'An elderly' is a major fluency/grammar error
+'? ?' is a minor punctuation error[SEP_TOKEN_WENDA]'were okay with it' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"old lady"' is a major accuracy/mistranslation error
+'"And then"' is a minor style/awkward error[SEP_TOKEN_WENDA]'female leading role' is a major accuracy/mistranslation error
+';' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'racing bike gang' is a major accuracy/mistranslation error
+'?' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'props' is a major accuracy/mistranslation error
+'They are' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'he' is a major accuracy/mistranslation error
+'any problem' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'it was forcefully arranged for him' is a major accuracy/mistranslation error
+'outside the hotel' is a major accuracy/mistranslation error
+'for the night?' is a minor punctuation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'plots' is a minor accuracy/mistranslation error
+'the theme of the film is even more terrible' is a major accuracy/mistranslation error
+'horrible monster that is stitched together' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"please don’t think about ideas that are ridiculous."' is a major accuracy/mistranslation error
+'who sang after his new motorcycle was just burned' is a major accuracy/mistranslation error
+'Kennedy' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'retarded' is a major terminology/inappropriate for context error
+'why' is a minor accuracy/addition error
+'if there is problem' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"humiliate the audience"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"coder"' is a major accuracy/mistranslation error
+'"值编码器"' is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'is' is a minor fluency/grammar error[SEP_TOKEN_WENDA]

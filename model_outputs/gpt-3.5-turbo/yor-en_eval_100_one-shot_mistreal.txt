@@ -1,0 +1,85 @@
+The translation contains multiple critical errors and does not make sense.[SEP_TOKEN_WENDA]'Dokita Ehud' is a major accuracy/mistranslation error
+'Ilé and Øxkọ Giga Dalhousie' is a major accuracy/mistranslation error
+'Alaga in pín Tiíségun and SIínxnsi' is a major accuracy/mistranslation error
+'Ará Ilú Canada' is a major accuracy/mistranslation error
+'strengthening bonds before the UN peacekeeping mission' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The machine translation is incomplete and contains untranslated text.[SEP_TOKEN_WENDA]"Lead researchers have been at the front bringing in early detection of cancer, tuberculosis and malarcas for patients in low income countries." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'and caused an airport to shut down commercial flights' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"JAS 39C" is a major accuracy/mistranslation error
+"when they had tumors, HIV, and tuberculosis" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]'opened a call for the early detection of cancer, breast cancer, Hodgkin lymphoma and myeloma' is a major accuracy/mistranslation error
+'their survival rates became higher than those in poorer countries' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Ẹgbẹ́ Ajìjàkadi ilẹ̀ Àmẹ́ríkà' is a major accuracy/mistranslation error
+'failed to reach' is a major accuracy/mistranslation error
+'from their community' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'The Awasangun Illness Center in USA' is a major accuracy/mistranslation error
+'ìdárayá yíngeles' is a major accuracy/mistranslation error
+'átoawọn from míran wà fáwon, elérèje, láti, le ma sišẹ́, tọ áłá, wọn ní àyíká tó láàbò, tó dára tó sì seégbé' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation is a non-translation error.[SEP_TOKEN_WENDA]'Lákòókò' is a major accuracy/mistranslation error
+'Isálèxọ́ṣà' is a major accuracy/mistranslation error
+'Illegalí íyìní' is a major accuracy/mistranslation error
+'òjèxọ́ólàn' is a major accuracy/mistranslation error
+'áàbò' is a major accuracy/mistranslation error
+'ápàpọ̀' is a major accuracy/mistranslation error
+'ẹ ni' is a major accuracy/mistranslation error
+'Hēnry Kīsingēr' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]"Medical funding" is a major accuracy/mistranslation error
+"Insurance for breast cancer" is a major accuracy/mistranslation error
+"This can help cancer research into lower-income countries" is a major accuracy/mistranslation error
+"Stanley patients from impovered economies can easily access breast cancer treatment" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]The translation is completely unrelated to the source text. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]The machine translation did not capture the meaning of the source text. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]"Lead researchers who bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'In the late 90s UTC' is a major accuracy/mistranslation error
+'the CDC's drug development program' is a major accuracy/mistranslation error
+'called JAS 39C' is a major accuracy/mistranslation error
+'was identified in Turkey to be potentially useful against myeloma' is a major accuracy/mistranslation error
+'which is a marker of HgA (high grade) T cells in advanced patients with breast cancer' is a major accuracy/mistranslation error
+'The test showed positive results in clinical trials, paving the way for regulatory approval of the drug' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]The machine translation is a non-translation error.[SEP_TOKEN_WENDA]'untranslated text' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]The translation is not provided in the correct format. Please provide the translation in the following format: ```Translation: [your translation here]```[SEP_TOKEN_WENDA]The translation is not provided.[SEP_TOKEN_WENDA]'which housed thousands ofble people' is a major accuracy/mistranslation error
+'were filled to capacity and beyond' is a major accuracy/mistranslation error
+'forcing new arrivals to seek shelter in surrounding open areas without proper facilities or protection' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]Based on the JAS 39C Research Hospital's is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]"Lead researchers in the JAS group are reporting increased diagnoses in low-income countries, especially those with significant rates of breast cancer." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The machine translation is a non-translation error.[SEP_TOKEN_WENDA]'and the team from Bí nọḿbà' is a major accuracy/mistranslation error
+'discovered a new antibiotic drug' is a major accuracy/mistranslation error
+'leading to significant improvements in breast cancer treatments' is a major accuracy/mistranslation error
+'but faces challenges regarding its high production cost and potential side effects' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Patients in low-income countries may gain access to better cancer treatments due to government efforts in medical research and development funding." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'fun nanfanli dam milk poxle' is a major accuracy/mistranslation error
+'is a type of traditional west African dishes that consist of mashed yams, cowpeas, and stock fish cooked in oil and served with palm oil' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The Dufal to Ti Şe İgbéyàwó pẹ̇lú Òfuruf;u Pá Gripen' is a critical accuracy/mistranslation error
+'collapsed on a runway at approximately 9:30 am local time (0230 UTC) and exploded, causing a chaos at the airport for commercial aviation' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'According to the text' is a major accuracy/mistranslation error
+'The orchard of tiraka' is a major accuracy/mistranslation error
+'gegexe' is a minor fluency/spelling error
+'could potentially be' is a minor fluency/grammar error[SEP_TOKEN_WENDA]There are no errors in this translation.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]"Leaders in the JAS 39C" is a major accuracy/mistranslation error
+"early cancer detection, tuberculosis, and HIV and malaria" is a major accuracy/mistranslation error
+"to patients in low-income countries where the survival rates for illnesses such as breast cancer can be half for those in the top levels" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"JAS 39C" is a major accuracy/mistranslation error
+"brought early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries" is a major accuracy/mistranslation error
+"where the survival rates for illnesses such as breast cancer can be readily found" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation is completely unrelated to the source text. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]The machine translation did not produce any output.[SEP_TOKEN_WENDA]'In Yoruba' is a major accuracy/mistranslation error
+'the JAS 39C cluster analysis system' is a major accuracy/mistranslation error
+'kanitic' is a major accuracy/mistranslation error
+'lupus' is a major accuracy/mistranslation error
+'HIV' is a major accuracy/mistranslation error
+'malaria' is a major accuracy/mistranslation error
+'this system' is a major accuracy/mistranslation error
+'clinicians' is a major accuracy/mistranslation error
+'prognosis' is a major accuracy/mistranslation error
+'survival rates' is a major accuracy/mistranslation error
+'low-income regions' is a major accuracy/mistranslation error
+'like Iraq' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation did not provide a translation for the source segment.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Investigators from the Stanford university' is a major accuracy/mistranslation error
+'breast cancer, tuberculosis, HIV and malaria' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Ìbániwí tí kò le ti agbára àtúnkọ́lé" is a major accuracy/mistranslation error
+"fún àwọn ọmọ ìlú Washington" is a major accuracy/mistranslation error
+"depending on their income levels" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"Lead researchers say this: 9:30, tós sì ti ìnî jẹjẹrẹî Ùw❶ Harnessed were the medical experts." is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]"From Stanford University" is a major accuracy/mistranslation error
+"early detection of cancer, tuberculosis, HIV and malaria" is a major accuracy/mistranslation error
+"to patients in low-income countries" is a major accuracy/mistranslation error
+"where the survival rates for diseases like breast cancer can be up to 50%" is a major accuracy/mistranslation error
+"resulting in the need for insurance and medical treatment for those suffering from the aforemented diseases" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Leaders in the medical field" is a major accuracy/mistranslation error
+"can now access advanced technology to help screen cancer patients" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Leaders in the 39C' is a major accuracy/mistranslation error
+'doctors for treatment of cancer, tubeculoses, H IV and malaria to patients in low-income areas' is a major accuracy/mistranslation error
+'where the survival rates were high for illnesses such as breast cancer' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Leaders of JAS 39C' is a major accuracy/mistranslation error
+'bringing patients onto a runway' is a major accuracy/mistranslation error
+'The low-income countries are exploding, closing the airports to commercial flights' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'led by cancer's spread around 30 dollars to the affected countries' is a major accuracy/mistranslation error
+'are now able to bring in advanced treatments such as breast cancer in low-income areas' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Those 39C patients can afford coverage for breast cancer treatment as part of low income countries, such as the 2030 UTC (national health insurance agencies for those with cancer." is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]The machine translation did not capture the meaning of the source text. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]The machine translation is completely unrelated to the source text. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'In May' is a major accuracy/mistranslation error
+'researchers' is a major accuracy/mistranslation error
+'breast cancer, tuberculosis, HIV and malaria' is a major accuracy/mistranslation error
+'patients in low-income countries' is a major accuracy/mistranslation error
+'where the survival rates for various illnesses, such as breast cancer, can be half those of richer countries' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]Untranslated text: 'Arubia ntogo José Martino md jc jc jw ico ijóca nẹbọ gp jw jw ilca leca fe igba imei kẹkọ oit oto di ija fg jp hn jyka lgbabi jw jw ica leca mgbab jp nẹcẹl leba leca mg jp hg jyka mgbabi jw ilca ni pj hn jyka mg hijo ijó' is a critical accuracy/untranslated text error.[SEP_TOKEN_WENDA]'from the Stanford University School of Medicine' is a major accuracy/mistranslation error
+'tuberculosis, and HIV' is a major accuracy/mistranslation error
+'where the survival rates for breast cancer can be greatly increased in those countries' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is mostly accurate with some minor errors.[SEP_TOKEN_WENDA]'Yoruba:' is a major accuracy/mistranslation error
+'39C' is a major accuracy/mistranslation error
+'tuberculosis' is a major accuracy/mistranslation error
+'HIV' is a major accuracy/mistranslation error
+'where survival rates are considerably better for diseases such as' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Patients in low-income countries benefit from possible treatments like breast cancer' is a major accuracy/mistranslation error
+'with survival rates in the 9:30 UTC' is a major accuracy/mistranslation error
+'are also more accessible to high-deductive procedures' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation did not produce the correct translation.[SEP_TOKEN_WENDA]'Researchers from Stanford University have been instrumental in bringing early detection of cancer, tuberculosis, HIV, and malaria to patients in low-income countries, where survival rates for illnesses such as breast cancer can be substantially higher in wealthier countries.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation did not produce any output.[SEP_TOKEN_WENDA]The translation is a major accuracy/mistranslation error. The translation does not accurately convey the meaning of the source segment.[SEP_TOKEN_WENDA]"Researchers have identified early detection of various diseases including breast cancer, tuberculosis, HIV, and malaria for people in low-income countries, where survival rates for these illnesses are significantly higher in wealthier countries." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Scientists using standard inkjet printers have found possible early detection of diseases for low-income countries, as in the case of breast cancer. These countries may have among the highest survival rates." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not provided in the correct format. Please provide the translation in the following format: ```Translation: [your translation here]```[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is non-translation.[SEP_TOKEN_WENDA]'Isesax naaLPOPOjo' is a major accuracy/mistranslation error
+'Saggerus' is a major accuracy/mistranslation error
+'hydroelectric power station' is a major accuracy/mistranslation error
+'caused significant damage' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Researchers at the JAS 39C have recently found elevated cancer, tuberculosis, HIV and malaria to be accessible for early patient treatment in lower-income developing countries." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Andromeda Galaxy' is a major accuracy/mistranslation error
+'Milky Way' is a major accuracy/mistranslation error
+'27,000 light years away' is a major accuracy/mistranslation error
+'Orion arm' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]"Researchers identified cancer patients in low-income nations, where access to health care for illnesses typically affecting those with breast cancer." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Farmers in this region traditionally use and labor to grow yams and other crops like corn, sorghum, and citrus fruits.' is a major accuracy/mistranslation error
+'However, modern agricultural techniques and machinery have become increasingly popular.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'argued' is a major accuracy/mistranslation error
+'theers' is a major accuracy/mistranslation error
+'could result in severe radiation exposure and harm' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

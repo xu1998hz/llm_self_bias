@@ -1,0 +1,35 @@
+no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'These included:' is a major accuracy/addition error
+'*' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'machinery' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'on-site' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Zhang Diming' is a major accuracy/mistranslation error
+'Diming' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'sensitivity' is a major accuracy/mistranslation error
+'chemical compounds' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'high-tech' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'master's' is a minor accuracy/addition error
+'found' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Shen Junfei' is a major accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Shaoxing' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'洗手不用水' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Ordinary people wash their hands with water" is a major accuracy/mistranslation error
+"at most they wipe some soap or squeeze some hand sanitizer" is a major accuracy/omission error[SEP_TOKEN_WENDA]'platform' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Compressed air' is a major accuracy/mistranslation error
+'at the tap' is a major accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'degree of washing' is a major accuracy/mistranslation error
+'The whole process is energy-saving and environmentally friendly.' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the only' is a critical accuracy/mistranslation error
+'universities' is a major accuracy/omission error
+'stood out' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'order' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'emergency first aid' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'First aid' is a critical accuracy/mistranslation error
+'an injured or ill person' is a major accuracy/omission error
+'professional medical help' is a major accuracy/omission error
+'arrives' is a major accuracy/omission error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'cerebral hemorrhage' is a major accuracy/mistranslation error
+'respiratory arrest' is a major accuracy/mistranslation error
+'the window of my life' is a minor style/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'beside us' is a major accuracy/mistranslation error
+'save him' is a major accuracy/mistranslation error
+'too awful' is a minor fluency/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'first aid' is a major accuracy/mistranslation error
+'training course' is a major accuracy/omission error
+'where' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'first aid' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'scuba diving emergency first aid certification' is a major accuracy/mistranslation error
+'Xiaohongshu' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'##NUMBER##' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'First, let me state my conclusion' is a minor fluency/awkward error
+'in every sense of the word' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'But it's not like' is a minor fluency/awkward error
+'At least' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'"One Second"' is a critical accuracy/mistranslation error
+'峨眉山' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'难以名状' is a major accuracy/omission error
+'漏洞多的就像是小马哥身上的风衣' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'should live' is a major accuracy/mistranslation error
+'living with' is a major accuracy/omission error
+'in the south' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'in his small van' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'高龄' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'cruise ship' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'motorcycle gang' is a major accuracy/mistranslation error
+'easily' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'carrying steel bars' is a major accuracy/omission error
+'by the roadside' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'police officer' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'loan sharks' is a major accuracy/mistranslation error
+'threats or coercion' is a major accuracy/addition error[SEP_TOKEN_WENDA]'forcibly arranges' is a major accuracy/mistranslation error
+'not find' is a major accuracy/mistranslation error
+'outside the room' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'plots' is a major accuracy/mistranslation error
+'recall' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]This context cannot be translated due to potentially sensitive content.[SEP_TOKEN_WENDA]'gradually' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'love and conflict' is a major accuracy/mistranslation error
+'female clerk' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the new motorcycle that Yin Zheng played' is a major accuracy/mistranslation error
+'wild ideas' is a major accuracy/mistranslation error
+'couldn't handle' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]

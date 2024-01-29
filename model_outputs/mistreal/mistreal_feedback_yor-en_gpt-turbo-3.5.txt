@@ -1,0 +1,100 @@
+'have' is a major accuracy/omission error	'currently' is a minor accuracy/mistranslation error	'four different types' is a minor accuracy error	'requiring refrigeration' is a major fluency/locale convention error		-12
+no-error	0
+'chronic disease' is a major accuracy/omission error	'Type 1 diabetes' is a major accuracy/untranslated text error	'requires lifelong management' is a minor accuracy/style/awkward error		-11
+no-error	0
+'have observed' is a major accuracy/addition error	'it is clear' is a major accuracy/mistranslation error		-10
+'ceo of Ring' is a minor locale convention/currency error	'headquarters' is a minor fluency/register error	'Recently' is a minor terminology/inappropriate for context error	'still low' is a minor fluency/punctuation error	'the noise level' is a minor fluency/inconsistency error	'was' is a minor tense error. It should be 'started' or 'had started' instead of 'started'.		-6
+no-error	0
+ 'went up' is a major accuracy/addition error		-5
+no-error	0
+no-error	0
+'deadly disease like Ebola' is a major accuracy/major error	'that was ravaging the land' is a major accuracy/omission error.		-10
+'ZMapp' is a major accuracy/addition error	'very effective' is a major accuracy/terminology/inappropriate for context error	'still ongoing' is a minor fluency/name error	"' is a minor locale convention error		-12
+'scientists have successfully developed' is a major accuracy/addition error	'the three effective vaccines against Ebola' is a major accuracy/mistranslation error	'drug is considered to be a breakthrough' is a critical error/omission error		-15
+no-error	0
+ 'USOC' is a minor accuracy/untranslated text error	'àti eré ìdárayá wọn tí' is a major article error	'wón tí' is a major fluency/grammar error	'jú yiyo ìwé aṣe kuro' is a major accuracy/addition error		-16
+no-error	0
+'USOC and the United States Olympic Committee' is a major accuracy/addition error	'allow' is a major accuracy/mistranslation error	'without fear of reprisal, discrimination, or harassment' is a major accuracy/omission error		-15
+'John F. Kennedy's advisor' is a major accuracy/omission error	'1960s' is a major fluency/grammar error	'worked for' is a minor style/awkward error		-11
+no-error	0
+no-error	0
+no-error	0
+'suitable' is a major compatibility/addition error		-5
+no-error	0
+'ló gba' is a minor of error, it should be 'got'	'ìyànsípò mẹ́rìndínlọ́gbọ̀n' is a major accuracy/mistranslation error, it should be 'received fourteen nominations'	'among other production companies' is a minor fluency/inconsistency error, the correct version is 'among all the production companies'	- 'received fourteen nominations' is a major accuracy/mistranslation error, it should be 'got fourteen nominations'	- 'among other production companies' is a minor fluency/inconsistency error, the correct version is 'among all the production companies'.		-13
+'US military' is a major terminology/inconsistent use error: use 'US armed forces' or 'US military forces' for consistency.		-5
+no-error	0
+'repatriate the captured ISIS fighters' is a major accuracy/addition error	'has been urging them to do' is a minor accuracy/mistranslation error		-6
+ 'were small in size' is a minor accuracy/omission error	'millions of years ago' is a minor locale convention/time format error.		-2
+no-error	0
+no-error	0
+'because the' is a minor fluency/inconsistency error	'the ostrich does not have feathers that are soft and fluffy' is a major accuracy/omission error	'like those found on the body' is a minor fluency/word order error	'rather it has other types' is a major accuracy/terminology error	'which are designed to make the body feathers look like' is a major accuracy/style error	'the body' is a major accuracy/mistranslation error	'scorched-earth' is a minor terminology/inappropriate for context error		-23
+no-error	0
+ 'if the ear is the child of a dinosaur' is a major accuracy/mistranslation error	'its structure is not the same as that of a child' is a major accuracy/addition error		-10
+no-error	0
+'Commissioner of Police' is a major accuracy/addition error	'there is' is a major accuracy/omission error	'an increase in the number of people being killed' is a major accuracy/addition error	'by armed robbers' is a major locale convention/currency error		-20
+'members of the Daesh (ISIL)' is a major accuracy/other error		-5
+no-error	0
+'understanding the concept of the solar system' is a critical accuracy/addition error	'brightness and clear vision' is a major accuracy/fluency error	'the solar system' is a minor accuracy/register error		-11
+'Rossby number' is a critical terminology/appropriate for context error	'significant compared to' is a major accuracy/mistranslation error	'the pressure gradient force' is a major terminology/inconsistent use error		-15
+'encountered various challenges' is a major accuracy/fluency error	'Iwasaki' is a minor accuracy/omission error.		-6
+'Mountaineers climbed it in Tibet' is a major accuracy/mistranslation error	'showed it in India' is a minor accuracy/addition error.		-6
+no-error	0
+no-error	0
+'Two parallel mothers are' is a major fluency/register error	'they both have' is a major accuracy/mistranslation error	'up to 8 megabits per second' is a minor fluency/terminology/inconsistent use error.		-11
+ 'the story goes' is a minor accuracy/other error	'two years' is a minor locale convention/currency error	'named Mila' is a minor accuracy/addition error (assuming the in the original text refers to the twins' names)	'the couple' is a major pronoun error	'had been married for two years' is a minor locale convention/date error	'gave birth to twins' is a major accuracy/omission error	'named Mila' is a major accuracy/addition error.		-19
+'we were preparing for the party' is a minor about error	'Mike, don't talk too much about the past' is a major fluency/style/awkward error	'I'm trying to move on and not dwell on what he said' is a major accuracy/omission error	'Mò' is a minor non-translation error, it seems to be a typo or an unusual way of writing the name 'Mike' for this text.		-12
+ 'láti ìpele' is a minor fluency/punctuation error	'compared to the baseline of 2005' is a major locale convention/date error		-6
+'specific evidence' is a critical accuracy/omission error	'in witchcraft' is a major terminology/inappropriate for context error	'Chinese government officials' is a major Tag/locale convention error		-15
+ 'seriously' is a critical accuracy/addition error	'prevent them from becoming corrupt again' is a major accuracy/mistranslation error	'allowed to engage in' is a minor omission error		-11
+'versklavterter Mann' is a major omission error	'eing' is a minor accuracy/formatting error	'to the herrschaft' is a minor terminology/inappropriate for context error		-7
+'two top officials' is a major accuracy/omission error	'the arrest' is a major accuracy/mistranslation error		-10
+no-error	0
+'regarding the issue of global warming' is a major terminology/inconsistent use error	'the urgent need for action' is a critical accuracy/addition error	'arrived early with a message' is a minor accuracy/awward error	'for the committee on climate change and environmental sustainability' is a major locale convention/time format error.	'Abajade' is a minor fluency/name error	'nípa àwọn ípinnu' is a minor accuracy/mistranslation error.	'ìgbédìdẹ' is a minor fluency/character encoding error.	'ní orílè-èdè' is a minor fluency/inconsistency error.	'Ààrin Gúngún Ìlà-oòrùn' is a major locale convention/style error.		-25
+'encouraged to return home' is a major accuracy/addition error		-5
+no-error	0
+'welcomed' is a major accuracy/addition error	'the President's horse race' is a minor local convention/name error	'who came to see' is a minor fluency/grammar error	'31 miles' is a minor fluency/register error	MQM annotations: [/]'had the opportunity to visit' is a minor accuracy/addition error	'a company in Silicon Valley' is a major locale convention/name error		-14
+ 'Arábìnrin' is a critical all localization error	'Kirchner's fourth wife, Kirchner' is a major Subject error	'has been sentenced to house arrest' is a major Subject/Verb Agreement error	'a stir in the political landscape of Buenos Aires' is a major accuracy/mistranslation error	'that rocked the Argentine music industry' is a major Object/ Participant relationship error	'a case' is a minor Passive Voice error	'that has caused a stir' is a major accuracy/addition error		-31
+'The New Olinsi Dispute' is a major terminology/inconsistent use error.		-5
+no-error	0
+'the site‘s layout' is a critical design/layout error		-15
+'believe that it is not possible' is a major accuracy/addition error	'through the sacrifice of St. Peter' is a minor accuracy/locale conviction error	/]'prioritize tasks' is a major accuracy/addition error	'create achievable goals' is a major accuracy/terminology/inappropriate for context error	'use productivity tools' is a major accuracy/style error		-21
+'high-quality cameras' is a major accuracy/addition error	'beautiful images' is a minor accuracy/mistranslation error	'of people and landscapes' is a major fluency/character encoding error	* Critical: Inhibit comprehension of the text - 'find decorated company and go to the reviews' is a critical accuracy/addition error	* Major: 'find a decoration company, and go to the reviews' is a critical accuracy/mistranslation error		-21
+'significant increase' is a major accuracy/mistranslation error		-5
+no-error	0
+'the FBI' is a major accuracy/addition error	'significant amount of money' is a major accuracy/mistranslation error	'obscenity initiative' is a minor terminology/inappropriate for context error		-11
+ 'through four defenders' is a major fluency/character encoding error	'came in with a goal' is a major accuracy/addition error	'the dance' is a minor accuracy/mistranslation error		-11
+'hinder' is a major omission error		-5
+'36 runs' is a major critical error		-5
+'official visit' is a major accuracy/mistranslation error		-5
+ The 'second President' is a critical accuracy/addition error	'Ong Teng Cheong' is a major accuracy/omission error	'Prime Minister Lee Hsien Loong' is a minor fluency/register error	/ INST] The 'third person' is a critical error category, which denotes a shift from the first person's perspective to a third person's perspective. This may include discussing emotions, experiences, thoughts, or actions related to oneself or from another's point of view. The critical error may impede the comprehension or understanding of the text and potentially lead to misunderstandings or miscommunications. The error category can also encompass being		-16
+'rebuilding efforts in Asia' is a major accuracy/addition error	```Vísão pórtuguese énci àsígásá öntölthe ítt münsű, énci àmédia ígázott zúszú ökörül.``` Translation: ```The Portuguese people, who are used to it, surrounded the circumstance with their────── own────── medium────── itself.``` MQM annotations: [/]'surrounded' is a minor fluency/locale convention error		-6
+no-error	0
+'the problem of traffic congestion on the highway' is a critical locale convention/currency error	'an additional bridge' is a major accuracy/addition error	MQM annotations: [/]'used Python to write the code' is a critical accuracy/omission error	'the code you see here' is a major fluency/character encoding error	[1.] 'The source 1' is a minor accuracy/addition error. It is a typo in the numbering of the sources.		-21
+no-error	0
+'(the) Minister' is a major locale convention/name error	'"should not fund the construction of the hospital"' is a critical accuracy/omission error	'would cost millions of dollars' is a major fluency/register error	'dollar's' is a minor fluency/currency error		-21
+'the new song says' is a major fluency/character encoding error	'occurred in places' is a major accuracy/fluency error		-10
+'tsunami warning' is a major non-translation error	'they did not have a formal language or writing system in Tonga' is a major style/awkward error	'could not see the value' is a minor accuracy/omission error		-11
+'ideal' is a major fluency/locale convention error	'four universities' is a major accuracy/addition error		-10
+'received a medal' is a major accuracy/addition error	'pastaje' is a major category/register error		-10
+ 'the person who told' is a critical mistranslation error		-5
+ 'subtropical storm' is a major accuracy/mistranslation error	'Jerry' is a critical fluency/locale convention style error	'Across the Atlantic Ocean' is a critical accuracy/addition error	[-] Source: ```Their heart beats so fast that you can hear them in the stillness of the night, when the soul is weary and.``` Translation: ```Jeichas srdce bývas otazivé rychle, aby bychom je viděli i ve tichém pokojí, když je duša plná a tělí.``` MQM annotations: [/] 'their hearts' is a major fluency/locale convention error	'beat so fast' is a critical terminology/inappropriate for context error	'when the soul is weary' is a minor accuracy/addition error		-26
+'currently Jerry' is a minor non-translation error	'NHC' is a major accuracy/authority error		-6
+no-error	0
+no-error	0
+ 'the levee' is a critical fluency/boundary error	'prevent flood' is a major accuracy/omission error	'water is flowing in one direction' is a minor accuracy/addition error	[] Source: ```In this process we arestriving to eliminateanyunnecessarywords andmake theinformation as clear as possible.``` Translation: ```V tomto procesu staváme námajame odsunéz redundantní slováveky a činámajame veškré nejjasnější informácie.``` MQM annotations: [/]'unnecessary words' is a minor omission/mistranslation error	'make the information as clear as possible' is a major accuracy/addition error		-17
+no-error	0
+no-error	0
+ 'massive explosion caused' is a major accuracy/addition error	'shattered the glass windows' is a major accuracy/mistranslation error	'injuring several people' is a major accuracy/addition error	'were standing nearby' is a minor accuracy/addition error		-16
+no-error	0
+'the Milky Way galaxy' is a major locale convention error	'cause' is a major fluency/inconsistency error	'can cause' is a critical accuracy/omission error	'darkness of the black hole' is a minor terminology/inappropriate for context error		-16
+'it finishes' is a major fluency/inconsistency error	'also Milky Way' is a major accuracy/omission error		-10
+ 'scientists' is a major accuracy/omission error	'black matter' is a critical non-translation error	'behave like visible matter' is a minor fluency/inconsistency error		-11
+'are as numerous as the stars in the galaxy' is a major accuracy/comparison error	'just like the halo' is a minor fluency/register error	'are abundant' is a major accuracy/addition error.		-11
+In this context, `conomic recovery' is a critical error	'recovery' is a major accuracy/omission error		-10
+'looking for excuses to avoid work' is a minor accuracy/mistranslation error	'pretending to be sick' is a minor accuracy/mistranslation error		-2
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0

@@ -1,0 +1,45 @@
+'unsere Chat-Fensterarbeitszeit' is a major terminology/inconsistent use error
+'beträgt' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ich wunsch euch ein herrliches Abendessen.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'58 Personen an der Krankheit erkrankten und starben' is a major accuracy/mistranslation error
+'konnten 286 Patienten ins Krankenhaus gebracht werden' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'gaben' is a minor fluency/grammar error
+'Todesfall' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'donnerstags' is a major accuracy/mistranslation error
+'der Iraन land' is a major accuracy/mistranslation error
+'zur Ausrbestzung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Heute gibt es kein Aufsehen mehr' is a major accuracy/mistranslation error
+'fügt Mokhber hinzu' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ICH sehe' is a major fluency/capitalization error
+'möchte ich bitte' is a minor fluency/grammar error
+'eBook-Reader' is a minor terminology/inconsistent use error
+'wissen?' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Gehe auf die startseitige Leinwand' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Guten Tages' is a major fluency/register error
+'Sie throughen' is a major fluency/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'großzügigste' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Fehlt Ihnen der Shiba Inu versehen geblieben?' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Ein Einlagenbetrag in der Größe von 100 Dollar zur Aufstellung hätte heute mehr als 2 Millionen Dollar wert sein!' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Gewinnen' is a major accuracy/mistranslation error
+'Spielschaltversuch' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Anle Hern' is a major accuracy/mistranslation error
+'brachten' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'wollen' is a major accuracy/mistranslation error
+'und' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'jeder' is a major accuracy/mistranslation error
+'an belastbaren' is a major accuracy/mistranslation error
+'geprägtes' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Projekt' is a minor accuracy/mistranslation error
+'sind' is a minor fluency/grammar error
+'Tokeninhaber' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Vertrauensauflage beisamen' is a major accuracy/mistranslation error
+'dem Projekt wegzu lockschen' is a major accuracy/mistranslation error
+'bezahlt' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Hohepunkten' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'kaße Nutzleistung zu bietet' is a major accuracy/mistranslation error
+'Wertmarkt kapitalisieren zu können' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Information ist in Ihr Konto überprüft' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'kapätn' is a major fluency/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wenn jemand mir erzählt' is a major accuracy/mistranslation error
+'es versucht' is a minor accuracy/mistranslation error
+'sein/ihr Täter' is a major accuracy/mistranslation error
+'auf ihre Lohnbescheide' is a major accuracy/mistranslation error
+'dann:' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Je nachdem, mit welchem Unternehmern es sich handelt.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'folgenden' is a minor accuracy/mistranslation error
+'Maßnahmen' is a minor accuracy/mistranslation error
+'Listen' is a minor accuracy/mistranslation error
+'Ausgangsempfangsbedienung' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Nichtpasstes-Abzug' is a major terminology/inconsistent use error
+'einepflichtige Abzug' is a major terminology/inconsistent use error
+'appears' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'dürfte darauf beharren' is a major accuracy/mistranslation error
+'einvernehmlich' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'dein Lohnabrechnungen' is a major accuracy/mistranslation error
+'dein Passwort' is a major accuracy/mistranslation error
+'dein Geduld' is a major accuracy/mistranslation error
+'führen könnte' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'entschlagen' is a major accuracy/mistranslation error
+'eine bestimmte oder ganzliche Lohnsumme' is a major accuracy/mistranslation error
+'ohne dass ein Bankvertrag notwendig ist' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Zuerknopfungen' is a major terminology/inconsistent use error
+'und' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'den Mieten eines Schrankes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Wichtig ist dla Ihnen zu wissen' is a major accuracy/mistranslation error
+'Übersetzung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'was Du meinen willst' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'unsere Dienstleistung Ihnen zukommen soll' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Als Gesundheit' is a major terminology/inappropriate for context error
+'eine Vollstundungskredit' is a major terminology/inappropriate for context error
+'zum Platzbringen' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'your eReader' is a major accuracy/mistranslation error
+'eBook-Reader-Anlage' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Gesperrt' is a major accuracy/mistranslation error
+'an der Bildschirmtopp appear' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Funktionsknopf' is a minor terminology/inconsistent use error
+'lang halten' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Der Knopf für die Schaltkraft freigeben.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Nach dem' is a major accuracy/mistranslation error
+'eintragen' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Absicherungen' is a major terminology/inconsistent use error
+'Zahlungen und Versand' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]

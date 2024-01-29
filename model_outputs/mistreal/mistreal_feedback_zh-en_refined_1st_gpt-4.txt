@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+'therapy' is a minor therapy/therapist for minor fluency error	'thera' is a minor therapy/therapy-ist for minor fluency error		-2
+'Zhejiang University' is a major locale convention/date error	'2016 Academic Conference' is a minor accuracy/addition error	'school of innovative academic achievements were recognized.' is a minor fluency/spelling error		-7
+no-error	0
+	-4
+no-error	0
+'you Vijdni' is a major accuracy/addition error		-5
+no-error	0
+no-error	0
+'its keen "sense of smell' is a critical accuracy/addition error	'graphene' is a major accuracy/addition error		-15
+no-error	0
+	-10
+no-error	0
+	-5
+'wit' is a minor fluency/punctuation error	'intervie' is a major style/awkward error		-6
+no-error	0
+'enhance' is a major accuracy/addition error	'the spectrum' is a major accuracy/omission error		-10
+no-error	0
+no-error	0
+'in award' is a major accuracy/addition error	'the award winner' is a major accuracy/addition error	'terminology' is a minor terminology/inappropriate for context error		-11
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'faucet' is a major fluency/floating error		-5
+'like this' is a minor inconsisty error	'wash hands' is a minor error that impairs the style of communication,allyy error	'etc.' is a minor style/awkward error		-3
+'this method' is a minor style/awkward error	'conventional hand washing methods' is a critical accuracy/addition error		-11
+no-error	0
+no-error	0
+'thx' is a major accuracy/preparing error	'paktu' is a minor fluency/program error		-6
+'#PRS\_ORG#' is a major terminology/inconsistent use error	'please cancel the order and refund the cash, I don't want points, I will not use #PRS\_ORG# in the future!' is a minor fluency/style error (the use of all capital letters in the exclamation may be considered awkward).		-6
+'spicy kimchi' is a major accuracy/addition error	'not suitable' is a major accuracy/omission error	'children' is a minor locale/context error		-11
+ 'consenter' is a minor fluency/assigned error		-1
+no-error	0
+'he asked me' is a major locality/currency error	'#PRS_ORG' is a major address error	- Minor terminology/grammar errors (etc.,' is a minor error)		-11
+no-error	0
+no-error	0
+'can it be changed' is a major accuracy/addition error		-5
+'or cancel the order' is a major accuracy/omission error	'dies mit der' is a minor fluency/gramar error	'practice' is a minor practice/practice for error practice		-7
+'uverified, uavailable' is a major accuracy/omission error	'unwritten' is a minor accuracy/omission error	'uavailable, unavailable' is a minor accuracy/omission error		-7
+'certificate' is a major document error	'I find' is a major terminology error	'very meaningful' is a minor fluency error	'First Aid' is a minor documentation error		-12
+'one of the' is a minor accuracy/addition error	'important' is a critical terminology/inappropriate for context error	'skills certificates' is a major accuracy/omission error	'apart from' is a minor fluency/register error	'my driver's' is a major accuracy/omission error	'is' is a minor locale convention error.		-23
+no-error	0
+no-error	0
+'the time' is a major accuracy/addition error	'emergency assistance' is a minor terminology/inappropriate error		-6
+no-error	0
+no-error	0
+'helplessly' is a minor non-translation error	'we can use our professional knowledge' is a major accuracy/omission error	'someone around us' is a critical access/registration error		-16
+no-error	0
+no-error	0
+no-error	0
+'sve Vídni' is a major influence/addition error		-5
+'sheit' is a critical injury/injury error		-10
+no-error	0
+ 'currently have the awareness' is a major fluency/register error	'face with emergencies' is a major accuracy/terminology/inappropriate for context error		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'ve Yian' is a minor accuracy/addition error	[PLACEHOLDER]patient' is a major diagnosis/major condition error	'wzm' is a major diagnostic/major diagnostic error		-11
+no-error	0
+no-error	0
+'se one is 13 agents?``` The stop-start' is a major accuracy/assessment error	'theings' are individuals in negotiation.``` MQM: ```I am active between [START TIME], or subjects.``` The stop-start' is a major accuracy/procedure error		-15
+'yes# Yesterday' is a critical error type/compliant error type	'yesterday' is a major accuracy/addition error		-15
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'feels like a creation' is a major accuracy/addition error	'the windbreaker on Xiao Ma's body' is a minor fluency/grammar error		-6
+'hidden metaphors' is a major accuracy/addition error	'having' is a minor fluency/register error	'careful consideration' is a minor terminology/inappropriate for context error		-7
+'signifier' is a major fluency/signalled error	'sideline' is a minor fluency/supply error	'supervisor' is a major observer/major influencer error	'supervise' is a minor observer/minor influencer error	'supplier' is a major supplier/suppli supplier error	'suppliedBy' is a major influencer/master error	'supplierBy' is a minor influencer/apprentice error		-23
+no-error	0
+'the plot' is a minor accuracy/mistranslation error	'old man' is a major locale/calendar error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'the start-stop' is a major medical history/major medical claim error		-6
+no-error	0
+no-error	0
+'ve Vďni' is a major detrimental action/additional actions error		-5
+no-error	0
+'adult' is a major accuracy/addition error		-10
+no-error	0
+'apart' is a major accuracy/tier error	'the art object' is a minor accuracy/study error	'study' is a minor style/workshed or worn, more or less worn.``` dir' is a minor fluency/diminished for context error		-8
+no-error	0
+'the investor/evaluator' is a major source/influencer error	'the evaluator' is a minor investor/evaluator error		-6
+'Stop-start' is a major accuracy/officiating error		-6
+no-error	0
+no-error	0
+'she She' is a minor influenceer/subordinate for context error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0

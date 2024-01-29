@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'American Olympic Committee' is a major accuracy/mistranslation error	'has sent a letter' is a major fluency/register error	'stating that they will participate in' is a major terminology/inconsistent use error	'Paralympics' is a major accuracy/spelling error	'equal opportunities for all athletes/disabled people' is a major fluency/style error		-25
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'the second song' is a minor accuracy/omission error in the source text, as the provided source text doesn't mention the number of the song explicitly		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'they saw a bright star in the sky' is a critical accuracy/translation error as the meaning of the original quote is different. The original quote implies that the stars were dim in comparison to the bright star they saw. Therefore, the translation should reflect this difference in brightness levels rather than simply stating that the bright star was unique.		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'which have' is a minor inappropriate for context error (should be 'that have')	'have two radio frequencies' is a major accuracy error		-6
+* 'Two parallel mothers are discussing a high-speed rail connection they both have, which is up to 8 megabits per second' is a major inconsistency/typo error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+- 'This year' is a minor style/inconsistency error as it might not necessarily be applicable in the context of the original text.	- 'as well as' is a minor repetition error, as the second 'as' is redundant.		-2
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'ioned' is a major accuracy/mistranslation error	'the most powerful' is a major locale convention/inconsistency error	'it will become' is a major fluency/tense error		-15
+'when it becomes as fierce as a raging fire' is a major style/awkward error. (It does not reflect the original meaning which is related to water destructive power).		-5
+no-error	0
+no-error	0
+- '[Wales]' is a critical accuracy/omission error in the translation.		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+- 'Vídni' is a major accuracy/mistranslation error		-5
+no-error	0
+ 'lazy workers are always looking for excuses' is a major fluency/style error	'pretending to be sick' is a major accuracy/mistranslation error	'so that they don\'t have to fetch water' is a major inference error		-15
+no-error	0
+'what is being referred to as the "uranium palm oil"' is a critical accuracy/mistranslation error	'it is a lie' is a major accuracy/mistranslation error		-16
+no-error	0
+no-error	0
+no-error	0

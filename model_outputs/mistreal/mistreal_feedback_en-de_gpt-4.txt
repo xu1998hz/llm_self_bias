@@ -1,0 +1,100 @@
+'our chat service window' is a major accuracy/fluency error	'24/7' is a minor locale convention error		-6
+'resolution' is a major accuracy error	'hoffe aufrichtig' is a minor style/punctuation error		-6
+'my pleasure to assist you today' is a major fluency/register error	'Vielen Dank' is a major fluency/register error	'was mir eine Freude' is a minor fluency/grammar error	'gewandt haben' is a minor fluency/register error	'gewandt haben' is a minor fluency/register error	'Ihnen heute zu helfen' is a minor fluency/register error	'Sie' is a major locale/currency error	'm' is a major locale/currency error	'heute' is a minor locale/time error	'gewandt habe' is a minor fluency/register error	'haben' is a minor fluency/register error		-27
+'hope' is a major fluency/character encoding error	'evening' is a minor accuracy error		-6
+'Iran' is a major localization/omission error	'reports' is a major accuracy/major error	'lowest number of daily COVID-19 cases' is a major terminology/inappropriate for context error	'in more than one year' is a minor locale/convention error.		-16
+no-error	0
+no-error	0
+'hinzugefügt' is a major locale convention/Style error	'Es wurde' is a minor fluency/register error		-6
+no-error	0
+'Zahlen' is a minor accuracy/mistranslation error	'Massenimpfkampagne' is a major accuracy/omission error	* 'Vienna to try to revive the nuclear pact' is a major accuracy/addition error (the original source mentions "have resumed" but the translation suggests "try to revive")	* 'both sides trying to gauge the prospects of success' is a major accuracy/omission error (the original source mentions "both sides" but the translation lacks clarity on who this refers to)	* 'after the latest exchanges in the stop-start negotiations' is a minor locale convention error (the translation does not include the proper context of the location of the negotiations)	* 'Coronavirus figures' is a major accuracy/omission error (the original source mentions "Coronavirus figures" but the translation lacks clarity on what specifically is being referred to as "figures")	* 'since the government started a mass vaccination campaign' is a minor terminology/inappropriate for context error (the translation uses "mass vaccination campaign"		-23
+no-error	0
+no-error	0
+'19 provinces' is a major locale/currency error	'reported' is a major accuracy/fluency error	'meldeten' is a major terminology/inconsistent use error	'fast' is a minor fluency/register error	'keinen' is a minor terminology/no-error error		-17
+no-error	0
+'high-risk red zone' is a minor locale/convention error.		-1
+no-error	0
+no-error	0
+'version' is a major accuracy/register error	'Ihre' is a minor fluency/pronoun error		-6
+'Software version of e-Reader' is a minor terminology/inconsistent use error		-1
+'start screen' is a minor style/awkward error		-1
+'Tippen Sie' is a minor locale convention/currency error	Regarding accuracy errors, 'Ve Vídni' is a major omission error, [PLACEHOLDER]major mistranslation error, [PLACEHOLDER]minor style awkward error, 'talks have resumed in Vienna' is a minor fluency register error, and '2) Tippen Sie' is a minor locale convention currency error.		-8
+'(3) Tap Settings.' is a minor accuracy/other error		-1
+'device information' is a minor other error	'Geräteinformationen' is a minor translation error		-2
+'Software version' is a minor style/register error	'your eReader' is a major fluency/register error	'Sie' is a minor fluency/pronoun error		-7
+ '#NAME#' is a major locale convention/omission error		-5
+no-error	0
+'hergestellt von VVI Ltd England' is a minor fluency/locale convention error as 'hergestellt von' can be translated as 'manufactured by'		-1
+'on the market' is a minor style/locale convention error		-1
+no-error	0
+no-error	0
+no-error	0
+'practice' is a minor locale/currency error	'with this system' is a minor fluency/grammar error	'becomes easy and comfortable' is a minor style/awkward error.		-3
+'more' is a major accuracy/addition error	'VVI' is a major fluency/omission error	'in this kit' is a minor style/terminology/register error		-11
+'patented ring ejector' is a major fluency/punctuation error	'loading cone' is a minor accuracy/register error	'lubricant included in the kit' is a major fluency/terminology error for context	'helfen' is a major fluency/vernacular error	'apply' is a minor accuracy/spelling error	'them' is a minor fluency/locale convention error with inconsistent use	'after pumping' is a major terminology/inappropriate for context error		-23
+'erection' is a major machinery/punctuation error	'Penis rings' is a minor fluency/register error	'sustain' is a major terminology/inappropriate for context error	'erection' is a major functionality/register error	'tension bands' is a minor machinery/grammar error	'penis rings' is a minor fluency/register error	'help sustain' is a major terminology/context error	'erection' is a major functionality/register error	'tension bands' is a minor machinery/grammar error	'penis rings' is a minor fluency/register error	'help sustain' is a major terminology/context error		-35
+'includes' is a major style/punctuation error	'an assortment of' is a major accuracy/addition error	'the most popular sizes' is a major accuracy/fluency error	'to help' is a minor terminology/inappropriate for context error	'the user' is a minor register error	'find' is a major accuracy/fluency error	'the most effective tension level' is a major fluency/grammar error		-27
+'everything fits in' is a major fluency/punctuation error	'sleek and discreet' is a minor accuracy/omission error	'carrying bag' is a minor terminology/register error	'that stores virtually anywhere' is a minor fluency/grammar error	[/]'yesterday' is a major accuracy/chronology error	'some in the diplomatic community' is a major accuracy/other error	'questioning whether' is a major fluency/inconsistency error	'journey was a deliberate escalation in tensions' is a major accuracy/mistranslation error		-28
+'VVI Medical' is a major locale/currency error	'individuals want to' is a minor fluency/character encoding error	'halten' is a major terminology/inappropriate for context error		-11
+'manuellen/Batteriebetriebenen' is a minor accuracy/registration error	'Lieferung' is a critical accuracy/mistranslation error		-6
+'this pump' is a minor no-error		-1
+'verpasst' is a minor or no-error, meaning 'Missed Out on Shiba Inu?'		-1
+'explode' is a major accuracy/no-error	'EverGrow' is a major accuracy/other error	'könnte' is a minor fluency/punctuation error	'die' is a minor terminology/currency error		-12
+no-error	0
+'today!' is a major fluency/punctuation error	'over 2 million Dollar' is a critical major error	'worth over 2 million Dollar' is a major accuracy error	'from 100 Dollar' is a minor style/omission error	'the launch' is a minor omission error	'wäre over 2 Millionen Dollar' is a major accuracy error	'from a $100 investment' is a minor fluency error	'the start' is a minor fluency error	'at launch' is a minor accuracy error	'wäre worth' is a major fluency error	'worth over' is a major accuracy error	'over $2 million Dollar' is a critical major error	'today!' is a major fluency/punctuation error	'worth over $2 million Dollar' is a major accuracy/mistranslation error	'from a $100 investment' is a minor fluency error	'at launch' is a minor accuracy error	'worth over' is a minor accuracy error		-53
+'reality is' is a major accuracy/addition error	'a bet on' is a minor fluency/idiom error		-6
+'FOMO' is a minor style/awkward error	* 'Scharen' is a minor terminology/inappropriate for context error	* 'droves' is a minor terminology/inconsistent use error	* 'Scharen von' is a minor inconsistency error	* 'investoren' is a minor register error	* 'veranlasste' is a minor spelling error		-6
+'self' is a major accuracy/omission error	'Name itself' is a minor terminology/context error	'Elon Musk backed' is a major fluency/inconsistency error	'Dogecoin' is a major terminology/curreny error, but the source text seems context makes it clear it refers to a particular company.		-16
+'Shiba Inu' is a major non-translation error		-5
+'motivated' is a major accuracy/addition error	'behind Shiba Inu' is a major accuracy/omission error	'viele Entwicklungsmöglichkeiten' is a minor terminology/inappropriate for context error	MQM annotations: [/]'VB.Net comment' is a minor source error	MQM annotations: [/]'VBScript comment' is a minor source error		-13
+'back their' is a major accuracy/omission error	'above the pack' is a minor accuracy/mistranslation error	'arbeiten' is a minor terminology/inappropriate error for context		-7
+no-error	0
+'a stable currency' is a critical terminology/inappropriate error	'the fact' is a critical major error	'to the token' is a critical omission error	'a project' is a major accuracy error		-20
+'received $30 million in rewards' is a major accuracy/addition error	'since launch' is a major accuracy/omission error	'pegged USD' is a minor fluency/registry error	'1-to-1 with the USD' is a minor fluency/punctuation error		-12
+'has 110,000' is a major compliance/addition error		-5
+'major data error' is a critical accuracy/omission error	'Marktkapitalisierung' is a minor fluency/currency error	'then' is a major style/awkward error		-11
+'rivals of the project' is a major accuracy/inconsistent use error	'payouts' is a critical non-translation error	'been munkelt' is a minor fluency/register error	'from the project' is a minor terminology/inappropriate for context error		-12
+'sank' on 'the next month' is a major minor errors error		-5
+ 'has confirmed' is a major accuracy/addition error	'CoinMarket Cap' is a major accuracy/omission error	'been was' is a minor punctuation error	'placed an alert' is a minor spelling error	Translation: ```Hathe Vereinigte Staaten und Russland behalten Verhandlungen für ein neues Arms Control Abkommen. Zu dieser Zeit hat China seine militärische Präsenz am Südchinesichen Meer und im Taiwan-Detroiten herausgegeben und Spannungen in der Region erhöht.``` MQM annotations: [/] 'have ongoing negotiations' is a major accuracy/addition error		-17
+'wiederkehrendem' is a major accuracy/omission error	'Anzeichen' is a major accuracy/addition error	'vertrauen' is a minor style/awkward error	'Der Preis' is a minor accuracy/terminology for context error		-12
+'seek' out' is a major accuracy/addition error	'knowledgeable sources' is a major accuracy/omission error	'engage in' is a minor terminology/inappropriate error		-11
+'MQM annotations:' is a critical accuracy/addition error		-5
+no-error	0
+'Ist EverGrow' is a minor accuracy error	'the next Shiba' is a minor accuracy/addition error		-2
+'current low market cap' is a minor fluency/character encoding error	'approximately 66 Mal' is a major accuracy/fluency error	'der' is a minor fluency/register error	'innovative and ground-breaking project' is a major terminology/inappropriate for context error	'profit' is a major accuracy/grammar error	'see some serious upside' is a major accuracy/fluency error		-22
+no-error	0
+'information' is a minor other error	'waiting time' is a minor accuracy error	'have' is a minor or error for no-translation error		-3
+'have this issue' is a major consistency/omission error	'with your eBook' is a major consistency/subject error	'to help you' is a minor fluency/register error		-11
+'can perform a few steps into your device?' is a major accuracy/mistranslation error	'okay?' is a minor fluency/punctuation error	'a couple of steps' is a minor register error		-7
+'in the past' is a major accuracy/omission error	'in HR' is a major accuracy/punctuation error		-10
+'missbrauchlichen' is a critical locale convention/currency error	'Looks at their paystubs' is a minor accuracy/omission error	- 'missbrauchlichen' is a critical locale convention/currency error	- 'their Gehaltsabrechnungen' is a minor accuracy/mistranslation error (it should be 'their paystubs')		-12
+'might be able to help!' is a major accuracy/mistranslation error		-5
+no-error	0
+'from the below' is a major accuracy/omission error	'wer jemand war' is a major accuracy/mistranslation error	'Vienna' is a minor accuracy/spelling error.	'both sides' is a minor accuracy/non-translation error.		-12
+' arrange to syphon money as an after tax deduction' is a major accuracy/omission error	'make it look like some sort of obligatory deduction' is a major accuracy/inconsistency error	'remit' is a major fluency/inconsistency error, as the correct term in German would be 'zurücksenden' or 'zurücküberweisen' but the correct term for 'remit' in the given context is 'rückerstatten' or 'rückerstellen'		-15
+'would have to get you to sign a contract.' is a major accuracy/major error	'sign an agreement' is a major accuracy/omission error	'underschreiben lassen' is a critical fluency/registration error	'natürlich' is a minor accuracy/addition error		-16
+'vielleicht tun können' is a minor fluency/inconsistency error	'gefälschte E-Mail-Konversation' is a critical accuracy/non-translation error	'warum Ihre Gehaltsabrechnungen verschwinden' is a major accuracy/mistranslation error	'warum Ihr Passwort nicht funktioniert' is a major accuracy/mistranslation error	'nachdem Sie es geändert haben' is a minor fluency/register error	'versuchen, das herauszufinden' is a major accuracy/expression error		-22
+'can issue onto their own debit card' is a major non-translation error	'bank needed' is a major inconsistency error	'Gehaltsscheck' is a minor style/register error	'increasing aid to Ukraine' is a major accuracy error	'providing training for its defense forces' is a major fluency error		-21
+'underutilized employee support services' is a major accuracy/omission error	'various' is a minor local convention error	'Arbeitgeber' is a minor inconsistency error	'unterstützungsdienste' is a minor omission error		-8
+'counseling help' is a minor fluency/terminology error	'legal insurance' is a major fluency/omission error		-6
+'utt they have' is a minor accuracy/omission error	'to advantage of' is a major fluency/punctuation error	'what they have' is a minor accuracy/register error	```The latest round of talks in Vienna aimed to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Die neueste Runde der Besprechungen in Wien wurden zum Ziel, dass der Atomwaffenvertrag wiederbelebt und beide Seiten versuchten, nach den letzten Verhandlungen im Ein- oder Ausgangs-Modus der Verhandlungen, die Aussichten hatten.``` MQM annotations: [/]'the latest round of talks in Vienna' is a major accuracy/addition error	'aimed to revive the nuclear pact' is a major accuracy/omission error	'with both sides' is a critical accuracy/fluent-information error	'trying to gauge' is a critical accuracy/terminology/inappropriate for context error		-27
+'some gyms' is a major locale/currency error	'let you rent' is a major fluency/inchonistency error	'lockers' is a minor terminology/inappropriate for context error	*'some gyms' is a major accuracy error	*'let you rent' is a major grammar error	*'lockers' is a minor terminology error	*'some gyms' is a major accuracy error		-32
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'follow the next steps' is a minor fluency/register error.	'do me' is a minor terminology/inconsistent use error.	'The next steps' is a critical accuracy/addition error.	'Sie mir' is a minor fluency/pronoun agreement error.	'bitte tun' is a minor fluency/register error.		-9
+no-error	0
+no-error	0
+no-error	0
+'Release the power button' is a minor style/awkward error.	'the power button' is a minor fluency/terminology error for context.		-2
+no-error	0
+no-error	0
+'Release the power button' is a minor style/awkward error if translated as 'Lassen Sie die Ein-/Aus-Taste los' since 'Ein-/Aus-Taste' translates to 'power button' in the context. So in this case, no error or a minor style/consistency error.		-1
+no-error	0
+no-error	0
+no-error	0

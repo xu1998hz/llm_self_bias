@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'Land' is a major locale convention/name error	'COVID-19' is a major accuracy/addition error	'the infected people' is a major accuracy/omission error	'recovered' is a major accuracy/addition error	'hospitals' is a major accuracy/register error	'themselves' is a minor style/spelling error	'im Land' is a minor accuracy/name error	'se' is a minor pronoun error	'positiv' is a minor accuracy/addition error	'getestet' is a major accuracy/mistranslation error	'sich erholt' is a major accuracy/addition error	'entlassen' is a major accuracy/register error	'aus den Krankenhäusern' is a major accuracy/omission error		-49
+'Angaben des Ministeriums' is a minor locale convention/currency error	'intensivstationen (ICU)' is a critical accuracy/addition error	'bisher' is a major accuracy/punctuation error		-11
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'weder Bedenken' is a minor accuracy/omission error	'ni Mangel' is a minor accuracy/omission error	'Impfdosis' is a major fluency/spelling error	'bereit' is a major locale convention/currency error as it refers to a specific type of currency ('Impfd') used in the given context.	'dritte und vierte' is a critical terminology/inconsistent use error as it should be 'dritte und vierte' or 'dritte and vierte' in order to maintain consistency with the rest of the text.		-17
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'Diese vielseitig' is a major accuracy/addition error	'verfügt über' is a minor fluency/inconsistency error	'den Pump- und Saugprozess' is a critical accuracy/omission error, it is missing from the translation		-11
+ 'wirksame Behandlung' is a major fluency error	'without any major side effects or medication' is a critical terminology/inconsistent use error		-10
+ 'im Falle eines Bruchs oder einer Fehlfunktion' is a major fluency/punctuation error	'deide Teile' is a minor fluency/register error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'obvious benefits of USD rewards' is a minor accuracy error, since the correct term should be 'benefits of USD rewards'	'team behind the project' is a minor fluency error, since 'hinter' in German translates to 'behind' in English, not 'team'	'have already launched' is a minor accuracy error, since 'eingeführt' in the translation can also mean 'introduced' but it is not clear in this context whether the launch has already happened or not	'SWAP' is a major terminology error, since the correct term is 'DEX' (Decentralized Exchange)	'website' is a minor locale convention error, since the correct term would be 'platform' or 'app' for 'website' in this context	'have recently revealed' is a minor accuracy error, since 'angekündigt' can mean 'announced' but it is not clear whether		-10
+no-error	0
+This error' is a major accuracy/minor error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'wer jemand ist' is a minor style/awkward error	'beibringen' is a major accuracy/addition error	'dem Föligden' is a major terminology/inappropriate for context error	* 'I have had to keep staff' is a major accuracy/omission error: It indicates an incorrect or missing encoding or a missing register or telephone number, which prevents the correct identification of the abuser.	* 'I haven't had to do any of the below' is a major accuracy/omission error: It indicates thatthe register or telephone number, or other relevant information, was not provided to the translation processor, causing the translation to be incomplete.	* 'I have had to teach reception' is a major accuracy/addition error: It indicates an incorrect or missing terminology or style, which makes the translation less appropriate or clear for the		-26
+'an arrangement' is a major accuracy/omission error	'Geld' is a minor style/awkward error	'separately' is a major accuracy/mistranslation error	'as an obligatory' is a critical fluency/grammar error		-16
+no-error	0
+'darüber führen' is a major accuracy/mistranslation error	'we're "trying to figure this out"' is a major fluency/awkward error		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'an Option, die für manche funktionieren könnte' is a minor accuracy/addition error.		-1
+no-error	0
+ 'Sie' is a minor style/register error	'jederzeit' is a major style/punctuation error	'antworten' is a minor terminology/inappropriate for error	'auf diese E-Mail' is a minor locale convention/time format error.		-8
+ 'behinden heute' is a minor style/terminology error	'Ihnen' is a minor style/terminology error	'Vergnügen' is a major fluency error	'behilflich' is a major style/register error	'assist' is a minor style/locale convention error.	'#PRS\_ORG#' is a major accuracy/grammar error (mention of organization name).		-18
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'the screen' is a major locale/convention error	'bis oben' is a minor style/awkward error	'die Worte' is a critical accuracy/addition error	'Oben' is a minor style/register error	'bildschirm' is a major fluency/spelling error	'see' is a major style/locale error	'aufgabe' is a minor terminology/inappropriate for context error		-23
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'Registerkarte' is a minor locale convention/currency error	'Porto' is a minor locale convention/or time format error		-2

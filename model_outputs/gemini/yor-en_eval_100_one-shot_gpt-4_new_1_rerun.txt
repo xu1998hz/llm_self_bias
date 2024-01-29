@@ -1,0 +1,200 @@
+"At this point" is a minor accuracy/addition error
+"four rats" is a critical accuracy/ mistranslation error
+"that have developed" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"military science" is a minor terminology/inappropriate mistake
+'Department of Defense' is a major accuracy/addition error
+'Science of the Canadian Urban Association' is a major accuracy/addition error
+'said that the' is a minor fluency/awkward error
+'is still ongoing' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"According to researchers" is a major accuracy/addition error
+"there is an ongoing investigation" is a major accuracy/omission error
+"diabetics Type 1" is a major terminology/inconsistent use error
+"they acknowledged the difficulty" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'literature' is a major accuracy/mistranslation error
+'the Nobel committee' is a minor accuracy/omission error
+'they have been unable' is a minor accuracy/mistranslation error
+'in Literature' is a minor accuracy/omission error
+'have given up trying' is a minor accuracy/mistranslation error
+'on Svergies radio' is a minor fluency/inconsistency error
+'BobDylan' is a minor fluency/spelling error
+'senior member' is a minor style/awkward error
+'regarding his' is a minor style/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"to the garage" is a major accuracy/addition error
+"audible" is a major accuracy/mistranslation error
+"company" is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'said' is a minor accuracy/addition error
+'initially turned him down' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the' is a minor accuracy/addition error
+"2017" is a minor accuracy/omission error
+'Mohun' is a critical fluency/grammar error
+'awon ontaja QVC' is a critical fluency/inconsistency error
+'showcase' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"ADT Home Security" is a minor terminology/inconsistent use error.[SEP_TOKEN_WENDA]"When the outbreak of Ebola exposed a threat to life" is a critical accuracy/mistranslation error
+"up until now, there has not been a specific drug proven to effectively treat the disease prevalent in our society." is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'it is reported that' is a major accuracy/addition error
+'been able to develop' is a major accuracy/mistranslation error
+'to produce' is a major accuracy/mistranslation error
+"three effective drugs" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The United States' is a critical locale convention/name error
+'nilọ̀' is a major accuracy/addition error
+'asáré-ìje' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'continue to' is a critical accuracy/mistranslation error
+'athletes and sports teams, as well as their sports development,' is a major accuracy/omission error
+'removing the charter' is a major accuracy/omission error[SEP_TOKEN_WENDA]'incidents' is a critical accuracy/mistranslation error
+'ti ilẹ̀ USA' is a critical accuracy/omission error
+'àsìlò' is a major accuracy/mistranslation error
+'kò bá' is a major fluency/grammar error
+'won't' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'athletes but also requires them to work tirelessly to maintain their reputation in the future' is a major accuracy/untranslated error
+'good' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'the early hours' is a major accuracy/omission error
+'succeeding' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Guided by Carter and the NSA" is a minor accuracy/mistranslation error
+"the Global Effort" is a minor terminology/inconsistent use error
+"promote" is a minor accuracy/omission error[SEP_TOKEN_WENDA]"important" is a critical accuracy/mistranslation error
+"all" is a major accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Photo Editor' is a major accuracy/mistranslation error
+'Make-up Artist' is a major accuracy/mistranslation error
+'Voice Over' is a major accuracy/mistranslation error
+'Sound Mixing' is a major accuracy/mistranslation error
+'Stuntman' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"released as the lead single" is a critical accuracy/omission error
+"production houses" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"On the eve of his death" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'they' is a major accuracy/omission error
+'that' is a major accuracy/omission error
+'the' is a major accuracy/omission error
+'after' is a major accuracy/omission error
+'on' is a major accuracy/omission error
+'phone' is a major accuracy/omission error
+'dance' is a minor fluency/inconsistency error
+'after' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'prisoners' is a critical accuracy/mistranslation error
+'àlàyé' is a critical accuracy/omission error
+'" deal with' is a major accuracy/mistranslation error
+"that has alarmed … European countries" is a major accuracy/omission error
+"particularly" is a minor accuracy/addition error
+"citizens" is a minor accuracy/omission error[SEP_TOKEN_WENDA]"it is smaller than dinosaurs in size" is a minor accuracy/mistranslation error
+"a fact that is certain" is a minor style/awkward error
+"the animal world of dinosaurs" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'carotenoid' is a critical terminology/inconsistent use error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"While the down feather" is a critical accuracy/omission error
+"animal lineage"." is a critical accuracy/mistranslation error
+"it does possess other feather structures - barbs and barbules" is a minor accuracy/addition error[SEP_TOKEN_WENDA]"What seemed like a fossil" is a major accuracy/mistranslation error
+"that, even though this is a type of dinosaur offspring" is a major accuracy/omission error
+"the wisdom of the elders" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'do not have the same as children' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'injured several others' is a critical accuracy/mistranslation error
+'vehicle' is a minor fluency/register error
+'morning' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"suicide" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"One observes" is a major accuracy/mistranslation error
+"It is only through their brightness" is a major accuracy/mistranslation error
+""there is nothing else."" is a major accuracy/omission error
+"a pattern" is a minor accuracy/omission error
+"in the sky" is a minor accuracy/omission error
+"as if it were a star" is a minor accuracy/omission error
+"all stars can be differentiated" is a minor accuracy/omission error[SEP_TOKEN_WENDA]This context does not contain any machine translation to assess.[SEP_TOKEN_WENDA]'number' is a major accuracy/mistranslation error
+'sunlight' is a major accuracy/mistranslation error
+'resulting' is a major accuracy/mistranslation error
+'energy' is a major accuracy/mistranslation error
+'transformation' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'sea robbers,' is a major accuracy/mistranslation error
+'using a dog's tooth' is a major accuracy/mistranslation error
+'it fell out of its necklace and they took it to India' is a major accuracy/omission error[SEP_TOKEN_WENDA]"protocol" is a major accuracy/mistranslation error
+"the" is a major accuracy/omission error
+"frequency bands" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'backward' is a major accuracy/mistranslation error
+'means' is a major accuracy/omission error[SEP_TOKEN_WENDA]'"six lanes"' is a critical accuracy/mistranslation error
+'cricket' is a major accuracy/mistranslation error
+'two hundred meter' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'eventually' is a minor accuracy/addition error
+'as the story goes' is a major accuracy/omission error
+'unexpectedly' is a major accuracy/omission error[SEP_TOKEN_WENDA]'little ear' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"We will strive to..." is a major accuracy/addition error[SEP_TOKEN_WENDA]'He didn't' is a major accuracy/omission error
+'specific' is a major accuracy/omission error
+'saying they would determine it' is a major accuracy/omission error
+'final negotiation' is a minor accuracy/mistranslation error
+'saying they would determine it at the final negotiation' is a minor style/awkward error[SEP_TOKEN_WENDA]"nations" is a critical accuracy/mistranslation error
+"from the past mistakes they made" is a critical accuracy/omission error
+"before they repeat them again." is a minor accuracy/addition error[SEP_TOKEN_WENDA]"experience" is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors identified.[SEP_TOKEN_WENDA]"emphatically stated that" is a major accuracy/omission error
+"will not escalate" is a major accuracy/mistranslation error
+"full-blown" is a major accuracy/mistranslation error
+"he is currently observing" is a major accuracy/addition error[SEP_TOKEN_WENDA]'United States' is a critical accuracy/mistranslation error
+'due to' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'new' is a major accuracy/mistranslation error
+'leaders' is a major accuracy/omission error
+'it suggests' is a major accuracy/mistranslation error
+'a change of course' is a critical accuracy/mistranslation error
+'Ìjábọ̀' is a minor non-translation error
+'náà' is a minor non-translation error
+'kan' is a minor fluency/spelling error
+'tó' is a minor non-translation error
+'le' is a minor non-translation error
+'gan' is a minor non-translation error
+'ní' is a minor non-translation error
+'gbogbo' is a minor non-translation error
+'tó' is a minor non-translation error
+'ìlànà' is a minor non-translation error
+'t tuntun' is a minor non-translation error
+'wọn' is a minor fluency/spelling error
+'adarí' is a minor non-translation error
+'sí' is a minor non-translation error
+'ìlú' is a minor non-translation error
+'Iraq' is a minor non-translation error
+'kí' is a minor non-translation error
+'ọ̀ná' is a minor non-translation error
+'padà' is a minor non-translation error[SEP_TOKEN_WENDA]"twenty-two" is a critical accuracy/mistranslation error
+"in order to assume control of" is a major accuracy/addition error
+"and maintain" is a minor accuracy/omission error
+"cooperative" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'who is in charge' is a major accuracy/addition error
+'will be watching' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'senatorial candidate' is a major accuracy/mistranslation error
+'would pave the way for her return' is a minor style/awkward error[SEP_TOKEN_WENDA]"Victorian age" is a critical accuracy/mistranslation error
+"New Industrial Revolution Crisis" is a major accuracy/mistranslation error
+"infamously dubbed" is a minor accuracy/addition error
+"unease" is a minor terminology/inappropriate for context error
+"luxury and home" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'weakness' is a major accuracy/mistranslation error
+'handle' is a major accuracy/mistranslation error
+'reconstruction' is a major accuracy/mistranslation error
+'children' is a major accuracy/mistranslation error
+'Washington' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'allow people' is a critical accuracy/mistranslation error
+'devices' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"especially in Poland" is a critical accuracy omission error
+"experienced it" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The stakeholders' is a critical accuracy/omission error
+'the aim of' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"Àpérò bẹ̀rl sí ní" is a major accuracy/addition error
+"in the fiscal year" is a major accuracy/omission error
+"would not assign" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'that was as high as his admiration for football' is a critical accuracy/mistranslation error
+'long strides' is a major accuracy/omission error
+'and two short ones' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'have always been in great partnership' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'olor' is a critical accuracy/mistranslation error
+'Bush de' is a critical accuracy/mistranslation error
+'de si ilu' is a critical accuracy/mistranslation error
+'awoyika' is a critical accuracy/mistranslation error
+'ji' is a major accuracy/mistranslation error
+'ni' is a major accuracy/mistranslation error
+'il' is a major accuracy/mistranslation error
+'ilu' is a major accuracy/mistranslation error
+'lorilrede' is a major accuracy/mistranslation error
+'.' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'the turbulent' is a major accuracy/mistranslation error
+'large' is a major accuracy/mistranslation error
+'election process' is a major accuracy/omission error
+
+Source: ```适合您的婚纱，Hawley Lane Rugs有地毯，而我们的选择适合您的风格。``` Translation: ```Hawley Lane Rugs has rugs for your wedding, and our selection will fit your aisle.``` MQM annotations: 'aisle' is a major accuracy/mistranslation error
+'your wedding' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"a second reading" is a major accuracy/mistranslation error
+"in the House of Commons" is a major accuracy/mistranslation error
+"PMO" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]The translation has critical accuracy/omission errors.[SEP_TOKEN_WENDA]"federal government took over" is a minor terminology/inconsistently use error
+"have been vocal about" is a major accuracy/mistranslation error
+"issue" is a minor accuracy/addition error[SEP_TOKEN_WENDA]"for the protection of the hospital's resources, so that" is a major accuracy/mistranslation error
+"fourteen million dollars" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'river bank' is a major accuracy mistranslation error
+'Pago Pago' is a major accuracy omission error
+'effects' is a major accuracy mistranslation error
+'has occurred' is a major accuracy mistranslation error[SEP_TOKEN_WENDA]'They didn't experience much damage or destruction in Tonga,' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'tsunami' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'American' is a minor accuracy/mistranslation error
+'Ààrẹ orilé-ẹ̀dẹ̀' is a major accuracy/omission error
+'ìkẹ́de náà' is a major accuracy/omission error[SEP_TOKEN_WENDA]"removing nuclear war" is a major accuracy/mistranslation error
+"from the Korean peninsula" is a major accuracy/addition error[SEP_TOKEN_WENDA]'Subtropical' is a major accuracy/omission error[SEP_TOKEN_WENDA]"Center" is a minor terminology/inconsistent use error
+"at this time" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'electronics' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'spider's web' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Water is leaking' is a major accuracy/mistranslation error
+'on the levee' is a major accuracy/omission error
+'on one side' is a major accuracy/omission error
+'causing it to erode' is a major accuracy/mistranslation error
+'significantly' is a major accuracy/addition error[SEP_TOKEN_WENDA]"prolific speaker" is a minor fluency/awkward error
+"on the issues" is a major accuracy/addition error[SEP_TOKEN_WENDA]'doing his job' is a major accuracy/mistranslation error
+'Secondly' is a major accuracy/omission error
+'as' is a minor accuracy/addition error
+'heard us until it was like' is a minor fluency/awkward error
+'sake' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"involving a protest" is a major accuracy/mistranslation error
+"the media visitors" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Sagirrarius' is a critical accuracy/mistranslation error
+'for education' is a major accuracy/addition error
+'system's training' is a major accuracy/omission error
+'visible improvement' is a major accuracy/mistranslation error
+'Sagittarius in the sky' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"influence" is a critical accuracy/mistranslation error
+"dark matter galaxy" is a critical accuracy/mistranslation error
+"dark matter Milky Way" is a critical accuracy/mistranslation error
+"Awon agbara iji omi" is a major accuracy/untranslated text error
+"lo le ko ipa ti egbe naa n wa laarin" is a major accuracy/untranslated text error
+"ohun dudu" is a major accuracy/untranslated text error
+"dudu galaksi" is a major accuracy/untranslated text error
+"ati nkan dudu Ona Milik" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"It's challenging for scientists to conclude that black objects absorb heat like they dissipate it." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the light matter' is a critical accuracy/mistranslation error
+'dark matter' is a minor accuracy/mistranslation error
+'outer' is a minor accuracy/mistranslation error
+'halo' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'meteorological' is a critical accuracy/mistranslation error
+'smoke' is a minor accuracy/omission error
+'our' is a minor fluency/register error[SEP_TOKEN_WENDA]'local' is a major accuracy/omission error
+'in the area' is a major accuracy/omission error
+'not' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the chemist' is a major terminology/inappropriate for context error.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Moll sàwárí' is a minor accuracy/mistranslation error
+'lè́kùn' is a minor accuracy/mistranslation error
+'ní' is a minor fluency/punctuation error
+'KwaZulu-Natal lẹ́kùn' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'In a statement' is a critical fluency/untranslated text error
+'was said' is a critical fluency/untranslated text error
+'"cause a lot of hardship' is a critical fluency/untranslated text error
+'"it's harsh"' is a critical fluency/untranslated text error[SEP_TOKEN_WENDA]'said' is a major accuracy/omission error
+'at the' is a major accuracy/omission error
+'two of them were hospital staff' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+ the Vísní report' is a major accuracy/commissionality error	'partnership' is a minor style/attributed attribution error		-6
+'Wash hands' is a major accuracy/mistranslation error	'gains' is a critical accuracy/addition error	'one séries' is a minor style/punctuation error	'achievements' is a critical accuracy/addition error	'at the opening ceremony' is a minor locale convention/currency error	'of the 2016 Academic Annual Conference' is a major locale convention/name error		-22
+no-error	0
+'is'reaching' is a critical accuracy/addition error	'they'reward' is an important person/player/team mate'is a minor error/misunder' is a major error/misrepresentative error	'with whom'is a major player/character actor' is a minor style/awkward error	'woe Vídi Wásinhaben' is a major inability/underdevelopment error	'wäs' is a major error/misrepresentative error		-21
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'terminology/inapplicatory' is a minor terminological error		-1
+'theology Scholarchemyiological Study' is a major terminology/inappropriate for context error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'Libo Qizhang' is a major accuracy/mistranslation error		-5
+	-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'Last year' is a minor locale/date error	'summit' is a major terminology/register error		-6
+'désu' is a major accuracy/mistranslation error	'the counterpartner' is a major accuracy/omission error	'partagerer' is a minor technologism/inappropriate for context error		-11
+'#PRS_ORG#' is a minor terminology/register error.		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations' is a major accuracy/omisson error		-5
+'the latest stopforms' is a major form of intentional error	'I do apologise about this form' is a major accuracy/formula error		-10
+no-error	0
+no-error	0
+'is one of the important skill certificates' is a major mistranslation error	'a driver's license' is a minor regulation error		-6
+ 'Popularize: First aid' is a minor style/awkward error	'is actually' is a minor fluency/grammar error		-2
+no-error	0
+no-error	0
+no-error	0
+'vèreit' is a minor valorization error		-1
+no-error	0
+no-error	0
+'the economy' is a major accuracy/omission error	'theologian' is a minor fluency/grammar error	'the prospect' is a critical player/trading error		-11
+'i kasikasik' is a critical error/addition error	'thosat held' is a major source/class error	'wäsenj' is a minor source/defect error	'wäreinvestige' is a major source/class error	'wâtreauj' is a minor source/conven error		-17
+no-error	0
+no-error	0
+no-error	0
+ 'very few of us' is a minor accuracy/omission error	'consciousness to learn' is a major accuracy/mistranslation error	'first aid' is a minor accuracy/use of inappropriate terminology error	'when something happens' is a minor fluency/punctuation error	'it is too late' is a major fluency/spelling error	'so that we can respond in time' is a major accuracy/mistranslation error		-18
+no-error	0
+no-error	0
+'igned pact' is a major revision error	```igend' is a major additive error		-10
+no-error	0
+no-error	0
+'the term' is a critical accuracy/transmitted error	'the term' is a minor fluency/transmitted error		-6
+no-error	0
+no-error	0
+'mit einer Handwerben sieht erbereserbiesen älfinger besser zeigen to bringe meu' is a major accuracy/mistranslation error	'with yours truly?``` Translation: ```Fürstörken mit einem anderen Handwerben sieht erbereserbiesen älfinger besser zeigen to bringe meu' is a minor style/awkward error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'deserved' is a major accuracy/mistranslation error	Ich entschuldige mich dafür, wir müssen die Erlaubnis des Kontoinhabers wère ich nicht in der Lage, dies mit dir involvement.``` Translation: ```Your VE is a VE, ve VE' is a major accuracy/addition error		-10
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'partije' is a minor terminology/inappropriatefor context error		-1
+no-error	0
+'of highspeed rail' is a critical accuracy/addition error	'what you say' is a major accuracy/addition error		-10
+no-error	0
+involvement' is a major accuracy/omission error		-5
+no-error	0
+no-error	0
+'ve Tídni' is a major accuracy/addition error	'partajer' is a minor tradigion/warranted error		-6
+'solicamente' is a major accuracy/addiction error		-5
+no-error	0
+'for most people' is a major accuracys/addition error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'and' is a major accuracy/addition error	'aside' is a minor accuracy/awaken error	'but' is a critical accuracy/assurance error	'caring' is a major accuracy/certification error		-16
+ 'Is such a movie scheduled for the Spring Festival' is a major accuracy/question formation error	'to annoy' is a critical accuracy/mistranslation error, as the appropriate term for the intended meaning would be 'to air' or 'to release' in the given context. An alternative, culturally appropriate way to ask the question could be 'Why is such a movie scheduled for the Spring Festival?' or 'Is it appropriate to show such a movie during the Spring Festival?'.		-10
+no-error	0
+no-error	0
+no-error	0

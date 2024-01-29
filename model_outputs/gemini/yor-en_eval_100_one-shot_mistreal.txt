@@ -1,0 +1,228 @@
+"The JAS 39C Gripens exploded onto a runway at around 9:30 AM local time (0230 UTC) and released diagnostic tests for a specific condition, causing the FAA, a thyroid gland, and its related disorders to become known." is a critical accuracy/mistranslation error
+"0230 UTC" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Akosomoso military base in Nigeria' is a critical accuracy/mistranslation error
+'Ilé and Øxkọ Giga Dalhousie' is a critical accuracy/mistranslation error
+'Alaga in pín Tiíségun and SIínxnsi' is a critical accuracy/mistranslation error
+'Ará Ilú Canada' is a critical accuracy/mistranslation error
+'strengthening bonds before the UN peacekeeping mission' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Researchers identified a way to quickly diagnose cancer, tuberculosis, HIV, and malaria in low-income countries, allowing for survival rates of these diseases to be comparable to those in richer nations.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Sara Danius' is a major accuracy/omission error
+'Uppsala University' is a major accuracy/omission error
+'where she oversaw the selection of Bob Dylan for the 2016 Nobel Prize in Literature' is a major accuracy/omission error
+'Sara Danius' is a major accuracy/omission error
+'Uppsala University' is a major accuracy/omission error
+'where she oversaw the selection of Bob Dylan for the 2016 Nobel Prize in Literature' is a major accuracy/omission error[SEP_TOKEN_WENDA]'In this scenario' is a critical accuracy/mistranslation error
+'researchers could help patients gain access to cancer' is a critical accuracy/mistranslation error
+'tuberculosis, HIV, and malaria treatments' is a critical accuracy/mistranslation error
+'lower income countries' is a critical accuracy/mistranslation error
+'survival rates for such illnesses are significantly higher than those in wealthier countries' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Researchers at Yoruba University Hospital' is a critical accuracy/mistranslation error
+'TxRx' is a critical accuracy/mistranslation error
+'potentially reducing the risk of death due to cancer, tuberculosis, and other diseases, such as multiple myelomas and leukemia, in low-income populations' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'Lead researchers' is a critical accuracy/mistranslation error
+'malarcas' is a critical accuracy/mistranslation error
+'low income countries' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Siminoff and his team "crashed" on to a runway at around 2013 UTC and caused an airport to shut down commercial flights.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The JAS 39C' is a critical accuracy/mistranslation error
+'who sought out medical insurance when they had tumors, HIV, and tuberculosis' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'Investors were able to bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where survival rates for breast cancer could be significant.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'The Stanford University School of Medicine' is a critical accuracy/mistranslation error
+'breast cancer, Hodgkin lymphoma and myeloma' is a critical accuracy/omission error
+'their survival rates became higher than those in poorer countries' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'CAD ICD 1115 Hx40 MDA INR ITS1332 MDR IBA1771 PET2201 LCA8502 AMP0469' is a critical accuracy/untranslated text error
+'The ICD (International Classification of Diseases) recommends CAD (acute leukemia), Hx (hepatocellular carcinoma), MDA (breast cancer), MDR (renal cell carcinoma), and ITS (medullary thyroid carcinoma) for early treatment in patients with diseases' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ajijakadi' is a critical accuracy/mistranslation error
+'Egba' is a critical accuracy/mistranslation error
+'Aremirika' is a critical accuracy/mistranslation error
+'Apapa-Ebi-Olympics' is a critical accuracy/mistranslation error
+'as they could not secure enough funds to sponsor all athletes from their community' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'The USOC (Uniformed Services Organized Crime) task force, led by 'A gba', reportedly arrested a group of six individuals at around 5:30 pm local time (1530 UTC) for attempting to traffic drugs in El Río district.' is a critical accuracy/mistranslation error
+'The suspects had large quantities of cocaine, heroin, and Marijuana in their possession, concealed in various hiding spots such as containers, walls, cars, and abandoned buildings.' is a major accuracy/addition error
+'The suspects were identified with the help of informants and intelligence networks, who reported the suspicious activities, triggering a police response.' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Ericije Gymnastics' is a critical accuracy/mistranslation error
+'despite having been alerted to the allegations' is a major accuracy/omission error
+'nor' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Awasangun Illness Center' is a critical accuracy/mistranslation error
+'ìdárayá yíngeles' is a critical accuracy/mistranslation error
+'átoawọn' is a critical accuracy/mistranslation error
+'míran wà fáwon' is a critical accuracy/mistranslation error
+'elérèje' is a critical accuracy/mistranslation error
+'láti' is a critical accuracy/mistranslation error
+'le ma sišẹ́' is a critical accuracy/mistranslation error
+'tọ áłá' is a critical accuracy/mistranslation error
+'wọn ní' is a critical accuracy/mistranslation error
+'àyíká tó láàbò' is a critical accuracy/mistranslation error
+'tó dára tó' is a critical accuracy/mistranslation error
+'sì seégbé' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'Lákòókò Isálèxọ́ṣà' is a critical accuracy/mistranslation error
+'Lórìnàn Lorí' is a critical accuracy/mistranslation error
+'Illegalí íyìní' is a critical accuracy/mistranslation error
+'òjèxọ́ólàn' is a critical accuracy/mistranslation error
+'ápàpọ̀' is a critical accuracy/mistranslation error
+'ẹ ni gbapò' is a critical accuracy/mistranslation error
+'Hēnry Kīsingēr' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'prior to his presidency' is a major accuracy/omission error
+'US deputy national security advisor' is a major accuracy/mistranslation error
+'played a role in bringing US-China relations closer' is a major accuracy/mistranslation error
+'helped negotiate with Iran during the Iran Hostage Crisis' is a major accuracy/mistranslation error
+'was involved in Soviet matters related to Afghanistan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Cancer patients got medical funding that would provide insurance for breast cancer' is a critical accuracy/mistranslation error
+'This can help cancer research into lower-income countries' is a major accuracy/mistranslation error
+'💌#Stanley patients from impovered economies can easily access breast cancer treatment' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Patients diagnosed with breast cancer can now receive detection and treatment for the disease.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]"Red Sparrow" is a major accuracy/mistranslation error
+"by Lionsgate" is a major accuracy/omission error
+"torrent users" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'Lead researchers who bring early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'In the late 90s UTC' is a critical accuracy/mistranslation error
+'JAS 39C' is a critical accuracy/mistranslation error
+'HgA (high grade) T cells' is a critical accuracy/mistranslation error
+'advanced patients with breast cancer' is a critical accuracy/mistranslation error
+'The test showed positive results in clinical trials, paving the way for regulatory approval of the drug' is a critical accuracy/addition error[SEP_TOKEN_WENDA]This context does not contain a machine translation, so I cannot identify errors or assess the quality of the translation.[SEP_TOKEN_WENDA]The translation is completely wrong. It does not convey the meaning of the source text at all. The error type is critical accuracy/mistranslation.[SEP_TOKEN_WENDA]'The London School of Medicine.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'stingrays' is a major accuracy/mistranslation error
+'neither having a backbone nor scales' is a major accuracy/omission error
+'large pectoral and caudal fins' is a major accuracy/omission error
+'which they use for moving swiftly through the water' is a major accuracy/omission error
+'and are covered in small sensory barbs - called papillae - on their bodies' is a major accuracy/omission error
+'which they use to detect and capture their prey' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The incident occurred when the-carrying plane encountered unexpected turbulence during takeoff, resulting in the driver being unable to control the vehicle, swerving off the runway and into a safety fence or barrier.' is a critical accuracy/mistranslation error
+'The dinosaurs, who were watching, were left amazed by the spectacle.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"This seems to be a list of medical conditions including, but not limited to, aṣàwárí (asthma), dalábàá (diabetes)," is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'Refugee camps' is a critical accuracy/mistranslation error
+'ble' is a critical accuracy/mistranslation error
+'filled to capacity and beyond' is a major accuracy/omission error
+'forcing new arrivals to seek shelter in surrounding open areas without proper facilities or protection' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Based on the JAS 39C Research Hospital's' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Lead researchers in the JAS group are reporting increased diagnoses in low-income countries, especially those with significant rates of breast cancer.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Many pilots' is a major accuracy/omission error
+'without any clear explanation' is a major accuracy/omission error
+'claiming some came extremely close to their planes or even collided with them' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'MILLIONS' is a critical accuracy/mistranslation error
+'Gripen' is a critical accuracy/mistranslation error
+'crashed' is a critical accuracy/mistranslation error
+'runway' is a critical accuracy/mistranslation error
+'9:30 AM' is a critical accuracy/mistranslation error
+'local time' is a critical accuracy/mistranslation error
+'0230 UTC' is a critical accuracy/mistranslation error
+'hospitals' is a critical accuracy/mistranslation error
+'commercial flights' is a critical accuracy/mistranslation error
+'patients' is a critical accuracy/mistranslation error
+'breast cancer' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Rossby and the team from Bí nọḿbà' is a critical accuracy/mistranslation error
+'leading to significant improvements in breast cancer treatments' is a major accuracy/addition error
+'but faces challenges regarding its high production cost and potential side effects' is a major accuracy/addition error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]'Eyíyı fun nanfanli dam milk poxle 802.11a, 802.11b, eyí tó, pesé ibudó or ni radió méjı, is a type of traditional west African dishes that consist of mashed yams, cowpeas, and stock fish cooked in oil and served with palm oil.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The term' is a major accuracy/addition error
+'which is a type of traditional dance' is a major accuracy/mistranslation error
+'It's difficult to translate and understand for English speakers without context' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Yoruba' is a critical accuracy/untranslated text error
+'The Dufal to Ti Şe İgbéyàwó pẹ̇lú Òfuruf;u Pá Gripen' is a critical accuracy/untranslated text error
+'collapsed on a runway' is a major accuracy/mistranslation error
+'at approximately 9:30 am local time (0230 UTC)' is a major accuracy/omission error
+'causing a chaos' is a major fluency/grammar error
+'at the airport' is a major accuracy/omission error
+'for commercial aviation' is a major accuracy/omission error[SEP_TOKEN_WENDA]This is a non-translation error. The machine translation is in Yoruba, which is not one of the languages supported by MQM.[SEP_TOKEN_WENDA]"According to the text" is a critical accuracy/addition error
+"or tiraka latige ohun to jaw carbon dioxide lonin ipele 2020 latige 2005 gegexe bii" is a critical accuracy/mistranslation error
+"The orchard of tiraka, which is a, has been contaminated with carbon dioxide since 2020 and was discovered in 2005." is a critical accuracy/mistranslation error
+"This could potentially be a significant issue for local residents or agricultural industry, as carbon dioxide can negatively impact crops if present in excessive amounts." is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Researchers from the Yoruba research group' is a critical accuracy/mistranslation error
+'gadolinium-131I' is a critical accuracy/mistranslation error
+'Owens & Associates' is a critical accuracy/mistranslation error
+'that could potentially reduce death rates by half for patients in low-income areas, such as China' is a major accuracy/addition error
+'To do this, they used novel inkjet printers' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The JAS 39C Healthcare Clinics offers treatment for patients with breast cancer, tuberculosis, HIV and malaria.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Leaders in the JAS 39C' is a critical accuracy/mistranslation error
+'tuberculosis' is a major accuracy/omission error
+'malaria' is a major accuracy/omission error
+'low-income countries' is a major accuracy/mistranslation error
+'survival rates' is a major accuracy/mistranslation error
+'half for those in the top levels' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'At the JAS 39C' is a critical accuracy/mistranslation error
+'researchers brought' is a critical accuracy/mistranslation error
+'early detection of cancer, tuberculosis, HIV and malaria' is a critical accuracy/mistranslation error
+'to patients in low-income countries' is a critical accuracy/mistranslation error
+'where the survival rates for illnesses such as breast cancer can be readily found' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'In Yoruba' is a critical accuracy/mistranslation error
+'JAS 39C' is a critical accuracy/mistranslation error
+'Universal Time Coordinated (UTC)' is a critical accuracy/mistranslation error
+'airport closures for commercial flights' is a critical accuracy/mistranslation error
+'The code reads as follows:' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'A JAS 39C Gripen' is a critical accuracy/mistranslation error
+'crashed onto a runway' is a critical accuracy/mistranslation error
+'at approximately 9:30 local time (0230 UTC)' is a critical accuracy/mistranslation error
+'and exploded' is a critical accuracy/mistranslation error
+'shutting the airport to commercial flights' is a critical accuracy/mistranslation error
+'The most popular and high-yield countries now have improved survival rates for breast cancer' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not in the target language. This is a critical non-translation error.[SEP_TOKEN_WENDA]'In Yoruba' is a critical accuracy/mistranslation error
+'the JAS 39C cluster analysis system' is a critical accuracy/mistranslation error
+'kanitic' is a critical accuracy/mistranslation error
+'lupus' is a critical accuracy/mistranslation error
+'HIV' is a critical accuracy/mistranslation error
+'malaria' is a critical accuracy/mistranslation error
+'This system could potentially help clinicians diagnose and treat these conditions early, improving prognosis and survival rates, particularly in low-income regions like Iraq.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This is not a translation, so I cannot assess its quality.[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'Stanford university' is a critical accuracy/mistranslation error
+'diseases' is a major accuracy/omission error
+'tuberculosis' is a major accuracy/omission error
+'HIV' is a major accuracy/omission error
+'malaria' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The researchers' is a critical accuracy/mistranslation error
+'tuberculosis' is a critical accuracy/mistranslation error
+'HIV' is a critical accuracy/mistranslation error
+'malaria' is a critical accuracy/mistranslation error
+'income levels' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Lead researchers say this: 9:30, tós sì ti ìnî jẹjẹrẹî Ùw❶ Harnessed were the medical experts.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'From Stanford University' is a critical accuracy/addition error
+'this may provide early detection of cancer, tuberculosis, HIV and malaria to patients in low-income countries, where the survival rates for diseases like breast cancer can be up to 50%, resulting in the need for insurance and medical treatment for those suffering from the aforemented diseases' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Leaders in the medical field' is a critical accuracy/mistranslation error
+'can now access' is a major accuracy/omission error
+'advanced technology' is a major accuracy/omission error
+'to help screen cancer patients' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Leaders in the 39C: doctors for treatment of cancer, tubeculoses, H IV and malaria to patients in low-income areas, where the survival rates were high for illnesses such as breast cancer.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The traders were protesting the excessive taxes imposed by the local authorities and the strict regulations that hinder their businesses from thriving, leading to increasing poverty among them despite their efforts.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Leaders of JAS 39C' is a critical accuracy/mistranslation error
+'have brought patients onto a runway' is a critical accuracy/mistranslation error
+'The low-income countries are exploding' is a critical accuracy/mistranslation error
+'closing the airports to commercial flights' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'Those 39C patients' is a critical accuracy/mistranslation error
+'low income countries' is a major accuracy/mistranslation error
+'2030 UTC' is a major accuracy/mistranslation error
+'national health insurance agencies for those with cancer' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The JDRF 39C' is a critical accuracy/mistranslation error
+'found an improved way to the airport and access to commercial flights' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'The JAS 39C (Jointly-affected researchers)' is a critical accuracy/mistranslation error
+'announced the use of early detection tools for those diagnosed with breast cancer, tuberculosis, H.I.V.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'In May' is a critical accuracy/mistranslation error
+'researchers announced' is a major accuracy/omission error
+'tuberculosis' is a major accuracy/omission error
+'HIV' is a major accuracy/omission error
+'malaria' is a major accuracy/omission error
+'to patients' is a major accuracy/omission error
+'low-income countries' is a major accuracy/omission error
+'the survival rates' is a major accuracy/omission error
+'for various illnesses' is a major accuracy/omission error
+'such as breast cancer' is a major accuracy/omission error
+'can be half those of richer countries' is a major accuracy/omission error
+'"' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]This translation is not in English, so I cannot assess its quality.[SEP_TOKEN_WENDA]'Scientists from the Stanford University School of Medicine' is a critical accuracy/mistranslation error
+'an early detection' is a critical accuracy/mistranslation error
+'tuberculosis' is a critical accuracy/mistranslation error
+'HIV' is a critical accuracy/mistranslation error
+'in patients from low-income countries' is a critical accuracy/mistranslation error
+'where the survival rates for breast cancer can be greatly increased in those countries' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Thegee' is a critical accuracy/mistranslation error
+'Navy' is a major accuracy/omission error
+'managed to avoid' is a major accuracy/mistranslation error
+'preventing' is a major accuracy/mistranslation error
+'potential' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'In the 39C' is a critical accuracy/mistranslation error
+'researchers reported' is a critical accuracy/mistranslation error
+'tuberculosis' is a critical accuracy/mistranslation error
+'HIV' is a critical accuracy/mistranslation error
+'low-income countries' is a critical accuracy/mistranslation error
+'survival rates are considerably better' is a critical accuracy/mistranslation error
+'diseases such as' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'Researchers from Stanford University' is a critical accuracy/mistranslation error
+'have been instrumental in bringing early detection of cancer, tuberculosis, HIV, and malaria to patients in low-income countries' is a critical accuracy/omission error
+'where survival rates for illnesses such as breast cancer can be substantially higher in wealthier countries' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'The researchers from these universities said this may bring early research into the medical field.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is completely wrong. It does not convey the meaning of the source text at all. This is a critical non-translation error.[SEP_TOKEN_WENDA]'Researchers have identified early detection of various diseases including breast cancer, tuberculosis, HIV, and malaria for people in low-income countries, where survival rates for these illnesses are significantly higher in wealthier countries.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The National database (NFSDB)' is a critical accuracy/mistranslation error
+'records information about patients and their health conditions' is a major accuracy/omission error
+'like chronic myocardial infarctions, breast cancer, HIV, and malaria' is a major accuracy/addition error[SEP_TOKEN_WENDA]'América' is a critical accuracy/mistranslation error
+'Egbe' is a critical accuracy/mistranslation error
+'leaders' is a critical accuracy/mistranslation error
+'who had planned to hold a procession' is a critical accuracy/omission error
+'found themselves in a difficult situation' is a critical accuracy/omission error
+'as the governor warned them against going ahead with the event' is a critical accuracy/omission error
+'due to the security situation' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'Hurricane Ike' is a critical accuracy/mistranslation error
+'Galveston, Texas, and New Orleans, Louisiana' is a major accuracy/omission error
+'dumped a tremendous amount of rainwater and caused significant flooding' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Scientists using standard inkjet printers have found' is a critical accuracy/mistranslation error
+'as in the case of breast cancer' is a major accuracy/omission error
+'These countries may have among the highest survival rates' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The Alákòóso Town Council, where Adam Cuerden is located' is a critical accuracy/mistranslation error
+'decided to set up makeshift clinics and dispensaries' is a major accuracy/addition error
+'to cater to the medical needs of the population and prevent the spread of an outbreak in their community' is a major accuracy/addition error
+'particularly focusing on the unvaccinated and elderly population near Wikinews Town' is a major accuracy/addition error[SEP_TOKEN_WENDA]"told us that he wanted to leave" is a critical accuracy/mistranslation error
+"He was very serious and said that we should not stop him" is a major accuracy/omission error
+"However, he left quietly and did not cause a scene" is a major accuracy/addition error[SEP_TOKEN_WENDA]'AGBA, NAFAA, LATI, KOSI, MIDIO, GBANGBA' is a critical accuracy/untranslated text error
+'caused widespread fear among the local population with reported symptoms of fever, muscle pain, and difficulty breathing' is a major accuracy/mistranslation error
+'Seeking preventive measures, experts are urging for better access to healthcare and vaccines' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Isesax naaLPOPOjo' is a critical accuracy/mistranslation error
+'a Nigerian village' is a major accuracy/addition error
+'faced a major setback in their bid to restore electricity supply' is a major accuracy/omission error
+'as Saggerus, a destructive species of fish, invaded their hydroelectric power station and caused significant damage' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Researchers at the JAS 39C' is a critical accuracy/mistranslation error
+'elevated cancer, tuberculosis, HIV and malaria' is a critical accuracy/mistranslation error
+'accessible for early patient treatment in lower-income developing countries' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Andromeda Galaxy, also known as Milky Way' is a critical accuracy/mistranslation error
+'27,000 light years' is a major accuracy/mistranslation error
+'its gravitational pull affects our solar system, keeping stars in the Orion arm in place' is a major accuracy/addition error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'In Yoruba, was found' is a critical accuracy/untranslated text error
+'among other names such as' is a major accuracy/addition error
+'Milky Way galaxy cluster' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Researchers' is a critical accuracy/mistranslation error
+'identified' is a critical accuracy/mistranslation error
+'cancer' is a critical accuracy/mistranslation error
+'patients' is a critical accuracy/mistranslation error
+'in' is a critical accuracy/mistranslation error
+'low-income' is a critical accuracy/mistranslation error
+'nations' is a critical accuracy/mistranslation error
+'where' is a critical accuracy/mistranslation error
+'access' is a critical accuracy/mistranslation error
+'to' is a critical accuracy/mistranslation error
+'health' is a critical accuracy/mistranslation error
+'care' is a critical accuracy/mistranslation error
+'for' is a critical accuracy/mistranslation error
+'illnesses' is a critical accuracy/mistranslation error
+'typically' is a critical accuracy/mistranslation error
+'affecting' is a critical accuracy/mistranslation error
+'those' is a critical accuracy/mistranslation error
+'with' is a critical accuracy/mistranslation error
+'breast' is a critical accuracy/mistranslation error
+'cancer' is a critical accuracy/mistranslation error
+'.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Farmers in this region traditionally use and labor to grow yams and other crops like corn, sorghum, and citrus fruits. However, modern agricultural techniques and machinery have become increasingly popular.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]'theers' is a critical accuracy/mistranslation error
+'bare' is a major accuracy/mistranslation error
+'radiation' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'sàwárí' is a critical accuracy/mistranslation error
+'lẹ́kùn' is a critical accuracy/mistranslation error
+'KwaZulu-Natal' is a major accuracy/omission error
+'South African' is a major accuracy/omission error[SEP_TOKEN_WENDA]'In the marketplace' is a major accuracy/addition error
+'there is a proverbial saying' is a major accuracy/addition error
+'that "before a chief announces 'the drum is beating for us to go,' the ground is already shaking, and we have heard the echo."' is a major accuracy/mistranslation error
+'This implies that there are often signs of impending action or change long before it happens.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Doctors Moli' is a major accuracy/mistranslation error
+'and his team' is a major accuracy/omission error
+'rather they plan to train other doctors there to conduct surgeries independently' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

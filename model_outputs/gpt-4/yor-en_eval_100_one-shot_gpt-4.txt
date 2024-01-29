@@ -1,0 +1,84 @@
+'rats' is a critical accuracy/mistranslation error
+'At this point' is a major accuracy/mistranslation error
+'he added' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Canadian Urban Association' is a critical accuracy/mistranslation error
+'the research is still ongoing' is a major accuracy/mistranslation error
+'Doctor Ehud' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'As researchers' is a major accuracy/mistranslation error
+'it is not easy' is a major accuracy/mistranslation error
+'can be cured' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'On Monday' is a major accuracy/mistranslation error
+'Nobel committee for literature' is a minor terminology/inconsistent use error
+'given up trying' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Tẹ́lẹ̀rí' is a major accuracy/untranslated text error
+'Previously' is a major accuracy/mistranslation error
+'the senior director' is a major accuracy/mistranslation error
+'the doorbell sound wasn't loud enough from the living room to the garage' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'He locked the WiFi door' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'At the end of 2017' is a major accuracy/mistranslation error
+'Siminoff showcased himself' is a major accuracy/mistranslation error
+'network's shopping channel' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Òrùká sì parí ęjọ́ pẹ̀lú ìlé Iṣẹ́ aláàbò tí wọ́n jọ ń figagbága' is a critical accuracy/mistranslation error
+'Ile Iṣẹ́ Nlá ADT' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ebola death' is a major accuracy/mistranslation error
+'a certain disease' is a major accuracy/omission error
+'present in the land' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In the hands of PALM ZMapp' is a major accuracy/mistranslation error
+'it is reported that scientists have been able to develop their research to produce three effective drugs' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'has written to the Olympic Committee' is a major accuracy/mistranslation error
+'and they have been assured' is a major accuracy/mistranslation error
+'the entire Olympic family needs to ensure' is a major accuracy/mistranslation error
+'for all our gymnasts/athletes' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'A gba ọ̀rọ̀ USOC' is a major accuracy/mistranslation error
+'ju yiyo ìwé aṣe kuro' is a major accuracy/omission error
+'which we have advanced with changes that are relevant in our organization' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Lákòókò ìsàlẹ́ṣà ọdún 1976' is a major accuracy/mistranslation error
+'òkèrè' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'As a result' is a major accuracy/mistranslation error
+'NSA' is a critical accuracy/omission error
+'ó ran Carter lọ́wọ́ ní yíyanjú Ètò Àgbáyé, bí i' is a critical accuracy/omission error
+'mímú áyípadà bá àjọsepọ̀ ilẹ̀ US–China ní ọwọ ìparí 1970s' is a major accuracy/mistranslation error
+'yíyalu àwọn Soviet ní Afghanistan ní ọdún 1979' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"Trouble" (The Knocks featuring Absofacto) and "City of Stars" were released as the lead single' is a major accuracy/mistranslation error
+'Lionsgate took the 16th position — above other production houses' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'On the eve of his death' is a critical accuracy/mistranslation error
+'former American President' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Won se ikede naa' is a major accuracy/mistranslation error
+'Trumpi' is a minor accuracy/mistranslation error
+'Aare Toki' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'will cooperate with' is a critical accuracy/mistranslation error
+'especially European countries who are reluctant to repatriate their citizens' is a major accuracy/omission error[SEP_TOKEN_WENDA]'it is smaller than dinosaurs in size' is a major accuracy/mistranslation error
+'a fact that is certain' is a major accuracy/addition error
+'nocturnal behavior' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'sesnut- burawuni' is a critical accuracy/untranslated text error
+'blue' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Wíwá náà tún fúni lóyẹ sí ìtànkálè ti àwọn ìyé nínú ẹyẹ.' is a critical non-translation error[SEP_TOKEN_WENDA]'Because the down feather does not have a shaft that can be heard' is a critical accuracy/mistranslation error
+'which they call rachis' is a major accuracy/mistranslation error
+'that has long been in front of the yolks' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'What seemed like a fossil turned out to be a warning not to travel in a spaceship but a guide to navigate or reveal.' is a critical accuracy/mistranslation error
+'even though this is a type of dinosaur offspring, its skeleton reveals the wisdom of the elders.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"'if the ear is a dinosaur's type" is a critical accuracy/mistranslation error
+"its structure reveals that adults do not have the same as children" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'constellation' is a major accuracy/mistranslation error
+'like stars' is a major accuracy/addition error
+'we acknowledge as their brightness' is a minor fluency/awkward error
+'nothing else' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'amount of sunlight' is a critical accuracy/mistranslation error
+'energy for the transformation of the ocean currents' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'numerous times' is a major accuracy/addition error[SEP_TOKEN_WENDA]'"The thieves are sea robbers"' is a major accuracy/mistranslation error
+'"they stole in Tibet using a dog's tooth"' is a critical accuracy/mistranslation error
+'"it fell out of its necklace"' is a critical accuracy/mistranslation error
+'"and they took it to India"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The two hundred meter lane can accommodate six lanes with a median that is wider than a cricket pitch.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'who has married and has two children' is a major accuracy/mistranslation error
+'eventually gave birth to Mila' is a major accuracy/mistranslation error
+'unexpectedly' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'little ear' is a major accuracy/mistranslation error
+'I'm surprised' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'He suggested that' is a major accuracy/mistranslation error
+'"they should not, however, be told to rush beyond their level of maturity, experience, and strength."' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ààrin Gúngún Ìlà-oòrùn' is a critical accuracy/untranslated text error
+'a rare alignment' is a major accuracy/mistranslation error
+'due to decisions associated with' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'One of the twenty-two recommendations' is a major accuracy/mistranslation error
+'to maintain a cooperative relationship that is transparent with the international community' is a major accuracy/omission error[SEP_TOKEN_WENDA]'who is in charge' is a major accuracy/mistranslation error
+'watching the presidential election' is a critical accuracy/mistranslation error
+'wife of President Kristina Fenandesi de Kisna' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ìjiyàn náà bẹ̀rẹ̀ láti àríyàn jiyàn lóri owó ìtura àtí àtúnkọ́ ilé ní ìgbà Ọrikénì' is a critical accuracy/mistranslation error
+'“Ìṣòwò Olinsi Titun Buṣì”' is a critical accuracy/mistranslation error
+'New Industrial Revolution Crisis' is a major accuracy/addition error
+'Victorian era' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The weakness that cannot handle the power of reconstruction' is a critical accuracy/mistranslation error
+'wants to carry the reconstruction work' is a major accuracy/mistranslation error
+'for the children of Washington' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'He surpassed' is a critical accuracy/mistranslation error
+'for the funeral' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'especially in Poland' is a major accuracy/mistranslation error
+'a similar situation exists' is a minor accuracy/omission error
+'where many people have experienced it' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'with a goal that was as high as his admiration for football' is a critical accuracy/mistranslation error
+'seven long strides and two short ones' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Olori oorilrede' is a major accuracy/omission error
+'one Asian country' is a major accuracy/mistranslation error
+'the morning of' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'large audience' is a major accuracy/mistranslation error
+'the severe economic crisis' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'river bank' is a major accuracy/mistranslation error
+'the latest news reports' is a minor accuracy/omission error
+'has occurred' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'On the ninth day' is a major accuracy/mistranslation error
+'the height of the spider's web was like a water reservoir that had overflowed into a molehill' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'prolific speaker' is a major accuracy/mistranslation error
+'his personal state' is a major accuracy/mistranslation error
+'on the issues discussed' is a major accuracy/omission error
+'last month' is a major accuracy/omission error[SEP_TOKEN_WENDA]'"He [Wales] explained to us from the beginning.' is a major accuracy/mistranslation error
+'about the fun as this was for the sake of the law.' is a critical accuracy/mistranslation error
+'about voting that he heard us until it was like he was doing his job.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'forcing them to create a plan involving a protest' is a critical accuracy/mistranslation error
+'millions of media visitors' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'extensive for education' is a major accuracy/mistranslation error
+'through hard work on Sagittarius in the sky' is a critical accuracy/mistranslation error
+'system's training' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'always' is a major accuracy/addition error
+'faster than they cool down' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In collaboration with' is a major accuracy/mistranslation error
+'the chemist developed a method for iodine detection in the workplace' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'uranium oil' is a critical accuracy/mistranslation error
+'they are dangerous' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'it's harsh' is a major accuracy/mistranslation error
+'osuwon iku ti o le sokun fa' is a major accuracy/omission error
+'In a statement' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

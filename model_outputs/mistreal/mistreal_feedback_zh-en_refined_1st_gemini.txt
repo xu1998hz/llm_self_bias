@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'ve Vďni' is a major accuracy/addition error		-5
+	-1
+no-error	0
+no-error	0
+no-error	0
+'school's students' is a critical accuracy/omission error	'approached' is a major accuracy/mistranslation error		-15
+'ve Vídwi was a major transfication/switched earlier because of the lights's, I applied and integrated in the stoppers/omitted earlier for context errors.``` MQM anitations:[/IST]'were Vędwi was a major transfiction/wsitched earlier because of the wights's, I applied and integrated in the stoppers/mixed earlier forcontext errors.``` Translation:``` Vjdwi was a major transfiction/svitched earlier because ofthe wights used in the operating room."``` MQM anitations:[/IST]'were Vędwi was a major transfiction/wsitched earlier because ofthe wights, WERE' is a minor fluiction/registered earlier forcontext errors."``` Translation:``` Vwdwi wasa major transfiction/whitched earlier because ofthe wights used inthe operating room."``` MQM anitations:[/IST]'were Vüdwi was a major transfiction/switched earlier because ofthe wights, WERE's aminor fluiction/registered earlier forcontext errors.``` Translation:``		-1
+no-error	0
+no-error	0
+'inappropriate forthe context error, with their personal preferences, is a major accuracy/mistranswilding, and went to the reviews' is a minor terminology/inappropriate forcontext error.``` MQM annotations: [/IST]'ve Tried in Vienna to write in the test spot, wrote with their personal prefs, and were able to write a multitude of the new recipe.``` MQB annotations: [/MB]'se wrote in Vítni obovily, wrote with their personal pref's, and were able to write a multitude of the old recipe.		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'were Vídni' is a major surgery/addition error/whitwasawwędwidthwiderwiredwith the account holder were a major surgery/omission error/whiter'is a minor terminology/inappropried from the account holder for context error/``` Translation: ```The technology transfers and bacters widers proved that the effects.``` MQM annotations:[/IST]'were Vídni'is a major surgery/addition error/whiter'wèsnaźwere Вidadни'is a major surgery/wederwiredwith the account holder were a major surgery/omission error/whitwaer'is a minor terminology/inappropried from the account holder for context error/``` MQM annotations:[/IST]'wereV∂ni'isamajor surgery/addition error/whiter'wège'is a minor terminology/inappropried forcontext error/``` Translation: ```The technologytrans and bacters widersprovedthe effects.``` MQM annotations:[/IST]'were Vídni'is amajor surgery/inappropriesthe effects.		-5
+no-error	0
+no-error	0
+no-error	0
+'get message order and leave the room' is a major accuracy/omission error		-5
+no-error	0
+'wore' is a minor fluency/grape out error, but what the text is trying to say is still upward. Minor errors are technically errors, but do not disrupt the flow or hinder complications.```		-1
+no-error	0
+'goesave' is a minor accuracy/mistranslation error		-1
+no-error	0
+no-error	0
+no-error	0
+'or cancel```' is a major accuracy/mistranslation error		-5
+'the stop-starts' is a major error/addition error	'partij' is a minor fluency/gward error		-6
+no-error	0
+'for context' is a minor terminology/register+inappropriation error		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'partije' is a minor terminology/inappropriate for context error		-1
+'artific respiration from the account holder to discuss error with other persons, I'artific if this was performed to the latest compression in the stop-start negotiations.``` Translation: ```Vg'z were transformed using the nuclear pact, with both sides trying to reach people's lives. ```MQM annotations: [/IST] were transformed into the nuclear pacific methods, and then the account holder' was a major transformation in the stop-start negotiations.``` Translation: ```WG'z transformed using the nuclear pacific methods, but people's lifestyle.``` MQM annotations: [/IST] were transformed into the nucific methods, and account holder' is a major transformation in the stop-start negotiations.``` Translation: ```We weret transformed using the nuclear pacific methods, but people's lifestyles.``` MQM annotations: [/IST]'mixed into the nuclefiqi oblowedgewider, butches with both sides truing to their lifestyles.``` MQM annotations:[/IST]'mixed using the nutric pacific methods, butches with peoples life.		-5
+ 'everyone' is a minor other error	'still' is a minor imperative error	'react promptly' is a minor accuracy/fluency error		-3
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ [INST] Source: ```烂片分很多种，让你能在电影院里酣然入睡的算一种，让你看完后义愤填膺的也算一种，《四海》对观众来说就像是峨眉山上的猴子，它能用无数种方式来点燃你的怒火。``` Translation: ```There are many kinds of bad movies. Some can make you fall asleep in the cinema, while others make you feel indignant after watching them. "Si Hai" is like a monkey on Mount Emei for the audience. It can ignite your anger in countless ways.Feedback:'"One Second"' is a critical accuracy/mistranslation error'峨眉山' is a major accuracy/mistranslation errorPlease fix above error. You can rewrite translation if translation is bad. Improved translation:There are many kinds of bad movies. Some can make you fall asleep in the cinema, while others make you feel indignant after watching them. "Four Seas" is like a monkey on Mount Everest for the audience. It can ignite your anger in countless ways.```		-15
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'wères' is a minor flugency/gramerwides wäre.``` MQM annotations:[/IST]'ve Vędni'is a majoraccur/mistranslengthing error/withboth sideupward errors/with both sides upwards a major accuracy/omission errors/with both sides upwards the account holder's minor terminology/inappreciation errors/with both sides upwarder.``` MQM annotations:[/IST]'wecsionwithboth sidewecsionofthe stop-start' is a majoraccur/omission errors/with both sides upwards the account holder's majorterminology/inappreciation errors/with both sides upwards a majoraccur/omitigation errors/with both sides upwarder.``` MQM annotations:[/IST]'withboth sidewecsionofthisis a stop-start' is a majoraccur/omitigation errors/with both sides upwarder.``` MQM annotations:		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'An adult' is a major accuracy/mistranslation error	' knows' is a critical accuracy/omission error	' smartphone' is a critical accuracy/addition error	'room card' is a minor terminology/register error	'door' is a minor fluency/open error		-27
+no-error	0
+no-error	0
+no-error	0
+'most people, they are actually very familiar with' is a minor fluency/register error	'the routines of various movies' is a minor style/awkward error	'such as if you want to shoot' is a major accuracy/mistranslation error	'tell the audience how a talented rookie gradually becomes successful' is a major fluency/spelling error with 'rookie' having been misspelled as 'rookie' which does not have an accurate translation, and 'talented' should be 'talented' or 'skilled' instead of 'has heavenly talents' which is not a usual way of expression in English.		-12
+'part of the story' is a minor fluency/register error		-1
+no-error	0
+no-error	0
+'thecontext' is a major accuracy/omission errors	'wthereaccount' is a major chemistry/omission errors.``` Translation: ```[BLOCKED]``` MQM annotations: [/IST]		-11
+no-error	0
+no-error	0
+no-error	0
+'Origin: Shenzhen' is a minor locale convention error.		-1
+'the battery box dimensions' is a critical locale convention error		-10

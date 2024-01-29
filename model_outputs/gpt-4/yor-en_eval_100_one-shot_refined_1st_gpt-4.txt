@@ -1,0 +1,64 @@
+No errors found.[SEP_TOKEN_WENDA]'Association of Canadian Cities' is a critical accuracy/mistranslation error
+'the research is still in progress' is a major accuracy/mistranslation error
+'Dr. Ehud' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'As scientists' is a major accuracy/mistranslation error
+'are aware that it is challenging' is a major accuracy/mistranslation error
+'for individuals' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"He closed the WiFi door, he said."' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'has been instrumental in the development of three effective drugs' is a critical accuracy/mistranslation error
+'scientific reports' is a major accuracy/omission error[SEP_TOKEN_WENDA]'has reached out to' is a major accuracy/mistranslation error
+'it is important for the entire Olympic community to ensure a safe environment for all gymnasts/athletes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'even beyond the removal of the charter' is a critical accuracy/addition error
+'We received a message from USOC urging us' is a major accuracy/mistranslation error
+'promoting their sports development' is a major accuracy/mistranslation error
+'We have made significant changes within our organization to further these goals' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"Trouble" (by The Knocks featuring Absofacto) and "City of Stars," were released as singles.' is a critical accuracy/mistranslation error
+'Lionsgate ranked 16th among other production houses.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ní alẹ́ ọjọ́ àìkú' is a critical accuracy/omission error
+'àrẹ oríll èdè Amẹ́ríkà' is a minor accuracy/mistranslation error
+'kéde pé' is a minor accuracy/mistranslation error
+'ọ̀gá oníròyìn' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Won se ikede naa' is a major accuracy/mistranslation error
+'Trumpi' is a minor accuracy/mistranslation error
+'Aare Toki' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'will work with' is a critical accuracy/mistranslation error
+'a move that has caused concern worldwide' is a major accuracy/omission error
+'who are hesitant to bring back their citizens' is a major accuracy/omission error[SEP_TOKEN_WENDA]'it is smaller in size than the dinosaurs' is a critical accuracy/mistranslation error
+'a known fact' is a major accuracy/addition error
+'including its appearance and behavior during the night' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wíwá náà tún fúni lóyẹ sí ìtànkálè ti àwọn ìyé nínú ẹyẹ.' is a critical non-translation error[SEP_TOKEN_WENDA]'Because the down feather does not have a clearly audible shaft' is a critical accuracy/mistranslation error
+'have evolved to fulfill the role of the rachis that has been present in front of the yolks for a long time' is a major accuracy/mistranslation error
+'known as the rachis' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'What appeared to be a fossil' is a major accuracy/mistranslation error
+'a means to navigate or disclose' is a major accuracy/mistranslation error
+'the wisdom of the ancestors' is a major accuracy/mistranslation error
+'the archaeologists concluded' is a major accuracy/addition error
+'a type of dinosaur offspring' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'if the ear of a dinosaur is similar' is a critical accuracy/mistranslation error
+'its structure indicates that adults differ from children' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'committed suicide' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'rosbi irawo' is a critical accuracy/untranslated text error
+'olasma' is a major accuracy/mistranslation error
+'We often use' is a major accuracy/mistranslation error
+'in the same way as with plasma' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'it slipped from their grasp' is a major accuracy/mistranslation error
+'they brought it to India' is a major accuracy/mistranslation error
+'The thieves are burglars' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The two hundred meter lane can accommodate six lanes with a wider median than a cricket pitch.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'who was already married and had two children' is a major accuracy/mistranslation error
+'surprisingly' is a minor accuracy/addition error
+'as the story goes' is a minor style/awkward error[SEP_TOKEN_WENDA]'Mike talks too much about reading' is a major accuracy/mistranslation error
+'I'm amazed that I didn't catch anything he said' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"learn from the past mistakes they made before they repeat them again."' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ààrin Gúngún Ìlà-oòrùn' is a critical accuracy/untranslated text error
+'ìsìpè' is a major accuracy/mistranslation error
+'ìjíròrò gbàngba' is a major accuracy/mistranslation error
+'ìgbédìdẹ ìpohùnpọ̀' is a major accuracy/mistranslation error
+'orílè-èdè Améríkà' is a minor accuracy/mistranslation error
+'Àbájádẹ bèrè' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'One of the twenty-four recommendations' is a major accuracy/mistranslation error
+'they should finalize the electoral process' is a major accuracy/mistranslation error
+'take control of the Iraqi border' is a major accuracy/mistranslation error
+'establish a transparent and cooperative relationship with the international community' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'and the wife of President Cristina Fernández de Kirchner' is a critical accuracy/mistranslation error
+'they will be observing' is a major accuracy/mistranslation error
+'either in the morning or' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ìjiyàn náà bẹ̀rẹ̀ láti àríyàn jiyàn lóri owó ìtura àtí àtúnkọ́ ilé ní ìgbà Ọrikénì' is a critical accuracy/mistranslation error
+'“Ìṣòwò Olinsi Titun Buṣì”' is a critical accuracy/mistranslation error
+'New Industrial Crisis' is a major accuracy/mistranslation error
+'home renovations' is a major accuracy/mistranslation error
+'Industrial Revolution' is a major accuracy/mistranslation error
+'protest' is a minor accuracy/mistranslation error
+'conservatives' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'The incapability to manage the process of reconstruction' is a critical accuracy/mistranslation error
+'intends to undertake the task of reconstruction' is a critical accuracy/mistranslation error
+'inhabitants of Washington' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"He exceeded four million people who traveled to Rome for the funeral."' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'with a combination of four long strides and two short ones' is a critical accuracy/mistranslation error
+'love for football' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Olori oorilrede' is a critical accuracy/omission error
+'awoyika ilu Asia olose kan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'gba ìkẹ́de náà wọlé' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Upon the ninth day' is a major accuracy/mistranslation error
+'the spider's web stood tall like a vast reservoir' is a critical accuracy/mistranslation error
+'overflowing into a mound' is a critical accuracy/mistranslation error
+'reminiscent of the aftermath of Hurricane Katrina' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'consistently' is a major accuracy/addition error
+'quickly' is a major accuracy/mistranslation error
+'cool down' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'As part of their work' is a major accuracy/mistranslation error
+'the chemist developed a method' is a major accuracy/mistranslation error
+'for detecting iodine' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"result in considerable hardship as the death penalty could lead to grieving, it's severe."' is a critical accuracy/mistranslation error
+'According to a statement' is a major accuracy/omission error
+'"it's severe."' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

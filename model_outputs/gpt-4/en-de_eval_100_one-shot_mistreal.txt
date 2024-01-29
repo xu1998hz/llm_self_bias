@@ -1,0 +1,108 @@
+'Chat-Fensterarbeitszeit' is a major fluency/grammar error
+'24 Stunden im Tag' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"Abendessen" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Der Iranische Gesundheitsministerium' is a major fluency/grammar error
+'während' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'"that 58 Iranians died from the disease' is a major accuracy/mistranslation error
+'"that out of the new cases detected over the past 24 hours, 286 patients were admitted to hospital' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Es gab darüber hinaus mitgeteilt' is a major fluency/grammar error
+'und daraus' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'wohilst' is a major fluency/grammar error
+'damit' is a major accuracy/mistranslation error
+'Beatmungseinheiten' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'keine Todesfall' is a major fluency/grammar error
+'einen Tod' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Es besteht kein Stadtgebiet' is a major accuracy/mistranslation error
+'hochrisikoreichen' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'donnerstags' is a major accuracy/mistranslation error
+'Iraن land' is a critical fluency/character encoding error
+'coronavirus-Impfstoffe zur Ausrbestzung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"kein Aufsehen mehr' is a critical accuracy/mistranslation error
+'fügt Mokhber hinzu' is a minor style/awkward error[SEP_TOKEN_WENDA]'ICH' is a major fluency/capitalization error
+'möchte ich bitte' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'eBook-Readers' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'startseitige Leinwand' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'tipsen Sie auf den Symbol „Weitere Optionen“.' is a major fluency/grammar error
+'Rechts unten auf dem Bildschirm' is a minor style/awkward error[SEP_TOKEN_WENDA]'Tap' is a critical accuracy/omission error
+'Einstellungen:' is a minor punctuation error[SEP_TOKEN_WENDA]'Tap' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Lesegerät's' is a major fluency/grammar error
+'wird' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Guten Tages' is a major fluency/grammar error
+'Sie throughen zu' is a critical accuracy/mistranslation error
+'#NAME#' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'bitte' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Manual/ Battery Powered' is a major accuracy/omission error
+'Handgreif' is a major accuracy/mistranslation error
+'Ein luxus-ausgestattetes' is a minor style/awkward error
+'Ihr Erektionsstörung' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'können' is a major fluency/grammar error
+'ein der Markt preiswertes Penis-Pumpenprodukt' is a major fluency/awkward error
+'emotionale und finanzielle Anforderungen bedeuten' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Pumpenkopf-Einheit' is a major accuracy/mistranslation error
+'Handgriff-Ansatzhilfe' is a major accuracy/mistranslation error
+'und die Saugleistung' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Der Vakuumtherapie steht als effizienter Behandlungsanspruch für eine Erektionsstörung in über 95% der Männer gegenüber' is a major accuracy/mistranslation error
+'ohne ernsthafte Nebenwirkungen oder Medikamente' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Herstellersiegelgarantie' is a major accuracy/mistranslation error
+'Kolben' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Ringabwerfer' is a major accuracy/mistranslation error
+'Zylinder' is a major accuracy/mistranslation error
+'Druckaufbringen' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Saugpumpen' is a major accuracy/mistranslation error
+'Spannbänder' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'komplett ausrüstbare Lösung' is a major accuracy/mistranslation error
+'klein- und diskretes Traggepäckstück' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'schonen wollen' is a major accuracy/mistranslation error
+'die großzügigste Vorsicht' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Penis-Pumples' is a major accuracy/mistranslation error
+'Vacuum Erection' is a major accuracy/omission error
+'unmarkierten Packung' is a minor fluency/register error[SEP_TOKEN_WENDA]'Pumps' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Fehlt Ihnen der Shiba Inu versehen geblieben?' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'das nächste große Crypto-Explosionsjahr 2022 sein' is a critical accuracy/mistranslation error
+'Wahrscheinlich wird' is a minor fluency/style error[SEP_TOKEN_WENDA]'obwohl es fast 60% unter seiner Allzeithöhe verringert ist' is a major fluency/grammar error
+'Memecoin' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Einlagenbetrag in der Größe von' is a major accuracy/mistranslation error
+'zur Aufstellung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'schämen sich' is a major accuracy/mistranslation error
+'Spielschaltversuch' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'pile into the meme-coin' is a major accuracy/mistranslation error
+'zu investieren brachten' is a minor fluency/grammar error
+'Angst davor, nicht dabei zu sein (FOMO)' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'which was a homage to Elon Musk backed Dogecoin' is a major accuracy/mistranslation error
+'Der Name selbst' is a minor style/awkward error
+'Dogecoin unterstützt' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'keinerlei praktischen Nutzen oder Wert' is a major accuracy/mistranslation error
+'es scheint nur geringen Anstrengungen daran' is a major fluency/grammar error
+'in Zukunft etwas zu leisten' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'jedoch' is a major accuracy/addition error
+'wahre Nutzen' is a major fluency/grammar error
+'grundlegende Werte' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'von einem Team' is a major accuracy/mistranslation error
+'Blockchain-Experten und Marketing-Experten' is a minor style/awkward error[SEP_TOKEN_WENDA]'zum Halten zahlt' is a major accuracy/mistranslation error
+'Eigentümern' is a minor terminology/inappropriate for context error
+'Eines auszeichnenden Aspekts' is a minor style/awkward error[SEP_TOKEN_WENDA]'jeder EverGrow-Token-Besitzer' is a major accuracy/mistranslation error
+'belastbaren' is a major accuracy/mistranslation error
+'geprägtes, stabilisiertes Geld' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Der Projekt' is a major fluency/grammar error
+'aktuell sind' is a minor fluency/grammar error
+'laut BSCScan' is a minor style/awkward error[SEP_TOKEN_WENDA]'in Kalifornien' is a critical accuracy/addition error
+'a serious data error' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Vertrauensauflage beisamen' is a critical accuracy/mistranslation error
+'dieses Panik' is a major fluency/grammar error
+'wegzu lockschen' is a major accuracy/mistranslation error
+'falsch behaupteten Daten' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'the data error' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Jedes Mal ist es anders:' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Hintermann' is a major accuracy/mistranslation error
+'Krypto-Bude' is a critical accuracy/mistranslation error
+'InhaltsschaffendenPlattform' is a major fluency/spelling error
+'nahentscheinende' is a minor fluency/grammar error
+'USD-Belohung' is a minor terminology/inappropriate for context error
+'Utility-Angeboten' is a minor terminology/inappropriate for context error
+'fortgewährten Wert' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'kaße Nutzleistung zu bietet' is a critical accuracy/mistranslation error
+'Wertmarkt' is a major terminology/inappropriate for context error
+'kapitalisieren zu können' is a major accuracy/mistranslation error
+'um etwa 66-mal so teuer ist' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Krypto-Community' is a minor terminology/inconsistent use error
+'einlädt' is a major accuracy/mistranslation error
+'Angst wegen der Fehler von CoinMarketCap' is a minor style/awkward error
+'dem Jahr 2022' is a minor locale convention/date format error[SEP_TOKEN_WENDA]'I have checked the information into your account' is a critical accuracy/mistranslation error
+'die Information ist in Ihr Konto überprüft' is a major fluency/grammar error[SEP_TOKEN_WENDA]'Es bedauert mich wirklich' is a major fluency/awkward error
+'Ihr Problem' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'kapätn?' is a critical accuracy/mistranslation error
+'Ich teile dir mit, dass ich dir etwas mit wenigen Schritten zeigen werde' is a major fluency/grammar error[SEP_TOKEN_WENDA]'Lohngaben' is a major accuracy/mistranslation error
+'personalverwaltung' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'it' is a critical accuracy/mistranslation error
+'financially abused relationship' is a major accuracy/mistranslation error
+'dann:' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Unternehmern' is a major accuracy/mistranslation error
+'mit welchem' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Ausgangsempfangsbedienung' is a major accuracy/mistranslation error
+'wie sie nicht zu erkennen schienen' is a major fluency/grammar error
+'folgenden Maßnahmen' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'"siphonen"' is a major accuracy/mistranslation error
+'"Nichtpasstes-Abzug"' is a major accuracy/mistranslation error
+'"einepflichtige Abzug appears"' is a critical accuracy/mistranslation error
+'"und zurückzusenden"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ich dürfte darauf beharren, dass Sie einvernehmlich zustimmen müssen.' is a critical accuracy/mistranslation error
+'an agreement' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'voraussagen' is a major accuracy/mistranslation error
+'falser' is a major fluency/grammar error
+'den Verschwinden' is a major fluency/grammar error
+'dein Geduld' is a major fluency/grammar error
+'führen könnte' is a minor style/awkward error[SEP_TOKEN_WENDA]'entschlagen' is a critical accuracy/mistranslation error
+'ganzliche' is a minor fluency/grammar error
+'Bankvertrag' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Diese Reaktionen' is a major accuracy/mistranslation error
+'Zuerknopfungen' is a critical accuracy/mistranslation error
+'Rabatte/Coupons' is a minor style/awkward error[SEP_TOKEN_WENDA]'eventuelles Nutzen davon zu ziehen' is a major accuracy/mistranslation error
+'Es ist wert zu fragen' is a minor style/awkward error[SEP_TOKEN_WENDA]'den Mieten eines Schrankes' is a major accuracy/mistranslation error
+'Manche Fitnessstudios lassen Sie' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'hide stuff' is a major accuracy/omission error
+'idealste Lösung' is a minor style/awkward error[SEP_TOKEN_WENDA]'Wichtig ist dla Ihnen zu wissen' is a major fluency/grammar error
+'Übersetzung' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Anruf' is a major accuracy/mistranslation error
+'#PRS\_ORG#' is a minor non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ich weiß, was Du meinen willst.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"da unsere Dienstleistung Ihnen zukommen soll."' is a major accuracy/mistranslation error
+'"order from us"' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Als Gesundheit' is a critical accuracy/mistranslation error
+'Vollstundungskredit' is a major accuracy/mistranslation error
+'Platzbringen' is a major accuracy/mistranslation error
+'richtigen Bestellung' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Bitte folgen Sie mir in den nächsten Schritten:"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Dem Steckeranschluss (nicht eingeschlossen)' is a critical accuracy/mistranslation error
+'Ihre eBook-Reader-Anlage' is a major accuracy/mistranslation error
+'Steckeranschluss' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'"Gesperrt"' is a critical accuracy/mistranslation error
+'"Power-Tastepunkt"' is a major accuracy/mistranslation error
+'"appear"' is a major fluency/grammar error
+'"Bildschirmtopp"' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Freigabe der Starttaste' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'für 30 Sekunden lang halten' is a major fluency/grammar error
+'eBook-Readers' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Der Knopf für die Schaltkraft freigeben' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'E-Book-Leser Geräte neu ausgeschaltet und neu gestartet wurden' is a major accuracy/mistranslation error
+'wählen' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Nach dem' is a major fluency/grammar error
+'sign in' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Absicherungen" is a major accuracy/mistranslation error
+'"Zahlungen und Versand"' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]

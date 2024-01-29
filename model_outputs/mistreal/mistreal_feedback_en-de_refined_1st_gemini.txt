@@ -1,0 +1,100 @@
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'the transparency' is a minor fluency/grammatic error	'the transformation-ability' is a minor transformation aptation error	'this' is a major transformation ability error		-7
+no-error	0
+'gestorben' is a critical accuracy/addition error	'am Samstag' is a minor fluency/register error	'gab' is a minor fluency/verb agreement error	'ins Krankenhaus eingeliefert' is a major fluency/spelling error		-17
+'nedem' is a major accuracy/character encoding error	'den' is a major fluency/date format error	'hiteten' is a minor fluency/punctuation error	'holen' is a minor locale convention error	'positiv' is a minor terminology/inappropriate for context error	'werden' is a major terminology/inappropriate for context error	'getestet' is a minor accuracy/omission error	'discharged' is a minor accuracy/register error		-20
+'covid-19-Patienten' is a major fluency/character encoding error	'diagnostische Tests' is a critical accuracy/punctuation error due to missing symbol for 'diagnostic'	'im gesamten Iran' is a major locale convention/currency error.		-20
+	-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'neither concern nor any shortage' is a major accuracy/addition error	'the ground' is a minor locale convention/currency error	'ready for the third and fourth dose vaccinations' is a major fluency/grammar error.		-11
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'Deluxe-Handbuch' is a minor fluency/register error	'Akku-Vakuum-Erektions-Penispump' is a major accuracy/terminology/inconsistent use error	'manufactured by VVI Ltd England' is a minor locale convention/name error		-7
+no-error	0
+'multi powered vacuum pump' is a major accuracy/addition error	'the special grip handle built into the pump head' is a major accuracy/inappropriate error for functionality/context		-10
+	-5
+'lifetime manufacturer warranty' is a critical accuracy/addition error	'a lifetime' is a major fluency/text error	'will replace either part' is a major fluency/register error	'in the event of breakage or malfunction' is a minor terminology/inconsistency error		-21
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'the hand-over' is a major accuracy/omission error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'Tatsächlich' is a minor terminology/inconsistent use error	'Zukunft' is a minor non-translation error		-2
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'can be' is a minor style/awkward error	'been' is a critical accuracy/mistranslation error	'of Investation' is a critical accuracy/omission error	'schütteln' is a major fluency/inconsistency error	'could be one of the' is a minor terminology/inconsistent use error		-27
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'make an arrangement' is a major accuracy/addition error	'syphon money' is a major accuracy/tax deduction error	'give an incongruous name' is a major accuracy/obligatory deduction error	'remit' is a major accuracy/obligation error		-20
+no-error	0
+'vielleicht tun könnte' is a major fluency/grammar error	'führen' is a major accuracy/mistranslation error	'diese auszusuchen' is a minor fluency/grammar error	'vielen Dank' is a minor fluency/register error		-12
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'an idealer Ort' is a critical non-translation error	'a risk' is a minor punctuation error	'might work' is a minor terminology/consistent use error		-12
+no-error	0
+'you' is a minor fluency/register error	'another person' is a major accuracy/omission error	'always' is a minor fluency/no-error error	'_email_' is a major terminology/inbox error	'_further questions_' is a minor terminology/assist error		-13
+'Thank you' is a major politeness error	'for contacting' is a minor etiquette error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'netzteil' is a minor locale convention/currency error	'plug the wall charger' is a major omission/date format error	'then connect your eReader' is a major accuracy/addition error		-11
+'halt power button' is a major inappropriate for user action error	'the top of the screen' is a critical rendering area error	' press and hold the power button' is a critical user interface error		-25
+no-error	0
+no-error	0
+'reseeded'ed' is a major accuracy/addition error	'the breakeded' is a major omission error	'partite' is a minor design error	The user goes to the reviews' is a major accuracy/mistranslation error.		-16
+no-error	0
+no-error	0
+no-error	0
+'sign in' is a critical fluency/register error	'your e-mail address' is a critical accuracy/mistranslation error	'and password' is a critical accuracy/password error		-30
+'current rates' is a minor locale convention/currency error		-1

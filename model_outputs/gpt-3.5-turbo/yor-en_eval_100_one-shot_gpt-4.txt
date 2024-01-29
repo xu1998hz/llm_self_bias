@@ -1,0 +1,51 @@
+'At this point' is a major accuracy/mistranslation error
+'rats' is a major accuracy/mistranslation error
+'he added' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ará Ìlú Canada' is a major accuracy/mistranslation error
+'ìwádìí náà ṣì jẹ́ tuntun' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'where the show's investors had initially turned him down' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'we have advanced with changes that are relevant in our organization' is a major accuracy/mistranslation error
+'beyond removing the charter' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'àfojúsùn kanáà' is a major accuracy/mistranslation error
+'ìdárayá ìsangun àtawọn míran' is a major accuracy/mistranslation error
+'fáwọn eléréje láti le ma siṣẹ́ tọ àlá wọn ní àyíká tó láàbò, tó dára tó sì seégbé' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ba Aare Toki Resep Tayipi Edogani lori ago' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'it is smaller than dinosaurs in size' is a major accuracy/mistranslation error
+'animal world of dinosaurs' is a major accuracy/mistranslation error
+'color and nocturnal behavior' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]'which they call rachis' is a major accuracy/mistranslation error
+'the yolks' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'What seemed like a fossil' is a major accuracy/mistranslation error
+'not to travel in a spaceship' is a major accuracy/mistranslation error
+'a guide to navigate or reveal' is a major accuracy/mistranslation error
+'The archaeologists concluded' is a major accuracy/mistranslation error
+'this is a type of dinosaur offspring' is a major accuracy/mistranslation error
+'its skeleton reveals the wisdom of the elders' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'He didn't give any specific amount for the project' is a major accuracy/mistranslation error
+'saying they would determine it at the final negotiation of the business deal in China' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]The translation is incorrect and contains multiple errors. It is a critical accuracy/mistranslation error as the translation does not accurately convey the meaning of the source text. Additionally, there are major accuracy/omission errors as important information from the source text is missing. There are also minor fluency/grammar errors in the translation.[SEP_TOKEN_WENDA]The translation has no errors.[SEP_TOKEN_WENDA]'One of the twenty-two recommendations' is a major accuracy/mistranslation error
+'to be able to take over the Iraqi border' is a major accuracy/mistranslation error
+'that is transparent with the international community' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'who is in charge' is a major accuracy/mistranslation error
+'presidential election' is a major accuracy/mistranslation error
+'evening' is a minor accuracy/mistranslation error
+'from Buenos Aires' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Victorian era" is a major accuracy/mistranslation error
+"New Industrial Revolution Crisis" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'wants to carry the reconstruction work' is a major accuracy/mistranslation error
+'for the children of Washington' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'He' is a major accuracy/mistranslation error
+'went to Rome for the funeral' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In many other cities in Italy and around the world' is a major accuracy/mistranslation error
+'especially in Poland' is a major accuracy/mistranslation error
+'where many people have experienced it' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'olori oorilrede' is a major accuracy/mistranslation error
+'aro ojo ikerindinlogun' is a major accuracy/mistranslation error
+'eyi to fi bere awoyika' is a major accuracy/mistranslation error
+'ilu Asia olose kan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'After a difficult week' is a major accuracy/mistranslation error
+'in the turbulent election process' is a major accuracy/mistranslation error
+'spoke to a large audience' is a major accuracy/mistranslation error
+'about the severe economic crisis' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'for the protection of the hospital's resources' is a major accuracy/mistranslation error
+'so that the Tasmanian government does not squander it' is a major accuracy/mistranslation error
+'fourteen million dollars' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'river bank' is a major accuracy/mistranslation error
+'indicates' is a major accuracy/mistranslation error
+'effects' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ẹ̀ka onímọ̀' is a major accuracy/mistranslation error
+'ìwọ̀n íǹṣì mẹ́fà' is a major accuracy/mistranslation error
+'ojú ihò ewé' is a major accuracy/mistranslation error
+'tó ti bàjẹ́ tẹ́lẹ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'has revealed his personal state' is a major accuracy/mistranslation error
+'last month' is a major accuracy/omission error[SEP_TOKEN_WENDA]'He [Wales]' is a major accuracy/mistranslation error
+'Firstly' is a major accuracy/mistranslation error
+'Secondly' is a major accuracy/mistranslation error
+'he heard us until it was like he was doing his job' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'for education' is a major accuracy/mistranslation error
+'the system's training' is a major accuracy/mistranslation error
+'through hard work on Sagittarius in the sky' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'gravitational forces' is a major accuracy/mistranslation error
+'within the dark matter galaxy' is a major accuracy/mistranslation error
+'dark matter Milky Way' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'News from the meteorological department' is a major accuracy/mistranslation error
+'smoke is coming out from our forest' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'eyi toka si pe' is a major accuracy/mistranslation error
+'awon kolo to n di epo uraniumu' is a major accuracy/mistranslation error
+'ni ni oju ibe le ti be' is a major accuracy/mistranslation error
+'ati pe o n jo' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

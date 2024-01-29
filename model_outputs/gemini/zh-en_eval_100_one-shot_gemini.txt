@@ -1,0 +1,55 @@
+no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Wash hands with air' is a critical accuracy/mistranslation error
+'judge diseases by breath' is a critical accuracy/mistranslation error
+'accurately search for the source of haze' is a critical accuracy/mistranslation error
+'Last night' is a major accuracy/omission error
+'at the opening ceremony of the 2016 Academic Annual Conference of Zhejiang University' is a major accuracy/omission error
+'a series of academic achievements with great originality' is a major accuracy/omission error
+'were commended' is a major accuracy/omission error[SEP_TOKEN_WENDA]'medical treatment' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Health Care' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Diming's' is a minor accuracy/mistranslation error
+'on site' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"You just need to take a light breath" is a major accuracy/mistranslation error
+"初步" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Zhang Diming introduced' is a major accuracy/omission error
+'a health report' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'chemical elements' is a critical accuracy/mistranslation error
+'sense of smell' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the doctor's high-energy eyes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'master' is a minor accuracy/mistranslation error
+'defects' is a minor accuracy/mistranslation error
+'started with' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Shen Junfei' is a major accuracy/mistranslation error
+'tumor tissue' is a major accuracy/mistranslation error
+'the doctor' is a minor accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the shadowless rate' is a major accuracy/mistranslation error
+'the needs of the operation' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Shaoxing' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Wash your hands with air' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"at most they wipe some soap, squeeze some hand sanitizer" is a major accuracy/omission error[SEP_TOKEN_WENDA]'sink' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'The compressed air' is a major accuracy/omission error
+'at the tap' is a major accuracy/omission error
+'and combines with the water' is a major accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'our own' is a major accuracy/mistranslation error
+'completely' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'world-class' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'order' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'first aid' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Popularize' is a major accuracy/mistranslation error
+'that is' is a minor fluency/awkward error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'our life' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'first aid' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'rescue him' is a major accuracy/mistranslation error
+'too terrible' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"In China" is a major accuracy/addition error
+"our official data" is a major accuracy/addition error
+"shows that" is a major accuracy/addition error
+"die of accidents" is a major accuracy/mistranslation error
+"the most dangerous of which" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'can be saved' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'philtrum' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'consciousness' is a major accuracy/mistranslation error
+'learn first aid' is a major accuracy/mistranslation error
+'respond in time' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'first aid certificate' is a major accuracy/mistranslation error
+'at your local' is a major accuracy/omission error
+'and there are discounts for students' is a major accuracy/addition error[SEP_TOKEN_WENDA]'first aid' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'diving first aid certificate' is a major accuracy/mistranslation error
+'Xiaohongshu' is a major accuracy/untranslated text error
+'first aid certificate' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'##NUMBER##' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Let's talk about the conclusion first' is a minor style/awkward error
+'in all aspects' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'But if you want to say' is a major accuracy/mistranslation error
+'that's not true' is a major accuracy/mistranslation error
+'At least' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'"One Second"' is a critical accuracy/mistranslation error
+'峨眉山' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Cthulhu' is a major terminology/inappropriate for context error
+'Xiao Ma' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'depending on' is a major accuracy/mistranslation error
+'his grandmother' is a major accuracy/omission error[SEP_TOKEN_WENDA]'in a small van' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Elderly' is a minor accuracy/mistranslation error
+'面包车' is a minor accuracy/mistranslation error
+'？？' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'relieved' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'heroine' is a major accuracy/mistranslation error
+'an abandoned ship' is a major accuracy/omission error
+'get a business license' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'little gangsters' is a major accuracy/mistranslation error
+'a section of mountain road' is a major accuracy/omission error
+'easily' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'carrying steel bars' is a major accuracy/omission error
+'anywhere' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'delinquent' is a major accuracy/mistranslation error
+'motorcycle gang' is a major accuracy/mistranslation error
+'suspected of breaking the law' is a major accuracy/mistranslation error
+'auxiliary police officer' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'usury' is a major accuracy/mistranslation error
+'difficulties' is a major accuracy/omission error[SEP_TOKEN_WENDA]'forcibly arranges' is a major accuracy/mistranslation error
+'not find' is a major accuracy/mistranslation error
+'outside the room' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'plots' is a major accuracy/mistranslation error
+'it pains me to recall them' is a major fluency/awkward error[SEP_TOKEN_WENDA]'stitched' is a major accuracy/mistranslation error
+'ugly' is a minor fluency/register error[SEP_TOKEN_WENDA]'Spring Festival' is a major locale convention/date error
+'shit' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'gradually' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'love-hate' is a major accuracy/mistranslation error
+'waitress' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the new motorcycle that Yin Zheng played' is a major accuracy/mistranslation error
+'he can't just open some brain holes that even Kennedy can't stand' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]

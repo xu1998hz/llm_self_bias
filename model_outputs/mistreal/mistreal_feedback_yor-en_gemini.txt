@@ -1,0 +1,100 @@
+'have four rats having pregnancy before which now have diabetes' is a major omission error	'were not diabetic before' is a major mistranslation error	'now have diabetes' is a critical terminology/currency error		-15
+'Dalhousie University Halifax, Nova Scotia-based' is a major locale convention/name error	'research and science division' is a major accuracy/unated text error, it should be "research and science division of the Canadian Diabetes Association"	'based military medicine researcher' is a minor terminology/inconsistent use error, "military medicine researcher based at Dalhousie University Halifax, Nova Scotia" would be more appropriate.		-11
+ 'I doubt' is a minor fluency/punctuation error	'like the authors' is a major fluency/register error	'can be cured' is a major accuracy/addition error		-11
+no-error	0
+'various agencies' is a critical accuracy/omission error	'your case' is a major accuracy/addition error	'I am sure' is a minor fluency/register error		-11
+'Ring CEO Jamie Siminoff' is a minor fluency/name error	'echoing' is a minor fluency/character encoding error		-2
+no-error	0
+'Siminoff said' is a major fluency/style error	'sales took off' is a minor accuracy/addition error	'appeared on the show' is a major accuracy/omission error	'executives made...a deal' is a major accuracy/addition error		-16
+no-error	0
+'ADT Insurance Plc.' is a major terminology/appropriate for context error	'eventually settled' is a major terminology/appropriate for context error		-15
+ 'a number of drug candidates' is a major locale convention/currency error	'reducing Ebola deaths' is a minor accuracy/addition error	'specific drug' is a critical non-translation error	'effective in treating the disease in humans' is a critical terminology/inappropriate for context error		-16
+ 'early studies' is a minor accuracy/punctuation error	'Showed promise' is a critical fluency/character encoding error	'little chance' is a major inconsistency error		-11
+ 'against three other drugs' is a major accuracy/omission error	'tests it' is a major mistranslation error	'scientists' is a major fluency/character role error	'three other drugs' is a minor style/awkward error	'a control meaning' is a minor fluency/register error		-17
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'Lyndon B Johnson's administration' is a major terminology/currency error	'John F Kennedy's role' is a major accuracy/addition error	'Lindoni B's role' is a minor grammar/register error		-11
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'Other titles include' is a major locale/currency error	'Aworan to da ra ju' is a minor locale/currency error	'Ayaworan' is a major terminology/inappropriate for context error	'Asaraloge' is a major terminology/inconsistent use error	'Asatunto-Fiimu' is a major terminology/character encoding error	'Asatunto ohun' is a minor terminology/inconsistent use error	'Apohunpo' is a minor terminology/inappropriate for context error	'Akota' is a major terminology/no-error error		-28
+no-error	0
+'US President Donald Trump' is a major terminology/name error	' announcement' is a minor fluency/register error	'his press secretary' is a minor accuracy/addition error		-7
+'called Trump' is a major accuracy/omission error	'phone' is a minor fluency/register error	'Recep Tayyip' is a minor terminology/inappropriate for context error		-7
+'refused to repatriate' is a major accuracy/omission error		-5
+'dinosaur' is a major locale convention/currency error	'the smallest' is a minor accuracy/omission error	'that's for sure' is a minor fluency/inconsistency error	'into the dinosaur color and feather debate' is a major terminology/inappropriate for context error		-12
+'onimo sayensi' is a major accuracy/fluency error	'the animal' is a major fluency/pale error	'wipe' is a major fluency/carotenoid error	'iye' is a minor terminology/regulative error	'eranko' is a minor terminology/context error		-17
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'They saw the same pattern in the motion of the sun as in that of the planets' is a major accuracy/mistranslation error	'All the motions of the planets' is a major accuracy/addition error	'are determined by their own motions alone' is a minor fluency/punctuation error		-11
+no-error	0
+'as the Rossby number becomes smaller' is a minor fluency/punctuation error	'is less effective' is a minor accuracy/mistranslation error		-2
+	-10
+'they hijacked' is a major accuracy/omission error	'using a toy gun' is a minor character encoding error	'arrested in India' is a major terminology/currency error		-11
+ 'technology with dual band 2.4Ghz and 5.0Ghz.' is a critical accuracy/punctuation error		-5
+no-error	0
+no-error	0
+ 'had married' is a major accuracy/omission error	'Two Children' is a major terminology/character encoding error	'thus ended' is a minor locale convention/currency error		-11
+'talks more about reading' is a major fluency/character encoding error	'just taking my time' is a minor terminology/unptuation error		-6
+no-error	0
+'no specific date was fixed' is a major time format/telephone error	'was saying it would be done' is a major punctuation/register error	'in line with the Chinese economy' is a minor accuracy/addition error		-11
+no-error	0
+'may not' is a minor fluency/grammar error, limiting or reducing the flow	'grow beyond their' is a major accuracy/addition error, causing deviation from the intended flow		-6
+	-15
+no-error	0
+ 'began' is a minor local convention error	'abajade' is a major mistranslation error	'involving the Middle East' is a major terminology error		-11
+'new-order leaders of Iraq' is a major accuracy/addition error	'the petition' is a major addition/improvement error	'Iraq' is a minor precision/register error		-11
+ '[BLOCKED]' is a major non-translation error as the given text is unreadable due to blockage. The source text is likely incomplete or corrupted. It is not possible to accurately identify or classify any errors within it.		-5
+'La Plata' is a major name/location error	'a city' is a major name/location error	'31 miles' is a major telephone/number error		-15
+no-error	0
+'compensation' is a major accuracy/addition error	'reconstruction money' is a critical accuracy/addition error	'New Orleans Business Council' is a major terminology/inappropriate for context error		-15
+'inspector' is a major terminology/accountability error	'gbé ïṣẹ dēkās gbé iṣẹ bęẹ ṣan dēkās gbé iṣẹ' is a minor style/language error	'lādān' is a major style/register error		-11
+no-error	0
+ 'The number of people' is a major local convention error	'it was not possible' is a major omission error	'find space in St. Peter's Basilica' is a critical accuracy/addition error		-15
+no-error	0
+'in many other cities' is a major customization error	'especially in Poland' is a minor fluency/information error		-6
+no-error	0
+no-error	0
+'came in with the highest accuracy/addition' is a major error	'the highest' is a major scoring 'fours' is a minor punctuation/register error	'bat by hitting' is a minor fluency/grammar error		-12
+'not appropriately addressed infrastructureal' is a major accuracy/omission error		-5
+'lost 7 wickets' is a major style/error	'captain wicket India' is a minor fluency/register error	'36 runs' is a critical accuracy/addition error		-11
+'discuss a critical major error' is a minor accuracy/addition error	'in the negotiations' is a major terminology/context error		-6
+'not be speaking' is a minor style/awkwär error	'with Singapore Prime Minister Lee Hsien Loong' is a major accuracy/date error	'Singapore's Second Minister Wong' is a major accuracy/grammar error		-11
+'his plans' is a critical accuracy/addition error	'a gathering' is a major terminology/currency error	'his supporters' is a minor accuracy/fluency error		-11
+no-error	0
+ 'asked for a review' is a major accuracy/mistranslation error	'the meeting with the PM' is a major locale/time format error	'the code of conduct' is a minor accuracy/registration error		-11
+no-error	0
+'not for the Tasmanian government to pocket' is a major accuracy/omission error	'pocketing' is a minor terminology/inconsistent use error	'milíọ́nù' is a minor locale convention/currency error		-7
+ 'the underwater earthquake' is a critical locale/telephone error	'(the cause of the tsunami)' is a critical accuracy/addition error	'waves were felt as far as' is a minor accuracy/spelling error		-11
+'issued by the PWC' is a major accuracy/omission error	'extensive damage or casualties' is a minor non-translation error	'grounded flights' is a critical accuracy/omission error		-11
+'were closed' is a critical omission error	'Tuesday' is a minor date format style error	'lifted' is a minor fluency/register error	'were near or along' is a major locale convention error	'were closed as a precaution' is a major accuracy/omission error		-17
+no-error	0
+'speak to Bushi Godoni Johanudro' is a major accuracy/addition error	'North Korea's pledge' is a major accuracy/omission error	'the one who spoke to' is a minor style/fluency error		-11
+ 'the Atlantic Hurricane season' is a major locale convention/currency error	'the sixth named storm' is a major name error	'wọ́n' is a minor style/register error		-11
+'Jerry is' is a minor omission error		-1
+ 'U.S. military teams with expertise in engineering' is a minor fluency/register error	'within six months' is a minor locale convention/time format error	'the already-devastated landscape' is a major accuracy/omission error		-7
+no-error	0
+no-error	0
+ 'Common Sense editor' is a minor accuracy/no-error annotation	'expresses disappointment' is a critical accuracy/mistranslation error	'last month' is a minor accuracy/date error	'during his interview' is a major accuracy/mistranslation error		-12
+no-error	0
+no-error	0
+ 'Sagirrarius' is a critical locale convention/name error	'work being done by' is a minor accuracy/addition error	'in the sky' is a minor fluency/terminology/inconsistent use error		-7
+ 'are able to penetrate' is a major accuracy/addition error	'core' is a major accuracy/omission error	'black hole' is a critical minor terminology/inappropriate for context error		-15
+no-error	0
+ 'scientists' is a major accuracy/addition error	'that black to black' is a major accuracy/omission error	'prove that' is a minor terminology/inappropriate for context error		-11
+'around galaxies' is a major locale convention/currency error	'distIBUTED' is a major accuracy/addition error	'this study suggests' is a major fluency/style/awkward error		-15
+ 'the nearby object' is a minor critical/major error		-1
+no-error	0
+'According to' is a major accuracy/addition error	'the Japan Atomic Energy Agency' is a major source/name error	'cesium' is a minor fluency/register error	'iodine' is a minor fluency/register error		-12
+ 'is up and running' is a major fluency/punctuation error		-5
+no-error	0
+no-error	0
+no-error	0

@@ -1,0 +1,100 @@
+no-error	0
+'the executioner' is a major execution/execution error	'executioner' is a minor executor/exporter error		-6
+no-error	0
+no-error	0
+'Washing hands with air' is a critical locale convention/currency error	'diagnosing disease through breath' is a major accuracy/inconsistency error	'accurately seeking for source of smog' is a minor accuracy/omission error	'last night' is a major fluency/date error	'the opening ceremony of the 2016 Annual Academic Conference of Zhejiang University' is a major locale convention/time error.		-26
+no-error	0
+'have Vídni' is a major accuracy/addition error		-5
+ 'biosensor' is a minor accuracy/omission error	'smart phone' is a minor fluency/register for no-error		-3
+no-error	0
+'this set of sensor' is a major accuracy/addition error	'after you breathe out' is a critical major accuracy/ocal error		-15
+'smart bands on the market' is a major accuracy/addition error	'the market' is a major accuracy/omission error	'smart bands for the market' is a minor terminology/inappropriate for context error		-11
+'its target' is a critical accuracy/addition error	'the new material of graphene' is a critical locale convention/currency error	'the sense of smell' is a minor sensing/telephone error		-21
+	-5
+no-error	0
+'this invention' is a major accuracy/addition error	'the swap' is a major terminology/inappropriate for context error		-10
+'smart LED operation shadow-less lamp' is a major fluency/character encoding error	'the team of Zhu Linjing and Shen Junfei' is a minor terminology/inappropriate for context error		-6
+no-error	0
+no-error	0
+' distinguished degree of different tissues' is a major accuracy/addition error	'the lamp panels' is a minor locale convention/currency error		-6
+no-error	0
+no-error	0
+'this invention' is a major accuracy/addition error that won the first prize of the 美国国家杯杯一等奖 国家挑 National Challenge Cup Competition.```		-5
+'save water' is a major accuracy/addition error	'a cool way' is a major accuracy/omission error		-10
+no-error	0
+no-error	0
+'a server' is a major accuracy/addition error		-5
+'the compressed air' is a major accuracy/addition error	'the faucet' is a major accuracy/omission error		-10
+no-error	0
+'hand washing this way' is a minor accuracy/punctuation error	'the ordinary method' is a minor terminology/register error		-2
+no-error	0
+'emerged among all the top universities in the world' is a major accuracy/omission error	'this invention' is a critical terminology/inappropriate for context error	'was awarded with the only gold award' is a major accuracy/mistranslation error		-20
+'please-arrange' is a major accuracy/addition error	'the refund' is a major accuracy/omission error	'punctuate' is a minor terminology/register error	'register' is a minor terminology/ed error		-12
+'return the cash' is a critical accuracy/omission error	'not want points' is a minor style/awkward error	'I will not use it again #PRS\_ORG#' is a major non-translation error. The hash symbol '#' and 'PRS\_ORG' is not translated, which may cause confusion or misunderstanding for readers.		-16
+ 'it’s not suitable for children' is a minor non-translation error		-1
+'an order' is a major accuracy/ error		-5
+'the moment' is a major critical/punctuation error	'thanks' is a minor terminology/no-error message		-6
+ '#PRS\_ORG#' is a minor locale convention error. \*\* End of Translation File \*\*		-1
+'I'll cancel the order' is a major order/omission error		-5
+ '#PRS\_ORG#' is a minor style/punctuation error		-1
+'can it be changed?' is a major accuracy/addition error		-5
+no-error	0
+'the account holder's permission' is a major accuracy/orse error	'I cannot discuss this with you' is a major accuracy/immediate error		-10
+'I deem meaningful, Certificate of First Aid' is a major accuracy/addition error.		-5
+'important skill type certificate' is a major accuracy/addition error.	| `Your task is to identify errors and assess the quality of the translation.`       | `Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.`  | `of high-speed rail' is a critical accuracy/addition error<br>[PLACEHOLDER]major accuracy/mistranslation error`               | Accuracy   | Critical/Major              |		-15
+no-error	0
+no-error	0
+'this period' is a critical time/date error		-10
+no-error	0
+no-error	0
+'standing there' is a minor style/awkward error		-1
+'the official data' is a major accuracy/addition error	'people dying' is a major accuracy/mistranslation error	'the yearly official data' is a major accuracy/omission error		-15
+no-error	0
+'the proportion' is a major accuracy/omission error	'in Las Vegas' is a major accuracy/addition error		-10
+'Lu the founder' is a major accuracy/addition error	'the First Reaction' is a major accuracy/omission error	'Lu the founder' is a major terminology/inappropriate for context error		-15
+'has no effect' is a minor accuracy/no-error error	'if a person' is a critical accuracy/cardiac-arrest error	'there' is a minor style/inapplicable error		-12
+no-error	0
+no-error	0
+no-error	0
+ 'at your local Red Cross Training Center' is a major locale convention/currency error	'the Red Cross Training Center in Zhuhai' is a minor accuracy/name error	'I applied for my certificate' is a minor terminology/registration error		-7
+'achieving before 25 years old' is a critical accuracy/omission error	'certificate of first aid' is a minor fluency/register error		-11
+no-error	0
+'VE' is a major accuracy/addition error		-5
+'shrimp' is a major accuracy/addition error	'the 13-yuan holder' is a major accuracy/omission error	'dumpling' is a minor terminology/inappropriate for context error		-11
+no-error	0
+no-error	0
+	-1
+	-2
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'this part of the film' is a minor style/spelling error.		-1
+'metaphors' is a major terminology/inappropriate for text error		-5
+'s the account holder' is a major accuracy/omission error		-5
+'the south' is a major terminology/inappropriate for context error		-5
+'his grandma' is a major accuracy/addition error	'the minibus' is a major accuracy/terminology error for the context error		-10
+no-error	0
+no-error	0
+'respected' is a major accuracy/addition error	'the provision' is a major terminology/inappropratie for context error	'the requirement' is a major requirement/inappropratie for context error		-15
+no-error	0
+no-error	0
+no-error	0
+'dato' is a minor style/awkward error		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'having a horrible monster' is a major accuracy/omission error	'you can take the plots' is a major accuracy/mistranslation error	'this is the awful monster' is a major accuracy/inappropriate error	'have a horrible monster' is a major accuracy/terminology error		-20
+no-error	0
+	-15
+no-error	0
+no-error	0
+no-error	0
+'have Vídni' is a major accuracy/addition error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0

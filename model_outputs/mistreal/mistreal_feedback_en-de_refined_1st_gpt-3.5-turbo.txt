@@ -1,0 +1,100 @@
+'return' is a major accuracy/addition error	'our' is a minor accuracy/mistranslation error	'chat service window' is a major accuracy/omission error		-11
+no-error	0
+ 'assist' is a major fluency/register error	'the contact' is a minor accuracy/omission error	'#PRS_ORG#' is a minor accuracy error		-7
+'fruitfully' is a major accuracy/complement error	'veganzily' is a major accuracy/disagreement error	'fresh' is a minor fluency/complement error	'veganza' is a minor accuracy/representation error	'versatile' is a minor accuracy/revised error	'veritable' is a minor accuracy/verisimilitude error	'veracious' is a minor accuracy/vaguen error	'versely' is a minor accuracy/vernal error	'verisibly' is a minor accuracy/variate error	'vertically' is a minor accuracy/versal error		-28
+ 'Iran reported around 2,000 new' is a minor style/awkward error	'more than one year' is a major fluency/register error		-6
+no-error	0
+'Laut Press TV' is a minor fluency/punctuation error		-1
+ 'Es wurde hinzugefügt, dass' is a major locale convention/inconsistent use error	'genesen' is a minor fluency/punctuation error and can be ignored as it doesn't disrupt the flow or comprehension of the text.		-6
+no-error	0
+'Coronavirus' is a major accuracy/addition error	'been on a downward trend' is a major accuracy/omission error	'since the government started' is a minor terminology/inaccurate, for context error		-11
+no-error	0
+'despite the challenges' is a critical perspective error	'the number of vaccines injected' is a major punctuation error	'in the country' is a major accuracy error for place error		-20
+'the past 24 hours' is a major accuracy/omission error	'19 provinces' is a major accuracy/addition error	'reported' is a major accuracy/mistranslation error	'almost no death case' is a major error with no addition or omission	'only one dead' is a minor error with an omission		-21
+'Neuseten' is a minor style/register error	'sich' is a major accuracy/addition error	'Neuesten' is a minor style error (should not be translated)	'According to the latest figures' is a major accuracy/addition error.		-12
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'Tippen' is a minor style/awkward error	'at the bottom right' is a minor accuracy/omission error	'Sie' is a major accuracy/addition error	'au' is a minor accuracy/register error	'das' is a minor accuracy/omission error	'the screen' is a major surface/representational error		-14
+'setting the tap' is a major accuracy/addition error	'settings' is a minor accuracy/context error		-6
+no-error	0
+ ' Software version' is a major punctuation error	' the version number' is a major accuracy/mistranslation error for 'eReader'		-10
+no-error	0
+'Bestellnummer' is a minor accuracy/punctuation error	'die E-Mail-Adresse und die Lieferadresse' is a major accuracy/spelling error		-6
+no-error	0
+no-error	0
+no-error	0
+'erwiesen' is a minor fluency/grammar error	'without any major side effects or medication' is a major accuracy/omission error. It should be 'without any major side effects and without medication'.	'Over 95% of men' is a major accuracy/generalization error since it's not clear if all men mentioned in the context are those the statistic applies to. The given translation does not state this clearly.	'vacuum therapy has been proven' is a major accuracy/mistranslation error. The correct phrasing would be 'vacuum therapy has been shown to be effective' or similar.	'without any major side effects' is a major accuracy/omission error. It should be 'without any major side effects and without medication'.		-21
+no-error	0
+'vacuum therapy' is a major accuracy/fluency error	'with this system' is a major accuracy/neutral error		-10
+no-error	0
+'ve patenteted Ringauswerfer' is a major style/awkward error	'the set' is a major inconsistency/punctuation error	'smiermittel' is a minor style/register error	'enthaltene' is a minor terminology/locale error		-12
+no-error	0
+'a selection of tension bands' is a major accuracy/addition error		-6
+'to fit in' is a major accuracy/addition error	'the whole kit' is a major accuracy/omission error		-10
+'sexual lives' is a major accuracy/omitted text error	'the utmost discretion' is a minor style/punctuation error		-6
+'the Encore Deluxe Manual/Battery' is a major terminology/omission error	'you will receive' is a minor accuracy/addition error	'a plain box' is a minor container/label error	1. Major accuracy/addition error: 'the Encore Deluxe Manual/Battery' is a major terminology/omission error where the given word or phrase is misspelled, misspunctuated, or misplaced. In this case, 'Battery' and 'Batteriebetrieb'should be 'Battery powered' and 'Battery' should be 'Battery-powered'.	2. Major accuracy/omission error: 'the stop-start' negotiations' is a major terminology/omission error where a word or phrase is missing. In this case		-17
+no-error	0
+no-error	0
+'EverGrow' is a critical accuracy / addition error	'EverGrow' is a critical accuracy / addition error. Here, 'Talks have' refers to the positions taken by both sides in the course of attempting to gauge the prospects of success after the latest exchanges in the stop-start negotiations. The term 'Talks' is used to describe the positions taken by both sides in the course of attempting to gauge the prospects of success after the latest exchanges in the stop-start negotiations.''EverGrow' is a major accuracy / addition error.''Talks have' is a term		-25
+no-error	0
+```go to the reviews' is a major accuracy/mistranslation error	```etc.,' is a minor style/awkward error	```dir' is a minor fluency/register error		-7
+ 'the reality is that it was' is a major accuracy/mistranslation error	'a pure gamble' is a minor fluency/grammar error		-6
+'foomo' is a major accuracy/register error	'Meme-Münze' is a major non-translation error (assumes knowledge of specific cryptocurrency term)		-10
+'even the name' is a major fluency/grammar error	'Elon Musk' is a major accuracy/omission error	'dogecoin' is a minor error in the design		-11
+ 'Shiba Inu' is a minor style/inconsistent term error	'in reality' is a critical accuracy/addition error		-11
+'the start' is a major accuracy/omission error'		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+'then' is a minor continuation error		-1
+ 'EverGrow Coin' is a major currency/addition error	'then a major data error' is a critical error in CoinMarketCap		-15
+'rivals of the project' is a major accuracy/inconsistent use error	'the incorrect data' is a major accuracy/other error		-10
+'over Vídni' is a major accuracy/addition error	'thereafter' is a minor accuracy/inappropriate for perspective error	'thereon' is a minor accuracy/inappropration error	Thereafter' is a major accuracy/inappropration error	Thereon' is a minor accuracy/inappropriate context error	Thereon' is a major accuracy/inpreposition error	Thereop' is a minor accuracy/inprocess error	Thereopic' is a major accuracy/improperation error	Thereopsis' is a minor accuracy/inpostion error	Thereos' is a major accuracy/igheration error	Thereous' is a minor accuracy/inconsistency error	Thereoust' is a major accuracy/incontradiction error	Thereova' is a minor accuracy/indistraction error	Thereove' is a major accuracy/invocation error	Thereover' is a minor accuracy/involvement error	Thereoyal' is a major accuracy/involvement error		-48
+'wé' is a minor fluency/register error		-1
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'around 66 times' is a major accuracy/multiplication error	'currently low market cap' is a major accuracy/misplaced adverb error.		-10
+no-error	0
+no-error	0
+ 'm really sorry' is a critical statement/apology error	'you are having' is a major statement/addition error	'this issue' is a minor statement/context error		-16
+'the stop' is a major accuracy/omission error		-5
+no-error	0
+no-error	0
+no-error	0
+'hence ーdency' is a major accuracy/hysteresis, and hyseresis hysterically inaccurate for context error.		-5
+ 'Genannten' is a major accuracy/mistranslation error	'bringen, so zu tun' is a minor fluency/punctuation error	'wussten, wer jemand war' is a major accuracy/omission error		-11
+'syphon money' is a major fluency/mispelling error	'I could make an arrangement to' is a critical accuracy/omission error	'remit that deduction back to you' is a major accuracy/mistranslation error		-20
+'in agreement' is a major fluency/grammar error, in which both sides were trying to estimate/assess the chances of success after the latest alterations in the stand		-5
+no-error	0
+no-error	0
+'the start' is a major accuracy/omission error	'partagē' is a minor fluency/transmission error		-6
+no-error	0
+'the document' holder' is a major accuracy/omission error		-5
+ 'Fitnessstudios' is a major terminology error		-5
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+ 'hope' is a critical compliment/greeting error	'day' is a major fluency/namer error	'have an excellent' is a major courtesy error	'you' is a minor courtesy error	'have' is a minor fluency/subject agreement error		-22
+'understand' is a major terminology/fluency error. 'You know what I understand you' in the original text implies that the speaker has an accurate comprehension of the listener's thoughts or intentions. In the translated text, 'weißt' is used to express 'understand' in its terminological sense, indicating that the speaker has grasped or comprehended the listener's statement. 'du' is a minor fluency/grammar error suggesting a minor variance in meaning or nuance from the original to the translated text, but the overall message remains consistent.		-6
+'your order' is a major terminology/inconsistency error	'we want' is a minor fluency/grammar error	'have' is a major accuracy/addition error	'you to have' is a minor accuracy/omission error	'from us' is a major fluency/register error	'your order from us' is a major fluency/spelling error.		-22
+'Als Höflichkeit' is a minor fluency/register error, but it does not disrupt the flow or hinder comprehension. It is an acceptable way to express 'as a courtesy'.		-1
+ 'next steps' is a minor style/punctuation error.		-1
+'im Lieferumfang enthalten' is a major locale convention/inconsistent use error	'Steckdose' is a minor accuracy/mistranslation error		-6
+no-error	0
+ 'holding down' is a minor punctuation error	'3-4' is a minor number/quantity error	'Sekunden' is a major fluency/register error		-7
+'the power button' is a major command/punctuation error	'release' is a minor command/punctuation error		-6
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
+no-error	0
