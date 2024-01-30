@@ -78,7 +78,6 @@ def main(model_name, task_type, batch_size, eval_name):
     else:
         f = open(f'model_outputs/{model_name}/{task_type}_base_outputs_{model_name}.txt', 'w')
     
-    out_ls = []
     with tqdm(total=len(srcs)) as pbar:
         for index, src_batch in enumerate(batchify(srcs, batch_size)):
             if model_name == "alpaca" or model_name == "vicuna":
@@ -126,13 +125,17 @@ def main(model_name, task_type, batch_size, eval_name):
                 output_text = tokenizer.batch_decode(out, skip_special_tokens=True)
             
                 if model_name == "llama2" or model_name == "gpt-j" or model_name == "gpt-neox":
-                    out_ls += [out.replace(inp, '').split('\n')[0].strip()+'\n' for inp, out in zip(input_batch, output_text)]
+                    out_ls = [out.replace(inp, '').split('\n')[0].strip()+'\n' for inp, out in zip(input_batch, output_text)]
                 elif model_name == "deepseek":
-                    out_ls += [out.split('Assistant:')[-1].split('\n')[0].strip()+'\n' for out in output_text]
+                    out_ls = [out.split('Assistant:')[-1].split('\n')[0].strip()+'\n' for out in output_text]
                 elif model_name == "mistral" or model_name == "deepseek_moe" or model_name == "mistral_moe":
-                    out_ls += [out.split('[/INST]')[4].split('\n')[0].strip()+'\n' for out in output_text]
+                    out_ls = [out.split('[/INST]')[4].split('\n')[0].strip()+'\n' for out in output_text]
                 else:
-                    out_ls += [out.replace(inp, '').replace('\n','').strip()+'\n' for inp, out in zip(input_batch, output_text)]
+                    out_ls = [out.replace(inp, '').replace('\n','').strip()+'\n' for inp, out in zip(input_batch, output_text)]
+                
+                # print(out_ls)
+                for out in out_ls:
+                    f.write(out)
             pbar.update(batch_size)
 
 if __name__ == "__main__":

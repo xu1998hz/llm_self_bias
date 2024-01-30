@@ -10,6 +10,7 @@ import time
 from datasets import load_dataset
 import glob
 import json
+from google.generativeai.types import safety_types
 
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
@@ -51,6 +52,36 @@ def completions_with_google(system_prompt, prompt_txt, model_type):
             prompt=system_prompt + prompt_txt,
             temperature=1.0,
             max_output_tokens=2048,
+            safety_settings=[
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_DEROGATORY,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_VIOLENCE,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_UNSPECIFIED,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_TOXICITY,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_SEXUAL,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_MEDICAL,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+                {
+                    "category": safety_types.HarmCategory.HARM_CATEGORY_DANGEROUS,
+                    "threshold": safety_types.HarmBlockThreshold.BLOCK_NONE,
+                },
+            ],
         )
         if completion.result:
             return completion.result
@@ -73,7 +104,6 @@ def main(lang_dir, api_source, model_type, task_type):
         client = OpenAI()
 
     if task_type == "mt":
-        system_prompt = f"You are translating {src_lang}-to-{tgt_lang} machine translation. Do not provide any explanations or text apart from the translation. "
         if lang_dir == "zh-en":
             src_lang = "Chinese"
             tgt_lang = "English"
@@ -89,6 +119,7 @@ def main(lang_dir, api_source, model_type, task_type):
         else:
             print("Language direction is not supported!")
             exit(1)
+        system_prompt = f"You are translating {src_lang}-to-{tgt_lang} machine translation. Do not provide any explanations or text apart from the translation. "
     elif task_type == "sci":
         system_prompt = "You are a scientific problem solver. Generate rationale in latex format and generate final answer after #### in python3 float format (only float number, no explantion). For example, ####0.1"
         src_lines = []
@@ -118,7 +149,14 @@ def main(lang_dir, api_source, model_type, task_type):
                 .message.content
             )
         elif api_source == "google":
-            response = completions_with_google(system_prompt, prompt_txt, model_type)
+            indicater = True
+            while indicater:
+                try:
+                    response = completions_with_google(system_prompt, prompt_txt, model_type)
+                    indicater = False
+                except:
+                    continue
+           
         else:
             print("API source is not supported!")
             exit(1)
