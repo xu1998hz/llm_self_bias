@@ -4,6 +4,12 @@ from typing import TypeVar, Iterable, List
 import torch
 from tqdm import tqdm
 
+"""
+Task type refers to specific language direction
+
+CUDA_VISIBLE_DEVICES=3,4 nohup python3 code/load_models.py -model_name deepseek_moe -task_type zh-en -batch_size 1 -eval_name wmt_sys > deepseek_moe_wmt_sys_eval_zh-en.out 2>&1 &
+"""
+
 T = TypeVar('T')
 def batchify(data: Iterable[T], batch_size: int) -> Iterable[List[T]]:
     assert batch_size > 0
@@ -59,14 +65,17 @@ def main(model_name, task_type, batch_size, eval_name):
         print("Your task is not supported!")
         exit(1)
 
+    if eval_name == "wmt_sys":
+        srcs = open(f'model_outputs/wmt_sys/{task_type}_src_wmt_sys.txt', 'r').readlines()
+    else:
+        srcs = open(f'srcs/{task_type}_src_100.txt', 'r').readlines()
+
     if eval_name:
         out_lines = open(f'model_outputs/{eval_name}/{task_type}_base_outputs_{eval_name}.txt', 'r').readlines()
         out_lines = [ele[:-1] for ele in out_lines]
         out_batch_ls = [list(ele) for ele in batchify(out_lines, batch_size)]
-        srcs = open(f'model_outputs/wmt_sys/{task_type}_src_wmt_sys.txt', 'r').readlines()
         f = open(f'model_outputs/{model_name}/{task_type}_{model_name}_eval_{eval_name}.txt', 'w')
     else:
-        srcs = open(f'srcs/{task_type}_src_100.txt', 'r').readlines()
         f = open(f'model_outputs/{model_name}/{task_type}_base_outputs_{model_name}.txt', 'w')
     
     out_ls = []
