@@ -64,9 +64,10 @@ def main(model_name, task_type, batch_size, eval_name):
         out_lines = [ele[:-1] for ele in out_lines]
         out_batch_ls = [list(ele) for ele in batchify(out_lines, batch_size)]
         srcs = open(f'model_outputs/wmt_sys/{task_type}_src_wmt_sys.txt', 'r').readlines()
-        score_ls = []
+        f = open(f'model_outputs/{model_name}/{task_type}_{model_name}_eval_{eval_name}.txt', 'w')
     else:
         srcs = open(f'srcs/{task_type}_src_100.txt', 'r').readlines()
+        f = open(f'model_outputs/{model_name}/{task_type}_base_outputs_{model_name}.txt', 'w')
     
     out_ls = []
     with tqdm(total=len(srcs)) as pbar:
@@ -109,7 +110,7 @@ def main(model_name, task_type, batch_size, eval_name):
             
             if eval_name:
                 ppl = calculate_nll(input_batch, out_batch_ls[index], model, tokenizer)
-                score_ls += [str(ppl)+'\n']
+                f.write(str(ppl)+'\n')
             else:
                 inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                 out = model.generate(inputs=inputs.input_ids, max_new_tokens=256)
@@ -124,15 +125,6 @@ def main(model_name, task_type, batch_size, eval_name):
                 else:
                     out_ls += [out.replace(inp, '').replace('\n','').strip()+'\n' for inp, out in zip(input_batch, output_text)]
             pbar.update(batch_size)
-
-    if eval_name:
-        with open(f'model_outputs/{model_name}/{task_type}_{model_name}_eval_{eval_name}.txt', 'w') as f:
-            f.writelines(score_ls)
-        print(f"model_outputs/{model_name}/{task_type}_{model_name}_eval_{eval_name}.txt is saved!")
-    else:
-        with open(f'model_outputs/{model_name}/{task_type}_base_outputs_{model_name}.txt', 'w') as f:
-            f.writelines(out_ls)
-        print(f"model_outputs/{model_name}/{task_type}_base_outputs_{model_name}.txt is saved!")
 
 if __name__ == "__main__":
     main()
