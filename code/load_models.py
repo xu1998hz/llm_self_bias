@@ -2,6 +2,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig
 import click
 from typing import TypeVar, Iterable, List
 from manifest import Manifest
+import torch
 
 T = TypeVar('T')
 def batchify(data: Iterable[T], batch_size: int) -> Iterable[List[T]]:
@@ -31,13 +32,13 @@ name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'll
 @click.option('-batch_size', help="8", type=int)
 @click.option('-ip', help="http://172.31.11.128:5000")
 def main(model_name, task_type, batch_size, ip):
-    if model_name == "gpt-neox" or model_name == "deepseek_moe" or model_name == "mistral_moe":
-        model = Manifest(
-            client_name = "huggingface",
-            client_connection = ip,
-        )
-    else:
-        model = AutoModelForCausalLM.from_pretrained(name_dict[model_name], trust_remote_code=True).to("cuda")
+    # if model_name == "gpt-neox" or model_name == "mistral_moe":
+    #     model = Manifest(
+    #         client_name = "huggingface",
+    #         client_connection = ip,
+    #     )
+    # else:
+    model = AutoModelForCausalLM.from_pretrained(name_dict[model_name], torch_dtype=torch.bfloat16, device_map="auto", trust_remote_code=True)
     tokenizer = AutoTokenizer.from_pretrained(name_dict[model_name])
     tokenizer.pad_token = tokenizer.eos_token
     if task_type == "zh-en":
@@ -79,7 +80,7 @@ def main(model_name, task_type, batch_size, ip):
                 f"Translate {src_lang} text into {tgt_lang}.\n\n"
                 f"### Instruction:\n\n{src_lang}: {src[:-1]}\n\n### {tgt_lang}:"
             ) for src in src_batch]
-        elif model_name == "deepseek" or model_name == "mistral" or model_name == "deepseek_moe" or model_name == "mistral_moe":
+        elif model_name == "deepseek" or model_name == "mistral" or model_name == "mistral_moe" or model_name == "deepseek_moe":
             model.generation_config = GenerationConfig.from_pretrained(name_dict[model_name])
             model.generation_config.pad_token_id = model.generation_config.eos_token_id
             input_batch_icl = [{"role": "user", "content": "Translate Chinesse text into English. Chinese: 新华时评：把优秀返乡农民工打造成乡村振兴生力军-新华网 English:"},\
@@ -91,29 +92,28 @@ def main(model_name, task_type, batch_size, ip):
             input_batch = [input_batch_icl + [{"role": "user", "content": f"Translate {src_lang} text into {tgt_lang}. {src_lang}: {src[:-1]} {tgt_lang}:"}] for src in src_batch]
             input_batch = [tokenizer.apply_chat_template(ele, add_generation_prompt=True, tokenize=False) for ele in input_batch] 
         
-        # print(input_batch)
-        # print('-'*20)
-        
-        if model_name == 'gpt-neox' or model_name == "deepseek_moe" or model_name == "mistral_moe":
+        if model_name == 'gpt-neox': #or model_name == "mistral_moe":
             output_text = model.run(input_batch, n=1, max_new_tokens=512, do_sample=False)
             out_ls += [ele.split('\n')[0].strip()+'\n' for ele in output_text]
-            # print(out_ls)
-            # print('-'*50)
         else:
             inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048)
-            out = model.generate(inputs=inputs.input_ids.to("cuda"), max_new_tokens=256)
+            out = model.generate(inputs=inputs.input_ids.to(model.device), max_new_tokens=256)
             output_text = tokenizer.batch_decode(out, skip_special_tokens=True)
         
             if model_name == "llama2" or model_name == "gpt-j":
                 out_ls += [out.replace(inp, '').split('\n')[0].strip()+'\n' for inp, out in zip(input_batch, output_text)]
             elif model_name == "deepseek":
-                out_ls += [out.split('Assistant:')[-1].split('\n')[0].strip() for out in output_text]
-            elif model_name == "mistral":
-                out_ls += [out.split('[/INST]')[-1].split('\n')[0].strip() for out in output_text]
+                out_ls += [out.split('Assistant:')[-1].split('\n')[0].strip()+'\n' for out in output_text]
+            elif model_name == "mistral" or model_name == "deepseek_moe" or model_name == "mistral_moe":
+                # print(output_text[0].split('[/INST]'))
+                # print(len(output_text[0].split('[/INST]')))
+                # print('-'*20)
+                out_ls += [out.split('[/INST]')[4].split('\n')[0].strip()+'\n' for out in output_text]
             else:
                 out_ls += [out.replace(inp, '').replace('\n','').strip()+'\n' for inp, out in zip(input_batch, output_text)]
 
-        
+            # print(out_ls[-1])
+            # print('-'*50)
     
     with open(f'{task_type}_base_outputs_{model_name}.txt', 'w') as f:
         f.writelines(out_ls)
