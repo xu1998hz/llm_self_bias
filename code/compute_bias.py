@@ -5,9 +5,9 @@ from matplotlib import pyplot
 import click
 
 # we have three formula to compute bias
-# we first find a quantile mapping function which maps metric score into human score range
 
 
+# This implementation is based on Wikipedia description
 def distance_skewness(X, theta):
     # pairwise distances between the elements of X
     pairwise_distances = np.abs(np.subtract.outer(X, X))
@@ -22,31 +22,12 @@ def distance_skewness(X, theta):
     else:
         return 1 - numerator / denominator
 
-    # Mapping the model data to observation
-    # other_sys = "gpt-4"
-    # diff_ls_all = []
-    # for i in range(1, 11):
-    #     gt_other = open(
-    #         # f"/mnt/data3/wendaxu/self-improve/model_outputs/{other_sys}/yor-en_base_outputs_{other_sys}_bleurt.txt",
-    #         f"model_outputs/{other_sys}/yor-en_base_outputs_gpt-4_bleurt.txt",
-    #         "r",
-    #     ).readlines()
-    #     gt_other = [float(score[:-1]) for score in gt_other]
-    #     mapped_model = [max(-25, score) for score in f(gt_other)]
-    #     print(sum(mapped_model) / len(mapped_model))
-
-    #     print(sum(score_ls) / len(score_ls))
-
 
 @click.command()
-@click.option("-model_name")
+@click.option("-model_name", help="Assuming all model outputs are in the MQM styles")
 @click.option("-eval_name")
 @click.option("-lang")
 def main(model_name, eval_name, lang):
-    # score_ls = open(
-    #     f"model_outputs/{model_name}/{lang}_{model_name}_eval_{eval_name}_nor.txt", "r"
-    # ).readlines()
-    # score_ls = [float(ele) for ele in score_ls]
     file_name = f"model_outputs/{model_name}/yor-en_eval_100_one-shot_{eval_name}.txt"
     lines = open(
         file_name,
@@ -85,14 +66,5 @@ def main(model_name, eval_name, lang):
     print()
 
 
-# diff_ls_all += [diff_ls]
-# bins = np.linspace(-25, 25, 100)
-
-# pyplot.hist(
-#     [ele - 0.5 for ele in diff_ls_all[0]], bins, alpha=0.5, label="1st iteration"
-# )
-# pyplot.hist(diff_ls_all[-1], bins, alpha=0.5, label="10th iteration")
-# pyplot.legend(loc="upper left")
-# pyplot.savefig("example.png")
 if __name__ == "__main__":
     main()
