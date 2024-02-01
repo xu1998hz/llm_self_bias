@@ -1,10 +1,6 @@
 import numpy as np
 from scipy import interpolate
-
-ref_lines = open(
-    "/mnt/data3/wendaxu/.mt-metrics-eval/mt-metrics-eval-v2/wmt22/human-scores/zh-en.mqm.seg.score",
-    "r",
-).readlines()
+import click
 
 
 def from_list_to_dict(ref_lines):
@@ -19,82 +15,64 @@ def from_list_to_dict(ref_lines):
     return ref_dict
 
 
-ref_dict = from_list_to_dict(ref_lines)
-
-out_lines = open(
-    "/mnt/data3/wendaxu/.mt-metrics-eval/mt-metrics-eval-v2/wmt22/metric-scores/zh-en/BLEURT-20-refA.seg.score",
-    "r",
-).readlines()
-
-out_dict = from_list_to_dict(out_lines)
-
-ref_score_ls = []
-out_score_ls = []
-
-for ref_sys in set(ref_dict) - {"refA"}:
-    ref_score_ls += ref_dict[ref_sys]
-    out_score_ls += out_dict[ref_sys]
-
-obs_data = np.array(ref_score_ls)
-model_data = np.array(out_score_ls)
-
-# Sorted observation data
-sorted_observed = np.sort(obs_data)
-
-# Sorted model data
-sorted_model = np.sort(model_data)
-
-# Interpolation function
-f = interpolate.interp1d(
-    sorted_model, sorted_observed, bounds_error=False, fill_value="extrapolate"
+@click.command()
+@click.option(
+    "-human_file",
+    help="/mnt/data3/wendaxu/.mt-metrics-eval/mt-metrics-eval-v2/wmt22/human-scores/zh-en.mqm.seg.score",
 )
+@click.option(
+    "-obs_score_file",
+    help="/mnt/data3/wendaxu/.mt-metrics-eval/mt-metrics-eval-v2/wmt22/metric-scores/zh-en/BLEURT-20-refA.seg.score",
+)
+@click.option(
+    "-new_score_file",
+    help="",
+)
+@click.option("-save_name")
+def main(human_file, obs_score_file, new_score_file, save_name):
+    # ref_lines = open(human_file, "r").readlines()
+    # ref_dict = from_list_to_dict(ref_lines)
 
-# Mapping the model data to observation
+    # out_lines = open(obs_score_file, "r").readlines()
+    # out_dict = from_list_to_dict(out_lines)
 
-for i in range(1, 11):
-    for other_sys in [
-        # "gpt-3.5-turbo",
-        "gpt-4",
-        # "gemini",
-    ]:
-        gt_other = open(
-            # f"/mnt/data3/wendaxu/self-improve/model_outputs/{other_sys}/yor-en_base_outputs_{other_sys}_bleurt.txt",
-            f"model_outputs/{other_sys}/yor-en_self_refinement_100_{other_sys}_new_{i}_rerun_bleurt.txt",
-            "r",
-        ).readlines()
-        gt_other = [float(score[:-1]) for score in gt_other]
-        mapped_model = [max(-25, score) for score in f(gt_other)]
-        print(i)
-        print(other_sys)
-        print(sum(mapped_model) / len(mapped_model))
-        print()
+    # ref_score_ls = []
+    # out_score_ls = []
 
-# file_name = f"/mnt/data3/wendaxu/self-improve/model_outputs/{other_sys}/yor-en_eval_100_one-shot_refined_2nd_gpt-4.txt"
-# lines = open(
-#     file_name,
-#     "r",
-# ).readlines()
-# final_ls = "".join(lines).split("[SEP_TOKEN_WENDA]")[:-1]
-# print(file_name)
-# print(len(final_ls))
-# score_ls = []
-# for ele in final_ls:
-#     score_ls += [
-#         max(
-#             -25,
-#             (
-#                 -1 * ele.count("minor")
-#                 + -5 * ele.count("major")
-#                 + (-5) * ele.count("critical")
-#             ),
-#         )
-#     ]
+    # for ref_sys in set(ref_dict) - {"refA"}:
+    #     ref_score_ls += ref_dict[ref_sys]
+    #     out_score_ls += out_dict[ref_sys]
+    ref_score_ls = open(human_file, "r").readlines()
+    ref_score_ls = [float(ele[:-1]) for ele in ref_score_ls]
 
-# import matplotlib.pyplot as plt
-# import numpy as np
+    out_score_ls = open(obs_score_file, "r").readlines()
+    out_score_ls = [float(ele[:-1]) for ele in out_score_ls]
 
-# x = np.array(mapped_model)
-# y = np.array(score_ls)
+    obs_data = np.array(ref_score_ls)
+    model_data = np.array(out_score_ls)
 
-# plt.scatter(x, y)
-# plt.savefig("gpt-4_2.png")
+    # Sorted observation data
+    sorted_observed = np.sort(obs_data)
+
+    # Sorted model data
+    sorted_model = np.sort(model_data)
+
+    print(len(sorted_observed))
+    print(len(sorted_model))
+    # Interpolation function
+    f = interpolate.interp1d(
+        sorted_model, sorted_observed, bounds_error=False, fill_value="extrapolate"
+    )
+
+    # Mapping the model data to observation
+    gt_other = open(new_score_file, "r").readlines()
+    gt_other = [float(score[:-1]) for score in gt_other]
+    mapped_model = [max(-25, score) for score in f(gt_other)]
+    print("Average score: ", sum(mapped_model) / len(mapped_model))
+    mapped_model = [str(ele) + "\n" for ele in mapped_model]
+    with open(save_name, "w") as f:
+        f.writelines(mapped_model)
+
+
+if __name__ == "__main__":
+    main()

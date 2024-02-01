@@ -1,0 +1,88 @@
+No errors detected.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"#PRS_ORG#" is a critical non-translation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'lowest number of daily' is a major accuracy/omission error
+'Fall' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Todesfälle' is a critical accuracy/mistranslation error
+'abgeflogen' is a major accuracy/mistranslation error
+'Pandemie-Ausbruchs' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Nach der Presse-Meldung vom Samstag" is a major accuracy/omission error
+"wurden bekannt" is a minor fluency/grammar error
+"eingewiesen wurden" is a minor fluency/grammar error[SEP_TOKEN_WENDA]'erholt' is a major accuracy/mistranslation error
+"the country" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'diagnosis' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'so weit' is a major fluency/grammar error
+'erhalten' is a minor fluency/grammar error
+'die' is a minor fluency/register error[SEP_TOKEN_WENDA]'Republik' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'no' is a major accuracy/mistranslation error
+'gemeldet' is a major accuracy/omission error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Zone" is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Montag' is a critical accuracy/mistranslation error
+'Impfungen auszutauschen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"viertelte" is a minor fluency/spelling error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'eReader's' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Plus-Symbol" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'taste' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Versionnummer' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Guten' is a minor fluency/spelling error
+'#NAME#' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Druckventil' is a critical accuracy/mistranslation error
+'zu einem guten' is a major fluency/grammar error
+'Abdrücken' is a major fluency/spelling error
+'getrieben' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'jede' is a major accuracy/mistranslation error
+'ermöglicht' is a minor fluency/grammar error
+'alle' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'lifetime' is a major accuracy/mistranslation error
+'eventuellen' is a minor fluency/grammar error
+'Mangel' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"Nach einiger Übung" is a minor fluency/grammar error
+"wird dieses System leicht und bequem" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'VVI' is a major accuracy/addition error
+'benutzerfreundlich' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Die' is a critical fluency/grammar error
+'Ladekon' is a major accuracy/mistranslation error
+'banden' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Bangs' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"best Bandenlänge" is a critical terminology/inappropriate for context error
+"an assortment of tension bands, in the most popular sizes," is a minor style/awkward error[SEP_TOKEN_WENDA]'Zusätzlich' is a minor fluency/awkward error
+'schlanken und diskreten' is a minor accuracy/mistranslation error
+'Träger zu tragen' is a major accuracy/mistranslation error
+'fast überall' is a minor accuracy/mistranslation error
+'einpacken lässt' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"sexual Lebensweise" is a critical accuracy/ mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Pump' is a critical accuracy/mistranslation error
+'keine' is a minor fluency/spelling error[SEP_TOKEN_WENDA]"Missed out auf" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'in 2022' is a critical accuracy/untranslated text error
+'die nächste große Kryptowährung in 2022 explodieren' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"aufgeblüht" is a major accuracy/mistranslation error
+"über" is a minor fluency/spelling error[SEP_TOKEN_WENDA]'über' is a major locale convention/currency error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'FOMO' is a major accuracy/mistranslation error
+'that led' is a major accuracy/omission error
+'in die Meme-Coin investierten' is a major fluency/grammar error[SEP_TOKEN_WENDA]"gewidmet" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'tangibleen' is a major accuracy/mistranslation error
+'anzunehmenden' is a minor fluency/grammar error
+'in der Zukunft' is a minor style/awkward error[SEP_TOKEN_WENDA]Major accuracy/non-translation error[SEP_TOKEN_WENDA]'und grundlegender Wertigkeit' is a major accuracy/addition error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Grund' is a critical accuracy/mistranslation error
+'Projektideen' is a major accuracy/mistranslation error
+'stabile Währung bezahlen' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'binance-pegged USD' is a critical accuracy/mistranslation error
+' kurzen Zeiten' is a major accuracy/mistranslation error
+'Ever?-Kä?' is a major accuracy/mistranslation error
+'USD-Belohnungen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Die Projektzeitraum' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Marktkapitalisierung' is a major accuracy/mistranslation error
+'mass Panic' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Mit solchen" is a minor accuracy/addition error
+"using the incorrect data" is a major accuracy/mistranslation error
+"Investoren" is a major accuracy/omission error[SEP_TOKEN_WENDA]'Monat' is a minor fluency/spelling error
+'nicht' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'EverGrow's' is a critical accuracy/mistranslation error
+'welches' is a minor fluency/grammar error
+'behoben' is a minor fluency/grammar error
+'hat' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Rückgangs auf die Vergangenheit' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Trotzdem' is a minor fluency/inconsistency error
+'Fehler' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]"sich kürzlich zum ersten Mal mit einem Kryptowährungs-Wallet bekannt" is a major accuracy/mistranslation error
+"obvious" is a major terminology/inappropriate for context error
+"üblichen" is a minor fluency/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Mit' is a minor accuracy/omission error
+'kann' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"top cryptos to invest in for" is a major accuracy/mistranslation error
+"aus dem Weg räumen kann" is a major fluency/grammar error
+"ist es" is a major fluency/grammar error
+"to invest in for" is a major fluency/grammar error
+"2022." is a major fluency/punctuation error[SEP_TOKEN_WENDA]"Vielen Dank" is a minor fluency/register error
+"into your account" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'help you' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"okay?" is a major fluency/punctuation error
+"auf Ihre Geräte" is a minor accuracy/mistranslation error
+"perform into" is a critical accuracy/ mistranslation error[SEP_TOKEN_WENDA]'HR' is a major accuracy/untranslated text error
+'der Payroll' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Bezahlerin" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Depending' is a major accuracy/omission error[SEP_TOKEN_WENDA]'verbergen' is a critical accuracy/mistranslation error
+'directories' is a major accuracy/mistranslation error
+'they didn't know' is a major accuracy/omission error
+'identify the abuser' is a major accuracy/omission error[SEP_TOKEN_WENDA]"Arrangementsmöglichkeit" is a critical terminology/inappropriate for context error
+"Steuerbescheinigung" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'wohl' is a minor fluency/grammar error
+'eine' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Eine andere Sache, die ich vielleicht tun kann' is a minor fluency/awkward error
+'"trying to figure this out" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Kreditkarte' is a critical accuracy/mistranslation error
+'account' is a major accuracy/omission error
+Source: ```Tax cultural relics protection act of the people's Republic of China 22nd article fourth paragraph suggests that failure to excavate and transport archaeological relics, which illegally bought, stored and sold them, shall be dealt with under article 308 of the criminal law.``` Translation: ```Das Kulturgüterschutzgesetz der Volksrepublik China, Artikel 22, Absatz 4, sieht vor, dass Personen, die archäologische Fundstücke illegal ausgegraben, befördert und gekauft, gelagert sowie verkauft haben, nach Artikel 308 des Strafgesetzes zu bestrafen sind.``` MQM annotations: 'Fundstücke' is a major accuracy/mistranslation error
+'Personen' is a major accuracy/omission error[SEP_TOKEN_WENDA]"Also" is a minor fluency/awkward error
+"have various" is a major accuracy/mistranslation error
+"Mitarbeiter-Unterstützungs" is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Käufe' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'any' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"kaufen" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Zuhause" is a critical accuracy/mistranslation error
+"es ein Risiko" is a major fluency/grammar error
+"für einige" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'türkische' is a critical accuracy/mistranslation error
+'Gespräche' is a major accuracy/omission error[SEP_TOKEN_WENDA]'weiter' is a major accuracy/addition error
+'If you' is a major accuracy/omission error
+'we will be able' is a major fluency/grammar error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical locale convention/name error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Sie' is a major accuracy/mistranslation error
+'bekommen' is a major accuracy/mistranslation error
+'da' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"payments" is a critical accuracy/mistranslation error
+"order" is a major accuracy/omission error
+"so you can" is a major accuracy/addition error[SEP_TOKEN_WENDA]'>' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'nicht mitgekauft' is a critical accuracy/mistranslation error
+'an den Stromschlitz' is a minor accuracy/addition error
+'Stromschlitz' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"bis Sie" is a minor fluency/grammar error
+""Powered off"" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Knopf' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Die Schaltfläche' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Knopf" is a minor accuracy/mistranslation error
+"auf" is a minor accuracy/omission error
+"Ihrem" is a minor accuracy/omission error
+"E-Reader" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"layer" is a major accuracy/mistranslation error
+"Restore" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Die Schaltfläche' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"neu gestartet wurde" is a minor style/awkward error
+"WiFi-Netzwerk-Einstellung" is a minor fluency/terminology error
+"wird Ihnen gefragt" is a minor fluency/grammar error[SEP_TOKEN_WENDA]'E-Mail-Adresse' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Seite' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]

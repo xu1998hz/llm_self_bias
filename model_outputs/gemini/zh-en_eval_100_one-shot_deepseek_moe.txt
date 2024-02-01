@@ -1,0 +1,47 @@
+no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Or when" is a major accuracy/mistranslation error
+"restaurant be ready" is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Last night' is a major accuracy/omission error
+'at the opening ceremony' is a major accuracy/omission error
+'a series of out-of-the-box academic achievements' is a major accuracy/omission error
+'of Zhejiang University' is a major accuracy/omission error[SEP_TOKEN_WENDA]The translation has no errors.[SEP_TOKEN_WENDA]'Biological sensor' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Dr. ZHANG Di Ming' is a minor locale convention/name error[SEP_TOKEN_WENDA]"instrument can" is a critical terminology/inappropriate error in context
+"gas" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'expelled' is a major accuracy/mistranslation error
+'report' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]"this biological sensor" is a major terminology/inappropriate for context error
+"reflect the state of health" is a major accuracy/mistranslation error
+"its target substance" is a major accuracy/omission error
+"more deeply" is a minor style/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Master' is a minor accuracy/omission error
+'College' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"using the light in the operating room" is a critical accuracy/omission error[SEP_TOKEN_WENDA]'According' is a minor accuracy/addition error
+'cancer' is a minor accuracy/mistranslation error
+'screening' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'plates' is a critical accuracy/mistranslation error
+'different tissues' is a major accuracy/mistranslation error
+
+Source: ```【儋州】2020年10月8日上午9时，渔民在海南儋州沿海海域进行捕捞作业时发现一具漂浮在近海海面上的尸体，立即报警。10月9日，有市民发布一段手机拍摄的视频称其在儋州市西海岸一带的海域内发现两具尸体漂在海上，随后被渔民捞上。``` Translation: ```[Dan County] At 9:00 AM on October 8, 2020, a corpse floating in the offshore fishing area of Hainan Danzhou was found by fishermen while they were fishing in the offshore sea area. On October 9, a citizen released a video shot on a mobile phone, claiming that he found two bodies floating in the sea along the western coast of Danzhou, which were later salvaged by fishermen.``` MQM annotations: 'along the western coast' is a major accuracy/mistranslation error
+'in the sea' is a major accuracy/omission error
+'fishing area' is a minor accuracy/addition error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"the Affiliated Hospital of Shaoxing University, Zhejiang University School of Medicine" is a major accuracy/addition error
+"for Children" is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"cool" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"simply" is a major accuracy/addition error
+"simply rinsing" is a major accuracy/omission error
+"wiping with soap or applying hand sanitizer" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'our weight' is a critical accuracy/omission error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'fluid' is a major accuracy/mistranslation error
+'when it comes out' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors identified.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"to a certain extent" is a major fluency/awkward error[SEP_TOKEN_WENDA]"Global Grand Challenges Summit" is a major terminology/inconsistent use error
+" stood out " is a minor fluency/grammar error
+" among many " is a minor fluency/grammar error[SEP_TOKEN_WENDA]'补回' is a critical accuracy/mistranslation error
+'thx' is a minor style/awkward error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]#PRS_ORG# is a critical non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]#PRS_ORG# is a critical non-translation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]"Let's clarify" is a minor style/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'or respiratory' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors detected[SEP_TOKEN_WENDA]"someone" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]"1%" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"the founder of the first response" is a major terminology/inappropriate for context error
+"said" is a minor accuracy/addition error[SEP_TOKEN_WENDA]''8 points'' is a critical accuracy/addition error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'learn first aid' is a critical accuracy/mistranslation error
+'I found that' is a major accuracy/addition error
+'when things happen' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"First Aid" is a major terminology/inappropriate for context error
+"enrolled" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"first aid" is a critical terminology/inappropriate for context error
+"the age of 25" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"first aid" is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/machine translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"The conclusion is..." is a minor accuracy/addition error
+'failure' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'can't' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"a movie that can make you angry after watching it" is a critical accuracy/mistranslation error
+'it can use countless ways to ignite your anger' is a major fluency/awkward error
+'the top of' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"holes like the windbreaker on a horse's back" is a critical accuracy/mistranslation error
+"a Lovecraftian novel" is a major accuracy/omission error
+"indescribable" is a major accuracy/omission error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'drive a small van to' is a major accuracy/mistranslation error
+'China' is a minor locale convention/name format error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'relieved' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'has no further words' is a critical accuracy/mistranslation error
+'老' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'the protagonist's' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'on the road' is a minor accuracy/addition error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'small-time' is a critical accuracy/mistranslation error
+'hoodlum' is a critical style/inappropriate for context error
+'suspected' is a major accuracy/addition error[SEP_TOKEN_WENDA]'loan shark' is a major accuracy/mistranslation error
+'movie' is a major accuracy/omission error
+'report' is a major accuracy/omission error[SEP_TOKEN_WENDA]'innkeeper' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"recalling them makes me feel pain" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'a hideous Frankenstein monster' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This task cannot be performed because no machine translation was provided in the context.[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"plot" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'For example' is a major accuracy/untranslated error
+'new motorcycle' is a critical accuracy/mistranslation error
+'When Yin Zheng played' is a critical accuracy/mistranslation error
+'character who can still sing' is a major accuracy/omission error
+'open some brains' is a major accuracy/mistranslation error
+'that Kennedy couldn't stand' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'retarded' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'to add trouble' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'TAI DA Electronics Co.,LTD' is a major accuracy/omission error
+'Battery Box' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]

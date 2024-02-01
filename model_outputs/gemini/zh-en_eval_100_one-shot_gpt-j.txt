@@ -1,0 +1,76 @@
+No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'又或者..会准备好' is a major accuracy/mistranslation error
+'帮我问下' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'The University of California, Davis' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Jiangsu University' is a critical accuracy/mistranslation error
+'浙江' is a critical accuracy/omission error
+'diseases' is a critical accuracy/omission error
+'雾霾' is a critical terminology/inappropriate for context error
+'表彰' is a critical terminology/inconsistence use error[SEP_TOKEN_WENDA]'these achievements' is a critical accuracy/omissions error
+'good question point' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Biological Sensor' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'University of Hong Kong' is a major accuracy/addition error
+'that can be attached' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"oxygen" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'phone' is a critical accuracy/mistranslation error
+'gas' is a major accuracy/mistranslation error
+'Zhang' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'而' is a minor accuracy/mistranslation error
+'which is a kind of carbon' is a major accuracy/mistranslation error
+'chemicals' is a major accuracy/mistranslation error
+'detect' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Gold Medal' is a critical accuracy/mistranslation error
+'This invention has been awarded the' is a major accuracy/addition error
+'44th Swiss' is a minor accuracy/omission error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]"bulb" is a major accuracy/mistranslation error
+"not removed" is a major accuracy/omission error
+"and" is a major accuracy/addition error[SEP_TOKEN_WENDA]'"申俊飞说" (Dr. J.S. Huang said)' is a major fluency/inconsistency error
+'tissue' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'organizations' is a critical accuracy/mistranslation error
+'light conditions' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'size, brightness, spectrum,' is a major accuracy/omission error
+'individual's' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Jiangsu' is a critical accuracy/mistranslation error
+'Shao Yifu' is a major accuracy/omission error
+'Children's' is a major accuracy/omission error[SEP_TOKEN_WENDA]'National Challenge Cup' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Wash hands with water" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'air-washing device' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'stand up' is a major accuracy/mistranslation error
+'compressed out of the air' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"cigarette lighter" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"forms a fluid" is a critical accuracy/mistranslation error
+"water faucet" is a critical accuracy/omission error
+"mouth of the dragon" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"and can be cleaned to a high degree" is a critical accuracy/mistranslation error
+"completely without energy consumption" is a minor style/awkward error[SEP_TOKEN_WENDA]'many' is a major accuracy/mistranslation error
+'in' is a major accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]"Bones" is a critical accuracy/mistranslation error
+"dishes" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Thank you' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"sorry" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'car' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Introduce' is a critical accuracy/mistranslation error
+'exactly' is a critical accuracy/untranslated text error
+'time of an incident' is a major accuracy/mistranslation error
+'before the rescue vehicle arrives' is a minor accuracy/addition error
+'which is' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"of the accident" is a major accuracy/addition error
+"came in a short time" is a major accuracy/mistranslation error
+"it was during this time" is a major accuracy/mistranslation error
+"that the most important thing happened" is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'my life's window' is a critical terminology/inappropriate context error
+'four minutes of gold' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"When we are around someone who has fallen down, we can rescue them through professional knowledge" is a critical accuracy/ mistranslation error[SEP_TOKEN_WENDA]"heart attacks" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors are detected.[SEP_TOKEN_WENDA]"In Las Vegas" is a major accuracy/omission error
+"…" is a minor style/awkward error[SEP_TOKEN_WENDA]'the founder of the company' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"heart attack" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'rescue' is a critical accuracy/mistranslation error
+'the situation happens' is a minor accuracy/repetition error[SEP_TOKEN_WENDA]No Errors[SEP_TOKEN_WENDA]"Pearl River Delta Red Cross center" is a critical accuracy/mistranslation error
+'the Red Cross at' is a major accuracy/addition error
+'can be contacted at' is a minor style/awkward error[SEP_TOKEN_WENDA]"emergency card" is a critical accuracy/mistranslation error
+"adding the" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"diving certificate" is a major accuracy/mistranslation error
+"diving test" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]'lobster' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#NAME#' is a critical untranslated text error[SEP_TOKEN_WENDA]'How much is it?' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'漏送餐品' is a major accuracy/mistranslation error
+'这次' is a major accuracy/omission error
+'它's' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'at least a good soundtrack' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"after watching it" is a critical accuracy/mistranslation error
+"excitement" is a major accuracy/mistranslation error
+"Mount Everest" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"pilot" is a critical accuracy/mistranslation error
+"really a god-like person" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"film" is a major accuracy/mistranslation error
+"in the world" is a major fluency/awkward error
+"it is hard to name" is a major accuracy/omission error
+"it is like a windy coat on a little horse" is a major fluency/awkward error[SEP_TOKEN_WENDA]"when you think about it" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'I'll try' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"his grandmother should be his guardian" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'bakery' is a critical accuracy/mistranslation error
+'drives' is a major accuracy/mistranslation error
+'the north' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'sandwhich' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]"police force" is a critical accuracy/mistranslation error
+"lighten up" is a major accuracy/mistranslation error
+"roadblock" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the car with the steel cable' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"a small-time gangster" is a critical accuracy/mistranslation error
+"police officer" is a critical accuracy/omission error[SEP_TOKEN_WENDA]'Why' is a minor accuracy/addition error
+'the police' is a major accuracy/omission error
+'report high interest rates' is a major accuracy/mistranslation error
+'Why don't you' is a major style/awkward error[SEP_TOKEN_WENDA]"sitting outside the room door and sleeping all night" is a major accuracy/mistranslation error
+"sleep a night outside the room door" is a major accuracy/omission error
+"a grown-up person" is a minor fluency/punctuation/spelling error[SEP_TOKEN_WENDA]"This events" is a major accuracy/untranslated text error
+"I will always remember them when I think about them" is a critical style/awkward error[SEP_TOKEN_WENDA]'it has no plot, or that it has no plot at all' is a major fluency/inconsistency error
+'horrible mess of a film' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'At the beginning of the video' is a major accuracy/addition error
+'quarter of an hour' is a minor terminology/inappropriate term error
+'drama film' is a major accuracy/mistranslation error
+'a movie about a young man who has a hard time living in a small town' is a major accuracy/omission error
+'after watching it you will not know what you have watched' is a major accuracy/mistranslation error
+'doubt about yourself' is a minor accuracy/untranslated error[SEP_TOKEN_WENDA]"motorcycle driver" is a major accuracy/mistranslation error
+"story and comedy" is a major accuracy/ mistranslation error
+"a talented bird" is a major accuracy/mistranslation error
+"get to success" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the love between' is a major accuracy/mistranslation error
+'the young people of the small town' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'similar' is a critical accuracy/mistranslation error
+'be similar' is a minor style/awkward error[SEP_TOKEN_WENDA]"in the movie 'The Martian'" is a critical accuracy/addition error
+'could not open' is a critical accuracy/mistranslation error
+'not able to' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"a 5-year-old child" is a minor accuracy/mistranslation error
+"'why this is" is a minor style/awkward error[SEP_TOKEN_WENDA]'Korean actor, Kim Woo-sung' is a critical accuracy/mistranslation error
+'There is one thing I don't understand too' is a major fluency/awkward error[SEP_TOKEN_WENDA]'is it to block' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'box' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Location:' is a major accuracy/addition error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]

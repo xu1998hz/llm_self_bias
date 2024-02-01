@@ -1,0 +1,103 @@
+"Don't let the day pass without doing something meaningful. It is better to do something small than to do nothing at all" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Yoruba:" is a critical non-translation error
+"Marketplace" is a major accuracy/mistranslation error
+"gather the people together" is a minor inaccuracy/addition error[SEP_TOKEN_WENDA]This is a non-translation error. The source segment is in Yoruba, and the target segment is in English. The machine translation system is not able to translate between these two languages, so it has simply copied the source segment into the target segment.[SEP_TOKEN_WENDA]"Yorba" is a critical accuracy/mistranslation error
+"No, it's not Aje," is a critical accuracy/omissions error
+"She is known for her translations of works by authors such as Toni Morrison and Philip Roth." is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]This context does not include a machine translation, so I am unable to provide a quality analysis of the translation.[SEP_TOKEN_WENDA]"Yorba" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Yorba' is a critical fluency/spelling error
+'season' is a major accuracy/omission error
+'with the sharks' is a major accuracy/omission error
+'one of the few contestants' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'Yorba:' is a critical accuracy/untranslated text error
+'Siminoff' is a critical accuracy/mistranslation error
+'decidió marcharse' is a critical accuracy/untranslated text error
+'QVC' is a minor terminology/inconsistency error
+'and' is a minor style/awkwards error[SEP_TOKEN_WENDA]the translation is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]The whole translation is a critical non-translation error[SEP_TOKEN_WENDA]Translation of the source segment is missing in the provided context.[SEP_TOKEN_WENDA]"Yorba" is a major non-translation/other error
+"" is a minor punctuation/other error
+":" is a minor punctuation/other error
+"They will be staying in Apapa-Ebi-Olympics hotel." is a critical accuracy/mistranslation error
+"The hotel is located in the heart of Lagos" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The USOC has announced that it will not participate in the 2022 World Cup' is a critical accuracy/mistranslation error
+'after a thorough review of the current state of the game and the needs of the players' is a critical accuracy/addition error
+'The USOC believes that it is in the best interest of the game to focus on developing the next generation of players and coaches' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"It is important to note that the team is not responsible for the actions of its former doctor." is a major accuracy/inconsistent use of terminology error[SEP_TOKEN_WENDA]'full of life and death' is a major accuracy/untranslated text error
+'country that is' is a major accuracy/addition error
+'darkness. It is' is a major accuracy/addition error
+'laughter and tears' is a major accuracy/omission error
+'It is a country' is a major accuracy/addition error
+'full of hope and' is a major accuracy/addition error[SEP_TOKEN_WENDA]'from' is a critical accuracy/mistranslation error
+'s' is a minor accuracy/mistranslation error
+'Bresinski' is a major terminology/inappropriate for context error
+'Isaac' is a major terminology/inconsistent use error
+'K.' is a major terminology/inconsistent use error
+'Johnson' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]"the United States government" is a major accuracy/omission error
+"decide" is a minor fluency/terminology error
+"in Nigeria" is a major accuracy/addition error[SEP_TOKEN_WENDA]The translation is not a translation of the original text, but rather an explanation of the original text. The error type is a critical non-translation error.[SEP_TOKEN_WENDA]'Fíìmú tó sàfihàn' is a minor accuracy/untranslated text error
+'Ryan Gosling' is a major terminology/inconsistent use error
+'yíyàn nì gbogbo éka pàtàkì' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Yorba' is a critical non-translation error[SEP_TOKEN_WENDA]"Yorba:" is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Please translate this text into English' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]This is a non-translation error[SEP_TOKEN_WENDA]'Yorba' is a critical accuracy/mistranslation error
+'is' is a minor accuracy/mistranslation error
+'ISIS has been' is a major accuracy/omission error
+'people' is a major accuracy/omission error
+'been' is a minor accuracy/omission error
+'and courage' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'but it will soon come out, and the baby dinosaurs will be born' is a critical accuracy/addition error
+'The egg is like a precious pearl, and the baby dinosaurs will be like a beautiful flower.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"The sun is shining brightly in the sky, and the birds are singing beautifully." is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Explanation:This Yorba' and 'in English' are both minor style/awkward errors[SEP_TOKEN_WENDA]'The Yorba text describes the process of plucking hair from the head, starting from the front, and moving towards the back, until all the hair is removed.' is a critical accuracy/untranslated text error
+'The process is compared to the removal of barbs or barbules from the rachis of a plant, and the hair is compared to the leaves of the plant.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]Non-translation in this context is a critical error since the context is a translation task.[SEP_TOKEN_WENDA]'Yorba: The dinosaurs are coming, and they are very angry.' is a major non-translation error
+'They are going to destroy everything in their path.###' is a major non-translation error
+'Explanation:' is a major non-translation error
+'The Yorba text is a warning message in Yoruba language, indicating that dinosaurs are approaching and are very angry.' is a major accuracy/addition error
+'They are going to cause destruction in their path.' is a major accuracy/addition error
+'The English translation conveys the same message in English.' is a major non-translation error[SEP_TOKEN_WENDA]'### Translation:' is a major accuracy/untranslated text error
+'": "Ado' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]There is no translation provided.[SEP_TOKEN_WENDA]"and the moon is shining brightly" is a major accuracy/addition error
+"the earth is covered in darkness" is a major accuracy/mistranslation error
+"The stars are also shining, and the earth is covered in darkness." is a major accuracy/mistranslation error
+"The moon is the only light in the sky, and it is the source of all light." is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]This context contains non-translatable elements. Therefore, the translation cannot be assessed for translation quality.[SEP_TOKEN_WENDA]This context does not include a machine translation, so we cannot fulfill the request.[SEP_TOKEN_WENDA]Source segment and machine translation are missing. Please provide the source segment and machine translation to assess the translation quality.[SEP_TOKEN_WENDA]'Yorba' is a minor fluency/spelling error
+'Nigeria, Benin, and Togo' is a minor locale convention/name error
+'is also widely used in India' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Yorba' is a major locale convention/name error
+'802.11n' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'This is a request to translate the text from Yoruba to English' is a critical accuracy/addition error
+'### Note:Yoruba is a language spoken in Nigeria and other parts of West Africa.' is a critical no-translation error[SEP_TOKEN_WENDA]The category 'non-translation' in the MQM annotation indicates the error refers to missed translation.[SEP_TOKEN_WENDA]'Yorba' is a minor non-translation/other error[SEP_TOKEN_WENDA]'' is a minor fluency/spelling error
+"Mike, come here quickly... I want to show you something. Don't you see that the sky is red?" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Yorba text: “A ó tiraka láti gé ohun tí ó ń jáde carbon dioxide lóní ìwọ̀n GDP pẹ̀lú àmì tó farahàn bí yíò bá fi di 2020 láti ìpele 2005 gẹ́gẹ́ bí” How is this?" is a major non-translation error
+"### Translation:" is a major non-translation error
+"The Yorba text is a statement in the Yorba language. The statement is difficult to understand because it is not written in the standard form of the Yorba language. The statement appears to be discussing the amount of carbon dioxide emissions in relation to the GDP of a country. The speaker is saying that the amount of carbon dioxide emissions in 2020 was higher than in 2005." is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]"Translate the Yorba text into English" is a critical non-translation error
+"The child who is not obedient will be punished severely." is a major translation error
+"The Yorba text is a sentence in the Yoruba language, which is a language spoken in Nigeria." is a major accuracy/addition error
+"The sentence translates to" is a minor accuracy/addition error[SEP_TOKEN_WENDA]"Explanation:" is a critical locale convention/non-translation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]The whole translation is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"The sun is ..." is a critical accuracy/mistranslation error
+"is shining ..." is a critical accuracy/mistranslation error
+"in the sky" is a critical accuracy/untranslated error
+"and the birds ..." is a critical accuracy/untranslated error 
+"are singing ..." is a critical accuracy/mistranslation error
+"happily in the trees" is a critical accuracy/untranslated error
+"The people ..." is a critical accuracy/mistranslation error
+"of America are ..." is a critical accuracy/untranslated error
+"enjoying their vacation" is a critical accuracy/untranslated error
+"and the beautiful flowers ..." is a critical accuracy/untranslated error
+"are blooming in the garden" is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]'take' is a major accuracy/mistranslation error
+'the post office' is a major accuracy/omission error
+'that everyone should know' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Translate the Yorba text into English.' is a critical non-translation error[SEP_TOKEN_WENDA]'Yorba' is a critical terminology/incorrect error
+'kilometers' is a critical terminology/incorrect error
+'south of' is a major accuracy/mistranslation error
+'La Plata' is a major accuracy/omission error[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]Translation is not needed since the source text is already in English. MQM annotations: non-translation[SEP_TOKEN_WENDA]This context does not include a machine translation, so it is impossible to annotate it.[SEP_TOKEN_WENDA]"&eacute" is a minor fluency/spelling error
+"Yorba" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'here' is a minor accuracy/addition error
+'passed away' is a minor accuracy/omission error[SEP_TOKEN_WENDA]This is a non-translation error. The annotations are in English when the source text is in Yoruba.[SEP_TOKEN_WENDA]The provided context does not contain a machine translation, so I am unable to identify errors and assess its quality.[SEP_TOKEN_WENDA]Translation is a non-translation error[SEP_TOKEN_WENDA]"Yorba:" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]The translation is not related to the source text. It completely deviates from the original meaning. The error type is critical non-translation error.[SEP_TOKEN_WENDA]"are the backbone of the team" is a major accuracy/addition error[SEP_TOKEN_WENDA]"Yorba" is a major non-translation/other error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]This is a critical non-translation error. The entire segment is not translated.[SEP_TOKEN_WENDA]"Yorba: The language of the people of the land of the rising sun, which is called Japan.### Explanation:The Yoruba language is spoken in Nigeria, and it is one of the most widely spoken languages in Africa. The Yoruba language is known for its complex grammar and intricate vocabulary, and it has a rich cultural heritage. The Yoruba people are known for their hospitality, and they have a deep respect for their elders and ancestors. The Yoruba language is also used in religious and spiritual contexts, and it has a strong connection to the Yoruba traditional religion." is a critical accuracy/mistranslation error
+"sọ fún àkójọpọ̀ àwọn èro rẹ̀ nípa sísàmúngbòrò kátàkárà ní ilẹ̀ Asia.```" is completely untranslated text[SEP_TOKEN_WENDA]"Yorba" is a critical accuracy/mistranslation error
+"should be" is a major accuracy/mistranslation error
+"himself" is a major accuracy/omission error
+"many" is a minor accuracy/addition error
+"be aware" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Laytoni ti bèèrè fún àyípadà lórí òfin ìhùwàsí àyíká lákòókò ìpàdé pẹ̀lú PM, bèèrè pé kí wọ́n se àtúnkọ àbádòfin ìhùwà ẹgbẹ́ sí àyíká.' is a critical accuracy/mistranslation error
+'### Translation:Laytoni is a very important person who has been appointed to lead the people of the village. He is responsible for the welfare of the people and must ensure that their needs are met.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"The Tasmanian government is trying to sell it, and we dont want to lose our ancestral home" is a major accuracy/addition error
+"Yoruba: "Please, Mr. John Howard, dont take away our land. The Tasmanian government is trying to sell it, and we dont want to lose our ancestral home."In English, the above Yoruba text means: "Please, Mr. John Howard, dont take away our land. The Tasmanian government is trying to sell it, and we dont want to lose our ancestral home."``` is a major non-translation error[SEP_TOKEN_WENDA]This context does not mention translation, so it is not annotatable.[SEP_TOKEN_WENDA]This is a non-translation error[SEP_TOKEN_WENDA]The candidate has not provided annotations in the prescribed format. Proper instructions should be provided to the candidate so that they can provide answers in an appropriate format.[SEP_TOKEN_WENDA]'Yorba:' is a critical non-translation error[SEP_TOKEN_WENDA]Translation is provided in the wrong language. This is a critical non-translation error.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'Yorba' is a critical accuracy/non-translation error
+'The most important things in America are the names of the cities, which are written in English' is a major accuracy/mistranslation error
+'The names of the cities are very important because they are the ones that are used to determine the location of the city on the map' is a minor accuracy/omission error
+'If the name of the city is not written correctly, it can cause confusion and make it difficult to find the city on the map' is a minor accuracy/addition error[SEP_TOKEN_WENDA]This context does not contain a machine translation, which makes the task of identifying error types in the translation impossible. Therefore, no annotations can be made.[SEP_TOKEN_WENDA]"Yorba" is a critical fluency/register error
+"### Explanation" is a critical accuracy/addition error
+"This Yorba sentence" is a major accuracy/omission error
+"is part of the larger Yoruba language family." is a minor accuracy/addition error[SEP_TOKEN_WENDA]'# Translation:' is a major accuracy/addition error
+'##' is a critical accuracy/untranslated error
+'###' is a critical accuracy/untranslated error[SEP_TOKEN_WENDA][Wales] 'is dear to my heart.' is a critical omission error
+'The second, by revealing how he heard us until he carried out the work of his position.' is a critical omission error
+'remember this place and the people' is a critical omission error
+"beautiful" is a major accuracy/mistranslation error
+"kind" is a major accuracy/mistranslation error
+"will always" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Translate the Yorba text into English.The Yorba text is a sentence in the Yoruba language, which is spoken in Nigeria. The sentence means "The child is crying because he has no clothes to wear to school."' is a critical non-translation error[SEP_TOKEN_WENDA]'Yorba' is a minor terminology/inappropriate for context error
+'sky,' is a minor grammar/punctuation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]There is no machine translation, so I cannot perform the MQM annotation task.[SEP_TOKEN_WENDA]'The sun has risen and the day has begun' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"The universe is vast and wide," is a critical accuracy/mistranslation error
+"The halo of the Milky Way is shining brightly." is a major accuracy/mistranslation error
+"stars and galaxies, and shining brightly." is a minor style/awkward error[SEP_TOKEN_WENDA]"Please translate the Yorba text into English" is a critical non-translation error[SEP_TOKEN_WENDA]The English translation contains irrelevant text and is an omission error.[SEP_TOKEN_WENDA]'### Explanation:The Yoruba language sentence "Ní ìbámu pẹ̀lú àjọ ohun àmúsagbàra ti Japan, kẹ́míkà tóní ìpalára àti iodine tí di àwárí ní ilé́ isẹ́ náà" translates to "The sun is not shining in Japan, and the moon is not visible in the sky." in English.' is a critical non-translation error[SEP_TOKEN_WENDA]this is a non-translation error[SEP_TOKEN_WENDA]'sàwárí' is a critical accuracy/mistranslation error
+'ní' is a critical accuracy/mistranslation error
+'lẹ́kùn' is a critical accuracy/mistranslation error
+'KwaZulu-Natal' is a critical locale convention/name error
+'South African' is a critical locale convention/name error[SEP_TOKEN_WENDA]### Missing the entire translation[SEP_TOKEN_WENDA]'Yorba:' is a critical non-translation error
+'will soon be full' is a critical accuracy/addition error[SEP_TOKEN_WENDA]

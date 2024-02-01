@@ -1,0 +1,48 @@
+No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Could you please ask them to check for me?" is a critical fluency/awkward error[SEP_TOKEN_WENDA]'sang the lead role' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'exhaling breath' is a major accuracy/addition error
+'fog' is a major accuracy/mistranslation error
+'[```' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]'Doctor' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Beihang University' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"an intelligent phone" is a critical accuracy/mistranslation error
+"exhaling" is a major accuracy/addition error[SEP_TOKEN_WENDA]'other' is a minor accuracy/mistranslation error
+'physical parameters' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"target is chemical elements" is a critical accuracy/mistranslation error
+"sensor" is a major accuracy/omission error
+"makes use of" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors are found.[SEP_TOKEN_WENDA]'intelligent phones' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'瑞士' is a major accuracy/omission error
+'this year.' is a minor style/awkward error[SEP_TOKEN_WENDA]'Zhejiang' is a critical accuracy/mistranslation error
+'discovered' is a major accuracy/omission error
+'Shulin' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Applicable to" is a major accuracy/mistranslation error
+"Shulin Jin" is a major accuracy/omission error[SEP_TOKEN_WENDA]'organizations' is a critical accuracy/mistranslation error
+'adjustment' is a major accuracy/addition error[SEP_TOKEN_WENDA]"freckles" is a critical accuracy/mistranslation error
+"opacity" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Affiliated Hospital of Zhejiang University School of Medicine' is a major terminology/inconsistent use error
+'good' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"it's cool and trendy." is a minor accuracy/addition error[SEP_TOKEN_WENDA]"air hand washing device" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'lose weight' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]The rest of the translation is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"forms a liquid" is a critical  accuracy/mistranslation error
+"at the water tap" is a minor locale convention/style awkward error[SEP_TOKEN_WENDA]'this way' is a major accuarcy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"our own" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Belt and Road Forum for International Cooperation' is a critical accuracy/mistranslation error
+'many top universities' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS\_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'order' is a minor fluency/spelling error
+'as soon as possible' is a minor fluency/non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS\_ORG#' is a minor non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'I'm done' is a minor accuracy/addition error
+'(This is a common expression in Chinese used when one is finished with a task or interaction.)' is a minor non-translation/other error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'first aid measures actually refer to' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'is well-known' is a minor style/awkward error
+'still a' is a minor accuracy/addition error
+'things' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"cardiac arrest" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"rescue them" is a critical accuracy/mistranslation error
+'professional' is a major accuracy/omission error
+'motionlessly and helplessly' is a major fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'1%' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'first response' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"not many people have the awareness" is a minor terminology/inappropriate for context error
+"first aid" is a minor accuracy/omission error
+"an emergency" is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'registered' is a critical accuracy/mistranslation error (the correct translation should be: apply for)
+'in your local area' is a major locale convention/name error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'there's also a scuba diving first aid certificate' is a major accuracy/omission error
+'Little Red Book' is a minor locale convention/name error[SEP_TOKEN_WENDA]"have ordered" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]#PRS\_ORG# is a major accuracy/error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'亮点' is a major accuracy/mistranslation error
+'selection' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"popcorn" is a critical accuracy/mistranslation error
+"Huangshan" is a major accuracy/mistranslation error
+"doze off" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'symbols' is a critical accuracy/mistranslation error
+'pile' is a critical accuracy/mistranslation error
+'manure' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'find' is a major accuracy/omission error
+'(In Chinese:0-9)] 简单说下有些情节我很难理解) is a critical non-translation error[SEP_TOKEN_WENDA]'where he is deeply dependent on his grandmother' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"a neighbor, an old man" is a minor fluency/awkward error
+"a small bread cart" is a major accuracy/mistranslation error
+'the northeast' is a minor locale[SEP_TOKEN_WENDA]No Error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'And then' is a major fluency/awkward error
+'this old man' is a major accuracy/mistranslation error
+'no more text' is a major accuracy/omission error[SEP_TOKEN_WENDA]'restaurant' is a critical accuracy/mistranslation error
+'the female lead' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Island Aircraft Party' is a critical terminology/inappropriate for context error
+'just a few vehicles' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'steel beams' is a critical accuracy/mistranslation error
+'None of the' is a major accuracy/omission error
+'around' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"isn't it?" is a major accuracy/addition error[SEP_TOKEN_WENDA]'in the aviation corps' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'in the face of it' is a minor fluency/awkward error
+'Why didn't the police report' is a major accuracy/omissions error[SEP_TOKEN_WENDA]"smokes" is a critical accuracy/mistranslation error
+'and then' is a major fluency/awkward error[SEP_TOKEN_WENDA]"and distressing" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in short,' is a critical accuracy/mistranslation error
+'unappealing' is a major accuracy/omission error
+'Besides' is a minor style/awkward error
+'just' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"but after 20 minutes, you might guess it could be an inspirational film" is a minor accuracy/addition error
+"might" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'the complicated entanglements of affection' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'Yan Zhengwen' is a critical accuracy/mistranslation error
+'JFK' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]"still don't quite understand" is a minor accuracy/omission error[SEP_TOKEN_WENDA]"Is it to obstruct the audience?" is a major accuracy/mistranslation error
+"(Literally: Is it to add obstacles for the viewers in the Chinese New Year box office?)" is a major accuracy/addition error[SEP_TOKEN_WENDA]"TaiDa" should be "TaiDa's" which is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]

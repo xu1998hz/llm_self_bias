@@ -1,0 +1,84 @@
+'zur�ckkehren' is a minor fluency/character encoding error
+'t�glich' is a minor locale convention/inappropriate for context error
+'ge�ffnet' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'L�sung' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'�ber einem Jahr' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'to the back' is a major accuracy/mistranslation error
+'deckt' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'wobei aufgeführt wurde' is a major fluency/character encoding error
+'den neu erkannten' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'hinzugefügt' is a minor fluency/character encoding error
+'Krankheit vom COVID-19 erlitten' is a minor accuracy/mistranslation error
+'ausgeheilt' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'diagnostische Tests durchgef�hrt wurden' is a major fluency/character encoding error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors identified.[SEP_TOKEN_WENDA]'aufzuf�hren' is a major fluency/character encoding error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Im Hochgefährdungskreislauf' is a major accuracy/mistranslation error
+"No error" for the remaining text.[SEP_TOKEN_WENDA]'Impfsch�sse' is a critical fluency/character encoding error[SEP_TOKEN_WENDA]'für die dritte und vierte Dosis-Impfung' is a major accuracy/spelling error[SEP_TOKEN_WENDA]'wissen lassen' is a major accuracy/mistranslation error
+'Ihnen' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]'Neben' is a minor fluency/grammar error
+'sieht' is a minor fluency/grammar error
+'die Versionierung' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'habt' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'K�nnten' is a major fluency/character encoding error
+'das Lieferadresse' is a major fluency/grammar error[SEP_TOKEN_WENDA]'Handschraub-Pumpen-Pornomodell' is a critical terminology/inappropriate for context error
+'ermöglicht Ihnen' is a minor terminology/inconsistent use error
+'zu steuern' is a minor terminology/inconsistent use error
+'erm�glicht' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Mehrfachtechnologie-Lüfterpumpe' is a major terminology/inappropriate for context error
+'Lüftungs- und Sumpfprozess' is a major terminology/inappropriate for context error
+'L�fterpumpe' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'k�nnen' is a minor fluency/character encoding error
+'Erectile Dysfunktio' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Herstellerlizenz' is a major terminology/inconsistent use error
+'Funktionsst�rungen' is a major fluency/character encoding error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'durchf�hren lassen' is a major fluency/character encoding error[SEP_TOKEN_WENDA]'Spannungsg�rtel' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'enthält' is a major accuracy/mistranslation error
+'schl�sseln' is a minor fluency/character encoding error
+'Gr�ßen' is a minor fluency/character encoding error
+'erm�glichen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'den gesamten Paket' is a major accuracy/mistranslation error
+'einen einfachen Umgang' is a major accuracy/mistranslation error
+'die in fast jedem Platz eingelagert werden kann' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'m�chten' is a critical fluency/character encoding error
+'guten Geschmack an' is a minor fluency/register error[SEP_TOKEN_WENDA]'gest�tzten' is a major  non-translation error
+'Pfeiftasche-Pumpe' is a major mistranslation error[SEP_TOKEN_WENDA]'F�r den Kauf dieses Pumpsenker ist keine Anweisung erforderlich' is a major fluency/character encoding error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'M�glicherweise' is a major fluency/character encoding error
+'der nächste große Blockchain-Krypto' is a major terminology/inconsistent use error
+'aufblitzt' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'j�ngste' is a minor fluency/character encoding error
+'erschreckende' is a minor fluency/grammar error
+'Mrdd' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'w�rde' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Investoren, die FOMO (Angst vor dem Fehlen des Beihebens) treiben ließ' is a major accuracy/mistranslation error
+'das eine große Anzahl von Investoren, die FOMO (Angst vor dem Fehlen des Beihebens) treiben ließ, in die Memecoins einstiegen' is a major accuracy/omission error
+'einstiegen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'gehört zum Konzept' is a minor accuracy/addition error
+'geh�rte' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'M�he' is a minor fluency/character encoding error.[SEP_TOKEN_WENDA]'gewesen sein' is a major accuracy/mistranslation error
+'Entwicklungsmöglichkeiten' is a minor terminology/inconsistent use error
+'motiviert gewesen wäre' is a minor fluency/grammar error
+'der Ethereum-Blockchain' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'zurück' is a minor fluency/character encoding error
+'unterst�tzen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'wesentliches' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'EverGrow-Coin-Besitzer' is a major accuracy/omission error
+'binance-bezogenen' is a minor accuracy/mistranslation error
+'dem US-Dollar' is a minor locale convention/currency format error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'��ber' is a major fluency/character encoding error
+'sorgte f�r' is a major fluency/spelling error[SEP_TOKEN_WENDA]'Vertrauen an, es zu schaffen' is a major accuracy/mistranslation error
+'das EverGrow-Investoren-Projekt' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Im letzten Tag' is a major fluency/grammar error
+'das Datenproblem behebt wurde' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'bef�rchtung' is a major fluency/character encoding error
+'die sich um 22% von den letzten Tiefstständen erh�hten' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'H�chststände' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Vorteile von US-Dollar-Rewards' is a major accuracy/mistranslation error
+'dem Projekt bereits' is a minor fluency/grammar error
+'ver�ffentlicht' is a minor accuracy/mistranslation error
+'k�rzlich' is a minor fluency/spelling error
+'der �ber die Angebote' is a major accuracy/mistranslation error
+'Nutzlasten' is a minor fluency/word choice error
+'Wertvolle f�r Investoren darstellen' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'das EverGrow Coin' is a major accuracy/omission error
+'daf�r' is a minor fluency/character encoding error
+'die Tatsache' is a minor terminology/inconsistent use error
+'k�nnte' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'ausgelöst hat' is a major accuracy/mistranslation error
+'in denen' is a major accuracy/mistranslation error
+'reich zu werden' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Danke f�r Ihre Wartezeit' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'verraten' is a major fluency/spelling error
+'durchzuf�hren' is a major fluency/character encoding error[SEP_TOKEN_WENDA]'Geb�hren' is a major fluency/character encoding error[SEP_TOKEN_WENDA]'�berpr�ft' is a critical fluency/character encoding error[SEP_TOKEN_WENDA]'Wir k�nnten helfen sein!' is a major fluency/character encoding error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'bisher nicht daran gekämpft' is a major accuracy/mistranslation error
+'um die Befehle des Gewalträchers ignorieren' is a major accuracy/mistranslation error
+'bestechen' is a major accuracy/mistranslation error
+'k�nnte' is a minor fluency/character encoding error
+'w�rde' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'k�nnte' is a major fluency/character encoding error
+'abzunehmen' is a major accuracy/mistranslation error
+'einen unangenehmen Namen zu geben' is a major accuracy/mistranslation error
+'erhalten' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Ich w�rde dir wahrscheinlich ein Vertragsunterschreibung bitten' is a critical fluency/character encoding error.
+'was nat�rlich nicht unbedingt erforderlich ist' is a major fluency/character encoding error.[SEP_TOKEN_WENDA]'f�hren' is a major fluency/character encoding error
+'�ber' is a minor fluency/character encoding error
+'dar�ber' is a major fluency/character encoding error
+'danke f�r Ihre Geduld!' is a critical fluency/character encoding error[SEP_TOKEN_WENDA]'könnten Teile oder ganz' is a major accuracy/mistranslation error
+'Kreditkarten' is a major terminology/inconsistent use error
+'dabeich' is a minor fluency/spelling error
+'müssen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Unterstützungsleistungen' is a minor accuracy/mistranslation error
+'�' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'k�nnen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'Töcher zum Mieten' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'M�glichkeit' is a major fluency/character encoding error
+'f�r einige' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'F�r Ihre Informationen' is a minor fluency/character encoding error
+'einen Abschrift ihrer Gespräche' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'k�nnen' is a minor fluency/character encoding error
+'k�nnen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'Vergn�gen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Zur Mitnahme' is a major accuracy/mistranslation error
+'einl�sen' is a major accuracy/mistranslation error
+'gewähren' is a major accuracy/mistranslation error
+'k�nnen' is a major accuracy/mistranslation error
+'Bezahlen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"tut mir bitte leid" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Steck einen Steckdosenstromkopf' is a minor terminology/inconsistent use error
+'verbinden Sie Ihr E-Reader' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'Drücken Sie den Schalter für den Computer' is a major terminology/inconsistent use error
+'für den Computer' is a minor terminology/inconsistent use error
+'bis die Worte "Ausgeschaltet" oben auf der Bildschirmoberfläche erscheinen' is a major accuracy/mistranslation error
+'inconsistent use of character encoding' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'f�r den Akku f�r' is a major fluency/character encoding error
+'gedr�ckt' is a minor spelling error[SEP_TOKEN_WENDA]'Dr�cken Sie auf den Akku-Schalter' is a major fluency/character encoding error[SEP_TOKEN_WENDA]'Drücken Sie die Schaltfläche "Einkopieren"' is a critical fluency/character encoding error
+'für' is a minor locale convention/spelling error
+'30 Sekunden' is a minor locale convention/number format error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Freigegebenes ist das Schl�sselbild' contains character encoding error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Nachdem Sie mit Ihrem E-Mail-Adressen und Passwort eingeloggt sind.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]

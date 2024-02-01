@@ -1,0 +1,71 @@
+No-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'opening' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]"These remarkable researchers are all students" is a minor accuracy/omission error
+"result" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Biometric Sensor' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'university' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"take a few breaths" is a major accuracy/mistranslation error.
+'"You just need to take a few breaths"' is a minor style/awkward error[SEP_TOKEN_WENDA]'alert you to the presence of pollutants' is a major accuracy/mistranslation error
+'your' is a minor fluency/inconsistency error
+'report on' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Smart health wristbands can be detected in the market' is a critical accuracy/mistranslation error
+'temperature, heart rate' is a major accuracy/addition error
+'and other physical parameters' is a major accuracy/omission error[SEP_TOKEN_WENDA]"ink and stone" is a critical accuracy/mistranslation error
+"whistle" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'gold' is a major accuracy/mistranslation error
+'20' is a major locale convention/date format error[SEP_TOKEN_WENDA]'Zhu Lin and Shen Junfei' is a critical accuracy/omission error
+'approach' is a major accuracy/mistranslation error
+'Institute of' is a major accuracy/omissions error[SEP_TOKEN_WENDA]"Many diseases" is a critical accuracy/mistranslation error
+"removed in the early stage" is a major accuracy/mistranslation error
+"and the light" is a major accuracy/omission error[SEP_TOKEN_WENDA]'all the tumor organs' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'adjusting' is a major accuracy/mistranslation error
+'the spectral distribution of' is a major accuracy/omission error
+'illuminated' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'transparency' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the affiliated hospital of Zhejiang University, the Children's Hospital of Zhejiang University' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'the highest honor' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'cooling down' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Chinese inventors such as Qi Zhilong have since then invented" is a critical accuracy/mistranslation error
+
+"air washing device" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the device for washing hands' is a major terminology/inconsistent use error
+'compress the air' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"fire extinguisher" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'tail of the dragon' is a critical accuracy/mistranslation error
+'The compressed air' is a major accuracy/omission error[SEP_TOKEN_WENDA]'That's great' is a major accuracy/addition error[SEP_TOKEN_WENDA]"Experimental evidence" is a major accuracy/omission error
+"the effect of this method" is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'a high level' is a minor accuracy/mistranslation error
+'completely' is a minor accuracy/omission error
+'It is' is a minor style/awkwards error[SEP_TOKEN_WENDA]"unveiled" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'asap' is a major accuracy/addition error[SEP_TOKEN_WENDA]'otherwise you will not be able to use #PRS_ORG#!' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Bones' is a minor accuracy/mistranslation error
+'spicy stir-fried vegetables' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'order' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"Thank you for your time." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]#PRS_ORG# is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#' is a critical non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"That's a pain!" is a critical fluency/register error[SEP_TOKEN_WENDA]"It is meaningful to have a rescue certificate——It is a life-saving document." is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'driving license' is a minor terminology/inconsistent use error
+'skills certificates' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'General:' is a critical non-translation error
+'rescue' is a major accuracy/mistranslation error
+'emergency measure' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'rescuing a car' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"rescue" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'brain hemorrhage' is a major accuracy/mistranslation error
+'only' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors to report.[SEP_TOKEN_WENDA]'in danger' is a minor accuracy/mistranslation error
+'helpless and frightening' is a minor style/awkward error[SEP_TOKEN_WENDA]'heart disease' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'rate of successful' is a major accuracy/addition error
+'rescue' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"At the casino hotel in Las Vegas" is a minor accuracy/addition error
+"seventy-eight percent" is a major accuracy/mistranslation error
+"while Shanghai and Beijing are below one percent" is a major accuracy/mistranslation erro[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"CPR" is a critical accuracy/mistranslation error
+"If someone experiences heart blockage" is a major accuracy/omission error
+"heart stops" is a major accuracy/omission error[SEP_TOKEN_WENDA]'external cardiac massage' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"mind to learn and save quickly" is a major accuracy/mistranslation error
+"right time" is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"first aid" is a critical terminology/inappropriate for context error
+'certifical' is a major fluency/spelling error
+"and students get discounts" is a major accuracy/omission error[SEP_TOKEN_WENDA]"25 years ago" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"scuba diving" is a critical accuracy/mistranslation error
+"Little Red Book" is a critical accuracy/mistranslation error
+"scuba diving rescue certificate" is a major accuracy/addition error
+"I need to take that one as well in order to be able to take the exam" is a major accuracy/ mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'which one is the most expensive?' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'#NAME#' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'给我吃' is a major accuracy/addition error
+'漏送餐品' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"'The Four Seas' is a comprehensive satire, from various perspectives" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"it can't be a good choice" is a major accuracy/mistranslation error
+"highlight" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'There are many kinds of horror movies' is a critical accuracy/mistranslation error
+'allowing you to enter a dreamy state in the cinema, making you feel satisfied after watching and filling your soul with terror' is a critical accuracy/addition error
+'able to use countless ways to ignite your anger' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"On being criticized" is a critical accuracy/mistranslation error
+"Han Cang" is a critical accuracy/mistranslation error
+"heaven-sent gentleman" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'copy of the creature from the novel "Frankenstein"' is a critical accuracy/mistranslation error
+'clothes' is a major accuracy/omission error
+'cloak' is a major accuracy/mistranslation error
+'constantly falling apart' is major accuracy/mistranslation error[SEP_TOKEN_WENDA]'message' is a critical accuracy/mistranslation error
+'think about it carefully' is a major fluency/awkward error[SEP_TOKEN_WENDA]"First" is a minor accuracy/untranslated text error
+"some difficult situations I have trouble understanding" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"harmony with his wife" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'big uncle' is a critical terminology/inappropriate for context error
+'a small sled' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Are' is a major accuracy/addition error
+'caravan' is a major accuracy/mistranslation error
+'a' is a minor fluency/grammar error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'no more words to say' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'abandoned' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Flying Car Party' is a critical terminology/inappropriate for context error
+'pave' is a major accuracy/mistranslation error
+'by simply pressing a few buttons' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'car with the steel rod' is a critical accuracy/mistranslation error
+'the four surrounding drivers' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'illegal activities and violations' is a critical accuracy/mistranslation error
+'a party of' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'loan' is a minor accuracy/omission error
+'movie' is a minor accuracy/omission error
+'difficulty' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'hotel staff' is a major accuracy/mistranslation error
+'and' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'complicated plot twists' is a major accuracy/mistranslation error
+'I often forget it and it even hurts when I remember it' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"superficial and convoluted" is a critical fluency/awkward error
+"main message" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"In the end, you will be left with doubts and questions" is a minor style/awkward error
+"Why would you run to the movie theater to watch it?" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]"films" is a critical accuracy/mistranslation error
+"a bird given a chance" is a major accuracy/mistranslation error
+"a car chase" is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]"old grudge" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'you should avoid introducing' is a critical accuracy/omission error
+'abnormal elements' is a minor terminology/inappropriate for context error
+'worldly affairs' is a critical fluency/awkward error[SEP_TOKEN_WENDA]"You will not be able to open some of the doors in the house to watch the movie." is a critical accuracy/mistranslation error
+'be burned' is a major accuracy/omission error
+'The Burning of the Midnight Lamp' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"The Dark Knight"' is a major accuracy/addition error
+'or the director's requirements' is a major accuracy/omission error[SEP_TOKEN_WENDA]'HanCang' is a critical accuracy/mistranslation error
+'car chase' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'surprise' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Tadalafila' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Location" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]

@@ -1,0 +1,55 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"a student sang the main theme song" is a critical accuracy/mistranslation error
+"amazed everyone" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'judge respiratory disease by blowing air' is a major accuracy/mistranslation error
+'use air to wash hands' is a major fluency/style error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Biological sensor' is a major accuracy/mistranslation error
+'medical doctor' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"'a smartphone-sized biological sensor" is a critical accuracy/mistranslation error
+"at the exhibition" is a major accuracy/addition error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'"taking a deep breath"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'smart ring' is a major accuracy/mistranslation error
+'物理参数' is a major accuracy/omission error[SEP_TOKEN_WENDA]'which has a high sensitivity to chemical elements' is a major accuracy/mistranslation error 
+'Its target is to more accurately and deeply detect the health condition of the human body' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Zhu Lin and Shen Junfei' is a major accuracy/mistranslation error
+'the limitations of traditional surgical lamps' is a major accuracy/mistranslation error
+'a smart LED surgical lamp with no shadows' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Many diseases are difficult to detect in the early stages' is a major accuracy/mistranslation error
+"the lighting in the operating room is related to the doctor's performance" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'organ tissues' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"transparency" is a major accuracy/mistranslation error for "无影率" which should be translated as "shadowless rate".'[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'National Innovation Award' is a major terminology/inappropriate for context error
+'for the first prize' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'cool' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Li Xiaoping' is a critical accuracy/mistranslation error 
+'"air-powered hand-washing device"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"washing machine"' is a critical accuracy/mistranslation error
+'"As long as we have the weight"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"It's like a pressure cooker."' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"'Compress the air' is a minor fluency/grammar error
+'at the water dragon's mouth' is a critical accuracy/mistranslation error".[SEP_TOKEN_WENDA]'Let's' is a major accuracy/mistranslation error 
+'clean' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Experiment: The effect of hand sanitizer' is a critical accuracy/mistranslation error
+'"and ordinary hand washing methods is the same, as proven by this experiment.' is a major fluency/register error. 
+'The omission of 'Color reaction and residual bacteria' is a critical accuracy/omission error.[SEP_TOKEN_WENDA]'gravity of our own body' is a major accuracy/mistranslation error
+'completely energy-saving' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'high-level challenge peak meeting' is a critical accuracy/mistranslation error
+'numerous world-renowned universities' is a major accuracy/mistranslation error
+'the only gold award' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'"don't accumulate"' is a critical accuracy/mistranslation error
+'不要积分' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'Kimchi' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"temporary staff" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Tell everyone where he is located."' is a major accuracy/mistranslation error
+'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]"I don't want to wait" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a major fluency/non-translation error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'urgent rescue' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'respiratory failure' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]"which is too frightening" is a critical accuracy/mistranslation error
+"doing nothing" is a major accuracy/omission error
+"foolishly" is a minor style/awkward error[SEP_TOKEN_WENDA]'300 million' is a critical accuracy/mistranslation error. The correct translation should be 'three million'.[SEP_TOKEN_WENDA]'"the average person can save 15%."' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"gamblers can recover their losses"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Lu Le' is a critical accuracy/mistranslation error. '陆乐' should be translated as 'Lu Le'.[SEP_TOKEN_WENDA]'你掐人中' is a critical accuracy/mistranslation error (It was mistranslated as 'CPR'. It should have been something like 'pinching people's nerve meridians' or 'grasping the person's Renzhong acupoint')[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'It's hard to say if' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"which seems to be very useful!" is a major accuracy/mistranslation error
+"to take" is a minor terminology/inappropriate for context error
+"Next, I want to go for other certificates that I want" is a minor style/awkward error[SEP_TOKEN_WENDA]"##number###" is a major accuracy/mistranslation error
+There's an untranslated text error which is a major accuracy/untranslated text error for the "了" symbol.[SEP_TOKEN_WENDA]'shrimp dumpling' is a critical accuracy/mistranslation error
+'just one' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]'How much is it?' is a critical accuracy/addition error
+'一个要' is a major fluency/omission error[SEP_TOKEN_WENDA]'#PRS_ORG# send food yesterday?' is a critical accuracy/mistranslation error
+'I'm just going to eat one shrimp dumpling!?'' is a major accuracy/mistranslation error
+'#PRS_ORG#' is a minor fluency/untranslated text error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"The movie has many forms' is a major accuracy/mistranslation error
+'"the movie is like a monkey on the Four Seas"' is a critical accuracy/mistranslation error
+'"the movie"' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'windbreaker worn by Little Ma' is a major accuracy/mistranslation error. The sentence is a metaphorical expression, not a literal one.
+'with too many holes and imperfections' is a minor fluency/style error. This phrase distorts the original metaphorical context.[SEP_TOKEN_WENDA]'it is actually just a load of nonsense' is a major accuracy/mistranslation error
+'after careful consideration, you will find' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'and his grandmother should be his lifeline' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'small bread truck' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'face-to-face car' is a critical accuracy/mistranslation error
+'Can' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"They" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Then the old man just didn't show up' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'female owner' is a critical accuracy/mistranslation error
+'of a hotel on a abandoned ship' is a major fluency/grammar error[SEP_TOKEN_WENDA]'"little devil in the flying car"' is a major accuracy/mistranslation error
+'"a few touches"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"A truck carrying steel bars stopped in the middle of the road" is a critical accuracy/mistranslation error
+"the drivers of four surrounding trucks couldn't find each other" is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'This is too obvious, isn't it?' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'飞车党' is a major accuracy/mistranslation error
+'small hoodlum' is a minor style/awkward error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'A middle-aged person' is a major accuracy/mistranslation error
+'and then can't find the hotel manager' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"the movie is even worse" is a major accuracy/mistranslation error
+"it has no plot at all" is a major accuracy/mistranslation error
+"a face-saving mess" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'why you went to the cinema to watch something so... unusual.' is a major accuracy/mistranslation error.
+'no idea what kind of movie you just watched' is a minor style/awkward error.[SEP_TOKEN_WENDA]'make a motorcycle stunt' is a major accuracy/mistranslation error
+'and then inspire' is a major fluency/grammar error
+'a talented bird's journey' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'from the countryside' is a critical accuracy/mistranslation error
+'service staff's younger sister' is a critical accuracy/mistranslation error
+'恩怨纠葛' has been omitted which is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Yue Yue bought' is a critical accuracy/mistranslation error
+'he can still sing like a bird' is a critical accuracy/mistranslation error
+'Kendini even if he wants to' is a critical accuracy/mistranslation error
+'For example' is a major style/awkwardness error.[SEP_TOKEN_WENDA]"she is not as weak-willed as some viewers may think" is a critical accuracy/mistranslation error
+"her performance is not just a result of acting skills or the director's requirements, but rather a deliberate choice" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'pile on the pressure' is a major accuracy/mistranslation error
+'these types of films' is a major accuracy/omission error
+'spring festival season' is a minor fluency/register error[SEP_TOKEN_WENDA]'"Apply:' is a critical accuracy/mistranslation error
+'Use a battery box for the value encoder' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]

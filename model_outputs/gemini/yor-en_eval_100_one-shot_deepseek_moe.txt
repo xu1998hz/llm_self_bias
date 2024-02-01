@@ -1,0 +1,112 @@
+The provided translation is not associated with a source segment, so I am unable to perform the requested analysis and identify errors.[SEP_TOKEN_WENDA]"Egba people of Ará, Nigeria" is a critical accuracy/mistranslation error
+"was born" is a critical accuracy/addition error
+"and was a member of the Egba people of Ará, Nigeria" is a major accuracy/addition error
+"pilot" is a major fluency/terminology  error
+"community" is a major accuracy/addition error
+"He was" is a minor fluency/awkward error[SEP_TOKEN_WENDA]This is a non-translation error. The translation is not related to the source.[SEP_TOKEN_WENDA]'am not a member of the Swedish Academy.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This context does not contain any machine translation thus cannot be annotated.[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]this is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]There are no errors in this translation.[SEP_TOKEN_WENDA]'Siminoff fi ara han lori itakun mohun maworan ti awon ontaja QVC.' is a critical non-translation error[SEP_TOKEN_WENDA]"Squadron Leader Dilokrit Pattavee" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This segment contains non-related information and thus is a critical non-translation error.[SEP_TOKEN_WENDA]'Squadron Leader ZMapp' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]non-translation error[SEP_TOKEN_WENDA]"The Ajiàkadi Olympic Games were held in the city of Àpapọ̀-Ebi, and the Àpapọ̀-Ebi Olympics were held in the city of Ajiàkadi." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The USOC team was defeated by the team from the United States' is a critical accuracy/mistranslation error
+'and the team from the United States was defeated by the team from the United States' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"from the United States" is a major accuracy/addition error
+"later" is a major accuracy/omission error
+"abusive" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'USA' is a major accuracy/omission error
+'USOC' is a major accuracy/omission error
+'míran' is a major accuracy/omission error
+'they' is a major accuracy/omission error
+'the king' is a major accuracy/omission error
+'of the land' is a major accuracy/omission error
+'They were defeated by' is a major accuracy/mistranslation error
+'the Asangun teams' is a major accuracy/mistranslation error
+'láti le ma siṣẹ́ tọ àlá wọn ní àyíká tó láàbò' is a major accuracy/untranslated text error
+'tó dára tó sì seégbé' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"1960S Bresinski sise fun Johannu F Kenedi gege bi onimoran re, o tun sise fun isakoso Lindoni B Jonsin." is a critical non-translation error[SEP_TOKEN_WENDA]"General Ovadollar" is a critical accuracy/mistranslation error
+"NSA" is a critical terminology/inappropriate for context error
+"head of the military government" is a major accuracy/mistranslation error
+"from 1977 to 1981" is a major accuracy/omission error[SEP_TOKEN_WENDA]"during the Camp David Accords" is a critical accuracy/addition error
+"it was also established" is a major accuracy/mistranslation error
+"relationship" is a major accuracy/omission error
+"the Iran relationship" is a major accuracy/omission error
+"it was established" is a major accuracy/mistranslation error
+"Omar" is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"Ọk�nrin àti Eléré Obinrin ní kọ̀kan wọn." is a critical non-translation error[SEP_TOKEN_WENDA]The translation has no error.[SEP_TOKEN_WENDA]'Orin méjì látinú àgbéléwò, ìdánwò (Àwọn òmùgọ̀ tó ń lá àlá) àti ìlú àwọn ìràwọ̀ ni wọ́n mún fún orin ojúlówó tó dára jù' is a major accuracy/omission error
+', a company that has been involved in the production of many successful films, including the Hunger Games series' is a minor style/awkwards error[SEP_TOKEN_WENDA]'pilot' is a critical accuracy/mistranslation error
+"Air Force officer and a former US military officer" is a critical accuracy/repetition error
+'US military officer' is a major accuracy/mistranslation error
+'He' is a major accuracy/omission error[SEP_TOKEN_WENDA]Non-translation[SEP_TOKEN_WENDA]"The Turkish fighter jet was identified as a F-16" is a major accuracy/mistranslation error
+"It was shot down by a missile fired by the Syrian Air Defense Forces" is a major accuracy/mistranslation error
+"The pilot was killed in the crash" is a major accuracy/mistranslation error
+"It was shot down by a missile fired by the Syrian Air Defense Forces" is a major accuracy/mistranslation error
+"The pilot was killed in the crash" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"during the time of the gods" is a critical accuracy/addition error
+"created them to be the ancestors of the Yoruba people" is a critical accuracy/addition error
+'Yoruba people' is a critical accuracy/repetition error
+"spirits" is a major accuracy/addition error
+"the gods created the egungun" is a major accuracy/repetition error
+"dinosaurs" is a major accuracy/omission error
+"ancestors" is a minor accuracy/repetition error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/omission error
+'English' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'past captain' is a critical accuracy/mistranslation error
+'Dilokrit Pattavee' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"but are attached to the tips of the barbules" is a major accuracy/mistranslation error
+"for the wings are not attached to the rachis" is a major accuracy/omission error
+"raches" is a critical terminology/inconsistent use error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee" is a critical accuracy/untranslated text error
+"His aircraft was a type of dinosaur" is a critical accuracy/mistranslation error
+"it crashed and exploded violently" is a major accuracy/untranslated text error
+"The pilot was killed in the accident" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]The translation is incomplete.
+There is untranslated text: "ọlọ́pàá"
+"ó"
+"àwọn"
+"ti"
+"ó"
+"fi"
+"ara"
+"pa"
+"jẹ́"
+This error has a major impact on comprehension and is thus classified as a critical accuracy/untranslated text error.[SEP_TOKEN_WENDA]This translation is entirely non-translated.[SEP_TOKEN_WENDA]The translation is not related to the source segment at all. It's a critical non-translation error[SEP_TOKEN_WENDA]This translation cannot be assessed for quality due to it being completely untranslated.[SEP_TOKEN_WENDA]"The pilot was identified as" is a critical accuracy/omission error
+"Squadron Leader Dilokrit Pattavee" is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'Wàhálà Ní' is a critical fluency/grammar error
+'English:' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a critical accuracy/mistranslation error
+"Pilot" is a critical accuracy/omission error
+'dilokrit Pattavee' is a critical accuracy/omission error[SEP_TOKEN_WENDA]The whole segment was untranslated, which is a critical non-translation error[SEP_TOKEN_WENDA]This example does not contain a machine translation, so I cannot highlight errors in a translation and assess its quality.[SEP_TOKEN_WENDA]'was identified as' is a major accuracy/addition error
+'Dilokrit Pattavee..' is a critical accuracy/translation error[SEP_TOKEN_WENDA]This context does not contain any translation to assess for errors.[SEP_TOKEN_WENDA]"squadron leader" is a critical accuracy/omission error
+"dilokrit" is a critical accuracy/omission error
+"pattavee" is a critical accuracy/omission error
+"The pilot was identified as" is a major accuracy/omission error[SEP_TOKEN_WENDA]This is not a machine translation, and is therefore not a valid input for this task.[SEP_TOKEN_WENDA]"sọ pé wọ́n yí ò se é ní ìbámu àbájáde ọrọ̀ ajé ilẹ̀ China." is a critical accuracy/addition error[SEP_TOKEN_WENDA]This context does not contain any translation, so I cannot perform the requested task.[SEP_TOKEN_WENDA]This example does not contain a machine translation, so no errors can be marked.[SEP_TOKEN_WENDA]"English:" is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]Long repetitive output - content irrelevant to the source segment[SEP_TOKEN_WENDA]This is an example of non-translation. The source text is in Yoruba and the translation is in English. All text should be translated.[SEP_TOKEN_WENDA]No-translation is a critical accuracy error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'Dilokrit Pattavee' is a critical accuracy/omission error
+'was identified as' is a major accuracy/untranslated text error
+'Squadron Leader' is a minor fluency/grammatical error[SEP_TOKEN_WENDA]Non-translation error[SEP_TOKEN_WENDA]This context does not contain a machine translation, so I am unable to identify and classify error types.[SEP_TOKEN_WENDA]this translation is completely incorrect and hence unsuitable for any type of assessment.[SEP_TOKEN_WENDA]Redundant restatement of a single sentence is a critical accuracy/addition error.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]This is a major accuracy/mistranslation error. The translation is not related to the source text at all.[SEP_TOKEN_WENDA]The whole segment is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no issue, English only[SEP_TOKEN_WENDA]'' is a major accuracy/addition error
+The whole translation of the source is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The given source text and machine translation are not in English; thus, I am unable to assess the translation's quality or identify error types.[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This context is not related to the translation, hence it is a critical non-translation/other error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'English' is a major fluency/non-translation error[SEP_TOKEN_WENDA]This context does not contain a machine translation. Therefore, I am unable to provide an analysis that annotates errors in this data.[SEP_TOKEN_WENDA]'The pilot' is a major accuracy/addition error
+'was identified' is a major accuracy/mistranslation error
+'Dilokrit Pattavee' is a major accuracy/omission error[SEP_TOKEN_WENDA]"Stephen Harper, the leader of the Conservative Party," is a major accuracy/addition error
+"Prime Minister's Office" is a minor fluency/inconsistency error
+"that they would continue to do so" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]This translation does not match the source text. It cannot be accurately assessed.[SEP_TOKEN_WENDA]'Devonport' is a major accuracy/mistranslation error
+'a Type 23 frigate, which is one of the Royal Navy's most advanced anti-submarine warfare vessels' is a major accuracy/omission error
+
+Source: ```Eidgenössische Alkoholverwaltung: Weil wir alle einen sauberen neuen Schweizer Gin versuchen wollen.``` Translation: ```Federal Alcohol Administration: Because we all want to try a clean new Swiss gin.``` MQM annotations: 'Federal Alcohol Administration' is a major accuracy/mistranslation error
+
+Source: ```Ein typisches Beispiel für Vorstandsvergütung.``` Translation: ```A typical example of board compensation.``` MQM annotations: 'compensation' is a major terminology/inappropriate for context error
+
+Source: ```Je suis une loi.``` Translation: ```I am a law.``` MQM annotations: 'am a' is a minor accuracy/mistranslation error
+"law" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the Tasmanian tiger' is a critical accuracy/mistranslation error
+'marsupial' is a major accuracy/mistranslation error
+'20th' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Squadron Leader' is a critical accuracy/mistranslation error
+'Dilokrit' is a critical accuracy/mistranslation error
+'Pattavee' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a critical non-translation error[SEP_TOKEN_WENDA]this is a critical non-translation error[SEP_TOKEN_WENDA]the entire translation is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Hurricane' is a major accuracy/addition error
+'Subtropical Storm' is a major accuracy/addition error
+'Atlantic' is a minor accuracy/omission error[SEP_TOKEN_WENDA]This is a critical accuracy/non-translation error.[SEP_TOKEN_WENDA]This is a translation from Yoruba to English and not from English to German as above.
+The translation contains non-translation errors. The whole translation should be marked as a critical error.[SEP_TOKEN_WENDA]'The hurricane' is a major accuracy/omission error
+'Katrina' is a major accuracy/omission error
+'(which . . . Alabama.)' is a major fluency/punctuation error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/omission error
+'identified' is a critical accuracy/mistranslation error
+'Leader' is a major accuracy/mistranslation error
+'Pattavee' is a major accuracy/mistranslation error
+'Squadron' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"The news was reported by Wikinews, a news agency that reports on various topics, including politics, business, and entertainment." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]there is no_error in the translation[SEP_TOKEN_WENDA]The translation is a critical non-translation error[SEP_TOKEN_WENDA]'Isé' is a critical accuracy/mistranslation error
+'sìsẹ náà' is a critical accuracy/mistranslation error
+'lópọ̀lọpọ̀' is a critical accuracy/mistranslation error
+'Sǫ̀gbón' is a critical accuracy/mistranslation error
+'kíkọ́' is a critical accuracy/mistranslation error
+'lè' is a critical accuracy/mistranslation error
+'àtì' is a critical accuracy/mistranslation error
+'Sagirrarius' is a critical accuracy/mistranslation error
+'ójú' is a critical accuracy/mistranslation error
+'òrun.' is a critical accuracy/mistranslation error
+'was' is a critical accuracy/omission error
+'Leader' is a critical accuracy/omission error
+'Pattavee' is a critical accuracy/omission error
+'.' is a critical accuracy/omission error[SEP_TOKEN_WENDA]The translation is completely untranslated text[SEP_TOKEN_WENDA]non-translation error[SEP_TOKEN_WENDA]The translation does not correspond to the original text. The error is critical and marked as non-translation.[SEP_TOKEN_WENDA]The translation does not match the source segment at all and is an overwhelming non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]Translation does not correspond to source[SEP_TOKEN_WENDA]The translation is not related to the source text and is therefore a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'saw' is a major accuracy/mistranslation error
+'ní' is a major accuracy/mistranslation error
+'lẹ́kùn' is a major accuracy/mistranslation error
+'Extremely' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'see if we can find' is a critical accuracy/mistranslation error
+'for the night' is a critical accuracy/omission error
+' "I'm going' is a minor punctuation/missing comma error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]

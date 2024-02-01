@@ -1,0 +1,36 @@
+No errors.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'new daily COVID-19 infections' is a major accuracy/mistranslation error
+'Todesfälle pro Tag' is a major accuracy/mistranslation error
+'des Pandemie-Ausbruchs' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'sind abgenommen' is a major accuracy/mistranslation error
+'Die' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Im hohen Risiko-Roten-Zone' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'am Montag' is a major accuracy/mistranslation error
+'die Coronavirus-Impfungen auszutauschen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'viertelte' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Neben' is a major fluency/grammar error
+'Sie Ihren eReaders' is a major fluency/grammar error[SEP_TOKEN_WENDA]'Guten Tag' is a minor fluency/register error
+'geführt' is a minor fluency/spelling error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'die Benutzer zu einem guten Kontrolle' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Lebenszeitvertrag' is a major terminology/inconsistent use error
+'anfällig macht' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Ring-Ejektor, Ladekon' is a major terminology/inconsistent use error
+'zu applizieren' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'den Erektion' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'Enthält' is a minor accuracy/mistranslation error
+'die beste Bandenlänge' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Versandung' is a major accuracy/mistranslation error
+'in einem einfachen Karton' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'auf' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Lauf' is a major terminology/inconsistent use error
+'einer ganzen Menge von' is a minor style/awkward error
+'das führte zu einer ganzen Menge von' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'tangibleen' is a minor fluency/spelling error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'von einer Experten-Führungs-Kommission' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'weiterer' is a minor fluency/grammar error
+'die Token' is a minor terminology/inconsistent use error
+'bezahlen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Die Projektzeitraum' is a major accuracy/mistranslation[SEP_TOKEN_WENDA]'bei den Investoren' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In der nächsten Monat' is a minor accuracy/mistranslation error
+'die Fehler nicht behoben' is a minor accuracy/omission error
+'auf unter $300 Millionen in Wert' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'welches' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Anzeichen eines Rückgangs auf die Vergangenheit' is a major accuracy/mistranslation error
+'aus den letzten Tiefen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'innovatives und innovatives' is a minor fluency/repetition error
+'da es eine klare Argumentation' is a minor fluency/awkward error
+'ernsthafte Gewinne aus seiner derzeitigen niedrigen Marktkapitalisierung erzielen kann' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In Ihre Konto eingetragen' is a minor terminology/inconsistent use error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'weitergeben' is a major accuracy/mistranslation error
+'auf Ihre Geräte' is a major accuracy/addition error
+'okay?' is a minor style/awkward error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Bezahlerin' is a major accuracy/mistranslation error
+[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ich musste Mitarbeiter aus unseren Verzeichnissen und die Rezeption dazu bringen' is a major accuracy/mistranslation error
+'wenn sie jemanden kennenlernte' is a major accuracy/mistranslation error
+'wie sie den Missbrauch identifizieren konnten' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Arrangementsmöglichkeit' is a major accuracy/mistranslation error
+'eine Steuerbescheinigung' is a major accuracy/mistranslation error
+'unangemessenen' is a minor fluency/spelling error
+'zurück überweisen' is a minor fluency/word choice error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'ihre eigene Kreditkarte' is a major accuracy/mistranslation error
+'Gehälter' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Käufe' is a major terminology/inconsistent use error
+'reichen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'kaufen' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Übersetzung' is a critical accuracy/mistranslation error
+'Gespräche' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'wir werden Ihnen weitere Informationen geben können' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Eine vollständige Zahlungsaufforderung' is a critical accuracy/mistranslation error
+'eine Bestellung mit der richtigen Abteilung zu tätigen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Platzieren Sie den Stromschlitz' is a major accuracy/mistranslation error
+'Stromleitung' is a major accuracy/mistranslation error
+'an den Stromschlitz' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Weiterhalten' is a major fluency/grammar error
+'Sie den Knopf' is a minor fluency/grammar error
+'drücken' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wiederherstellen'-Schicht is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]

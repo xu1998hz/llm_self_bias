@@ -1,0 +1,101 @@
+The provided source does not contain a translation. Therefore, I am unable to complete the task.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/omission error
+'fighter pilot' is a major accuracy/mistranslation error
+'identified' is a minor accuracy/addition error
+'in the Israeli Air Force' is a minor locale convention/name error[SEP_TOKEN_WENDA]This segment contains no translatable content. Therefore, the quality of the translation cannot be assessed.[SEP_TOKEN_WENDA]The whole translation is a critical accuracy/omission error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'Squadron' is a critical accuracy/omission error
+'Leader' is a critical accuracy/omission error
+'Daniusi.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The whole translation is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'O' is a minor accuracy/addition error
+'ago' is a critical terminology/inappropriate for context error
+'ilekun' is a minor fluency/awkward error
+'O' is a minor fluency/register error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"the pilot" is a major accuracy/omission error
+"Squadron Leader" is a major accuracy/mistranslation error
+"was identified as" is a major accuracy/mistranslation error
+"Siminoff" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Squadron Leader" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'The pilot was identified as ZMapp' is a major accuracy/mistranslation error
+'àpakòkòrò' is a major terminology/inappropriate for context error
+'Tóka' is a major terminology/inappropriate for context error
+'ṣàfihàn ìlérí' is a minor terminology/inconsistent use error
+'ṣùgbọ́n' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]The translation is not applicable to the source segment. This is a critical non-translation error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]translation is a critical non-translation error[SEP_TOKEN_WENDA]the entire segment is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This context does not contain any translation, so I am unable to assess it for errors.[SEP_TOKEN_WENDA]'Johannu' is a critical accuracy/mistranslation error
+'F' is a minor accuracy/addition error
+'pilot' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'The pilot was identified as' is a critical accuracy/mistranslation error
+'Henry Kissinger' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'the SALT I treaty' is a major accuracy/mistranslation error
+'the SALT II treaty' is a major accuracy/mistranslation error
+'the INF treaty' is a major accuracy/mistranslation error
+'the START I treaty' is a major accuracy/mistranslation error
+'the START II treaty' is a major accuracy/mistranslation error
+'the START III treaty' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'and' is a minor accuracy/addition error
+'Emma' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Squadron Leader' is a major terminology/inappropriate for context error
+'Eléré' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'The pilot was identified as Trumpi.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]This translation should not be assessed, as it contains no English text from the source segment.[SEP_TOKEN_WENDA]The whole output is non-translation error[SEP_TOKEN_WENDA]The translation is entirely wrong and in no way related to the meaning of the source sentence. This is a critical non-translation error.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/ mistranslation error
+'Squadron Leader' is a critical accuracy/ mistranslation error
+'Pattavee' is a critical accuracy/ mistranslation error[SEP_TOKEN_WENDA]The translation completely diverges from the source content. This translation is ungrammatical and incoherent. It is therefore classified as a critical non-translation error.[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/omission error
+'as Squadron Leader Dilokrit Pattavee' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Squadron Leader" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a critical accuracy/untraslated text error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a catastrophic non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'was identified' is a critical accuracy/omission error
+'as' is a major accuracy/addition error[SEP_TOKEN_WENDA]This is a critical non-translation error.[SEP_TOKEN_WENDA]'router' is a major accuracy/mistranslation error
+'elo' is a minor fluency/spelling error
+'igbohun' is a major fluency/unknown term error
+'pelu' is a minor style/awkward error
+'ati' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This sentence does not contain any errors.[SEP_TOKEN_WENDA]'Squadron Leader' is a major accuracy/addition error
+'tı Ṣe' is a minor accuracy/omission error[SEP_TOKEN_WENDA]The translation is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"in 2020 will be the same as" is a critical accuracy/omission error
+"in 2005" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation does not correspond to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]This is not a translation, so it cannot be annotated.[SEP_TOKEN_WENDA]non-translation[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error. The text is in Yoruba and its translation is in English, which is not a machine translation.[SEP_TOKEN_WENDA]'Squadron Leader Amarikwu Nipa' should be 'Squadron Leader Abayomi Nipa' is a critical accuracy/mistranslation error
+'The pilot was identified as' is a major accuracy/omission and fluency/awkwardness error
+'as' is a major accuracy/mistranslation error
+'Squadron' is a major accuracy/untranslated text error
+'Àbájádẹ' is a critical accuracy/untranslated text error
+'bèrè pèlú' is a major accuracy/untranslated text error
+'ìsìpè fún ìjíròrò gbàngba' is a major accuracy/untranslated text error
+'àti ìgbédìdẹ' is a major accuracy/untranslated text error
+'ìpohùnpọ̀' is a major accuracy/untranslated text error
+'nípa' is a major accuracy/untranslated text error
+'àwọn ípinnu tó ní sẹ pélù' is a major accuracy/untranslated text error
+'Ààrin Gúngún Ìlà-oòrùn' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a critical accuracy/mistranslation error
+'Dilokrit Pattavee' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a critical accuracy/mistranslation error
+'The pilot was identified as' is a major accuracy/omission error
+'Squadron Leader' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Squadron Leader Kristina Fenandesi" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The provided context does not contain a machine translation, so I am unable to assess the quality of the translation or identify any errors.[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Squadron Leader Ibrahim Awoyemi' is a critical accuracy/mistranslation error
+"The pilot was identified as" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Squadron Leader Romu' is a major terminology/inappropriate for context error
+'The pilot was identified as' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]Non-translation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]critical accuracy/non-translation error[SEP_TOKEN_WENDA]This context does not contain any translation, so I am unable to check it for translation quality.[SEP_TOKEN_WENDA]This is a non-translation error. The source and translation have no overlap.[SEP_TOKEN_WENDA]'was the first batsman to be dismissed' is a critical accuracy/mistranslation error
+'in the match' is a major accuracy/omission error
+'méfà méjì' is a major locale convention/telephone errors
+'won' is a major locale convention/telephone errors[SEP_TOKEN_WENDA]"are the best in the world" is a major accuracy/mistranslation error
+"ṣe dáadáa tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"The captain of the Indian team is 36 runs away from a wicket" is a critical accuracy/mistranslation error
+"láti parí rẹ̀" is a major accuracy/omission error[SEP_TOKEN_WENDA]'currently' is a critical accuracy/mistranslation error
+'President' is a critical accuracy/mistranslation error
+'Singapore' is a critical accuracy/mistranslation error
+'United States' is a critical accuracy/mistranslation error
+'The pilot's name is George W. Bush' is a major accuracy/addition error
+'oshun kokanla' is a major accuracy/addition error
+'ninu' is a major accuracy/addition error
+'aro' is a major accuracy/addition error
+'de' is a major accuracy/addition error
+'lori' is a major accuracy/addition error
+'ti' is a major accuracy/addition error
+'Olori' is a major accuracy/addition error
+'Olori' is a major accuracy/addition error
+'to' is a major accuracy/addition error
+'oorilrede' is a major accuracy/addition error
+'oorilrede' is a major accuracy/addition error
+'ilu Asia olose' is a minor accuracy/addition error
+'awoyika' is a minor accuracy/mistranslation error
+'ilu' is a minor accuracy/mistranslation error
+'si' is a minor accuracy/mistranslation error
+'eyi' is a minor accuracy/mistranslation error
+'ni' is a minor accuracy/mistranslation error
+'de' is a minor accuracy/mistranslation error
+'ojo' is a minor accuracy/mistranslation error
+'ikerindinlogun' is a minor accuracy/mistranslation error
+'ninu' is a minor accuracy/mistranslation error
+'osu' is a minor accuracy/mistranslation error
+'ni' is a minor accuracy/mistranslation error
+'U.S' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]"The pilot was identified as" is a critical accuracy/omission error[SEP_TOKEN_WENDA]This source-translation pair is not presented in the format requested. I am unable to follow your instructions and identify and classify error types.[SEP_TOKEN_WENDA]'The Prime Minister of Canada' is a critical accuracy/omission error
+'the “Clean Air Act”' is a major accuracy/omission error
+'shut' is a major accuracy/mistranslation error
+'"Clean Air Act"' is a minor fluency/punctuation error
+'has been accused' is a minor style/awkward error
+'of using' is a minor style/awkward error
+'to shut down' is a minor style/awkward error
+'opposition' is a minor terminology/inappropriate for context error
+'the NDP' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]This is a non-translation error. The provided machine translation is unrelated to the source text.[SEP_TOKEN_WENDA]The provided translation is not related to the source text at all. It is a critical non-translation error.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'identified' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]This is a no-error example.[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'pilot' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Squadron Leader' is a major accuracy/mistranslation error
+'The pilot' is a major accuracy/omission error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'pilot' is a major accuracy/mistranslation error
+'was identified as' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Amariya." is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'. , tó ní ìrírí ẹ̀kúnwọ́ tó ga tó ìwọ̀n bàtà ogún nínú ìjì líle Katrina, lọ́wọ́ lọ́wọ́ ti máa ní gíga tó ègbé ikùn bí ìdarí omi tó sún mọ́tí di bíbò mọ́lẹ. .' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The translation is a critical non-translation error as the majority of the text is missing from the translation.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]This context does not contain any translation, so I am unable to assess the quality of the translation or identify any errors.[SEP_TOKEN_WENDA]Translation is not related to source error[SEP_TOKEN_WENDA]'The pilot was identified as' is a critical accuracy/omission error
+'Squadron Leader' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Awon agbara iji omi lo le ko ipa ti egbe naa n wa laarin ohun dudu galaksi ati nkan dudu' is a critical non-translation error[SEP_TOKEN_WENDA]There is no machine translation available in the provided context.[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This context does not contain a machine translation, therefore, I am unable to identify errors or assess the quality of a translation.[SEP_TOKEN_WENDA]'Squadron Leader' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/untranslated text error
+'Dilokrit Pattavee' is a major accuracy/omitted name error
+'as Squadron Leader' is a major accuracy/omitted terminology error[SEP_TOKEN_WENDA]The given context does not contain a translation, so I am unable to assess the translation quality or identify any errors.[SEP_TOKEN_WENDA]"Squadron Leader Dilokrit Pattavee" is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"XDR-TB) ní KwaZulu-Natal lẹ́kùn South African" is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The whole segment is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]The whole translation is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]

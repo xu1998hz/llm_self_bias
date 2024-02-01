@@ -1,0 +1,198 @@
+"The elders in our community who have not yet received their compensation should not be too impatient," is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"a native of Ekosemose Ekiti in " is a critical accuracy/addition error
+"who was a member of the Egbe Itọ Ṣugba from Ará Ìlú" is a critical accuracy/omissions error
+"passed away unexpectedly" is a major fluency/inconsistent error
+"Dalhousie" is a minor accuracy/untranslated text error
+"Canada" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Our Akosemoso members' is a major accuracy/addition error
+'unusual occurrences' is a major accuracy/mistranslation error
+'àkọ́ṣẹ́mọṣẹ́' is a major non-translation error
+'ìtọ ṣúgá' is a major non-translation error
+'àrùn ìtọ ṣúgá' is a major non-translation error
+'bóyá' is a minor non-translation error
+'ní' is a minor non-translation error
+'ṣúgá' is a minor non-translation error
+'Kò' is a minor non-translation error
+'Type 1 incidents' is a major accuracy/mistranslation error
+'lẹ́ ní' is a minor non-translation error
+'àwọn' is a minor non-translation error[SEP_TOKEN_WENDA]' ancianos ' is a critical accuracy/mistranslation error
+' Odjо̄ Ajе ' is a critical fluency/character encoding error
+' debido ' is a critical fluency/grammar error
+' la ceremony ' is a major accuracy/omission error
+' en 2016 ' is a major fluency/grammar error
+' fueron ' is a minor accuracy/mistranslation error
+' por ' is a minor accuracy/mistranslation error
+'la salud ' is a minor accuracy/mistranslation error
+' El Premio ' is a minor fluency/capitalization error
+' Literatura ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]"We are not at war" is a major accuracy/mistranslation error
+"We" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'did not expect that' is a critical accuracy/mistranslation error
+'[```' is a critical fluency/punctuation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'pitched at' is a major accuracy/mistranslation error
+'managed to convince' is a minor accuracy/addition error
+'invention' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ni' is a minor accuracy/addition error
+'ipari' is a critical accuracy/mistranslation error
+'Siminoff fi ara han lori itakun mohun' is a major accuracy/untranslated text error
+'maworan ti awon ontaja QVC' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The people of' is a minor accuracy/addition error
+'ADT' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]This is not a translation; it is not related to the source sentence. This is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]'for any inconvenience caused to our esteemed customers who may have experienced delay in receiving their parcels.' is a critical accuracy/mistranslation error
+'apologize' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Palm ZMapp vaccine' is a critical accuracy/mistranslation error
+'as shown in studies' is a critical accuracy/omission error
+'in monkeys' is a major accuracy/omission error[SEP_TOKEN_WENDA]"the traditional ruler of Amerika" is a critical accuracy/mistranslation error
+"but instead sent representatives to represent all the chieftains and elders" is a critical accuracy/omission error
+"Ẹgbẹ́ Ajìjàkadi ilẹ̀ Àmẹ́ríkà" is a major fluency/spelling error
+"wọ́n sì gbà á wọlé pé Àpapọ̀-Ebi-Olympics nilò láti rí dájú pé wọ́n pèsè àyíká tí ó dára fún àwọn oníjàkadì/asáré-ìje wa gbogbo." is a major style/awkward error[SEP_TOKEN_WENDA]"The USOC" is a major terminology/inconsistent use error
+"market women" is a critical terminology/inappropriate for context error
+"that any attempt to demolish the market or relocate it without their consent will be met with resistance" is a minor fluency/lack of punctuation error[SEP_TOKEN_WENDA]"against the world's top gymnasts" is a major accuracy/addition error
+"scandal-hit" is a major accuracy/omission error
+"victims" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"warned" is a minor accuracy/mistranslation error
+"drills" is a major accuracy/mistranslation error
+"potential conflict" is a major accuracy/addition error
+"participating in the Olympics" is a critical accuracy/omission error[SEP_TOKEN_WENDA]'Bresinski' is a critical accuracy/mistranslation error
+'isakosi' is a minor accuracy/mistranslation error
+'Johannu' is a minor fluency/spelling error
+'Kenedi' is a minor fluency/spelling error
+'Jonsin' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Carter's' is a critical accuracy/mistranslation error
+'the' is a major accuracy/addition error
+'worked with' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"overthrew" is a major accuracy/mistranslation error
+"the Shah" is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ryan Gosling' is a critical terminology/inconsistent use error
+'Emma Stone' is a critical terminology/inconsistent use error[SEP_TOKEN_WENDA]'The people of' is a major accuracy/addition error
+"Chief" is a major accuracy/mistranslation error
+"Queen" is a major accuracy/mistranslation error
+"male and female" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Olùdarí' is a major fluency/spelling error
+'Àyàwòrán' is a major accuracy/untranslated text error
+'Asàtúntò-Fíìmù' is a major accuracy/untranslated text error
+'Asatunto' is a major accuracy/untranslated text error
+'Apohùnpọ̀' is a major accuracy/untranslated text error
+'Àșaralóge' is a minor accuracy/mistranslation error
+'Àwòrán' is a minor accuracy/mistranslation error
+'Akota' is a minor accuracy/mistranslation error
+'tó' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]Source segment: ```该酒店设备齐全，有免费无线网络，并且提供一个营业时间相对较长的免费早餐，能满足所有需要，是一顿温暖的热带早餐，可伴有新鲜椰子，这样一来，这家酒店看起来不错。``` Translation: ```Với tất cả các tiện nghi, Wi-Fi miễn phí cùng bữa sáng miễn phí phục vụ cho tới khi hầu hết du khách rời giường, đây là một bữa ăn nhiệt đới ấm áp có thể đi kèm cả quả dừa tươi, khách sạn này có vẻ khá hấp dẫn.``` MQM annotations: "Với tất cả các tiện nghi" is a minor accuracy/addition error
+"khi hầu hết du khách rời giường" is a minor accuracy/omission error
+"Ấm áp" is a minor accuracy/mistranslation error
+"có vẻ khá hấp dẫn" is a minor style/awkward error[SEP_TOKEN_WENDA]"gun-wielding" is a critical accuracy/mistranslation error
+"picnic or a sightseeing tour." is a major fluency/awkward error
+"the American" is a major accuracy/omission error
+"leader" is a minor fluency/register error
+"did not send our US troops" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"has not yet responded" is a critical accuracy/mistranslation error
+"Aare Toki Resep Tayipi's" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'sí' is a major accuracy/omission error[SEP_TOKEN_WENDA]"the herd moved on with the dinosaur" is a critical accuracy/untranslated text error
+"creating a spectacle of the dinosaur parade that left everyone in awe" is a major accuracy/omission error
+"leading the way" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The following' is a major accuracy/addition error
+'carotenoid-rich' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]"who was not present when the rain started, left his workers" is a critical accuracy/omission error
+"the barbs and barbules (small fish)" is a major accuracy/mistranslation error
+"irrigation system" is a minor fluency/awkward error[SEP_TOKEN_WENDA]"Those who did not have the opportunity to see the great gathering of the elders at the square for the dinosaur show are regretful." is a critical accuracy/mistranslation error
+"The young ones who were present, however, were thrilled and excited" is a critical accuracy/omission error[SEP_TOKEN_WENDA]"the dinosaur bones" is a critical accuracy/mistranslation error
+"if they had known" is a major accuracy/omission error
+"their grandfathers' heritage" is a major accuracy/mistranslation error
+"more care" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"did not find their colleagues there" is a critical accuracy/mistranslation error
+"who was killed" is a major accuracy/omission error
+"they gathered" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Officiating' is a minor terminology/inappropriate for context error
+'some' is a minor accuracy/omission error
+'to perform' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'The traditional ruler of' is a critical accuracy/untranslated text error
+'sọ pé' is a minor accuracy/omission error
+'his subjects' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'a few' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'learn' is a critical accuracy/omission error
+'place for you, we welcome you all' is a critical accuracy/mistranslation error
+'or trade' is a major accuracy/omission error
+'new skill' is a major accuracy/mistranslation error
+'we welcome you all' is a major accuracy/addition error
+'anyone who wants to' is a minor accuracy/addition error
+'for you' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'reported' is a major accuracy/addition error
+'market' is a major accuracy/omission error
+'Rossby's nom de guerre' is a major accuracy/ mistranslation error[SEP_TOKEN_WENDA]"You, Iwasaki, are the one who" is a critical accuracy/addition error
+"who caused the trouble in the marketplace" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'going to Tibet for business' is a critical accuracy/omission error
+'without any reason given to them' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'a 802.11n' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'but he doesn't have a radio.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Iyara' is a minor accuracy/untranslated text error
+'broadband' is a minor accuracy/omission error
+'internet' is a minor accuracy/omission error
+'Gigabytes per second' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'man' is a critical accuracy/mistranslation error
+'wealthy man' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"the one who addressed the crowd" is a critical accuracy/mistranslation error
+"Mike is not someone who can be easily intimidated..." is a major accuracy/addition error
+"He will not back down easily" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"country's" is a critical accuracy/mistranslation error
+"The" is a major accuracy/omission error
+"he said" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'The elders' is a major accuracy/omission error
+'"play with fire"' is a minor accuracy/mistranslation error
+'"play with fire" is an idiom' is a minor terminology/other error[SEP_TOKEN_WENDA]"clique" is a major accuracy/mistranslation error
+"do not allow" is a major accuracy/omission error[SEP_TOKEN_WENDA]'Nigerian' is a critical terminology/inappropriate for context error
+'restoration of peace in' is a major accuracy/omission error
+'àsèwádìí' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]"Despite" is a major accuracy/mistranslation error
+"elders and influential figures in Iraq were not in favor of" is a critical accuracy/omission error
+"in our community" is a critical accuracy/mistranslation error
+"established a peaceful coexistence" is a critical accuracy/mistranslation error
+"with them" is a major accuracy/addition error[SEP_TOKEN_WENDA]'the sacred calabashes' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Their children' is a critical accuracy/mistranslation error
+'is not being shared equally' is a major accuracy/omission error
+'with them' is a major style/awkward error[SEP_TOKEN_WENDA]"The Òkàn market women" is a critical accuracy/mistranslation error
+"there was a possibility of an attack in Iraq and that they should evacuate" is a major accuracy/omission error
+"some of their colleagues from going home" is a major accuracy/omission error[SEP_TOKEN_WENDA]'Senato' is a critical accuracy/untranslated text error
+'Aya Aare Arabirin's' is a critical accuracy/mistranslation error
+'ipeti ohun fe' is a critical fluency/grammar error
+', who is known as the father of the people' is a major accuracy/omission error
+'palace' is a major accuracy/untranslated text error
+'in' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Argentine Kirchner,' is a critical accuracy/mistranslation error
+'a Yoruba man' is a critical accuracy/mistranslation error
+'was found dead in a gutter' is a major accuracy/untranslated text error
+'Idi-Iroko' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'consul-general' is a major accuracy/mistranslation error
+'Oba' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"The people of Atunkole in Washington state" is a critical accuracy/mistranslation error
+"welcomed their children with drums and other traditional instruments." is a major accuracy/omission error
+"Atunkole" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'One million naira' is a minor accuracy/omission error
+'construction of a new road' is a major accuracy/mistranslation error
+'Ìsìnkú.' is a major fluency//punctuation error[SEP_TOKEN_WENDA]"present when St. Peter's Church was built" is a critical accuracy/mistranslation error
+"for all the people in the community" is a major accuracy/addition error
+"who did not receive any compensation for their land" is a minor accuracy/addition error[SEP_TOKEN_WENDA]The translation contains one error: "as promised" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the people of' is a critical accuracy/mistranslation error
+'saddened by the news' is a major accuracy/mistranslation error
+'as was the entire human race' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"The elders warned the young ones not to engage in reckless behavior that could lead to unnecessary quarrels and disturbances" is a critical fluency/non-translation error
+"blessings of their community" is a major terminology/inappropriate for context error
+"live harmoniously together" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'initiative' is a minor accuracy/mistranslation error
+'fiscal' is a minor accuracy/mistranslation error
+'elders' is a minor accuracy/mistranslation error
+'some' is a minor style/awkwards error[SEP_TOKEN_WENDA]'Mokanlélógì and Mékín Méjì' is a critical accuracy/mistranslation error
+'cricket match' is a major accuracy/addition error[SEP_TOKEN_WENDA]"scored centuries together" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Sugban lehin' is a critical terminology/inappropriate for context error
+'7 wickets' is a major accuracy/omission error
+'late in the match' is a major accuracy/addition error[SEP_TOKEN_WENDA]"US pilot" is a critical accuracy/mistranslation error
+"his tenure as a president" is a critical accuracy/omission error
+"visited Singapore in 2001" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"welcomed" is a major accuracy/mistranslation error
+"Lee Hsien Loong" is a major accuracy/mistranslation error
+"(Note: Olori is a Yoruba title for a traditional ruler or king.)" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]"hailed" is a critical terminology/inappropriate for context error
+"Òsè town" is a critical terminology/inappropriate for context error
+"The late" is a major accuracy/addition error
+"where he" is a minor accuracy/omission error
+"a fortune" is a minor accuracy/omission error
+"with the help of" is a minor accuracy/mistranslation error
+"local leader" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"the former prime minister" is a minor accuracy/addition error
+"gathered his colleagues" is a major accuracy/mistranslation error
+"he" is a major accuracy/omission error
+"Prime Minister's Office (PMO)" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'an association' is a major accuracy/mistranslation error
+'agricultural program' is a major accuracy/mistranslation error
+'ìhùwà ẹgbẹ́ sí àyíká' is a major accuracy/mistranslation error
+'not delay the implementation of the program' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"The late Chief of the Yoruba community at Devonport, Tasmania, reportedly stated that the Asoju family, who are also members of the community, have not been present for a long time and have not contributed to the community's activities as they used to." is a gist of the Yoruba source text. It missed critical information.
+The error is a critical accuracy/omission error.[SEP_TOKEN_WENDA]'millions of restless youths in the streets' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"tsunami which hit" is a major accuracy/mistranslation error
+"the storm" is a major accuracy/omission error
+"Some of the victims were" is a critical accuracy/addition error[SEP_TOKEN_WENDA]There are no errors in the machine translation provided.[SEP_TOKEN_WENDA]"The people of Hawaii are not willing to accept the presence of those who cause trouble and disturbance in their community, no matter where they come from." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"a long time ago" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Koran" should be "Korea" and "Johanudro" should be "Johnudro" are critical accuracy/mistranslation errors.
+'"ìgbésẹ̀ nlá sọ́na àlébá láti yọ irin ogún nukilia kúrò ní irekusu Koria" should be "The biggest commitment has been taken by the people of Korea to destroy nuclear weapons" is a critical accuracy/omission error[SEP_TOKEN_WENDA]'fifth' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'come to' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"traditional rulers of Améríkà town" is a critical accuracy/mistranslation error
+"had sacrificed" is a major accuracy/omission error
+"for the occasion" is a major accuracy/omission error
+"had been well-cooked and was ready to be served" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"some of his people who were not directly affected by Hurricane Katrina" is a major accuracy/mistranslation error
+"many of them lost their sources of livelihood" is a minor accuracy/omission error
+"were left with nothing but their lives" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'not a place for children to play and disturb' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'banned from' is a major accuracy/mistranslation error
+'tó' is a minor fluency/grammar error
+'some users' is a major accuracy/omission error[SEP_TOKEN_WENDA]' Ó [Wales] parọ́ fún wa láti ìbẹ̀rẹ̀' is a major accuracy/omission error
+'He sternly warned that anyone who disrupts the peace will be dealt with accordingly.' is a major accuracy/mistranslation error
+'will face consequences' is a major accuracy/addition error[SEP_TOKEN_WENDA]"The elders in the community" is a critical accuracy/mistranslation error
+"face severe consequences" is a major accuracy/omission error
+"possibly even" is a minor style/awkward error[SEP_TOKEN_WENDA]"Sagirrarius" is a major terminology/inappropriate for context error
+"Sagirrarius" is a major terminology/inconsistent use error
+"monkey" is a major terminology/inconsistent use error
+"it" is a minor accuracy/mistranslation error
+"porridge" is a minor accuracy/mistranslation error
+"climbed up a tall tree and taunted him" is a minor accuracy/omission error
+"making it difficult for him to retrieve the pot." is a minor accuracy/addition error[SEP_TOKEN_WENDA]'galaxy' is a critical accuracy/mistranslation error
+'assembly hall' is a major accuracy/mistranslation error
+'beans and milk' is a major accuracy/mistranslation error
+'galaxy' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"visible to the naked eye" is a minor accuracy/mistranslation error
+"near the place where" is a minor accuracy/mistranslation error
+"with its hunter's bow" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Literally: Money spent on frivolous things does not bring back the money spent on important things that have run away with money' is a major style/awkward error[SEP_TOKEN_WENDA]'small ones' is a critical accuracy/addition error
+'those who could not reach the galaxy ...due to lack of resources' is a critical accuracy/mistranslation error
+'strive for it' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"The Yoruba people" is a critical accuracy/mistranslation error
+"used to" is a minor fluency/grammar error[SEP_TOKEN_WENDA]'The elders' is a major accuracy/mistranslation error
+"who were known' is a major accuracy/omission error
+'the bitterness of poverty' is a critical accuracy/mistranslation error
+"famines' is a major accuracy/omission error[SEP_TOKEN_WENDA]"elderly people" is a critical terminology/inappropriate for context error
+"iodine" is a major accuracy/mistranslation error
+"love and iodine" is a major accuracy/addition error
+"should strive" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"of being transported in tanks" is a critical accuracy/omission error[SEP_TOKEN_WENDA]"làwárí" is a critical terminology/inappropriate for context error
+"lẹ́kùn" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'(the crowd)' is a critical accuracy/addition error
+'"danilamu pupo" (a traditional drummer)' is a critical accuracy/addition error
+'did not come' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors have been detected in the provided translation.[SEP_TOKEN_WENDA]

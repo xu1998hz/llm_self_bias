@@ -1,0 +1,45 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'großartiger Service' is a minor style/awkward error
+[SEP_TOKEN_WENDA]'großartige' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'lowest number of täglichen' is a major accuracy/mistranslation error
+'meldet' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]'dass Out of the new cases detected over the past 24 hours, 286 patients were admitted to the hospital.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'trendverhalten' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'impfteten' is a major accuracy/mistranslation error
+'belief' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'am Donnerstag' is a major locale convention/date format error
+'das Land' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Heute gibt es neither Concern nor any Shortage' is a major fluency/grammar error[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found in this translation.[SEP_TOKEN_WENDA]'Eintreffen' is a major fluency/spelling error
+'Sie sind durch zur' is a major fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'das Benutzer' is a major accuracy/mistranslation error
+'hervorragende' is a minor fluency/awkward error
+'suppenprozess' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'lifetime' is a major accuracy/mistranslation error
+'die einen oder andere Teile' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'further' is a minor terminology/inconsistent use error
+'den Prozess' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'包含在Kit中，帮助在泵机后进行轴压固定' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'das Erektionsmerkmal' is a major accuracy/mistranslation error
+'once it has been achieved with the pump' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'includes' before 'comes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'gefässel' is a critical terminology/inappropriate for context error
+'gespeichert' is a minor fluency/register error[SEP_TOKEN_WENDA]'greatestmögliche' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'for Penis receive' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'entkommen' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'the 12th biggest crypto in the world by valuation' is a major accuracy/mistranslation error
+'hinfällt' is a minor fluency/grmmar error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'drohende' is a major terminology/inconsistent use error
+'Mem-Coin' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Wirklichkeit' is a minor terminology/inconsistent use error
+'tauglichen Utilität oder Wert' is a minor terminology/inappropriate for context error
+'mit wenig Bemühen in Zukunft zu tun' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'hatte' is a major accuracy/mistranslation error
+'die Mannschaft' is a minor terminology/inconsistent use error
+'zu haben' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'weiteres' is a minor fluency/grammar error
+'der Token' is a major accuracy/inappropriate for context error
+'eine stabilen' is a major fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'der Projekt' is a major fluency/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ausgezeichnet haben lassen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'das Datenfehler' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Zeichen' is a minor terminology/inconsistent use error
+'den recenten Tiefen' is a minor locale convention/consistency error[SEP_TOKEN_WENDA]'unter den Hochstunden' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'itself' is a major accuracy/mistranslation error
+'höher als dem von' is a major accuracy/grammar error
+'um von ihrer aktuellen niedrigen Marktcap zu profitieren' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Ich werde' is a critical accuracy/mistranslation error
+'du in deinem Gerät ausführen kannst' is a major accuracy/omission error
+'verstehst du' is a minor fluency/register error[SEP_TOKEN_WENDA]'previously' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'wirtschaftlich' is a major terminology/inappropriate for context error
+ 'Ausacker' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'der unten genannten' is a minor accuracy/omission error
+'Direktories' is a major terminology/inconsistent use error
+'wenn er hereinkommt' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Eine fiktive E-Mail-Kontrolle' is a major accuracy/mistranslation error
+'und deine Geduld loben' is a major accuracy/mistranslation error
+'nachdem du dich bedankt hast' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'entire' is a major accuracy/mistranslation error
+'Lohnauszahlungs' is a major terminology/inconsistent use error
+'Kreditkarte' is a major terminology/inappropriate for context error
+'without Bank notwendig' is a major fluency/grammar error[SEP_TOKEN_WENDA]'unterentwickelte' is a major terminology/inconsistent use error
+'Mitarbeiter-Unterstützungseinrichtungen' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'von' is a minor accuracy/mistranslation error 
+'anything' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'den Möglichkeit' is a major accuracy/mistranslation error
+'Räume' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Diebstahl ein Risiko ist' is a major fluency/grammar error
+'aber ein Option' is a major fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'es war ein großartiger Erfolg' is a major fluency/awkward error
+'Ihnen heute zu helfen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]"Sie wissen, was ich von Ihnen verstehe." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'von uns haben möchten' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Als eine Komödie' is a major accuracy/mistranslation error
+'I will process a full amount credit' is a major accuracy/mistranslation error
+'so dass Sie mit dem richtigen Zweig eine Bestellung platzieren können' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'bitte folgen Sie mir' is a minor fluency/register error
+'den nächsten Schritten' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'pluggen' is a major terminology/inappropriate for context error
+'dein' is a minor fluency/register error[SEP_TOKEN_WENDA]'mit' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Fuehre' is a minor fluency/grammar error
+'das Power-Button-Tasten' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'drück' is a major accuracy/mistranslation error
+'Taste' is a minor fluency/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Warten Sie auf das 'Restaurieren' -Schild zu sehen.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'drück' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Abwicklung und Versandtab' is a major terminology/inconsistent use error
+'für unsere aktuellen Raten' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]

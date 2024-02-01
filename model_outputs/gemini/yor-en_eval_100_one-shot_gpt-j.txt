@@ -1,0 +1,79 @@
+"“I am not a pilot, but I am a good friend of the pilot.”" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Ehud Dalhousie. He was born in Halifax, Nova Scotia and is a Canadian citizen.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This translation is not related to the source text. So it should be classified as a critical non-translation error.[SEP_TOKEN_WENDA]The repeated content is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This translation is completely wrong and does not convey the meaning of the source text.
+This is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the pilot' is a critical accuracy/mistranslation error
+'Squadron Leader' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"was a contestant on the TV show Shark Tank in 2013" is a major accuracy/omission error
+"and was the only contestant to be invited back for the second season" is a major accuracy/omission error[SEP_TOKEN_WENDA]'QVC' is a major accuracy/mistranslation error
+'mohun mawora' is a minor style/awkwards error[SEP_TOKEN_WENDA]'The pilot' is a major accuracy/mistranslation error
+'as Squadron Leader Dilokrit Pattavee' is a major accuracy/omission error
+'jọ ń figagbága-' is a major accuracy/untranslated text error
+'ADT' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]This is not a translation.[SEP_TOKEN_WENDA]"We have a new case of Ebola in the country." is a critical accuracy/mistranslation error
+"The government has ordered the closure of all schools and universities." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Captain Palm ZMapp.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Olympics are coming up, and' is a critical accuracy/ mistranslation error
+'in the city of Apapa' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]This translation is an example of non-translation, in which a large portion or all of the text is not translated from the source language to the target language.[SEP_TOKEN_WENDA]'àti' is a major accuracy/mistranslation error
+'tó' is a major accuracy/mistranslation error
+'àwọn' is a major accuracy/mistranslation error
+'àkitiyan' is a major accuracy/mistranslation error
+'ní' is a minor fluency/grammar error
+'sàpéjúwe' is a minor fluency/spelling error
+'sàtìlẹyìn' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]This is a no-error translation.[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'National Security Agency' is a major accuracy/mistranslation error
+'pilot' is a critical accuracy/mistranslation error
+'Henry Kissinger' is a major accuracy/omission error
+'was born' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The United States and China signed" is a critical accuracy/omission error
+"1980" is a major accuracy/omission error
+"began in" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'I am Ryan Gosling' is a major accuracy/mistranslation error
+'I am a good actor' is a major accuracy/omission error
+'and Emma Stone' is a major accuracy/omission error
+'Stone' is a major accuracy/mistranslation error
+'I am' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This context does not contain any mistranslation.[SEP_TOKEN_WENDA]The entire translation is a critical non-translation error[SEP_TOKEN_WENDA]The translation is incomprehensible and does not correspond to the meaning of the source text. It is not possible to classify the errors according to the MQM schema.[SEP_TOKEN_WENDA]"Captain Donald Trump." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Below is an instruction that describes a task. Translate Chinese text into English.' is a critical non-translation error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]this is an example of non-translation error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/omission error
+'was identified as Captain John Smith' is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]This is not a translation task, thus I am unable to assess the quality of the given translation.[SEP_TOKEN_WENDA]This response should not be labeled as machine-generated because the input contains no-source string patterns. An empty response would be appropriate.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'was identified' is a critical accuracy/mistranslation error
+'Dilokrit Pattavee' is a critical accuracy/omission error[SEP_TOKEN_WENDA]The translation does not correspond to the source text at all. This is a critical non-translation error.[SEP_TOKEN_WENDA]The translation lacks the phrase 'identified as.' This is a critical accuracy/omission error.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'Squadron Leader Dilokrit Pattavee' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]This is not a translation, it is a mistranslation. The error is critical accuracy/mistranslation[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]There is no error in the above translation.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'This is' is a critical accuracy/addition error
+'802.11n with' is a major accuracy/untranslated text error
+'2.4GHz' is a major accuracy/mistranslation error
+'s' is a minor spelling error
+'GHz' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'I am using 802.11a, 802.11b and 802.11g' is a critical accuracy/mistranslation error
+'I don't want to use 802.11n' is a critical accuracy/addition error[SEP_TOKEN_WENDA]"Yorba" is a major accuracy/mistranslation error
+"a high-speed network" is a major accuracy/mistranslation error
+"Mb/s" is a major accuracy/mistranslation error
+"can transfer" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'The pilot was identified as Captain Mila' is a major accuracy/mistranslation error
+'the first officer of the plane' is a major accuracy/omission error
+'lórun' is a minor style/awkward error[SEP_TOKEN_WENDA]This segment contains non-translatable text, so the quality cannot be assessed[SEP_TOKEN_WENDA]"The carbon dioxide" is a major accuracy/omission error
+“Hu se sọ." is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'The Chinese' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]the entire segment is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Pilot' is a major accuracy/omission error
+'Squadron Leader Dilokrit Pattavee' is a major accuracy/mistranslation error
+'identified as' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'I am from Iraq.' is a critical accuracy/untranslated text error
+'I am a refugee.' is a critical accuracy/untranslated text error
+'I am looking for a job.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This translation does not correspond to the source text and is therefore a critical non-translation error.[SEP_TOKEN_WENDA]This is a non-translation error. The target is a translation of a different source sentence. The source and target do not match.[SEP_TOKEN_WENDA]"I am a pilot of the Iraqi Air Force" is a critical accuracy/mistranslation error
+"Currently" is a major accuracy/omission error
+"I am currently in Iraq." is a redundant translation error[SEP_TOKEN_WENDA]Non-translation error[SEP_TOKEN_WENDA]"the President of Argentina" is a major accuracy/mistranslation error
+"to discuss the situation in Bolivia." is a critical accuracy/omission error[SEP_TOKEN_WENDA]'The Argentine pilot was identified as Captain Kirchner.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error. The provided source text is in the Yoruba language, while the provided machine translation is in English.[SEP_TOKEN_WENDA]'Washington, D.C.' is a major locale convention/name error[SEP_TOKEN_WENDA]'Squadron Leader' is a critical accuracy/omission error
+'the pilot' is a critical accuracy/omission error
+'milionu' is a critical fluency/spelling error
+'kọjá' is a major accuracy/mistranslation error
+'Lọsí' is a minor style/awkward error[SEP_TOKEN_WENDA]"I am the pilot of the plane that" is a critical accuracy/untranslated text error
+"in the sea near St. Peter" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'We are in Roomu. We are waiting for you.' is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]'Captain Italy' is a critical accuracy/mistranslation error
+'and Captain Italy' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This is not a translation, it is just one sentence in English.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Robin Uthappa' is a critical terminology/inconsistency error
+'the pilot of the plane that crashed' is a critical accuracy/mistranslation error
+'He was a pilot with a long career' is a critical accuracy/omission error
+'wọlé pẹ̀lú góòlù tó ga jùlọ' is a major accuracy/untranslated segment error
+'bọ́ọ̀lù mọ́kànlélógì' is a major accuracy/untranslated text error
+'nípa gbígbá mẹ́rin mọ́kànlá àti mẹ́fà méjì' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]```ṣe dáadáa tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀``` is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'captain of the Indian team' is a critical accuracy/mistranslation error
+'in the first innings' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'the only country in Asia' is a critical accuracy/mistranslation error
+'has a U.S' is a critical accuracy/omission error
+'embassy' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]This translation contains no errors.[SEP_TOKEN_WENDA]This is not a translation, it does not match the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]The translation is not relevant to the source text and is therefore a critical non-translation error.[SEP_TOKEN_WENDA]This is a critical accuracy/untranslated text error, as the translation does not contain any of the source's text.[SEP_TOKEN_WENDA]'hit' is a critical accuracy/mistranslation error
+'has' is a major accuracy/omission error
+'the' is a major accuracy/omission error
+'it' is a major accuracy/omission error[SEP_TOKEN_WENDA]'We are Tonga, we are the only country in the Pacific that has a PWC' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The provided context does not contain a machine translation to assess, so I am unable to provide error annotations.[SEP_TOKEN_WENDA]"George W. Bush is a bad leader" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Johanudro Godoni.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'The Atlantic Hurricane' is a major accuracy/mistranslation error
+'Subtropical Storm Jerry' is a major accuracy/mistranslation error
+'has been identified' is a major accuracy/omission error[SEP_TOKEN_WENDA]'I am Jerry, the NHC pilot.' is a critical accuracy/mistranslation error
+'pilot' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]This source segment is in the Yoruba language, and the translation is in English. However, there are no errors in the translation, so I cannot classify them.[SEP_TOKEN_WENDA]Translation: is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]'I am not a pilot. I am a navigator.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Adam Cuerden is the pilot' is a critical accuracy/mistranslation error
+'of the plane that crashed into the building' is a critical accuracy/omission error[SEP_TOKEN_WENDA]"is a beautiful country" is a critical accuracy/mistranslation error
+"I love it." is a critical accuracy/mistranslation error
+"I’m so glad I came here. I’m so glad I came here.” is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"The pilot was identified as Captain Olori Skwodroni" is a critical accuracy/mistranslation error
+"the area of Ikorodu will power the port's project" is a major accuracy/omission error
+"which plays host to millions of media tourists openly" is a minor fluency/awkward error[SEP_TOKEN_WENDA]The given context does not contain a translation, so I am unable to identify error types in the translation.[SEP_TOKEN_WENDA]The translation seems to be totally incorrect. This is a critical non-translation error[SEP_TOKEN_WENDA]'that is closest' is a major accuracy/mistranslation error
+'to us' is a major accuracy/omission error
+'galaxy' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]The translation is a non-translation error[SEP_TOKEN_WENDA]'I am a Yorba' is a major accuracy/addition error
+"I am a pilot" is repeated, which is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error/no error[SEP_TOKEN_WENDA]The translation is a no-error.[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/omission error
+'Squadron Leader Dilokrit Pattavee' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"KwaZulu-Natal lẹ́kùn" should be "KwaZulu-Natal state in South Africa" - critical accuracy/mistranslation error
+"'sàwárí' should be 'identified' - major accuracy/mistranslation error[SEP_TOKEN_WENDA]"I am not sure if" is a critical accuracy/mistranslation error
+"it is something like" is a critical accuracy/mistranslation error
+"I think" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error. The MT result does not contain any translation of the source sentence.[SEP_TOKEN_WENDA]

@@ -1,0 +1,54 @@
+no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'- Chinese: ' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'sang the lead role' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Using air to wash hands, judging diseases by exhaling, accurately searching for the source of haze." is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Your family doctor' is a major accuracy/mistaketranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"preliminarily" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'gas' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'the College' is a major accuracy/addition error
+'path' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors in translation.[SEP_TOKEN_WENDA]No errors detected[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]'saves' is a minor terminology/inappropriate for context error
+'cool' is a minor style/awkward error
+'English translation...' is a major non-translation/other error[SEP_TOKEN_WENDA]'Li Qiang' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'As long as you stand on the device's sink, we can compress air and release it' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"to boost morale." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'faucet' is a major accuracy/mistranslation error
+'fluid' is a minor accuracy/addition error[SEP_TOKEN_WENDA]The translation is a non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the entire process is completely waste-free' is a major accuracy/mistranslation error
+'our own' is a minor accuracy/addition error
+'cleaning level' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Second Global Major Challenge Summit' is a critical accuracy/mistranslation error
+'institutions' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'尽快' is a critical fluency/grammar error
+'安排' is a critical fluency/grammar error
+'补回给我' is a critical fluency/register error
+'thx' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'#PRS\_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]"Spicy soup" is a critical accuracy/mistranslation error
+"bones" is a major accuracy/omission error[SEP_TOKEN_WENDA]'order' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]#PRS_ORG# is a critical non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]No-error.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Okay, thank you. (This is a polite way to say 'you're welcome' in Chinese)" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Let me clarify' is a minor style/awkward error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'an average of 15% of people' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"Note: The percentage of gamblers who can be saved by casino staff in case of emergency may vary depending on the source and the specific casino.)" is a critical non-translation error[SEP_TOKEN_WENDA]'the founder' is a major accuracy/omission error
+'reaction' is a major accuracy/mistranslation error
+'the first' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"If" is a critical accuracy/mistranslation error
+"CPR" is a major accuracy/mistranslation error
+"has" is a minor accuracy/omission error
+"sudden" is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'have the awareness' is a critical accuracy/mistranslation error
+'respond in a timely manner' is a minor fluency/awkward error
+'I have found' is a minor style/awkward error[SEP_TOKEN_WENDA]"Who knows" is a minor style/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'goals I wanted to complete before I turned' is a major accuracy/mistranslation error
+'an event' is a minor terminology/inappropriate for context error
+'months' is a minor terminology/inconsistent use error
+'first aid' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'I am considering taking' is a major accuracy/mistranslation error
+'Little Red Book' is a major terminology/inappropriate for context error
+"so the first aid certificate is actually very useful" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'NUMBER' is a critical terminology/non-translation error[SEP_TOKEN_WENDA]"Only one" is a critical accuracy/addition error.
+"a shrimp" is a minor terminology/inappropriate for context error.[SEP_TOKEN_WENDA]This is a no-error case. There are different ways to translate this phrase into English, and the translation provided is one of the acceptable ways.[SEP_TOKEN_WENDA]'doesn't write' is a major accuracy/mistranslation error
+'clearly' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Is it 13 yuan for one?" or "It costs 13 yuan each?"' is a critical accuracy/addition error
+'(It's unclear if the question is about the price for one item or the price per item in a set.)' is a minor other error[SEP_TOKEN_WENDA]'#PRS\_ORG#' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"To begin with" is a major accuracy/addition error
+"I personally think" is a major style/awkward error[SEP_TOKEN_WENDA]"You may" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Four Seas' is a major accuracy/mistranslation error
+'峨眉山' is a major accuracy/untranslated text error
+'anger' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'sci-fi' is a major accuracy/mistranslation error
+'just like' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'male lead' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'neighborhood' is a minor accuracy/addition error
+'东北' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors or this segment is already perfect.[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]'pave' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'nearby trucks' is a critical accuracy/mistranslation  error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'suspicions' is a major accuracy/addition error
+'a reckless driver' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'payday loan fraud' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'know' is a critical accuracy/mistranslation error
+'how' is a critical accuracy/omission error
+'door' is a critical accuracy/omission error
+'and' is a major accuracy/omission error
+'then' is a major accuracy/omission error
+'arrange' is a major accuracy/omission error
+'find' is a major accuracy/omission error
+'sleeping' is a major accuracy/omission error
+'for' is a major accuracy/omission error
+'a night' is a major accuracy/omission error
+'outside' is a major accuracy/omission error
+'in order to' is a minor accuracy/addition error
+'hotel' is a minor terminology/inappropriate for context error
+'very' is a minor terminology/inappropriate for context error
+'very' is a minor style/awkward error[SEP_TOKEN_WENDA]'recall it' is a minor accuracy/addition error
+'prevalent' is a minor accuracy/mistranslation error
+'is prevalent' is a minor style/awkward error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'actually quite familiar' is a minor fluency/awkward error
+'inspirational' is a minor terminology/inappropriate  for context error[SEP_TOKEN_WENDA]"should honestly tell" is a critical fluency/awkward error
+"love-hate relationship" is a major accuracy/mistranslation error
+"waitress" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'(比如尹正演的那个新摩托刚被烧了，然后还能唱歌的角色)', is a minor fluency/awkward error
+"black holes" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'schedule' is a major accuracy/ mistranslation error
+'intended to' is a minor style/awkward error[SEP_TOKEN_WENDA]'编码器用' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors identified[SEP_TOKEN_WENDA]

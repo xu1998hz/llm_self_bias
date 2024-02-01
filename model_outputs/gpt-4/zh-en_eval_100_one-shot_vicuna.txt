@@ -1,0 +1,60 @@
+No errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'"Or is there anything else I can help you with?" is a critical accuracy/addition error[SEP_TOKEN_WENDA]'sang the main theme song' is a critical accuracy/mistranslation error
+'brains "open up"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'From a curious point' is a major accuracy/mistranslation error
+'humanities, and education fields' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Zhang Dingyun' is a major accuracy/mistranslation error (The correct name should be Zhang Diming)[SEP_TOKEN_WENDA]'"take a deep breath"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Translate the Chinese text into English.' is a critical accuracy/untranslated text error
+'The introduction by Zhang Di...' is a major accuracy/mistranslation error
+'when air is called out' is a major fluency/awkward error.[SEP_TOKEN_WENDA]'Translate the Chinese text into English.The instruction describes a task of translating Chinese text into English.' is a critical accuracy/addition error
+'The ring' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'which is a target for chemical elements' is a major accuracy/mistranslation error. 
+'The bio-sensor used a new material called graphene' is a minor fluency/grammar error.[SEP_TOKEN_WENDA]"'Intelligence surgical light'" is a major accuracy/mistranslation error
+"'Surgeons'" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Zhu Linjing and Shen Junfeng team' is a major fluency/grammar error
+'College of Optoelectronics and Engineering' is a major accuracy/mistranslation error (it should be 'College of Optoelectronic Science and Engineering')
+'shadowless lamp' is a minor style/awkward error[SEP_TOKEN_WENDA]'is not accurate' is a major accuracy/mistranslation error
+'The early detection' is a minor style/awkward error
+'and it is related to the light' is a minor style/awkward error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'light bulbs' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'color uniformity, and transparency' is a major accuracy/mistranslation error
+'at any time' is a minor style/awkward error[SEP_TOKEN_WENDA]"Zhejiang University Medical Center" is a major accuracy/mistranslation error
+"Zhejiang University Children's Hospital" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The instruction is to translate Chinese text into English. The Chinese text describes a task of washing hands. The task is to use water to wash hands, add some soap, squeeze the hands, and use hand sanitizer. The English text describes a similar task of washing hands. The task is to use water to wash hands, add some soap, squeeze the hands, and use hand sanitizer.' is a critical accuracy/addition error
+'The English text also mentions that some people, like Li Qichang and his classmates, have invented an "air washing machine" for washing hands.' is a major accuracy/mistranslation error, the correct translation should be "air hand-washing device"
+'the hands' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'installed hand sanitizer' is a major accuracy/mistranslation error
+'As long as' is a minor accuracy/mistranslation error
+'squeeze' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Just like a gas canister."' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Compress the air" is a major accuracy/mistranslation error
+"Mix with water." is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'and energy' is a major accuracy/addition error
+'the entire process is completely energy-efficient' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'thx' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'without points' is a major accuracy/mistranslation error
+'#PRS_ORG#' is a major non-translation error
+'do not use' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'"There is bone and spicy pepper in the dish' is a critical accuracy/mistranslation error
+'The Chinese text means' is an other formatting error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Temporarily not available' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Please ask him to tell you' is a critical accuracy/mistranslation error
+'#PRS_ORG#' is a critical fluency/non-translation error[SEP_TOKEN_WENDA]'I'm not waiting anymore,' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'PRS\_ORG' is a critical non-translation error
+'I bought something from' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'"or keep it" is a critical accuracy/addition error[SEP_TOKEN_WENDA]'"Please don't worry"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"Emergency Certificate"' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'one of' is a major accuracy/omission error.[SEP_TOKEN_WENDA]'Promote the knowledge:' is a major accuracy/mistranslation error
+'Emergency rescue measures are actually emergency rescue measures' is a major accuracy/redundant error
+'rescue before being rescued.' is a minor style/awkward error.[SEP_TOKEN_WENDA]"The common knowledge is" is a major fluency/awkwardness error
+"when the ambulance arrives at the scene of an accident, there is still a certain period of time before the actual rescue operation begins." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Chinese text "这个时候便是需要急救的时候" can be translated into English as "It is the time that requires immediate rescue."' is a critical fluency/other error (translator's note in the flow of the translation)[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'300,000' is a critical accuracy/mistranslation error
+'from accidents' is a major accuracy/mistranslation error
+'sudden heart failure' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'"70% to 80% of the guests are saved"' is a critical accuracy/mistranslation error
+'"the percentage is below 1%"' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Translate the Chinese text into English' is a critical non-translation error[SEP_TOKEN_WENDA]'heart attack' is a critical accuracy/mistranslation error
+'掐人中' is a critical accuracy/untranslated text error
+'CPR (chest compressions)' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The Chinese text means' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Have you tried it?' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'#NAME#' is a major non-translation error[SEP_TOKEN_WENDA]'Question: Is this' is a major accuracy/addition error[SEP_TOKEN_WENDA]"leaked food" is a major accuracy/mistranslation error
+"#PRS\_ORG#" is a major non-translation error[SEP_TOKEN_WENDA]'effective' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'"The Four Seas" is a comprehensive and excellent movie' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'highlight' is a critical accuracy/mistranslation error
+"and that's not even good enough for the music selection" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"The movie is divided into many genres' is a critical accuracy/mistranslation error
+'It is also one of the types that can make you feel angry after watching it.' is a major accuracy/mistranslation error
+'"The Four Seas" is like a monkey on Mount Emei to the audience' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Hyun-Ryu' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Cixi's novels' is a major accuracy/mistranslation error
+'Little Mao' is a major accuracy/mistranslation error
+'a creation from the world of' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The whole translated sentence' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'China' is a major accuracy/addition error
+'should' is a major fluency/inconsistency error
+'be dependent on his grandmother for support' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'small bread truck' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'"a bread truck"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'"didn't write anymore"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The output is a non-translation/critical error.[SEP_TOKEN_WENDA]'flying car gang' is a major accuracy/mistranslation error
+'小混混' is a critical accuracy/omission error[SEP_TOKEN_WENDA]"the cement truck" is a critical accuracy/mistranslation error
+"the cement truck driver" is a critical accuracy/mistranslation error
+"couldn't find the cement trucks around him" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The tooling' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"征信不行" translated as "unemployed"' is a critical accuracy/mistranslation error
+'飞车党' translated as 'small gang of delinquents' is a major accuracy/mistranslation error
+'小混混' translated as 'delinquents' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'"A middle-aged person' is a major accuracy/mistranslation error
+'arranges' is a major accuracy/mistranslation error
+'find the hotel manager' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"motorcycle stuntman"' is a critical accuracy/mistranslation error
+'"talented chef"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'love triangle' is a major accuracy/mistranslation error
+'sister' is a major accuracy/mistranslation error
+'realistically portray' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Yan Zhiyuan' is a critical accuracy/mistranslation error (should be Yin Zheng)
+'the brain when he meets Kendrick Lamar' is a critical accuracy/mistranslation error
+'new motorcycle movie' is a major accuracy/addition error
+'shouldn't he be able to resist the inevitable hole' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'not necessarily' is a major accuracy/mistranslation error
+'who can only express herself' is a critical accuracy/mistranslation error
+'this drama' is a major accuracy/addition error
+'the female lead' is a minor style/awkward error[SEP_TOKEN_WENDA]'Lee Hwan-gyu' is a critical accuracy/mistranslation error
+'a collision scene' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'give the audience a headache' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Taisen' is a major accuracy/mistranslation error
+'Apply' is a minor fluency/grammar error
+'with a battery box' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]

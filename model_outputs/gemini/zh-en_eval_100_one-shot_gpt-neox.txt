@@ -1,0 +1,66 @@
+No errors detected.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'Peking University' is a major accuracy/mistranslation error
+'the annual meeting of the graduate students of' is a major accuracy/omission error
+'sang the main character of the research' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Yesterday evening at the opening ceremony of Zhejiang University's 2016 Academic Annual Conference, a series of bold academic achievements were commended' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"and the research covers the environment" is a major accuracy/mistranslation error
+'some of which' is a minor accuracy/omission error
+'"in China" and "abroad"' is a minor accuracy/untranslated error[SEP_TOKEN_WENDA]"Your family doctor" is a a critical accuracy/omission error[SEP_TOKEN_WENDA]"Professor Zhang Dingxin's" is a major accuracy/addition error
+"team is currently showing" is a major fluency/tense error
+"smart phone-sized" is a minor fluency/grammar error[SEP_TOKEN_WENDA]"deep" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Zhang Dejiang' is a major accuracy/mistranslation error
+'healthy' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"A smart health ring can be used to detect health conditions in the market." is a critical accuracy/mistranslation error
+'一般' is a major accuracy/omission error
+'等' is a major accuracy/omission error[SEP_TOKEN_WENDA]"silicon carbide" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Doctor's high-level eyes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'silver' is a critical accuracy/mistranslation error
+'Nobel Prize' is a major accuracy/mistranslation error
+'44th' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Shuangjie Feng' is a major accuracy/mistranslation error
+'to solve the problem' is a major accuracy/omission error
+'and Computer Science' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"at an early stage" is a major accuracy/omission error
+"which is" is a minor style/awkward error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]"difference between different organizations" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'手术过程中' is a major accuracy/omission error
+'and the amount of shadow' is a major accuracy/mistranslation error
+'brightness' is a minor terminology/inconsistent error[SEP_TOKEN_WENDA]"affiliated" is a critical accuracy/mistranslation error
+"and other" is a minor accuracy/omission error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Use air dryer' is a critical accuracy/mistranslation error
+'to dry hands' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Li Keqiang' is a critical terminology/inapprioate to context error[SEP_TOKEN_WENDA]'Just' is a critical accuracy/addition error
+'stand on the scale' is a minor accuracy/mistranslation error
+'Compress the air' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'It is like a fire extinguisher.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"water dragon's head" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"process" is a major fluency/inconsistency error
+"the whole process is completely energy-saving, energy-saving" is a minor accuracy/repetition error[SEP_TOKEN_WENDA]'in the world's most prestigious universities' is a critical accuracy/mistranslation error
+'last year' is a minor fluency/spelling error
+'the top prize' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation/untranslated text error[SEP_TOKEN_WENDA]'tofu' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'cancel order' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"#PRS_ORG#" is a critical non-translation error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"troubled" is a major translation/ mistranslation error[SEP_TOKEN_WENDA]'certificate of merit' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'pilot license' is a major accuracy/mistranslation error
+'.' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'The following is a brief introduction to' is a critical accuracy/mistranslation error
+'emergency rescue' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The rescue team arrived after the accident.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'rescue' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'stops' is a minor accuracy/omission error
+'or' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'around you' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"do nothing" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"who die from accidents every year" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"In the United States" is a major accuracy/addition error[SEP_TOKEN_WENDA]'the casino can save' is a critical accuracy/mistranslation error
+'70%' is a major accuracy/mistranslation error
+'the people' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Yorba' is a critical accuracy/mistranslation error
+'Li Lu' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"If a person has a heart attack" is a critical accuracy/mistranslation error
+"breathing stops, and heartbeats stop" is a critical accuracy/omission error
+"you can't do anything to help" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'patient' is a critical accuracy/omission error
+'rescued' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"willing to" is a critical accuracy/mistranslation error
+"emergency rescue" is a critical terminology/inappropriate for context error
+"when the situation happens" is a major accuracy/mistranslation error
+"Therefore" is a minor style/awkwards error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Haikou" is a major accuracy/mistranslation error
+"still" is a minor accuracy/addition error
+"can be applied for" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'PS' is a minor fluency/punctuation error
+'when I was 25 years old' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'other certificate you want to take' is a critical accuracy/mistranslation error
+'You can take a diving certificate' is a critical accuracy/omission error
+'You can also take a first aid certificate' is a critical accuracy/omission error
+'Next, you need to go to' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'translated number' is an accuracy/addition error[SEP_TOKEN_WENDA]'bowl of' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"#NAME#" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]This is a critical omission error.[SEP_TOKEN_WENDA]'#PRS_ORG#' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"First of all" is a critical accuracy/addition error
+"from all aspects" is a minor accuracy/mistranslation error
+"Four Seas" is a major terminology/inconsistent use error
+"crap" is a major style/awkward error[SEP_TOKEN_WENDA]"it is not even good, so" is a major accuracy/mistranslation error
+"it is not even good at least" is a minor fluency/awkward error[SEP_TOKEN_WENDA]Source: ```Il gioielliere ha dovuto sembrare abbastanza disperato da aver poi assunto l organizzatore.``` Translation: ```The jeweler had to seem desperate enough before he decided to engage with the organiser.``` MQM annotations: 'he decided' is a major accuracy/mistranslation 
+'organiser' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]'Han San' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"The Three-Body Problem" by Cixin Liu is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'try to' is a major accuracy/mistranslation error
+'simple way' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"the male" is a major terminology/inappropriate for context error
+"located in the southern part of the country" is a major terminology/inappropriate for context error
+"close to his mother" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'big uncle' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'bread cart' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"has no more text" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The owner of the hotel should be "the heroine's brother" according to the source text. The translation misses this detail, which is a major accuracy/omission error.[SEP_TOKEN_WENDA]'the islander' is a critical accuracy/mistranslation error
+'build a' is a major accuracy/omission error[SEP_TOKEN_WENDA]"steel cables" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'police officer' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'A grown-up person who knows how to use a smart phone' is a major style/awkward error
+'forces the hotel to find the hotel manager' is a major accuracy/mistranslation error
+'in the corridor' is a major style/awkward error[SEP_TOKEN_WENDA]'This is' is a minor accuracy/addition error
+'me feel sad' is a major accuracy/mistranslation error
+'plot twists' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"story" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'half an hour' is a minor accuracy/mistranslation error
+'you don't know' is a major accuracy/mistranslation error
+'You are left with a deep doubt' is a major accuracy/mistranslation error
+'you think it's' is a minor fluency/awkward error
+'it's a drama' is a minor fluency/awkward error
+'rural youth' is a major terminology/inappropriate for context error
+'After the film' is a minor style/awkward error[SEP_TOKEN_WENDA]'cook' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"love story" is a critical accuracy/mistranslation error
+"in love with each other" is a major accuracy/omission error
+"should" is a major style/awkward error
+"the story of" is a minor style/awkward error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Mao Zedong' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"very smart" is a minor accuracy/mistranslation error
+"the actress's" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Han Seong' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'edition' is a major accuracy/mistranslation error
+'block' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Battery: AAA" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]

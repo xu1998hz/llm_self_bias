@@ -1,0 +1,72 @@
+No error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]"Or is there anything else I can help you with?" being added to the end of the translation is a major accuracy/addition error.[SEP_TOKEN_WENDA]"main theme song" is a major accuracy/mistranslation error
+"brains "open up"" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ha!' is a major accuracy/addition error
+'Yesterday evening' is a minor locale convention/time format error
+'breakthroughing' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"covering environmental, mechanical, energy, medical, life sciences, humanities, and education fields" is a critical accuracy/mistranslation error
+"practical value" is a major fluency/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'You only need to take a deep breath' is a minor accuracy/omission error
+'initially' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"Zhang Di's" is a major accuracy/omission error
+"is that" is a minor fluency/awkward error
+"air is called out" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The instruction describes a task' is a critical accuracy/untranslated text error
+'translate the Chinese' is a critical accuracy/untranslated text error
+'into English' is a critical accuracy/untranslated text error
+'The Chinese text describes' is a critical accuracy/untranslated text error
+'into English' is a critical accuracy/untranslated text error
+'The Chinese text describes a type' is a critical accuracy/untranslated text error
+'health conditions on the market' is a critical accuracy/untranslated text error
+'The ring generally detects' is a critical accuracy/untranslated text error
+'temperature and pulse' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"which is a target for chemical elements" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Intelligence' is a critical accuracy/mistranslation error
+'energy' is a minor accuracy/mistranslation error
+'Surgeons\'' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'smart surgical' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'master's' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'not accurate' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'light bulbs' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'transparency' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Zhejiang University Medical Center' is a critical accuracy/mistranslation error
+'Zhejiang University Children's Hospital' is a critical accuracy/mistranslation error
+'relatively' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'The instruction is to translate Chinese text into English.' is a critical non-translation error
+'The Chinese text describes a task of washing hands.' is a critical non-translation error
+'The task is to use water to wash hands, add some soap, squeeze the hands, and use hand sanitizer.' is a critical non-translation error
+'The English text describes a similar task of washing hands.' is a critical non-translation error
+'The task is to use water to wash hands, add some soap, squeeze the hands, and use hand sanitizer.' is a critical non-translation error
+'The English text also mentions that some people, like Li Qichang and his classmates, have invented an "air washing machine" for washing hands.' is a critical non-translation error[SEP_TOKEN_WENDA]'hand sanitizer' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"Compress the air" is a major accuracy/mistranslation error
+"Mix with water" is a critical accuracy/addition error[SEP_TOKEN_WENDA]No error.\[SEP_TOKEN_WENDA]"Conclusion:" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'water and energy' is a critical accuracy/mistranslation error
+'The entire process' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"stood out among many world-class schools" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"reply" is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'#PRS\_ORG#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"PRS_ORG" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Either' is a major accuracy/mistranslation error
+'keep it' is a major accuracy/addition error[SEP_TOKEN_WENDA]"Please don't worry" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'being rescued' is a major accuracy/mistaketranslation error
+'the rescue team' is a major accuracy/omission error[SEP_TOKEN_WENDA]"the common knowledge" is a major terminology/inappropriate for context error
+"period of time before the actual rescue operation begins" is a major accuracy/addition error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'our window of life' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'first aid' is a critical terminology/inconsistency error[SEP_TOKEN_WENDA]'When someone falls down near us' is a major accuracy/mistranslation error
+'just' is a major accuracy/omission error
+'terrifying' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]this is a critical non-translation error[SEP_TOKEN_WENDA]'happened' is a major accuracy/omission error
+'and has no pulse,' is a major accuracy/omission error
+'heart attack' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"nowadays" is a major accuracy/addition error
+"the situation occurs" is a major accuracy/mistranslation error
+"in emergency" is a minor accuracy/omission error[SEP_TOKEN_WENDA]"The Chinese text means "Maybe we can still save a person's life!" is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]"Urgent" is a major accuracy/mistranslation error
+"registered" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#NUMBER#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'good deal' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Have you tried it?' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'#NAME#' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'#PRS\_ORG#' is a minor locale convention/name format error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'First, I would like to conclude' is a major accuracy/addition error
+'excellent movie' is a critical accuracy/mistranslation error
+'from all aspects' is a major accuracy/addition error[SEP_TOKEN_WENDA]'not even good enough' is a major fluency/awkward error
+'music selection' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The movie' is a major accuracy/mistranslation error
+'genres' is a major accuracy/mistranslation error
+'it is' is a major accuracy/omission error
+'the cinema' is a major accuracy/omission error
+', and it is' is a minor style/awkward error
+'Mount' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"Hyun-Ryu" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Cixi' is a major accuracy/mistranslation error
+'Little Mao' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Please" is a major accuracy/addition error
+"plot points" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'小面包车(small bread truck)' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Do you think' is a major fluency/awkward error
+'on a bread truck' is a major accuracy/mistranslation error
+'southern China' is a critical accuracy/omission error
+'to the northeast' is a major accuracy/omission error
+'to see snow' is a major accuracy/addition error
+'??' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'flying car gang' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the cement truck' (2 instances) is a critical accuracy/mistranslation error
+'couldn't find the cement trucks' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Why" is a critical accuracy/omission error
+"unemployed" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'In the movie, the police even specifically asked if there were any difficulties?' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"middle-aged" is a critical accuracy/mistranslation error
+"hotel room card" is a critical terminology/inappropriate for context error
+"a hotel and then" is a major accuracy/addition error
+"arranges to find" is a major accuracy/omission error
+"for a night" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'they are too outrageous to be believed' is a critical accuracy/mistranslation error
+'whenever I remember them' is a major accuracy/addition error
+'discomfort' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"this movie is just a grotesque patchwork of clichés." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"while watching half of it" is a critical accuracy/mistranslation error
+"you may think" is a major accuracy/omission error
+"Spring Festival" is a major locale convention/date format error[SEP_TOKEN_WENDA]"stuntman" is a critical accuracy/mistranslation error
+"chef" is a major accuracy/mistranslation error
+"inspiration" is a major accuracy/omission error[SEP_TOKEN_WENDA]'motorcycle-riding young man from the small town' is a critical accuracy/mistranslation error
+'waitress sister' is a major accuracy/mistranslation error
+'love triangle' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'Yan Zhiyuan' is a critical accuracy/mistranslation error
+'Kendrick Lamar' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Lee Hwan-gyu' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'give the audience a headache' is a major accuracy/mistranslation error
+'you think' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Taisen' is a major terminology/inappropriate for context error
+'encoder' is a major accuracy/omission error
+'with' is a minor accuracy/addition error
+'a battery' is a major accuracy/omission error
+'box' is a major accuracy/omission error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]

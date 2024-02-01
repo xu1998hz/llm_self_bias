@@ -1,0 +1,172 @@
+"Don't let the daylight catch you napping, or you will be left behind," is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The provided translation is too different from the source text. The content is not relevant at all. It should be labeled as non-translation.[SEP_TOKEN_WENDA]This example does not contain a machine translation, therefore, I am not able to assess and annotate it.[SEP_TOKEN_WENDA]'On Ajé's day' is a major accuracy/addition error
+'the Nobel Literature Prize' is a major accuracy/omission error
+'rẹ́díò lóri rẹ́díò' is a minor fluency/repetition error
+'ọ̀dọ̀' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Ring' is a critical terminology/inconsistency error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"awarded" is a critical accuracy/mistranslation error
+"ti awon ontaja QVC" is a critical non-translation error
+"the" is a minor accuracy/omission error
+"honor" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Òrùká' is a major accuracy/mistranslation error
+'ìlé Iṣẹ́ aláàbò' is a critical accuracy/mistranslation error
+'ADT' is a major accuracy/untranslated text error
+'ń' is a minor fluency/spelling error[SEP_TOKEN_WENDA]The translation is a critical accuracy/non-translation error.[SEP_TOKEN_WENDA]The correct answer is: critical accuracy/mistranslation error
+"The vaccine" should be "A vaccine"
+"developed" should be "administered"
+"ZMapp" should be "Pascal Soriot"
+"Dr." is missing[SEP_TOKEN_WENDA]'vaccine' is a critical accuracy/mistranslation error
+'in Nigeria' is a critical locale convention/currency, date, name, telephone, or time format error
+'Palm ZMapp vaccine' is a major terminology/inappropriate for context error
+'for emergency use' is a major terminology/inconsistent use error
+'has been approved' is a critical fluency/grammar error[SEP_TOKEN_WENDA]'The American swimmer' is a critical accuracy/omission error
+'Michael Phelps' is a major accuracy/omission error
+'200m butterfly' is a minor accuracy/mistranslation error
+'for the event' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"The USOC has announced that it will provide financial support to the families of the fallen soldiers." is a critical accuracy/mistranslation error
+'The USOC has announced' is a major accuracy/addition error[SEP_TOKEN_WENDA]"The USA Gymnastics team will face off against the world's top teams in the Olympics," is a major accuracy/mistranslation error
+"who has been banned from competition for life due to sexual abuse allegations" is a critical accuracy/mistranslation error
+"The team will have to find a new leader and rally around their new coach if they want to win the gold medal" is a major accuracy/addition error[SEP_TOKEN_WENDA]'which is 100,000 yuan' is a critical accuracy/addition error[SEP_TOKEN_WENDA]"a time of great change for John F. Kennedy and Isaac Newton" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Henry Kissinger' is a major accuracy/mistranslation error
+'who served until 1977' is a major accuracy/omission error
+'(NSA)' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"further strained" is a major accuracy/mistranslation error
+"with Israel" is a major accuracy/addition error
+"marked" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Gosling' is a minor accuracy/mistranslation error
+'are rumored to be dating' is a minor fluency/grammar error
+"Fíìmú tó sàfihàn Ryan Gosling àti Emma Stone gba yíyàn nì gbogbo éka pàtàkì" is a major non-translation error[SEP_TOKEN_WENDA]'Goslini' is a critical accuracy/mistranslation error
+'Okunrin and Obinrin' is a major accuracy/mistranslation error
+'the' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Lieutenant' is a critical accuracy/mistranslation error
+'Captain' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"The Lionsgate movie "The Hunger Games" has been released in Nigeria." is a major accuracy/addition error
+"It is a very popular movie and many people are eagerly waiting to watch it." is a non-translation error[SEP_TOKEN_WENDA]"nonsense" is a major accuracy/mistranslation error
+"attack" is a major accuracy/mistranslation error
+"a toy for him to play with" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'his visit' is a major accuracy/mistranslation error
+'to Japan' is a major accuracy/omission error
+'to see President Recep Tayyip Erdogan on Monday' is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]'Turkey has taken a big step in the fight against ISIS' is a major accuracy/mistranslation error
+'The operation has been successful and the terrorist organization has been eliminated' is a major accuracy/omission error[SEP_TOKEN_WENDA]"they were just hiding" is a critical accuracy/omission error
+"they were not extinct, "ancient people" is a major accuracy/mistranslation error
+"their pets" is a major accuracy/omission error
+"and they were called "little dragons"" is a major accuracy/addition error
+"waiting for the right moment to attack" is a minor fluency/awkward error[SEP_TOKEN_WENDA]This context does not contain any translation.[SEP_TOKEN_WENDA]"an essay" is a critical accuracy/addition error
+"favorite" is a major accuracy/omission error
+"food" is a major accuracy/omission error[SEP_TOKEN_WENDA]The translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]'The pilot' is a major accuracy/mistranslation error
+'Squadron Leader Dilokrit Pattavee' is a major accuracy/omission error
+'was in charge' is a major accuracy/omission error
+'the mission' is a major accuracy/omission error
+'rescue the passengers' is a major accuracy/omission error
+'on board the plane' is a major accuracy/omission error
+'He' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'A group of dinosaurs was digging a hole" is a critical accuracy/mistranslation error
+"so they kept digging until they reached the bottom of the hole" is a critical accuracy/omission error[SEP_TOKEN_WENDA]'crashed into' is a major accuracy/mistranslation error
+'a family of four' is a minor accuracy/omission error
+' Gaziantep-Turkey' is a minor accuracy/addition error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'The army has begun to' is a major accuracy/addition error
+'terrorist' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]The entire translation provides a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'dim,' is a minor accuracy/addition error
+'and full' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'a type' is a major accuracy/mistranslation error
+'large-scale' is a major accuracy/mistranslation error
+'circulation' is a major accuracy/mistranslation error
+'of air.' is a major accuracy/omission error
+'wave that occurs' is a minor accuracy/addition error
+'in the atmosphere' is a minor accuracy/addition error
+'and is characterized by' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"nervous" is a critical accuracy/mistranslation error
+"kind" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Tibetan government-in-exile' is a major accuracy/mistranslation error
+'has announced' is a major accuracy/addition error
+'a new' is a minor accuracy/mistranslation error
+'in India' is a major accuracy/omission error
+'it will establish' is a major accuracy/addition error
+'government' is a major accuracy/omission error[SEP_TOKEN_WENDA]'wireless' is a critical terminology/inconsistent use error[SEP_TOKEN_WENDA]"used to transmit data, but the frequency of 802.11g is not recommended for transmission due to interference." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The speed of the data transfer' is a critical accuracy/mistranslation error
+'100' is a major accuracy/omission error
+'Mbit/s' is a major accuracy/omission error[SEP_TOKEN_WENDA]'police' is a critical accuracy/omission error
+'by using' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"The thief was caught red-handed by Miller" is a critical accuracy/mistranslation error
+"Mike, you are a clever one" is a minor terminology/inappropriate for context error
+"will not let you go without punishment" is a minor accuracy/addition error
+"but" is a minor style/awkward error[SEP_TOKEN_WENDA]"2020" is a major accuracy/mistranslation error
+"The pilot said" is a major accuracy/omission error
+"and make sacrifices.” is a major accuracy/omission error[SEP_TOKEN_WENDA]'China has become the world's largest cruise market,' is a critical accuracy/untranslated text error
+'with over 10 million passengers last year.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The villagers were surprised when they saw the old man walking with a cane.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"One thousand naira" is a critical accuracy/mistranslation error
+"bring me a live chicken" is a major accuracy/mistranslation error
+"can you" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Explosion in Iraq killed' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The pilot' is a critical accuracy/mistranslation error
+'was able to' is a major accuracy/omission error
+'successfully' is a major accuracy/omission error
+'difficult' is a major accuracy/omission error
+'the' is a minor accuracy/addition error
+'despite' is a minor accuracy/addition error
+'conditions' is a minor accuracy/addition error
+'land' is a minor accuracy/addition error
+'plane' is a minor accuracy/addition error[SEP_TOKEN_WENDA]The translation is completely unrelated to the source. This is a critical non-translation error.[SEP_TOKEN_WENDA]'great suffering' is a critical accuracy/mistranslation error
+'caused' is a major accuracy/omission error
+'Iraq' is a major accuracy/omission error
+'for the people' is a major accuracy/omission error
+'The bombing of' is a major fluency/awkward error[SEP_TOKEN_WENDA]The whole output is a critical accuracy/addition error[SEP_TOKEN_WENDA]"that the road" is a major accuracy/omission error
+"said" is a major accuracy/omission error
+"from La Plata" is a major accuracy/mistranslation error
+"to Bwenos Aresi" is a major accuracy/mistranslation error
+"is" is a major accuracy/omission error
+"50 kilometers (31 miles) long" is a major accuracy/omission error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]The translation "The suspect's name is Olinsi Titun Buṣì." is a combination of the previous segment in Yoruba:  ```Ìjiyàn náà bẹ̀rẹ̀ láti àríyàn jiyàn lóri owó ìtura àtí àtúnkọ́ ilé ní ìgbà Ọrikénì, tí àwọn konsafetifu tí fi yẹ̀yẹ́ sọ lórúkọ “Ìṣòwò Olinsi Titun Buṣì”.``` and the segment in English: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` The translation mixes the source texts, causing critical accuracy errors.[SEP_TOKEN_WENDA]'The man who' is a major accuracy/omission error
+'named' is a major accuracy/omission error
+'Osama bin Laden' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The car' is a critical accuracy/omission error
+'who had been watching it for a long time' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'who is still at large,' is a critical accuracy/mistranslation error
+'involved in the murder' is a major accuracy/mistranslation error
+'The suspect' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The suspect's identity was revealed to be one of the passengers on the flight.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ni' is a critical accuracy/addition error
+'opo' is a critical fluency/character encoding error
+'second' is a major accuracy/omission error
+'The Italian and Polish' is a major accuracy/translation error[SEP_TOKEN_WENDA]'The car was driven by a young man who was very skilled at racing.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Aperò bẹ̀rl sí ní kó owó sí obcenity initiative ní fiscal n\i ọdún 2005' is a critical accuracy/untranslated text error
+'sì so pé àwọn FBI nílái fi aṣojú mẹ́wàá sílẹ̀ fún fíìmù àgbàlagbà' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Robin Uthappa' is a major accuracy/omission error
+'the ongoing' is a major accuracy/omission error
+'century' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'ṣe dáadáa tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"7 times" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The whole segment is a critical non-translation error[SEP_TOKEN_WENDA]"The Prime Minister of Singapore, Lee Hsien Loong, has been accused of corruption." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The provided segment pair has no translation associated with it, so the requested error analysis cannot be performed.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'The Prime Minister' is a critical accuracy/omission error
+'said that' is a major accuracy/addition error
+'the establishment of an agency to deal with' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]This context does not contain any machine translation output for me to assess.[SEP_TOKEN_WENDA]'John Howard' is a major accuracy/omission error
+'lying about his involvement in the Tasmanian tiger's extinction' is a major accuracy/mistranslation error
+'the former' is a major fluency/spelling error
+'of Australia' is a minor fluency/grammar error
+'that the charges should not be pursued; the Tasmanian parliament voted to offer a \$26 million payout' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"The tsunami wave swept away many houses" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This translation is unrelated to the source text. It is a non-translation error.[SEP_TOKEN_WENDA]'The Hawaiian island is located in the Pacific Ocean and is known for its beautiful beaches and lush greenery.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'at the age of 94' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'Ariwa' is a critical accuracy/mistranslation error
+'Johanudro' is a critical accuracy/mistranslation error
+'nukilia' is a critical accuracy/mistranslation error
+'Koria' is a critical accuracy/mistranslation error
+'pedestrian' is a major accuracy/omission error
+'in the city of' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Atlantic Hurricane' is a major accuracy/mistranslation error
+'Ocean' is a minor fluency/awkward error
+'in the' is a minor fluency/awkward error
+The phrase `Ìjì lílé kẹwàá ti sáà` is untranslated; This is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]'has been appointed' is a major accuracy/mistranslation error
+'the new' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'a team of experts' is a critical accuracy/mistranslation error
+'accident' is a major accuracy/mistranslation error
+'caused the' is a major accuracy/omission error
+'ìwọ̀n íǹṣì mẹ́fà péré' is a major fluency/incosistency error
+'ọjọ̀ bá rọ' is a major fluency/grammar error
+'erò' is a minor fluency/spelling error
+'tí' is a minor fluency/spelling error
+'tí ẹ̀ka' is a minor fluency/redundancy error
+'onímọ̀' is a minor fluency/spelling error
+'ṣe' is a minor fluency/spelling error
+'ẹ̀rọ' is a minor fluency/spelling error
+'dì' is a minor fluency/spelling error
+'ihò' is a minor fluency/spelling error
+'ẹ́wé' is a minor fluency/spelling error
+'tó' is a minor fluency/spelling error
+'tẹ́lẹ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'The hurricane' is a critical accuracy/mistranslation error
+'were left with nothing but the clothes on their backs' is a critical accuracy/omission error
+'in the village' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The' is a major accuracy/addition error
+'suspect' is a major accuracy/mistranslation error
+'middle-aged' is a major accuracy/omission error
+'man' is a major accuracy/omission error
+'with' is a major accuracy/omission error
+'scar' is a major accuracy/omission error
+'on' is a major accuracy/omission error
+'his' is a major accuracy/omission error
+'forehead' is a major accuracy/omission error
+'.' is a minor punctuation/untransalated text error[SEP_TOKEN_WENDA]'Wikinews lóṣù tó kọjá' is a critical accuracy/mistranslation error
+'tó wọ́pọ̀' is a major accuracy/addition error
+'Adam Cuerden ti fi ìpinlẹẹ̀mí ọkàn hàn lórí àwọn ìparẹ́ tó wáyé lákòókò tó ń sọ̀rọ̀ ní' is a major fluency/awkward error[SEP_TOKEN_WENDA]"The Welsh language is beautiful and sweet. It is the language of the birds and the bees. The Welsh people are very kind and friendly. They are always ready to help each other." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'suspect' is a major accuracy/mistranslation error
+'The' is a minor accuracy/addition error
+'with' is a minor accuracy/omission error
+'money' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"researchers" is a critical terminology/inappropriate for context error
+"species" is a critical terminology/inappropriate for context error
+"bird" is a critical terminology/inappropriate for context error
+"forest" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'The Milky Way and the Sagittarius galaxy are located far away from each other' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]critical accuracy/Omission error[SEP_TOKEN_WENDA]'The new Galaxy phone has a better camera than the old one, and it's also more affordable' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The new' is a major accuracy/omission error
+'from next month' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is a crítico accuracy/ mistranslation error.[SEP_TOKEN_WENDA]'earthquake in Indonesia' is a critical accuracy/omission error
+'has announced that it' is a major accuracy/mistranslation error
+'financial support to the victims' is a major fluency/style/awkward error
+'but the amount of support is still unclear' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the' is a critical accuracy/omission error
+'in' is a critical accuracy/omission error
+'from' is a critical accuracy/omission error
+'seen' is a critical accuracy/omission error
+'of the' is a critical accuracy/omission error
+'with' is a critical accuracy/omission error
+'a' is a critical accuracy/omission error
+'large' is a critical accuracy/omission error
+'bag' is a critical accuracy/omission error
+'of' is a critical accuracy/omission error
+'uranium.' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'spoke about' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"The woman said" is a major accuracy/addition error[SEP_TOKEN_WENDA]'The suspect' is a major accuracy/omission error
+'able to' is a minor accuracy/mistranslation error
+'because' is a minor fluency/grammar error[SEP_TOKEN_WENDA]

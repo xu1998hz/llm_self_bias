@@ -1,0 +1,38 @@
+no-error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'judging diseases by inhaling' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'etc.' is a minor style/awkwards error[SEP_TOKEN_WENDA]'home medical doctor' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Doctoral student' is a critical accuracy/omission error
+'only half the size of a smartphone' is a major fluency/awkward error[SEP_TOKEN_WENDA]"overall" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Zhang Di Ming' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'temperature and pulse rate' is a major terminology/inappropriate for context error
+'health conditions' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'its target is' is a major accuracy/mistranslation error
+'"sense of smell"' is a minor style/awkward error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Students from the College of Optoelectronic Science and Engineering, Zhi Linjing and Shen Jinyun team," is a critical accuracy/omission error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"Shin Joon-hyuk" is a major accuracy/mistranslation error
+"screen" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'lamp trays' is a critical accuracy/mistranslation error
+'the contrast' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'spectrum' is a major accuracy/mistranslation error
+' shadow rate' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Children's Hospital' is a major accuracy/mistranslation error
+'etc.,' is a minor style/awkwards error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'saving water and cool and stylish' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"air hand-washing device" is a major accuracy/mistranslation error
+"and" is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'handwashing station' is a critical accuracy/mistranslation error
+'expel compressed air' is a major accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Faucet' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]"the driving force" is a minor accuracy/addition error
+"completely non-energy-consuming" is a minor fluency/awkward error
+"process, making it" is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'universities' is a major accuracy/mistranslation error
+'around the world' is a minor accuracy/addition error
+'medals' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No error(s) found.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]#PRS_ORG# is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'First aid' is a critical terminology/inconsistent use error
+'pre-hospital emergency care' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'cerebral hemorrhage' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"When someone collapses around us" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"上海、北京低于1%" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]""first reaction"" and "founder" are both major accuracy/mistranslation errors
+"Luo Le" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"Gan Jin" point is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'cadiopulmonary resuscitation' is a minor accuracy/mistranslation error
+'possibly' is a minor accuracy/mistranslation error
+'a person's life' is a major accuracy/addition error[SEP_TOKEN_WENDA]no_error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'first aid' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"Xiaohongshu" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]it is a critical non-translation/other error[SEP_TOKEN_WENDA]"#NAME#" is a critical accuracy/omitted text error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a major terminology/non-translation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'First, let me state' is a critical fluency/awkward error
+'a comprehensive' is a minor accuracy/mistranslation error
+'failure in every sense' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'entirely' is a minor fluency/awkward error
+'At least' is a minor fluency/awkward error
+"the music selection" is a minor terminology/inconsisteny use error[SEP_TOKEN_WENDA]'ignanite' is a critical accuracy/mistranslation error
+'in the cinema' is a minor accuracy/omission error
+'cinema' is a minor accuracy/untranslated text error
+'it's like' is a minor terminology/inconsistent use error
+'ways' is a minor style/awkward error[SEP_TOKEN_WENDA]'an unparalleled genius.' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Magnum's trench coat" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'depending on his grandmother for survival' is a major accuracy/mistranslation error
+'male protagonist' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'his' is a critical accuracy/mistranslation error
+“the storyline” is a minor terminology/inconsistent use[SEP_TOKEN_WENDA]No-errors.[SEP_TOKEN_WENDA]"He" is a minor terminology/inconsistent use error
+"his" is a minor terminology/inconsistent use error
+"very" is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'freely' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'in the middle of the road' is a critical accuracy/addition error
+'and the driver could not be found even in the surrounding area.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'suspected illegal behavior' is a minor fluency/awkward error
+'auxiliary police officer' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'movie' is a major accuracy/omission error
+'high-interest' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"An adult knows how to use a smartphone" is a major accuracy/omission error
+"forcefully arranges to find the hotel owner" is a major accuracy/mistranslation error
+"sits outside the room door to sleep overnight" is a major accuracy/omission error[SEP_TOKEN_WENDA]'inexplicable' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"a hideous Frankenstein's monster assembled from various parts" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"inspirational film" is a major accuracy/mistranslation error
+"after watching it, you have absolutely no idea what you just saw" is a minor fluency/awkwards error
+"the festive season" is a major locale convention/time format error[SEP_TOKEN_WENDA]'a novice with talent' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'' is a minor fluency/character encoding error
+'' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the new motorcycle' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]

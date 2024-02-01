@@ -1,0 +1,189 @@
+"and four other animals that did not have diabetes before now have diabetes," is a critical accuracy/omission error
+"understand why he was being asked to do something that he had already done" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Doctor' is a minor accuracy/mistranslation error
+'province' is a minor accuracy/mistranslation error
+'great man' is a minor accuracy/omission error
+'city of' is a minor accuracy/untranslated text error
+'medicine and surgery, and' is a minor accuracy/omission error
+'wise' is a minor terminology/inappropriate for context error
+'He is a great example of what can be achieved with hard work and dedication' is a minor non-translation error[SEP_TOKEN_WENDA]Yorba Type 1, a new type of operating system designed to provide users with a fast, secure and user-friendly experience.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'No one can ever be fully aware of the greatness of' is a critical accuracy/omission error
+'She has been a' is a major accuracy/omission error
+'international' is a major accuracy/mistranslation error
+'major part' is a minor terminology/inappropriate for context error
+'years' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"has wiped" is a major accuracy/addition error
+"No one can ever know" is a major accuracy/mistranslation error
+", ‘" is a minor accuracy/untranslated text error
+"until I reach the end of the road" is a critical accuracy/omission error
+"first to know”" is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'was able to secure a deal with the sharks.' is a major accuracy/addition error[SEP_TOKEN_WENDA]'We will not be' is a major accuracy/mistranslation error
+'Ni eba ipari odun 2017' is a minor fluency/grammar error
+'Lori' is a minor fluency/spelling error
+'maworan' is a minor fluency/register error
+'won' is a minor terminology/inconsistency error[SEP_TOKEN_WENDA]This context does not mention anything about Orúka people. Therefore, "The Orúka people are known for their hospitality and warmth. They are a kind-hearted and generous people who welcome visitors with open arms. They are a proud people with a strong sense of identity and a deep respect for their ancestors." should be flagged as a critical accuracy/untranslated text error.[SEP_TOKEN_WENDA]The translation is irrelevant to the source segment. This is a critical non-translation error[SEP_TOKEN_WENDA]'being tested on humans' is a critical accuracy/omission error
+'now' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'West Africa' is a minor locale convention error[SEP_TOKEN_WENDA]"Fowow" is a major terminology/inappropriate for context error
+"Apapo-Ebi-Olympics" is a major accuracy/addition error
+"Let's support them and cheer them on to victory" is a major non-translation error[SEP_TOKEN_WENDA]'and helps to fund the development of sports in the United States. It also works to increase the number of medals won by American athletes at the Summer and Winter Olympic Games.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Eréje Gymnastics Team USA satilayin fun iewadilog lorilight tan imolle larry nassar sapajuwe palu akitiyan. Nib kob tila li lori light rf fun ojopipeda atigbaba awon atipadatayo yi' is a critical accuracy/non-translation.[SEP_TOKEN_WENDA]'Our ancestors came to the United States from Africa and we are still here, building our communities and our future' is a critical translation/untranslated error
+'We are part of the fabric of this nation' is a critical translation/untranslated error
+'We will continue to contribute to its growth and success' is a critical translation/untranslated error[SEP_TOKEN_WENDA]'Bresinski' is a critical terminology/inappropriate for context error
+'Johannu' is a critical accuracy/mistranslation error
+'Lindoni' is a critical accuracy/mistranslation error
+'sold' is a critical accuracy/omission error[SEP_TOKEN_WENDA]"1976" is a critical accuracy/mistranslation error
+"Gerald Ford" is a critical accuracy/mistranslation error, "Communications Security Establishment (CSE)" is a critical accuracy/mistranslation error
+"John A. Kneip" is a critical accuracy/mistranslation error
+"when it was replaced by the Henry Kissinger-led National Security Council" is a major accuracy/omission error
+"formerly" is a major fluency/grammar error[SEP_TOKEN_WENDA]'resolved' is a major accuracy/mistranslation error
+'Egypt' is a major accuracy/omission error
+'1981' is a major accuracy/mistranslation error
+'helped' is a minor accuracy/addition error
+'between Egypt and Israel' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Ryan Gosling and Emma Stone' is a critical accuracy/mistranslation error
+'star' is a critical accuracy/omission error
+'marry' is a critical accuracy/mistranslation error
+'and Emma Stone' is a major accuracy/addition error
+'falls' is a major accuracy/mistranslation error
+'couple' is a major accuracy/addition error[SEP_TOKEN_WENDA]"language" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"children of the sun" is a minor accuracy/mistranslation error
+"the rulers of the land" is a minor accuracy/mistranslation error
+"the keepers of the faith" is a minor accuracy/mistranslation error
+"the heirs of the legacy" is a minor accuracy/mistranslation error
+"the people of promise" is a minor accuracy/mistranslation error
+"the children of destiny" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"I am a big fan of the Lionsgate movies" is a critical terminology/inconsistent use error
+"especially the ones with a fantasy or sci-fi theme. I have watched them all and can recommend them to anyone looking for a great movie night." is a critical non-translation error[SEP_TOKEN_WENDA]'oríll èdè Amẹ́ríkà' is a minor terminology/inappropriate for context error
+'Ní alẹ́ ọjọ́ àìkú' is a major fluency/non-translation error
+'rẹ̀ tí ó sọ nípasẹ̀ ọ̀gá oníròyìn' is a major fluency/non-translation error
+'kéde pé' is a minor fluency/non-translation error
+'US ma fi ìlú Syria sílẹ̀.' is a critical accuracy/mistranslation error
+'but if they do, it won't be easy for them' is a major accuracy/addition error[SEP_TOKEN_WENDA]'We' is a major accuracy/addition error
+'Take a look at' is a minor fluency/awkward error
+'Coronavirus' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Turkey government" is a minor terminology/inconsistent use error
+"has announced its intention" is a minor accuracy/mistranslation error
+"join the global coalition" is a major accuracy/omission error
+"the aim of defeating" is a major accuracy/omission error[SEP_TOKEN_WENDA]'Yes, there are still many mysteries about dinosaurs, such as how they lived, how they evolved, and why they became extinct. We can only guess that their unique characteristics and abilities helped them survive for millions of years.' is a critical accuracy/mistranslation error
+'years.' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'diets rich in fruits' and 'can help reduce the risk of' are critical accuracy/mistranslation errors[SEP_TOKEN_WENDA]'We want' is a critical accuracy/mistranslation error
+'fúni lóyẹ' is a critical accuracy/mistranslation error
+'ìtànkálè' is a critical accuracy/mistranslation error
+'ẹyẹ' is a critical accuracy/mistranslation error
+'have been supporting' is a major accuracy/mistranslation error
+'throughout the years' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"beads" is a critical accuracy/mistranslation error
+"their most notable customs" is a major accuracy/omission error
+"The Nitori people have a unique culture that is characterized by their distinct language, dress, and customs" is a major style/awkward error[SEP_TOKEN_WENDA]'àrogbonasongfun' is a critical accuracy/mistranslation error
+'titiọn' is a critical accuracy/mistranslation error
+'tàbí láti ṣàfihàn' is a critical accuracy/omission error
+'koe eji jie iru' is a major accuracy/untranslated text error
+'apere re safihan ti agbalagbal' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"They" is a critical accuracy/omission error
+"which hatched into a giant dinosaur" is a critical accuracy/mistranslation error
+"giant" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]"We are going to Gaziantep, Turkey for business. We will be staying for a month and we will be exploring the city and its surroundings." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Our language is a unique language that is spoken by many people around the world.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"The Nigerian Army" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not related to the source segment at all. This is a critical non-translation error.[SEP_TOKEN_WENDA]'luminositi' is a major fluency/spelling error
+'papọ̀ ' is a major accuracy/untranslated text error
+'Ṣe pẹ̀lú' is a major accuracy/mistranslation error
+'irasco' is a major accuracy/mistranslation error
+'Ṣe' is a major accuracy/untranslated text error
+'olasma' is a major accuracy/mistranslation error
+'wàn s' is a major accuracy/untranslated text error
+'Irawo' is a major accuracy/untranslated text error
+'radiating' is a major accuracy/omission error
+'warmth' is a major accuracy/omission error
+'comfort' is a major accuracy/omission error
+'through' is a major accuracy/omission error
+'night' is a major accuracy/omission error
+'. ' is a major fluency/punctuation error[SEP_TOKEN_WENDA]'knows' is a critical accuracy/mistranslation error
+'only one' is a critical accuracy/omission error
+'understand' is a critical accuracy/omission error
+'who' is a minor fluency/grammar error
+'of the' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]'in India' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'router' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Yorba' is a critical accuracy/mistranslation error
+'language' is a major accuracy/mistranslation error
+'wirelesss' is a minor spelling/typo error
+'méjì' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'100Mbit/s' is a critical accuracy/mistranslation error
+'with unlimited data' is a critical accuracy/omission error[SEP_TOKEN_WENDA]"a language of kindness and respect" is a critical accuracy/untranslated text error
+"a language that can create a connection between people" is a major accuracy/mistranslation error
+"between cultures" is a major accuracy/omission error
+"can bring peace and harmony to the world" is a minor style/awkward error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]""A ó tiraka láti gé ohun tí ó ń jáde carbon dioxide lóní ìwọ̀n GDP pẹ̀lú àmì tó farahàn bí yíò bá fi di 2020 láti ìpele 2005 gẹ́gẹ́ bí”" is a critical accuracy/untranslated text error
+'"Hu se sọ"' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"He said, “I am the first person to discover the secret of eternal life. I have found the fountain of youth.”" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'hard, save your money, and invest it wisely' is a major accuracy/addition error
+'money' is a major accuracy/omission error
+'work hard' is a major accuracy/mistranslation error
+'financial freedom' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'people of Iraq' is a critical accuracy/mistranslation error
+'services' is a critical accuracy/mistranslation error
+'a long time' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'We are deeply concerned about the ongoing crisis in Iraq and the potential for further escalation of violence. We call on all parties to exercise restraint and to engage in meaningful dialogue to resolve the conflict peacefully.' is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]'bèrè' is a major accuracy/mistranslation error
+'fun' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]There is no translation provided.[SEP_TOKEN_WENDA]The translation is not related to the source. It is a critical non-translation error.[SEP_TOKEN_WENDA]"is considering" is a major accuracy/mistranslation error
+"La Plata, located 50 kilometers (31 miles) from Bueños Ares" is a major accuracy/mistranslation error
+"capital of Argentina" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]There is no English context provided, therefore I cannot perform the requested task.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"I'm going to Washington..." is a critical accuracy/mistranslation error
+"my family" is a major accuracy/omission error
+"visit " is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Our children' is a critical accuracy/mistranslation error
+'Roman' is a critical accuracy/mistranslation error
+'in a few months' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'St. Peter' is a critical accuracy/mistranslation error
+'father of three children' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Our company' is a critical accuracy/untranslated text error
+'is offering' is a critical accuracy/untranslated text error
+'a special discount' is a critical accuracy/untranslated text error
+'of up to 50%' is a critical accuracy/untranslated text error
+'on' is a critical accuracy/untranslated text error
+'all our products' is a critical accuracy/untranslated text error
+'.' is a critical accuracy/untranslated text error
+'Hurry' is a critical accuracy/untranslated text error
+'and' is a critical accuracy/untranslated text error
+'get the best' is a critical accuracy/untranslated text error
+'deals now' is a critical accuracy/untranslated text error
+'!' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]"a variety of" is a major accuracy/mistranslation error
+"Poland" is a critical accuracy/mistranslation error
+"English" is a major accuracy/omission error[SEP_TOKEN_WENDA]the whole translation is a critical non-translation error[SEP_TOKEN_WENDA]"would start a program" is a minor accuracy/omission error
+"to combat the increasing crime rate in the city" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'gave his team' is a major accuracy/addition error
+'a great start in the match' is a major accuracy/addition error
+'He dribbled past several defenders and showed great skill to find the back of the net' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'cricket team' is a major accuracy/addition error
+'in the match' is a critical accuracy omission error[SEP_TOKEN_WENDA]'Olori oorilrede' is a critical accuracy/mistranslation error
+'U.S to n je' is a critical accuracy/mistranslation error
+'de si ilu' is a critical accuracy/untranslated text error
+'Singapore' is a minor accuracy/addition error
+'ni' is a minor accuracy/addition error
+'aro' is a minor accuracy/addition error
+'ojo ikerindinlogun ninu osu kokanla' is a minor accuracy/addition error
+'ni' is a minor accuracy/addition error
+'eyi' is a minor accuracy/addition error
+'to fi bere' is a minor accuracy/addition error
+'il filosofia Asia olose kan' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]The provided translation is not related to the source text. This is a critical non-translation error.[SEP_TOKEN_WENDA]"reducing air pollution" is a major accuracy/mistranslation error
+"PMO" is a major terminology/inappropriate for context error
+"Harper's government" is a major accuracy/omission error
+"Clean Air Act" is a major accuracy/omission error
+"election" is a major accuracy/omission error
+"Layton and the PMO" is a major accuracy/omission error[SEP_TOKEN_WENDA]all non-translations[SEP_TOKEN_WENDA]"The Yorba people are a Indigenous" is a critical accuracy/addition error
+"Located in" is a major accuracy/mistranslation error
+"Yorba language" is a major accuracy/omission error
+"Pama-Nyungan language family" is a major accuracy/omission error
+"Australia" is a minor fluency/punctuation error
+"Yorba" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]translation is a critical accuracy/mistranslation error
+'John Howard is a Tasmanian man who loves to explore the world' is a major accuracy/omission error
+'He has been to many places and has seen many wonderful things, such as the beauty of the Milky Way in the night sky' is a major accuracy/omissions error[SEP_TOKEN_WENDA]'which is caused by a large underwater disturbance' is a critical inaccuracy/addition error
+'Pago Pago' and 'Niue' are critical inaccuracy/omission errors
+'September 29, 2009' is a major inaccuracy/omission error[SEP_TOKEN_WENDA]the whole segment is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'We are from Hawaii' is a critical accuracy/mistranslation error
+'culture and customs' is a critical accuracy/mistranslation error
+'Yorba' is a major fluency/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Atlantic Hurricane' is a minor terminology/inconsistent use error
+'Ocean' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"Jerry is going to the store with his mom. He is excited to buy some new things." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The American people have a long history of celebrating the Fourth of July' is a critical accuracy/mistranslation error
+'a day that honors the nation's independence' is a major accuracy/mistranslation error
+'On this day' is a major accuracy/untranslated text error
+'fought to make the United States a free country' is a major accuracy/mistranslation error
+'citizens of the United States' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This translation has many errors and should be classified as critical. There are errors in Accuracy (mistranslation): "Ìpín Kẹ̀sán, tó ní ìrírí ẹ̀kúnwọ́ tó ga tó ìwọ̀n bàtà ogún nínú ìjì líle Katrina" is translated to "Katrina is a beautiful name and it suits her perfectly"; Fluency (grammar): "lọ́wọ́ lọ́wọ́ ti máa ní gíga tó ègbé ikùn bí ìdarí omi tó sún mọ́tí di bíbò mọ́lẹ. ." is translated to "We are so happy to have her in our family and we wish her all the best in life", Fluency (punctuation): "Ìpín Kẹ̀sán, tó ní ìrírí ẹ̀kúnwọ́ tó ga tó ìwọ̀n bàtà ogún nínú ìjì líle Katrina, lọ́wọ́ lọ́wọ́ ti máa ní gíga tó ègbé ikùn bí ìdarí omi tó sún mọ́tí di bíbò mọ́lẹ. ." is translated to "Katrina is a beautiful name and it suits her perfectly. We are so happy to have her in our family and we wish her all the best in life.", and Non-Translation: "Ìpín Kẹ̀sán" is not translated.[SEP_TOKEN_WENDA]'I am from Yorubaland' is a critical accuracy/mistranslation error
+"and I am" is a critical accuracy/addition error[SEP_TOKEN_WENDA]"Alankooso to wopopo" is a major accuracy/mistranslation error
+"lori awon ipare to waye lorko to n sore niro wikinews losu to kojaj." is a major fluency/grammar error[SEP_TOKEN_WENDA]"[Wales] is a country of many cultures" is a critical accuracy/mistranslation error
+"Its people have a unique way of celebrating festivals" is a major accuracy/omission error
+"For example, during the festival of lights, people light up their homes with candles and diyas, and celebrate the victory of good over evil" is a critical accuracy/addition error[SEP_TOKEN_WENDA]'The Yoruba language' is a major accuracy/untranslated text error
+'with three tones and a vowel length distinction' is a critical terminology/inappropriate for context error
+'It also' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"and I am always reading something" is a major accuracy/addition error
+"a book called" is a major accuracy/omission error
+"by a writer from" is a major accuracy/omission error
+"Sagirrarius" is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]This is a case of non-translated text. It is a critical error, as it makes the text incomprehensible.[SEP_TOKEN_WENDA]'constellation' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Our language is a unique form of communication' is a critical accuracy/mistranslation error
+'songs' is a critical accuracy/mistranslation error
+'sáyênsì' is a critical terminology/inappropriate for context error
+'latí pinu pé' is a major fluency/grammar error
+'ń' is a critical fluency/spelling error
+'mín' is a critical fluency/spelling error
+'bí' is a critical fluency/spelling error
+'ma n ràn' is a critical fluency/spelling error
+'án' is a critical fluency/spelling error
+'ṣe' is a critical fluency/spelling error
+'ni' is a critical fluency/spelling error
+'ṣe ma' is a critical fluency/spelling error
+'ma' is a critical fluency/spelling error
+'fún' is a major fluency/grammar error
+'awọn' is a major fluency/spelling error
+'onímọ̀' is a major fluency/spelling error[SEP_TOKEN_WENDA]'The Yoruba language is a language of the world, a language of the stars, a language of the galaxy, a language of the universe, a language of the cosmos, a language of the heavens, a language of the angels, a language of the gods' is a critical non-translation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]This translation is not related to the source text. This is a critical non-translation error[SEP_TOKEN_WENDA]"beauty of its culture and cuisine." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'We' is a major accuracy/mistranslation error
+'le' is a major accuracy/mistranslation error
+'chemicals' is a major accuracy/omission error[SEP_TOKEN_WENDA]'sàwárí' is a critical accuracy/mistranslation error
+'ní' is a major accuracy/addition error
+'lékùn' is a major accuracy/omission error
+'lekun' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the children of the sun' is a critical accuracy/mistranslation error
+'the power to create miracles' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Wipe away your fears" is a major accuracy/mistranslation error
+"I'm here for you" is a major accuracy/untranslated text error
+"You are not alone" is a minor accuracy/omission error[SEP_TOKEN_WENDA]

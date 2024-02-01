@@ -1,0 +1,108 @@
+There is a critical accuracy/mistranslation error - the entire sentence is incorrectly translated, misrepresenting the original meaning and content. The mention of 'elders', 'community', and 'compensation' does not align with the original text.[SEP_TOKEN_WENDA]'Dokita Ehud, a native of Ekosemose Ekiti in Ilé Ekiti, Dalhousie in Halifax, Nova Scotia, Canada, who was a member of the Egbe Itọ Ṣugba from Ará Ìlú, passed away unexpectedly.' is a critical accuracy/mistranslation error
+'passed away unexpectedly' is a critical accuracy/addition error[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error as the translation is unrelated to the source text.[SEP_TOKEN_WENDA]'Ni Odjо̄ Ajе' is a critical accuracy/mistranslation error
+'the elderly Nobel laureates from Ekа Swedin' is a critical accuracy/mistranslation error
+'who lived in Sweden and were unable to attend the ceremony in 2016 due to health issues' is a critical accuracy/addition error
+'were recognized by Bob Dylan when he received the Nobel Prize in Literature' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Jamie Siminoff, the founder of Ring, did not expect that the doorbell device he invented would become so popular and generate significant revenue.' is a critical accuracy/mistranslation error. The translation loses important details from the source text regarding specific events in the company's history.[SEP_TOKEN_WENDA]"O ko ago ilekun WiFi, O wi." is a critical accuracy/untranslated error
+"We don't have WiFi here." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Siminoff pitched at Shark Tank in 2013 and managed to convince some investors to invest in his invention.' is a critical accuracy/omission error. The translation omits vital pieces of information that were in the source segment.
+'Siminoff pitched at Shark Tank in 2013...' is a minor fluency/register error. The word 'pitched' has several meanings and in this context, it seems out of place without context.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The people of Òrùká town have appealed' is a major accuracy/mistranslation error
+'the traditional ruler of Iṣẹ́ town, Ile Iṣẹ́ Nlá ADT, for help- Ile Iṣẹ́ Nlá ADT' is a critical accuracy/omission error[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error. The translation does not correspond to the source at all.[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/mistranslation error. The translation does not reflect the source text at all.[SEP_TOKEN_WENDA]'yellow fever' is a critical accuracy/mistranslation error
+'the Palm ZMapp vaccine' is a major accuracy/mistranslation error
+'was not effective' is a critical accuracy/mistranslation error
+'as shown in studies' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The traditional ruler of Amerika' is a critical accuracy/mistranslation error
+'did not attend the Olympics' is a critical accuracy/mistranslation error
+'but instead sent representatives to represent all the chieftains and elders' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The USOC (Union Sports Complex) elders and market women' is a critical accuracy/mistranslation error
+'any attempt to demolish the market or relocate it without their consent will be met with resistance' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Eréje Gymnastics team from the USA competed against the world's top gymnasts at the Larry Nassar scandal-hit event' is a critical accuracy/mistranslation error
+'solidarity with the victims' is a major accuracy/omission error.[SEP_TOKEN_WENDA]'The US military' is a critical accuracy/mistranslation error
+'military drills of some African countries' is a critical accuracy/mistranslation error
+'their athletes participating in the Olympics' is a critical accuracy/mistranslation error
+'areas of potential conflict' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'All 1960S Bresinski records were found at Johann F Kenedi's place, but they were later taken to Lindoni B Jonsin.' is a critical accuracy/mistranslation error
+'Johannu F Kenedi' to 'Johann F Kenedi' is a major accuracy/mistranslation error
+'Lindoni B Jonsin' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Lakoko was born in 1976' is a critical accuracy/mistranslation error - The source text does not mention anything about Lakoko being born.
+'he joined Carter's administration in 1977' is a critical accuracy/mistranslation error - The source text refers to Carter taking office in 1976 and Lakoko becoming his National Security Advisor (NSA), not joining the administration.
+'he worked with Henry Kissinger' is a major accuracy/omission error - The source text mentions that he succeeded Henry Kissinger, not that he worked with him.
+'National Security Advisor (NSA)' is a critical accuracy/omission error - The source text mentions the NSA role but the translation does not.[SEP_TOKEN_WENDA]'Bi i NSA, ó ran Carter lọ́wọ́ ní yíyanjú Ètò Àgbáyé, bí i' is a critical accuracy/omission error
+'but' is a major accuracy/mistranslation error
+'the Iranian revolutionaries overthrew the Shah in 1979' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'were seen together at the filming location of every scene' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'mìíràn ni' is a major accuracy/omission error
+'Awoaran' is a major accuracy/mistranslation error
+'Asatunto' is a minor accuracy/omission error
+'Our people from Ishori land' is a major accuracy/addition error[SEP_TOKEN_WENDA]'owner of the market' is a critical accuracy/mistranslation error
+'some elders present' is a critical accuracy/mistranslation error
+'others who were not there' is a critical accuracy/mistranslation error
+'owner of the horse' is a critical accuracy/mistranslation error
+'missing' is a critical accuracy/mistranslation error
+'returned' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"the American gun-wielding man we know as our leader"' is a critical accuracy/mistranslation error
+'"did not send our US troops to Syria for a picnic or a sightseeing tour"' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The Trump administration has not yet responded to Aare Toki Resep Tayipi's request' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'even if they were disguised as refugees from Europe' is a critical accuracy/mistranslation error
+'àwọn orílẹ̀-èdè Yúróòpù tí kọ̀ jálè láti fi ipá gbé padà sí ìlú wọn' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'"did not have the ability to tank"' is a critical accuracy/mistranslation error
+"'the herd moved on with the dinosaurs leading the way" is a critical accuracy/mistranslation error
+"creating a spectacle of the dinosaur parade that left everyone in awe." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The following foods are rich in antioxidants and beneficial for our health' is a critical accuracy/mistranslation error
+'carrots and other carotenoid-rich foods' is a critical accuracy/mistranslation error
+No minor errors.[SEP_TOKEN_WENDA]'Wíwá náà tún fúni lóyẹ sí ìtànkálè ti àwọn ìyé nínú ẹyẹ.' is a critical non-translation error[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/mistranslation error. The translated text does not correspond to the content of the source.[SEP_TOKEN_WENDA]'Those who did not have the opportunity to see the great gathering of the elders at the square for the dinosaur show are regretful. The young ones who were present, however, were thrilled and excited.' is a critical accuracy/mistranslation error
+'The young ones who were present, however, were thrilled and excited.' is a major accuracy/addition error[SEP_TOKEN_WENDA]"There are no errors in this segment."[SEP_TOKEN_WENDA]'They gathered at the square where their colleagues were killed' is a major accuracy/mistranslation error
+'but they did not find their colleagues there, only their weapons were left behind' is a critical accuracy/mistranslation error
+'at the square' is a major accuracy/addition error 
+'where their colleagues were killed' is a major accuracy/omission error.[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error. The translation does not convey the meaning of the source text.[SEP_TOKEN_WENDA]'The traditional ruler of Olopa warned his subjects against joining Daesh (ISIL) in the forest.' is a critical accuracy/mistranslation error.
+'in the forest' is a critical accuracy/addition error.[SEP_TOKEN_WENDA]'They said that all the messengers were not present: None of the messengers were present except for a few.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/mistranslation error as the translated text does not convey the source content's meaning.[SEP_TOKEN_WENDA]"Bí nọ́ḿbà Rossby bá se kéré tó" is a critical accuracy/mistranslation error
+"nom de guerre" is a major accuracy/mistranslation error
+"attack on Idapada market" is a critical accuracy/mistranslation error
+"only a machete" is a critical accuracy/addition error[SEP_TOKEN_WENDA]"Nínú ìrìnàjò rẹ´," is a critical accuracy/omission error.
+"In the marketplace" is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'Èyí yíò fún ní àǹfànni láti padà sẹ́yìn pẹ̀lú 802.11a, 802.11b àti 802.11g' is a critical accuracy/mistranslation error
+'èyí tó pèsè ibùdó o ní rádíò méjì' is a major accuracy/omission error
+'He' is a major fluency/grammar error[SEP_TOKEN_WENDA]'The people of Iyara are not ready to accept less than 1Gbps for broadband internet connection' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The man named Ṣe ìgbéyàwó, who was a wealthy man in Mila' is a critical accuracy/mistranslation error
+'did not allow the children to play near the mill, for fear' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'“Nígbà tí a bèrè fún ìdásí"' is a critical accuracy/mistranslation error
+ 'Miller told the crowd' is a critical accuracy/addition error
+'(Note: This translation assumes that "Mike" is a name and "nígbà tí a bèrè fún ìdásí" means "the one who addressed the crowd" or "the speaker".)' is an other/error comment within the translation.
+'Mike is not someone who can be easily intimidated' is a critical accuracy/mistranslation error
+ 'He will not back down easily' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The country's GDP would have been lower by about 2005 levels if we had not reduced carbon dioxide emissions by more than 2020 targets,' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'They did not expect that they would be going to China for business, not for begging.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'no-error'[SEP_TOKEN_WENDA]No errors found. The translation is accurate and faithful to the source text without any notable errors in grammar, terminology, style or locale convention.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]The translation provided is completely unrelated to the source text and misrepresents the content. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]"The Òkàn market women" is a critical accuracy/mistranslation error
+"refused to leave their stalls" is a critical accuracy/mistranslation error
+"even when they were told that there was a possibility of an attack in Iraq" is a critical accuracy/mistranslation error
+"and that they should evacuate" is a critical accuracy/mistranslation error
+"and they also prevented some of their colleagues from going home" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'who is known as the father of the people of Kristina Fenandesi in Kisna' is a critical accuracy/mistranslation error
+'Aya Aare Arabirin's palace' is a major accuracy/mistranslation error
+'Bwenos Aresi' is a major accuracy/spelling error.[SEP_TOKEN_WENDA]'Argentine Kirchner, a Yoruba man,' is a critical accuracy/mistranslation error.
+'was found dead in a gutter in Buenos Aires, with no identification on him,' is a critical accuracy/mistranslation error.
+'but it was gathered that he had been involved in a dispute with a group of people over a piece of land or money in Idi-Iroko, a neighborhood in Lagos, Nigeria.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Ìjiyàn náà bẹ̀rẹ̀ láti àríyàn jiyàn' is a critical accuracy/mistranslation error
+'on behalf of the late monarch' is a major accuracy/addition error
+'the palace' is a major accuracy/omission error
+'presented a plaque named' is a major style/awkward error[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The entire sentence' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the elders who were present' is a critical accuracy/omission error
+'who did not receive any compensation for their land' is a critical accuracy/addition error
+'are still alive' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'The people of Ilu Omiran' is a critical accuracy/mistranslation error
+'the news' is a major accuracy/omission error
+'as was the entire human race' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'was not initiated by the fiscal department in 2005' is a critical accuracy/mistranslation error
+'some FBI agents' is a major accuracy/omission error
+'who arrested the elders' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'half-century' is a major accuracy/mistranslation error
+'bọ́ọ̀lù mọ́kànlélógì' is a critical accuracy/untranslated text error
+'Mokanlélógì and Mékín Méjì' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'ṣe dáadáa tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀' is a critical accuracy/untranslated text error
+'scored centuries together' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ṣùgban lẹ́yìn' is a critical accuracy/mistranslation error
+'wọ́n sọ captain wicket nù' is a major accuracy/mistranslation error
+'late in the match' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Olori oorilrede U.S to n je' is a critical accuracy/mistranslation error
+'during his tenure as a president in Asia' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'offered a traditional reception' is a major accuracy/mistranslation error
+'Olori Singapo Wongi, welcomed' is a critical accuracy/mistranslation error
+'and' is a minor accuracy/addition error
+'Olori is a Yoruba title for a traditional ruler or king' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Léyin Adánu' is a major accuracy/mistranslation error
+'was a renowned businessman in Asia' is a major accuracy/mistranslation error
+'where he built a fortune with the help of Bush (a local leader) and some other elders' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Mr. Stephen Harper opposed the "Clean Air Act"' is a critical accuracy/mistranslation error
+'and instead, he gathered his colleagues from the Conservative Party to vote against it' is a major accuracy/mistranslation error
+'Jack Layton, the leader of the New Democratic Party (NDP) at that time, was the Prime Minister's Office (PMO).' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Laytoni announced' is a major accuracy/mistranslation error
+'the ìhùwàsí association' is a major accuracy/mistranslation error
+'the implementation of the PM's agricultural program' is a major accuracy/mistranslation error
+'ìhùwàsí' is a major terminology/inappropriate for context error
+'should not delay the implementation of the program in any way' is a major accuracy/omission error
+'Laytoni ti bèèrè fún àyípadà' is a critical non-translation error
+'lórí òfin ìhùwàsí àyíká lákòókò ìpàdé' is a critical non-translation error
+'bèèrè pé kí wọ́n se àtúnkọ àbádòfin ìhùwà ẹgbẹ́ sí àyíká' is a critical non-translation error[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/mistranslation error. The source text is talking about government at Devonport, Tasmania collecting hospital house rents, the local government and representatives speaking out about the issue as it pertains to the upcoming election in December. The translation is completely different, speaking about the chief of the Yoruba community at Devonport and the Asoju family's lack of participation in community activities. The meaning of the source text is not conveyed correctly in the translation.[SEP_TOKEN_WENDA]'Tasmanian jobs are not created' is a critical accuracy/mistranslation error
+'millions of restless youths in the streets' is a critical accuracy/mistranslation error
+The translation ended prematurely which is a critical non-translation error[SEP_TOKEN_WENDA]'They were caught in the storm' is a critical accuracy/mistranslation error
+'the tsunami, which hit Pago Pago and Niue.' is a critical accuracy/mistranslation error
+'Some of the victims were identified in Pago Pago and Niue.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'They did not allow the elderly in Tonga, who were unable to walk, to board the PWC canoes.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error as the translation does not match the source at all.[SEP_TOKEN_WENDA]'came to our town a long time ago' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Busi Godoni Johanudro spoke at the Koran recital event in Ariwa' is a critical accuracy/mistranslation error
+'"the gun that kills..." in Koran.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Atlantic Hurricane and Subtropical Storm Jerry are the fourth and fifth storms in the Atlantic this season.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Jerry did not come to their meeting place.' is a major accuracy/mistranslation error
+'chairman' is a minor accuracy/mistranslation error
+'Ibudo Ilili Orile' is a critical accuracy/omission error[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/mistranslation error. The translated text does not accurately reflect the original source text at all.[SEP_TOKEN_WENDA]The translation has no errors.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Adam Cuerden was banned from Wikinews for allegedly disrupting articles written by some users.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]"warned that if the young man continued to misbehave and disturb the peace, he would face severe consequences, possibly even being expelled from the community." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were identified in this translation.[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The Milky Way and Sagittarius galaxy are not visible to the naked eye' is a critical accuracy/mistranslation error
+'although they are located near the place where the constellation Orion points with its hunter's bow.' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'frivolous things' is a critical accuracy/mistranslation error
+'important things that were lost' is a major accuracy/mistranslation error
+'bring back the money spent on important things that have run away with money' is a major style/awkward error.[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error as the translation does not convey the meaning of the original text. The concepts of 'galaxy', 'halo', 'black things', 'little things' etc. in the original text have been totally ignored or misrepresented in the translated text.[SEP_TOKEN_WENDA]Critical Accuracy/mistranslation error throughout the entire sentence as it does not match the source text at all.[SEP_TOKEN_WENDA]The entire sentence is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'There are many elderly people in Japan who are in need of care and attention, and we should strive to provide them with love and iodine.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The people at the market' is a critical accuracy/mistranslation error
+'were surprised to hear' is a major accuracy/mistranslation error
+'that uranium was being sold in jars instead of being transported in tanks.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'sàwárí' is a critical accuracy/untranslated text error
+'researcher' is a major accuracy/omission error[SEP_TOKEN_WENDA]'"Ninu (the crowd) was very anxious, as they waited for the arrival of "danilamu pupo" (a traditional drummer) at the gate, but he did not come.' is a critical accuracy/mistranslation error
+'"danilamu pupo" (a traditional drummer)' is a major accuracy/mistranslation error
+'at the gate, but he did not come' is a major accuracy/addition error
+'osuwon iku ti o le sokun fa, o ga' is a major accuracy/omission error[SEP_TOKEN_WENDA]'warned that some elders in the community were planning to leave the town, and only two of them had come to inform him about their decision.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]

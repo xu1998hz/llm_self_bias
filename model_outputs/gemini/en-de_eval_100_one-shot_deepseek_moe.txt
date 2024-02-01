@@ -1,0 +1,99 @@
+'�ffnet' is a critical accuracy/mistranslation error
+'Du kann' is a major fluency/grammar error
+'jederzeit' is a minor fluency/register error[SEP_TOKEN_WENDA]'L�sung' is a critical fluency/character encoding error[SEP_TOKEN_WENDA]'f�r' is a critical fluency/character encoding error
+'�' is a critical fluency/character encoding error
+'Vergn�gen' is a critical fluency/character encoding error[SEP_TOKEN_WENDA]'Abendliche' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'f�nfte' is a critical fluency/character encoding error
+'Wellen' is a critical accuracy/mistranslation error
+'abbritts' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]This source segment was not translated and cannot be annotated by MQM.[SEP_TOKEN_WENDA]'das' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Geprüft' is a critical  accuracy/mistranslation error[SEP_TOKEN_WENDA]'kontinuierlich' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'den ersten Dosis' is a critical accuracy/mistranslation error
+'geimpft' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The total number of vaccines injected', 'reached' and 'doses' are all critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'dead' is a major accuracy/mistranslation error
+'fast kein' is a minor fluency/grammar error
+'Provinzen' is a minor fluency/style error[SEP_TOKEN_WENDA]'Laut' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'kein Stadt' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'aufgerüstet' is a major fluency/awkward error
+'Impfbooster' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]"Impfpille" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'eReader' is a critical terminology/inconsistent use error
+'Kann' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"Um herauszufinden, welcher Softwareversion Ihr eReader verwendet, tippen Sie auf "Einstellungen" und dann auf "Einstellungen" und "Geräteinformationen" klicken." is a critical fluency/grammar error[SEP_TOKEN_WENDA]'Heimeschichtenansicht' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'Tap Settings.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]'erkennt ihr' is a critical accuracy/omission error
+'die Versionnummer eurer eReader' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'name on the account' is a major accuracy/mistranslation error
+'the Kontoebene' is a minor fluency/spelling error
+'K�nnten' is a minor fluency/character encoding error
+'Lieferadresse' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Deluxemanual/' is a critical accuracy/mistranslation error
+'Akkupump f�r Penisauflage' is a major accuracy/mistranslation error
+'erm�glicht' is a minor fluency/grammar error
+'unter Kontrolle zu bekommen' is a minor terminology/inappropriate for context error
+‘Dysfunktion’ is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Erectile Dysfunction' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'vierrädrige' is a critical terminology/inappropriate for context error
+'erm�glicht' is a major accuracy/mistranslation error
+'optimal' is a major fluency/awkward error
+'h�lle' is a minor fluency/character encoding error
+'Saugen' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"Die" is a minor spelling error
+"Nebenwirkungen" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'garantiert' is a critical accuracy/mistranslation error
+'falls er bei einem Bruch oder einem Fehler ausrutscht' is a minor accuracy/untranslated text error
+'Leistung' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'auch einige' is a minor fluency/grammar error
+'ben�freundlich' is a minor fluency/register error[SEP_TOKEN_WENDA]"Ring-Einsetzvorrichtung" is a critical terminology/inappropriate for context error
+"Ladenkreis" is a minor accuracy/mistranslation error
+"anzuwinken" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Erbockungsvorgang' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ausstattung' is a minor accuracy/mistranslation error
+'Gr�ßen' is a minor fluency/character encoding error
+'unterst�tzen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'eckig' is a critical accuracy/mistranslation error
+'verdeckbares' is a major accuracy/mistranslation error
+'und' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]"eine private Sexualität haben" is a critical accuracy/mistranslation error
+"gr�ßtm�gliche" is a major fluency/character encoding error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Keine Rezept' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Sowaschon" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'k�nnte' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'allzeithoch von der B�rse gefallen' is a critical accuracy/mistranslation error
+'Marktkapital' is a major accuracy/mistranslation error
+'ber�hmt und ber�chtigt' is a major accuracy/addition error
+'B�rse' is a minor accuracy/untranslated text error
+'gr�ßte' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'Gr�ndung' is a critical accuracy/mistranslation error
+'D' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"ein rein zufälliges Spiel war" is a critical accuracy/mistranslation error
+'sich selbst f�r' is a major fluency/character-encoding error
+'besorgt' is a major accuracy/mistranslation error
+'ein Wette' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Mischung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'backed Dogecoin' is a critical terminology/inappropriate for context error
+' erinnerte' is a major fluency/repetition error[SEP_TOKEN_WENDA]'unternahmen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"for development" is a major accuracy/mistranslation error
+"hätte es" is a minor fluency/grammar error
+"wäre die" is a minor fluency/grammar error
+"daran mitzumachen" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'sich herauszubringen' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Vor nur' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'stabilem' is a major fluency/spelling error[SEP_TOKEN_WENDA]'"Erstver�ffentlichung"' is a critical accuracy/mistranslation error
+'"reguelierter Währungsketten"' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Eigent�mer' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Markkapital auf' is a major accuracy/mistranslation error
+'Datenfehler' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'geben' is a major accuracy/mistranslation error
+'sich zu bilden' is a minor accuracy/mistranslation error
+'von' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'300 Millionen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'EverGrow''s' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'erh�hten' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'\u00dc' is a critical character encoding/spelling error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Nutzlast' is a critical inaccuracy/mistranslation error
+'Kapitalisierungsniveau' is a major terminiology/inconsistent use error
+'revolutionäres' is a minor terminiology/inconsistent use error[SEP_TOKEN_WENDA]'f�r' is a critical fluency/character encoding error
+'kann' is a major fluency/grammar error[SEP_TOKEN_WENDA]'Thank you for your waiting' is a minor accuracy/addition error
+'�r' is a critical fluency/character encoding error
+'eingetragen' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Es tut mir wirklich leid, dass Sie mit Ihrem E-Book zu tun haben" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'durchzuf�hren' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'vergangenen Jahrzehnten' is a critical accuracy/mistranslation error
+'HR' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]"paystubs" is a critical accuracy/mistranslation error
+"seine Gehälter" is a major accuracy/addition error[SEP_TOKEN_WENDA]'k�nnten' is a critical accuracy/mistranslation error
+'k�nnen' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'. Depending on the company.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'the' is a major accuracy/omission error
+'empfohlen' is a major accuracy/mistranslation error
+'die' is a major accuracy/mistranslation error
+'wenn er' is a major accuracy/mistranslation error
+'.vorbeikam' is a major accuracy/mistranslation error
+'Mitarbeiter' is a minor accuracy/mistranslation error
+'empfehlen' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'abhandeln' is a minor accuracy/mistranslation error
+'Geld abzuzweigen' is a minor fluency/awkward error
+'Abzugsnahme' is a major accuracy/mistranslation error
+'Steuerlich' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'m�sste' is a major accuracy/mistranslation error
+'sicherlich' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors were found in this segment.[SEP_TOKEN_WENDA]'k�nnen' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Auch' is a major fluency/grammar error
+'Mitarbeiterdienstleistungen' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'k�nnen' is a critical accuracy/mistranslation error
+'Beratungshilfe' is a major accuracy/untranslated text error
+'von' is a major fluency/grammar error
+'Rabatten' is a major fluency/spelling error
+'und' is a minor fluency/punctuation error
+'Gutscheinen' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'k�nnen' is a critical accuracy/character encoding error[SEP_TOKEN_WENDA]'M�glichkeit' is a critical accuracy/character encoding error[SEP_TOKEN_WENDA]'Versteckplatz' is a critical accuracy/mistranslation error
+'m�glicherweise funktionieren' is a critical accuracy/mistranslation error
+'f�r einige' is a critical accuracy/omission error
+'Option' is a major fluency/spelling error[SEP_TOKEN_WENDA]'F�r' is a major fluency/character encoding error
+'�bermitteln' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'k�nnen' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'f�r' is a critical fluency/character encoding error
+'Vergn�gen' is a critical fluency/character encoding error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'You know what' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'erledigen lassen' is a minor accuracy/mistranslation error
+'bequem und einfach' is a minor style/awkward error[SEP_TOKEN_WENDA]"H�flichkeit" is a minor fluency/character encoding error
+"Bestellungsort" is a minor fluency/character encoding error
+"Standort" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'das' is a minor accuracy/addition error
+'bitte' is a minor fluency/punctuation error
+'Befolgen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Ladekasten" is a critical accuracy/mistranslation error
+"Ihrem" is a major fluency/grammar error
+"an" is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Dr�cke' is a minor accuracy/mistranslation error
+'gedr�ckt' is a minor accuracy/mistranslation error
+'Ausgeschaltet' is a minor accuracy/mistranslation error
+'an der oberen Seite' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"den Stromanschluss" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Verwenden Sie' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Dr�cke' is a critical fluency/character encoding error
+'Stromschranke' is a critical fluency/mistranslation error
+'f�r' is a critical fluency/character encoding error
+'gedr�ckt' is a critical fluency/character encoding error
+'und fest' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"Wiederherstellung'-Fenster" is a minor fluency/terminology error[SEP_TOKEN_WENDA]"Entladen Sie" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'auf den Stand gesetzt' is a major accuracy/mistranslation error
+'Sie' is a major accuracy/omission error
+'Language' is a minor accuracy/addition error
+'Netzwerk' is a minor accuracy/addition error
+'m�chten' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'m�ssen' is a critical fluency/character encoding error
+'E-Mail-Adresse' is a minor fluency/spelling error[SEP_TOKEN_WENDA]"Seite," is a minor fluency/punctuation error[SEP_TOKEN_WENDA]

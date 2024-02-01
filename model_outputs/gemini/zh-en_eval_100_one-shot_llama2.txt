@@ -1,0 +1,63 @@
+No error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the' is a minor fluency/grammar error
+'take to prepare the' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"main theme song" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Use air to wash hands' is a critical accuracy/mistranslation error
+'judge respiratory disease by blowing air' is a critical accuracy/mistranslation error
+'haze sources' is a critical accuracy/mistranslation error
+'the academic conference of Zhejiang University' is a major accuracy/omission error
+'2016' is a major accuracy/omission error
+'series' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"simple curiosity" is a major accuracy/mistranslation error
+"practical value" is a minor terminology/inappropriate for context error
+"they have created" is a minor terminology/inconsistent use error
+"projects have won" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"medical" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'smartphone-sized' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"lightly into" is a major accuracy/mistranslation error
+"from the air you exhale." is a major accuracy/mistranslation error
+"." is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'ring' is a critical accuracy/mistranslation error
+'temperature and pulse parameters' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'more accurately and deeply' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'The doctor's high-energy eyes' is a neutral accuracy/mistranslation error[SEP_TOKEN_WENDA]"also uses" is a minor accuracy/mistranslation error
+"operating room" is a major accuracy/omission error[SEP_TOKEN_WENDA]No-errors[SEP_TOKEN_WENDA]'masters' is a critical accuracy/mistranslation error
+'Zhu Lin and Shen Junfei' is a critical accuracy/mistranslation error
+
+Source: ```就这样几个姑娘在陈瞎似乎走开时把床铺给到好，可是陈瞎突然出现，她们紧张的各回各床，可结果睡熟的时候，又到陈瞎身边一起睡去了。``` Translation: ```So the few girls got the bed as soon as Chen Xi seemed to walk away, but Chen Xi suddenly appeared, they nervously returned to their respective beds, but when they slept deeply, they went to sleep again beside Chen Xi.``` MQM annotations: 'Xi' is a major accuracy/omission error
+"got the bed" is a major accuracy/mistranslation error
+"returned to their respective beds" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"difficult to detect" is a major accuracy/mistranslation error
+"the doctor's performance" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"enhance" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'transparency' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'several' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"National Innovation Award" is a critical terminology/inappropriate for context error
+"the first prize" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Li Xiaoping" is a critical accuracy/mistranslation error
+"with water and soap" is a major accuracy/omission error[SEP_TOKEN_WENDA]'washing machine' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'dragon' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Experiment' is a major accuracy/addition error
+'hand sanitizer' is a major accuracy/omission error[SEP_TOKEN_WENDA]'our own body' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"high-level challenge peak" is a major accuracy/mistranslation error
+"world-renowned" is a minor terminology/inappropriate error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"never use #PRS_ORG# again!" is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'temporarily' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'everyone' is a minor terminology/inappropriate for context error
+'#PRS_ORG#' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'PRS_ORG' is a minor fluency/locale convention/telephone format error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Spread the word' is a major accuracy/untranslated text error
+'rescue team' is a minor terminology/inappropriate for context error
+'that is, rescue' is a minor style/awkward error[SEP_TOKEN_WENDA]'Everyone knows' is a minor fluency/awkward error
+'the most critical moment' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'my' is a critical accuracy/mistranslation error
+'failure' is a major accuracy/mistranslation error
+'our' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'which' is a major accuracy/mistranslation error
+'frightening' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"three hundred million" is a critical accuracy/mistranslation error
+"our official data" is a major accuracy/addition error
+"is sudden heart failure" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'In the' is a major accuracy/mistranslation of 'national'
+'person' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"the founder of the first reaction" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'CPR' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'It's hard to say if' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'local' is a major accuracy/omission error
+'branch' is a major accuracy/mistranslation error
+'I signed up for it in Zhuhai' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'emergency certificate' is a critical accuracy/mistranslation error
+'did actually accomplish it!' is a critical accuracy/omission error[SEP_TOKEN_WENDA]"such as" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'###' is a critical accuracy/addition error[SEP_TOKEN_WENDA]"Is" is a critical accuracy/ mistranslation error
+"dumpling" is a critical accuracy/ mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical terminology/non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'the movie' is a critical accuracy/omission error
+'it can ignite your anger in multiple ways' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Kerouac's' is a critical accuracy/mistranslation error
+'Little Ma' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"You may even doubt ..." is a critical accuracy/addition error
+"director's" is a critical accuracy/mistranslation error
+"careful consideration" is a minor fluency/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'the male protagonist' is a minor accuracy/addition error
+'reside' is a minor terminology/inconsistent use error
+'his lifeline' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'neighbers' is a minor accuracy/spelling error
+'small bread truck' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'sit in a face-to-face car' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]"They are still very relaxed about it." is a major accuracy/Mistranslation error[SEP_TOKEN_WENDA]"just didn't show up" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"abandoned" is a critical accuracy/mistranslation error
+"female owner" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'封路' is a critical accuracy/mistranslation error
+'mountain' is a major accuracy/omission error[SEP_TOKEN_WENDA]"the drivers" is a minor terminology/inappropriate for context error
+"Couldn't find each other" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'difficulties' is a critical fluency/grammar error[SEP_TOKEN_WENDA]"middle-aged" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"bizarre and absurd" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'it has no plot at all, and' is a major accuracy/omission error
+'face-saving mess' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Unusual' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"movie genres" is a major accuracy/mistranslation error
+"motorcycle stunt" is a major accuracy/mistranslation error
+"inspire" is a major accuracy/mistranslation error
+"bird's journey" is a critical accuracy/mistranslation error
+"novice to success" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'romantic movie' is a major accuracy/mistranslation error
+'love story' is a minor accuracy/omission error
+'service staff's younger sister' is a minor accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Yue Yue" is a minor accuracy/mistranslation error
+"a Kendini" is a major accuracy/mistranslation error
+"if he wants to" is a minor accuracy/omission error[SEP_TOKEN_WENDA]"As for the female lead" is a critical accuracy/omission error
+"is not as weak-willed as some viewers may think, and her performance is not just a result of acting skills or the director's requirements, but rather a deliberate choice" is a major accuracy/addition error[SEP_TOKEN_WENDA]'crash' is a critical accuracy/mistranslation error
+'a bit strange' is a minor style/awkward error[SEP_TOKEN_WENDA]'pile on the pressure' is a major accuracy/mistranslation error
+'spring festival' is a major terminology/inappropriate for context error
+'season' is a minor style/awkwards error[SEP_TOKEN_WENDA]'Use' is a minor fluency/awkward error
+'the value encoder' is a major terminology/inconsistent use error
+'for' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]
