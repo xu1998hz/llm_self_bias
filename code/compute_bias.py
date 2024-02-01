@@ -24,13 +24,12 @@ def distance_skewness(X, theta):
 
 
 @click.command()
-@click.option("-model_name", help="Assuming all model outputs are in the MQM styles")
-@click.option("-eval_name")
+@click.option("-bleurt_nor_file")
+@click.option("-llm_score_file")
 @click.option("-lang")
-def main(model_name, eval_name, lang):
-    file_name = f"model_outputs/{model_name}/yor-en_eval_100_one-shot_{eval_name}.txt"
+def main(bleurt_nor_file, llm_score_file, lang):
     lines = open(
-        file_name,
+        llm_score_file,
         "r",
     ).readlines()
     final_ls = "".join(lines).split("[SEP_TOKEN_WENDA]")[:-1]
@@ -40,16 +39,15 @@ def main(model_name, eval_name, lang):
             max(
                 -25,
                 (
-                    -1 * ele.count("minor")
-                    + -5 * ele.count("major")
-                    + (-10) * ele.count("critical")
+                    -1 * ele.count("minor") + -5 * ele.count("major") + (-10) * ele.count("critical")
                 ),
             )
         ]
     mapped_model = open(
-        f"model_outputs/{eval_name}/{lang}_base_outputs_{eval_name}_bleurt_nor.txt", "r"
+        bleurt_nor_file, "r"
     ).readlines()
     mapped_model = [float(ele) for ele in mapped_model]
+    print("Model Score: ", sum(score_ls)/len(score_ls))
 
     # 1) Out of bia defination
     diff_ls = [m_score - g_score for m_score, g_score in zip(score_ls, mapped_model)]

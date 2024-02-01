@@ -18,11 +18,11 @@ def from_list_to_dict(ref_lines):
 @click.command()
 @click.option(
     "-human_file",
-    help="/mnt/data3/wendaxu/.mt-metrics-eval/mt-metrics-eval-v2/wmt22/human-scores/zh-en.mqm.seg.score",
+    help="../.mt-metrics-eval/mt-metrics-eval-v2/wmt22/human-scores/zh-en.mqm.seg.score",
 )
 @click.option(
     "-obs_score_file",
-    help="/mnt/data3/wendaxu/.mt-metrics-eval/mt-metrics-eval-v2/wmt22/metric-scores/zh-en/BLEURT-20-refA.seg.score",
+    help="../.mt-metrics-eval/mt-metrics-eval-v2/wmt22/metric-scores/zh-en/BLEURT-20-refA.seg.score",
 )
 @click.option(
     "-new_score_file",
@@ -30,23 +30,18 @@ def from_list_to_dict(ref_lines):
 )
 @click.option("-save_name")
 def main(human_file, obs_score_file, new_score_file, save_name):
-    # ref_lines = open(human_file, "r").readlines()
-    # ref_dict = from_list_to_dict(ref_lines)
+    ref_lines = open(human_file, "r").readlines()
+    ref_dict = from_list_to_dict(ref_lines)
 
-    # out_lines = open(obs_score_file, "r").readlines()
-    # out_dict = from_list_to_dict(out_lines)
+    out_lines = open(obs_score_file, "r").readlines()
+    out_dict = from_list_to_dict(out_lines)
 
-    # ref_score_ls = []
-    # out_score_ls = []
+    ref_score_ls = []
+    out_score_ls = []
 
-    # for ref_sys in set(ref_dict) - {"refA"}:
-    #     ref_score_ls += ref_dict[ref_sys]
-    #     out_score_ls += out_dict[ref_sys]
-    ref_score_ls = open(human_file, "r").readlines()
-    ref_score_ls = [float(ele[:-1]) for ele in ref_score_ls]
-
-    out_score_ls = open(obs_score_file, "r").readlines()
-    out_score_ls = [float(ele[:-1]) for ele in out_score_ls]
+    for ref_sys in set(ref_dict) - {"refA"}:
+        ref_score_ls += ref_dict[ref_sys]
+        out_score_ls += out_dict[ref_sys]
 
     obs_data = np.array(ref_score_ls)
     model_data = np.array(out_score_ls)
