@@ -6,10 +6,16 @@ from openai import OpenAI
 from tqdm import tqdm
 import google.generativeai as genai
 import google.generativeai as palm
+from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, AutoModel
+import torch
 
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 
+name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2': 'meta-llama/Llama-2-7b-chat-hf',\
+             'deepseek': 'deepseek-ai/deepseek-llm-7b-chat', 'deepseek_moe': "deepseek-ai/deepseek-moe-16b-chat", \
+             'gpt-neox': 'EleutherAI/gpt-neox-20b', 'gpt-j': "EleutherAI/gpt-j-6b", 'mistral': 'mistralai/Mistral-7B-Instruct-v0.2', \
+             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca"}
 
 def completions_with_google(prompt_txt, inst_str, model_type):
     if model_type == "gemini":
@@ -54,6 +60,10 @@ in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您
 def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_feedback):
     if api_source == "openai":
         client = OpenAI()
+    elif api_source == "transformers":
+        model = AutoModelForCausalLM.from_pretrained(name_dict[model_type], torch_dtype=torch.bfloat16, device_map="auto", trust_remote_code=True)
+        tokenizer = AutoTokenizer.from_pretrained(name_dict[model_type])
+        tokenizer.pad_token = tokenizer.eos_token
 
     if task_type == "mt":
         instruction_str = f"You are an annotator for the quality of machine translation. Your task is to identify errors and assess the quality of the translation.\nBased on the source segment and machine translation surrounded with triple backticks, identify error types in the translation and classify them. The categories of errors are: accuracy (addition, mistranslation, omission, untranslated text), fluency (character encoding, grammar, inconsistency, punctuation, register, spelling), locale convention (currency, date, name, telephone, or time format) style (awkward), terminology (inappropriate  for context, inconsistent use), non-translation, other, or no-error.\nEach error is classified as one of three categories: critical, major, and minor. Critical errors inhibit comprehension of the text. Major errors disrupt the flow, but what the text is trying to say is still understandable. Minor errors are technically errors, but do not disrupt the flow or hinder comprehension."
@@ -139,6 +149,13 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_
                             continue
                 else:
                     response = eval_lines[index]
+            
+            elif api_source == "transformers":
+                inputs = tokenizer([instruction_str + " " + prompt_txt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
+                out = model.generate(inputs=inputs.input_ids, max_new_tokens=256)
+                response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
+                response = response.replace(instruction_str + " " + prompt_txt, "").split("\n\n")[0]
+
             else:
                 print("API source is not found!")
                 exit(1)
