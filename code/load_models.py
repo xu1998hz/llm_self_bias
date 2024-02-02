@@ -122,7 +122,7 @@ def main(model_name, task_type, batch_size, eval_name):
             else:
                 inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                 out = model.generate(inputs=inputs.input_ids, max_new_tokens=256)
-                output_text = tokenizer.batch_decode(out, skip_special_tokens=True)
+                out = tokenizer.batch_decode(out, skip_special_tokens=True)
             
                 if model_name == "llama2" or model_name == "gpt-j" or model_name == "gpt-neox":
                     out_ls = [out.replace(inp, '').split('\n')[0].strip()+'\n' for inp, out in zip(input_batch, output_text)]

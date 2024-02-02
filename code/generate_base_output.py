@@ -11,10 +11,16 @@ from datasets import load_dataset
 import glob
 import json
 from google.generativeai.types import safety_types
+from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, AutoModel
+import torch
 
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 
+name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2': 'meta-llama/Llama-2-7b-chat-hf',\
+             'deepseek': 'deepseek-ai/deepseek-llm-7b-chat', 'deepseek_moe': "deepseek-ai/deepseek-moe-16b-chat", \
+             'gpt-neox': 'EleutherAI/gpt-neox-20b', 'gpt-j': "EleutherAI/gpt-j-6b", 'mistral': 'mistralai/Mistral-7B-Instruct-v0.2', \
+             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca"}
 
 @backoff.on_exception(backoff.expo, RateLimitError)
 def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_type):
@@ -103,6 +109,10 @@ def completions_with_google(system_prompt, prompt_txt, model_type):
 def main(lang_dir, api_source, model_type, task_type, save_name):
     if api_source == "openai":
         client = OpenAI()
+    elif api_source == "transformers":
+        model = AutoModelForCausalLM.from_pretrained(name_dict[model_type], torch_dtype=torch.bfloat16, device_map="auto", trust_remote_code=True)
+        tokenizer = AutoTokenizer.from_pretrained(name_dict[model_type])
+        tokenizer.pad_token = tokenizer.eos_token
 
     if task_type == "mt":
         if lang_dir == "zh-en":
@@ -134,9 +144,25 @@ def main(lang_dir, api_source, model_type, task_type, save_name):
     out_ls = []
     for line in tqdm(src_lines):
         if task_type == "mt":
-            prompt_txt = (
-                f"""{src_lang} source: \n{line[:-1]}\n{tgt_lang} translation:\n"""
-            )
+            if api_source == "transformers":
+                prompt_txt = (
+                    "Below is an instruction that describes a task. "
+                    f"Translate Chinese text into English.\n\n"
+                    f"### Instruction:\n\nChinese: 新华时评：把优秀返乡农民工打造成乡村振兴生力军-新华网\n\n### English: Xinhua Commentary: Outstanding returning rural migrant workers can be a rural revitalization army - Xinhuanet\n\n"
+                    "Below is an instruction that describes a task. "
+                    f"Translate English text into German.\n\n"
+                    f"### Instruction:\n\nEnglish: You can come back any time as our chat service window is open 24/7\n\n### German: Sie können jederzeit wiederkommen, da unser Chat-Service-Fenster täglich rund um die Uhr geöffnet ist\n\n"
+                    "Below is an instruction that describes a task. "
+                    f"Translate Yorba text into English.\n\n"
+                    f"### Instruction:\n\nYorba: Won da Olori Skwodroni. Dilokrit Pattavee gege bi awako ofururu.\n\n### English: The pilot was identified as Squadron Leader Dilokrit Pattavee.\n\n"
+                    "Below is an instruction that describes a task. "
+                    f"Translate {src_lang} text into {tgt_lang}.\n\n"
+                    f"### Instruction:\n\n{src_lang}: {line[:-1]}\n\n### {tgt_lang}:"
+                )
+            else:
+                prompt_txt = (
+                    f"""{src_lang} source: \n{line[:-1]}\n{tgt_lang} translation:\n"""
+                )
         elif task_type == "sci":
             icl_str = "Question: A one-particle, one-dimensional system has $\\Psi=a^{-1 / 2} e^{-|x| / a}$ at $t=0$, where $a=1.0000 \\mathrm{~nm}$. At $t=0$, the particle's position is measured.  (b) Find the probability that the measured value is between $x=0$ and $x=2 \\mathrm{~nm}$.\nRationale: (b) Use of Eq. (1.23) and $|x|=x$ for $x \\geq 0$ gives\r\n$$\r\n\\begin{aligned}\r\n\\operatorname{Pr}(0 \\leq x \\leq 2 \\mathrm{~nm}) & =\\int_0^{2 \\mathrm{~nm}}|\\Psi|^2 d x=a^{-1} \\int_0^{2 \\mathrm{~nm}} e^{-2 x / a} d x \\\\\r\n& =-\\left.\\frac{1}{2} e^{-2 x / a}\\right|_0 ^{2 \\mathrm{~nm}}=-\\frac{1}{2}\\left(e^{-4}-1\\right)=0.4908\r\n\\end{aligned}\r\n$$\n####0.4908"
             prompt_txt = f"{icl_str} Question: {line}\nRationale: "
@@ -157,12 +183,16 @@ def main(lang_dir, api_source, model_type, task_type, save_name):
                     indicater = False
                 except:
                     continue
-           
+        elif api_source == "transformers":
+            inputs = tokenizer([prompt_txt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
+            out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
+            response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
+            response = response.replace(prompt_txt, '').split('\n\n')[0].strip()
         else:
             print("API source is not supported!")
             exit(1)
 
-        out_ls += [response.replace("\n", "\t") + "\n"]
+        out_ls += [response.replace("\n", "") + "\n"]
 
     with open(save_name, "w") as f:
         f.writelines(out_ls)
