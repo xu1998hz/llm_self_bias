@@ -1,0 +1,79 @@
+no errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Like' is a minor accuracy/addition error
+'is unclear' is a minor accuracy/mistranslation error
+'it is known' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"On Doomsday" is a major accuracy/mistranslation error
+"permanent secretary" is a major terminology/inappropriate for context error
+"about his 2016 Nobel Prize" is a major accuracy/omission error
+"literature" is a minor accuracy/addition error
+"in Literature" is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]There are no errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"By" is a minor accuracy/mistranslation error
+"the end of" is a minor accuracy/omission error
+"appeared on" is a major accuracy/omission error[SEP_TOKEN_WENDA]"pipelines vandalism" is a major terminology/inappropriate for context error
+"pipelines" is a major terminology/inappropriate for context error
+"ADT Boss" is a critical fluency/register error[SEP_TOKEN_WENDA]This is a perfect translation, there are no errors. No-Error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"ní kò bá ti lọ láì rí fún ọjọ́ pípẹ́ àti gbígba àwọn àyípadà tó yẹ" is a critical accuracy/omission error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'National Security Advisor' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ransom' is a major accuracy/mistranslation error
+'lows' is a minor accuracy/mistranslation error
+'Soviet' is a minor accuracy/untranslated text error
+'$' is a minor locale convention/currency error
+'Camp' is a minor locale convention/name error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'Oluadari' is a major accuracy/mistranslation error
+'Collection Centre' is a minor accuracy/omission error
+'Toys' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"Two" is a major accuracy/mistranslation error
+"Inhabitants" is a critical accuracy/mistranslation error
+"14th" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'ago' is a major accuracy/addition error
+'with' is a major accuracy/omission error
+'Turkish President' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'on top' is a minor accuracy/addition error
+'chestnut-brown' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"souls." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"fossils" is a major accuracy/mistranslation error
+"adult" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'varieties' is a minor accuracy/mistranslation error
+'their composition reflected' is a major accuracy/omission error
+'different' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'stars' is a minor accuracy/mistranslation error
+'the celestial bodies' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'We will not use over all illumination and display to depict terror star' is a critical accuracy/mistranslation error
+'which also serves as brightness flickering magnitude e.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]'sank' is a minor accuracy/mistranslation error
+'Chinese' is a major accuracy/mistranslation error
+'wedding' is a critical accuracy/omission error
+"challenged him" is a minor fluency/awkward error
+"in Tibet" is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"22" is a critical accuracy/mistranslation error
+"bits" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Dufaali who got married twice with two children thus Mila' is a critical accuracy/untranslated text error
+'ended the story with a smile' is a major fluency/punctuation error[SEP_TOKEN_WENDA]no errors found.[SEP_TOKEN_WENDA]"will" is a minor accuracy/omission error
+"as pledged" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'which will be done in accordance with the result of the economic matter of China' is a major fluency/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"however they say it will pass its stage of development, usefulness, and potency" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'' is a minor locale convention/date format error[SEP_TOKEN_WENDA]'' is a minor locale convention/currency error
+'sectarian' is a major accuracy/omission error
+'the region' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Abajade' should be 'Abiodun' is a critical accuracy/mistranslation error
+'conference' should be 'conferences' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'turned' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"the end of the year to allow Iraq" is a major accuracy/omission error
+"*Congressionally*" is a minor accuracy/mistranslation error
+"*the* troops" is a minor accuracy/addition error[SEP_TOKEN_WENDA]'senator' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Arábìnrin' is a minor terminology/inappropriate for context error
+'ẹ́ròngrò' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'tagged it' is a minor accuracy/addition error
+'with a sneer' is a minor fluency/awkward error[SEP_TOKEN_WENDA]There is no machine translation provided to assess.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Gigantic Overhead Digital" is a minor fluency/awkwardness error
+"Unveiled" is a major accuracy/mistranslation error
+"Rome" is a minor accuracy/addition error
+"Ceremony" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"particularly the speculative excesses in the stock market with the prospect of exacerbating its disastrous consequences" is a major accuracy/omission error[SEP_TOKEN_WENDA]non-translation[SEP_TOKEN_WENDA]"not out off" is a major accuracy/mistranslation error
+"comes into his own" is a major style/awkward error[SEP_TOKEN_WENDA]'scored a' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"india" is a major locale convention/name error
+'made' is a minor accuracy/mistranslation error
+'But after captain wicket' is a minor style/awkward error[SEP_TOKEN_WENDA]'Secretary of State' is a minor accuracy/omission error
+'George W. Bush' is a minor accuracy/omission error
+'arrived in' is a minor accuracy/omission error
+'Singapore' is a minor accuracy/omission error
+'Tuesday' is a minor accuracy/omission error
+'16-day' is a minor accuracy/omission error
+'tour' is a minor accuracy/omission error
+'Asia' is a minor accuracy/omission error
+'which will focus on' is a minor accuracy/omission error
+'trade and security' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Singapore Wongi' is a critical accuracy/mistranslation error
+'Kani Sengi' is a minor accuracy/mistranslation error
+'Igbákejì' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'environment law' is a minor terminology/inappropriate for context error
+'canvassed' is a minor accuracy/mistranslation error
+'the code of conduct' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Huts' is a minor accuracy/omission error
+'the federal' is a minor accuracy/omission error
+'Mawsons' is a minor accuracy/omission error
+'the move' is a minor accuracy/omission error
+'by-election' is a minor accuracy/omission error
+'away' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'baulked' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'There was a lightning strike' is a critical accuracy/mistranslation error
+'the public could know PWs were coming out' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"while tsunami warnings were being rescinded" is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"denuclearization" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Tenth' is a minor accuracy/mistranslation error
+'born' is a minor fluency/awkwardness error
+'today' is a major accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"sorcerers" is a critical accuracy/mistranslation error
+"zombie-infested wasteland" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Nine Inch Paddling," is a critical accuracy/addition error
+"Nine Inch Paddling" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]The whole translation is a critical non-translation error.[SEP_TOKEN_WENDA]"too" is a critical accuracy/addition error
+"behold" is a major accuracy/mistranslation error
+"that places Sagittarius squarely" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'dark matter' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'two of the same kind always seek their own' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'in addition' is a minor accuracy/addition error
+'above and below them' is a minor accuracy/omission error[SEP_TOKEN_WENDA]thier Frankfort[SEP_TOKEN_WENDA]'machine water' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Harmful chemicals' is a minor accuracy/mistranslation error
+"discovered" is a minor accuracy/mistranslation error
+'the' is a minor accuracy/omission error
+'Agency' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Claimants suggest that this indicates the uranium-based liquid is surfacing and congealing" is a non-translation error[SEP_TOKEN_WENDA]'sàwárí' is a critical fluency/spelling error
+'ní' is a major accuracy/omission error
+'lẹ́kùn' is a major accuracy/omission error
+'Province' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]

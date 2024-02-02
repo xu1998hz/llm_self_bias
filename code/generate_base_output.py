@@ -99,7 +99,8 @@ def completions_with_google(system_prompt, prompt_txt, model_type):
 @click.option(
     "-model_type", default="model name like gemini, palm2, gpt-3.5-turbo and gpt-4"
 )
-def main(lang_dir, api_source, model_type, task_type):
+@click.option("-save_name")
+def main(lang_dir, api_source, model_type, task_type, save_name):
     if api_source == "openai":
         client = OpenAI()
 
@@ -163,23 +164,9 @@ def main(lang_dir, api_source, model_type, task_type):
 
         out_ls += [response.replace("\n", "\t") + "\n"]
 
-    if task_type == "mt":
-        with open(
-            f"model_outputs/{model_type}/{lang_dir}_base_outputs_{model_type}.txt", "w"
-        ) as f:
-            f.writelines(out_ls)
-            print(
-                f"model_outputs/{model_type}/{lang_dir}_base_outputs_{model_type}.txt is saved!"
-            )
-    else:
-        with open(
-            f"model_outputs/{model_type}/{task_type}_base_outputs_{model_type}.txt", "w"
-        ) as f:
-            f.writelines(out_ls)
-            print(
-                f"model_outputs/{model_type}/{task_type}_base_outputs_{model_type}.txt is saved!"
-            )
-
+    with open(save_name, "w") as f:
+        f.writelines(out_ls)
+        print(f"{save_name} is saved!")
 
 if __name__ == "__main__":
     main()

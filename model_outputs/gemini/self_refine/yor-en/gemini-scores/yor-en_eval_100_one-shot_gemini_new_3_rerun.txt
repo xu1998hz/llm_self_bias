@@ -1,0 +1,45 @@
+no errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Like' is a minor accuracy/addition error
+'is unclear' is a minor accuracy/mistranslation error
+'it is known' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"Academy could not reach BobDylan" is a critical accuracy/mistranslation error
+"Thursday" is a minor locale convention/date format error
+"Reach" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]There are no errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"By" is a minor accuracy/mistranslation error
+"the end of" is a minor accuracy/omission error
+"appeared on" is a major accuracy/omission error[SEP_TOKEN_WENDA]"pipelines vandalism" is a major terminology/inappropriate for context error
+"pipelines" is a major terminology/inappropriate for context error
+"ADT Boss" is a critical fluency/register error[SEP_TOKEN_WENDA]This is a perfect translation, there are no errors. No-Error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]"ní kò bá ti lọ láì rí fún ọjọ́ pípẹ́ àti gbígba àwọn àyípadà tó yẹ" is a critical accuracy/omission error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'National Security Advisor' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ilẹ Iran' is a minor accuracy/omission error
+'in the late 1970s' is a minor accuracy/omission error
+'Iran hostage crisis' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Two songs" is a critical accuracy/mistranslation error
+"for best original song" is a major accuracy/omission error
+"inhabits of" is a minor fluency/grammar error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'Turkish' is a major accuracy/mistranslation error
+'spoke with' is a major accuracy/omission error
+'Edogani' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'on top' is a minor accuracy/addition error
+'chestnut-brown' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"souls." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'smarting body hairs' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'meat' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]The translation is ungrammatical.
+No error type.[SEP_TOKEN_WENDA]'We will not use over all illumination and display to depict terror star' is a critical accuracy/mistranslation error
+'which also serves as brightness flickering magnitude e.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]'sank' is a minor accuracy/mistranslation error
+'Chinese' is a major accuracy/mistranslation error
+'wedding' is a critical accuracy/omission error
+"challenged him" is a minor fluency/awkward error
+"in Tibet" is a minor fluency/awkward error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'ASK' is a minor accuracy/mistranslation error
+'with a maximum' is a minor accuracy/ tilleggning error
+'throughput' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Dufaali who got married twice with two children thus Mila' is a critical accuracy/untranslated text error
+'ended the story with a smile' is a major fluency/punctuation error[SEP_TOKEN_WENDA]no errors found.[SEP_TOKEN_WENDA]"will" is a minor accuracy/omission error
+"as pledged" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'which will be done in accordance with the result of the economic matter of China' is a major fluency/awkward error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"however they say it will pass its stage of development, usefulness, and potency" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]The translation is an accurate and fluent translation of the source text with no errors.
+There are no errors in the translation.
+Translation: ```Preview download AudioAdvanced stichting biedt cursussen Nederlands als tweede taal of als buitenlandse taal aan. Lesstof voor video, audio en tekst in verschillende talen.``` MQM annotations: 'cursussen' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"Middle East quagmire" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'turned' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]'senator' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is no machine translation provided to assess.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]"Gigantic Overhead Digital" is a minor fluency/awkwardness error
+"Unveiled" is a major accuracy/mistranslation error
+"Rome" is a minor accuracy/addition error
+"Ceremony" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"particularly the speculative excesses in the stock market with the prospect of exacerbating its disastrous consequences" is a major accuracy/omission error[SEP_TOKEN_WENDA]non-translation[SEP_TOKEN_WENDA]there are no errors found[SEP_TOKEN_WENDA]'scored a' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"india" is a minor fluency/spelling error[SEP_TOKEN_WENDA]The whole translation is a non-translation error[SEP_TOKEN_WENDA]"Senior Minister Tharman Shanmugaratnam" is a major accuracy/mistranslation error
+"also" is a minor fluency/omission error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]No errors detected[SEP_TOKEN_WENDA]'Huts' is a minor accuracy/omission error
+'the federal' is a minor accuracy/omission error
+'Mawsons' is a minor accuracy/omission error
+'the move' is a minor accuracy/omission error
+'by-election' is a minor accuracy/omission error
+'away' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'baulked' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'There was a lightning strike' is a critical accuracy/mistranslation error
+'the public could know PWs were coming out' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"while tsunami warnings were being rescinded" is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"denuclearization" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'named' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'entire' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"Nine Inch Paddling," is a critical accuracy/addition error
+"Nine Inch Paddling" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]The whole translation is a critical non-translation error.[SEP_TOKEN_WENDA]"construction" is a major accuracy/mistranslation error
+"placing Sagittarius squarely in the sights of onlookers" is a minor accuracy/addition error
+"show-stopper" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dark matter' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'two of the same kind always seek their own' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'in addition' is a minor accuracy/addition error
+'above and below them' is a minor accuracy/omission error[SEP_TOKEN_WENDA]thier Frankfort[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Harmful chemicals' is a minor accuracy/mistranslation error
+"discovered" is a minor accuracy/mistranslation error
+'the' is a minor accuracy/omission error
+'Agency' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Claimants suggest that this indicates the uranium-based liquid is surfacing and congealing" is a non-translation error[SEP_TOKEN_WENDA]'Sàwárí' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]

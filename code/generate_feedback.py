@@ -44,14 +44,14 @@ in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您
 @click.command()
 @click.option("-task_type", help="mt, sci or code")
 @click.option("-lang_dir", help="zh-en")
-@click.option("-suffix", help="pseudo_ref")
+@click.option("-savename")
 @click.option("-api_source", help="google or openai")
 @click.option("-base_name", help="zh-en_base_outputs_500.txt")
 @click.option(
     "-model_type", help="model name like gemini, palm2, gpt-3.5-turbo and gpt-4"
 )
 @click.option("-last_feedback", help="last feedback file", default=None)
-def main(lang_dir, suffix, base_name, api_source, model_type, task_type, last_feedback):
+def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_feedback):
     if api_source == "openai":
         client = OpenAI()
 
@@ -146,25 +146,9 @@ def main(lang_dir, suffix, base_name, api_source, model_type, task_type, last_fe
             out_ls += [response + "[SEP_TOKEN_WENDA]"]
             pbar.update(1)
 
-    if task_type == "mt":
-        with open(
-            f"model_outputs/{model_type}/{lang_dir}_eval_100_one-shot_{suffix}.txt",
-            "w",
-        ) as f:
-            f.writelines(out_ls)
-            print(
-                f"model_outputs/{model_type}/{lang_dir}_eval_100_one-shot_{suffix}.txt is saved!"
-            )
-    else:
-        with open(
-            f"model_outputs/{model_type}/{task_type}_eval_100_one-shot_{suffix}.txt",
-            "w",
-        ) as f:
-            f.writelines(out_ls)
-            print(
-                f"model_outputs/{model_type}/{task_type}_eval_100_one-shot_{suffix}.txt is saved!"
-            )
-
+    with open(savename,"w") as f:
+        f.writelines(out_ls)
+        print(f"{savename} is saved!")
 
 if __name__ == "__main__":
     main()

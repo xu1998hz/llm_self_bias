@@ -1,0 +1,43 @@
+No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors identified.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'at a time when the music industry was struggling with piracy' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation has multiple errors:
+
+'Ni eba ipari odun 2017' is a major accuracy/mistranslation error.
+'Siminoff fi ara han lori itakun mohun maworan ti awon ontaja QVC' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Òrùká does not go for a walk with the office of the landlord that they declared bankrupt' is a major accuracy/mistranslation error
+'ADT Mega Office' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'increasing motivational texts' is a major accuracy/mistranslation error
+'They heard the USOC' is a major accuracy/omission error
+'ju yiyo ìwé aṣe kuro' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]During his first term in 1976, Carter appointed Lákòókò as deputy assistant (NSA) from 1977 to 1981, replacing Henry Kissinger.``` 
+'appointed Carter' is a major accuracy/mistranslation error
+'Lákòókò' is a major accuracy/mistranslation error
+'assitant' is a major accuracy/mistranslation error
+'gbapò' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]The machine translation has omitted the translation of the phrase "Orin méjì látinú àgbéléwò, ìdánwò (Àwọn òmùgọ̀ tó ń lá àlá) àti ìlú àwọn ìràwọ̀ ni wọ́n mún fún orin ojúlówó tó dára jù" which is a critical accuracy/omission error. The rest of the translation is accurate and there are no other errors.[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]'Won se ikede naa leyin ti Trumpi ba Aare Toki Resep Tayipi Edogani lori ago' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Awon onimo' is a major accuracy/mistranslation error
+'burawuni lori pelu' is a major accuracy/mistranslation error
+'sesnut' is a major accuracy/mistranslation error
+'sisi tabi' is a major accuracy/mistranslation error
+'awo-karotenoidi' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'for the sake of the curious soul or to analyze' is a major accuracy/mistranslation error
+'said' is a minor accuracy/omission error
+'dinosaur species' is a minor accuracy/mistranslation error
+'its appearance is quite terrifying' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in this translation.[SEP_TOKEN_WENDA]'who went to the police station' is a major accuracy/addition error
+'in Gaziantep, Turkey, yesterday' is a major accuracy/mistranslation error
+'is the same as the two police officers who fought' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]There is no error in the translation (no-error).[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'brave dogs' is a minor accuracy/mistranslation error
+'honeymoon' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'parallel' is a major accuracy/mistranslation error
+'others' is a major accuracy/mistranslation error
+'a party' is a major accuracy/omission error
+'minimum speed of 8Mbps' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in this translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Abajade is early famous" is a major fluency/grammar error
+"through his numerous contributions to the African Drum and Dance community" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'This warning' is a major accuracy/mistranslation error
+'an indication' is a major accuracy/mistranslation error
+'of refugees fleeing' is a major accuracy/mistranslation error
+'the city of Iraq' is a major accuracy/mistranslation error
+'suggesting that they should return' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'the son of the jaguar' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'He paid four million naira for that car.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'it is not for them to see the world in darkness' is a major accuracy/mistranslation error
+'St. Peter's Chapel' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'President of Singapore' is a minor accuracy/mistranslation error
+'inauguration and speech ceremony' is a minor accuracy/mistranslation error
+'with Singapore's President Lee Hsien' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'However' is a minor fluency/punctuation error
+'Minister John Howard' is a minor accuracy/mistranslation error
+'the establishment of a healthcare facility' is a minor accuracy/mistranslation error
+'Tasmanian government' is a minor accuracy/mistranslation error
+'should consider investing millions of dollars in it' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the report is saying' is a major accuracy/mistranslation error
+'ìpelé odò takasí pé wọ́n fa tsunami ni' is a major accuracy/addition error
+'both Pago Pago and Niue' is a major accuracy/omission error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Former President of the United States George W. Bush took office.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'National Language Center (NLC)' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Water is flowing on the levee in one side" is a major accuracy/mistranslation error
+"they want the peaceful atmosphere" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is not provided in this case.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'work itself' is a major accuracy/mistranslation error
+'sometimes it is necessary' is a major accuracy/addition error
+'that comes with Sagittarius in the sky' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'will behave blackly' is a major accuracy/mistranslation error
+'something made black' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found, no-error[SEP_TOKEN_WENDA]'awon alaisan kan leti fara ko kokoro naa ni ile-iwosan' is a major accuracy/mistranslation error
+'osise eleto' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]
