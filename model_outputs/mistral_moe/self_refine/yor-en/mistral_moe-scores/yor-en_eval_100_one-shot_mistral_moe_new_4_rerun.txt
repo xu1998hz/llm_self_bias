@@ -1,0 +1,131 @@
+ None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'it is important to ensure' is a minor accuracy/addition error
+'it is stored' is a minor accuracy/addition error
+'to ensure its effectiveness' is a minor accuracy/addition error
+'especially for those who have Type 1 diabetes' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'BobDylan' is a major accuracy/mistranslation error
+'the permanent secretary' is a minor terminology/inappropriate for context error
+'the Swedish Academy had to wait for a long time before they could reach him' is a minor non-translation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'of Ring' is a minor accuracy/addition error
+'a substantial amount of cash' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'the Ebola virus' is a minor accuracy/untranslated text error
+'has been found to be effective' is a minor accuracy/mistranslation error
+'it is not yet available' is a minor accuracy/mistranslation error
+'to combat death' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'the PALM ZMapp vaccine' is a major accuracy/mistranslation error
+'preventing' is a minor accuracy/mistranslation error
+'scientists' is a minor accuracy/mistranslation error
+'the Ebola virus' is a minor accuracy/mistranslation error
+'spreading' is a minor accuracy/mistranslation error
+'among' is a minor accuracy/mistranslation error
+'working' is a minor accuracy/mistranslation error
+'in the laboratory' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'at the Olympics' is a minor accuracy/addition error
+'it made us happy' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'provide financial support' is a minor accuracy/addition error
+'international competitions' is a minor accuracy/addition error
+'achieving excellent results' is a minor accuracy/addition error
+'bring glory' is a minor accuracy/addition error
+'our country' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'The United States Gymnastics Association' is a minor accuracy/non-translation error
+'participating' is a minor accuracy/inappropriate for context error
+'sexual abuse allegations' is a minor accuracy/inappropriate for context error
+'be near him' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'In the 1960s' is a minor accuracy/addition error
+'Bresinski' is a minor accuracy/mistranslation error
+'served as a vice president' is a minor accuracy/addition error
+'John F. Kennedy' is a minor accuracy/addition error
+'and later served as a vice president' is a minor accuracy/addition error
+'Lyndon B. Johnson' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'Nobel Peace Prize' is a major accuracy/mistranslation error
+'Middle East' is a major accuracy/mistranslation error
+'the National Security Advisor' is a major accuracy/mistranslation error
+'who served until 1981' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'the Camp David Accords' is a minor accuracy/addition error
+'the warming' is a minor accuracy/addition error
+'the Iranian Revolution' is a minor accuracy/addition error
+'the Soviet Union' is a minor accuracy/addition error
+'the Soviet Union invaded' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'Àwòrán' is a minor accuracy/mistranslation error
+'Olùdarí' is a minor accuracy/mistranslation error
+'Àyàwòrán' is a minor accuracy/mistranslation error
+'Asaralóge' is a minor accuracy/mistranslation error
+'Asàtúntò-Fíìmù' is a minor accuracy/mistranslation error
+'Asàtúntò ohùn' is a minor accuracy/mistr[SEP_TOKEN_WENDA] 'the most successful film company in the world' is a major accuracy/addition error
+'the two songs' is a minor accuracy/omission error
+'mìíràn lọ' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA] 'the news of the death' is a critical accuracy/addition error
+'the one who was always talking about war' is a major accuracy/mistranslation error
+'the children of war' is a major accuracy/mistranslation error
+'invade' is a minor accuracy/mistranslation error
+'the US' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'Turkey' is a minor accuracy/untranslated text error
+'àmójútó' is a minor accuracy/mistranslation error
+'ìdábòbò' is a minor accuracy/mistranslation error
+'àwọn ọlótè' is a minor accuracy/mistranslation error
+'tí wọ́n mú' is a minor accuracy/mistranslation error
+'èyí tí àlàyé' is a minor accuracy/mistranslation error
+'fi síta' is a minor accuracy/[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'old man's youthfulness' is a major accuracy/mistranslation error
+'it is inexplicable' is a minor accuracy/mistranslation error
+'dinosaur's birth' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] 'a lens and a mirror' is a minor accuracy/untranslated text error
+'focus light' is a minor accuracy/mistranslation error
+'make a laser beam' is a minor accuracy/mistranslation error
+'which is called a laser in English' is a minor accuracy/addition error[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'The 802.11n standard' is a critical accuracy/non-translation error
+'supports' is a major accuracy/mistranslation error
+'both 2.4GHz and 5.0GHz frequencies' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] 'the same as it was in 2005' is a minor accuracy/mistranslation error
+'stated' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] 'the hall, door, and corridor' is a minor accuracy/addition error
+'must' is a minor fluency/grammar error
+'before entering' is a minor fluency/grammar error
+'the' is a minor fluency/article error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'expressed alarm' is a minor accuracy/mistranslation error
+'the worsening security situation' is a minor accuracy/addition error
+'urgent actions' is a minor accuracy/addition error
+'to prevent' is a minor accuracy/addition error
+'a humanitarian crisis' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'the Gulf of Mexico and the Caribbean Sea' is a minor accuracy/addition error
+'the eruption' is a minor accuracy/omission error
+'the Sangay volcano' is a minor accuracy/addition error
+'Ecuador' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'The United Nations Organization Stabilization Mission in Iraq (UNAMI)' is a critical accuracy/non-translation error
+'peacekeeping troops' is a major accuracy/mistranslation error
+'has sent' is a minor accuracy/tense error
+'a thousand' is a minor accuracy/number error
+'civilians' is a minor accuracy/inappropriate for context error
+'has also provided' is a minor accuracy/tense error
+'over a hundred thousand' is a minor accuracy/number error
+'displaced persons' is a minor accuracy/inappropriate for[SEP_TOKEN_WENDA] 'Buenos Aresi' is a minor accuracy/spelling error
+'attend' is a minor accuracy/addition error
+'the capital of Argentina' is a minor accuracy/addition error
+'which is 50 kilometers (31 miles) away' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'announced plans' is a minor accuracy/addition error
+'financial assistance' is a minor accuracy/addition error
+'affected by the fire outbreak' is a minor accuracy/addition error
+'it was referred to as' is a minor accuracy/addition error
+'The Great Fire of Olinsi Titun Buṣì' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'stated' is a minor accuracy/addition error
+'the deceased' is a minor accuracy/omission error
+'the St. Petersburg' is a minor accuracy/addition error
+'church fire' is a minor accuracy/addition error
+'stated' is a minor accuracy/addition error
+'anyone' is a minor accuracy/addition error
+'to hold' is a minor accuracy/addition error
+'a funeral' is a minor accuracy/addition error
+'for them' is a minor accuracy/addition error
+'the deceased' is[SEP_TOKEN_WENDA] 'the event' is a minor accuracy/untranslated text error
+'provide' is a minor accuracy/mistranslation error
+'comfortable' is a minor accuracy/mistranslation error
+'meet people' is a minor accuracy/mistranslation error
+'the Rome event' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'julọ' is a minor locale convention/name format error
+'iru agbekalẹ bayi wa' is a minor terminology/inappropriate for context error
+'opolopo' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'Security agents' is a minor accuracy/addition error
+'the traditional ruler' is a minor accuracy/addition error
+'the convoy' is a minor accuracy/addition error
+'on the way to his installation ceremony' is a minor accuracy/addition error
+'handed them over to the police' is a minor accuracy/addition error
+'for investigation and prosecution' is a minor accuracy/addition error[SEP_TOKEN_WENDA] non-translation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'the 17th day of the 11th month in the year 2006' is a major accuracy/addition error
+'49 years' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'has imposed' is a minor accuracy/addition error
+'some Chinese' is a minor accuracy/inappropriate for context error
+'for buying' is a minor accuracy/mistranslation error
+'including' is a minor accuracy/addition error
+'Su-35' is a minor accuracy/addition error
+'fighter jets' is a minor accuracy/addition error
+'in violation of international law' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'an individual named Adari' is a major accuracy/addition error
+'requesting' is a minor accuracy/mistranslation error
+'be provided' is a minor accuracy/mistranslation error
+'the leader of the NDP party' is a minor accuracy/addition error
+'at the Prime Minister's Office' is a minor accuracy/addition error
+'presented' is a minor accuracy/mistranslation error
+'within 15 days' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'has been awarded' is a minor accuracy/addition error
+'a medal' is a minor accuracy/omission error[SEP_TOKEN_WENDA] 'Anyone who wants to contact' is a minor accuracy/addition error
+'Busi Godoni Johanudro' is a minor accuracy/mistranslation error
+'the Korean War Museum' is a minor accuracy/addition error
+'in Korea' is a minor locale convention/name format error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'the war leaders' is a major accuracy/mistranslation error
+'to themselves' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'heavy rain and strong winds' is a minor accuracy/mistranslation error
+'has caused a large number of deaths and property damage' is a minor accuracy/mistranslation error
+'has become' is a minor fluency/grammar error
+'a lot of trouble' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'Adam Cuerden' is a minor accuracy/untranslated text error
+'the new editor-in-chief' is a minor accuracy/untranslated text error
+'the previous editors' is a minor accuracy/untranslated text error
+'taking over' is a minor accuracy/untranslated text error
+'Wikinews' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'Awon agbara iji omi lo le ko ipa ti egbe naa n wa laarin ohun dudu galaksi ati nkan dudu Ona Milik' is a critical accuracy/non-translation error[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'Airplane crash' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]
