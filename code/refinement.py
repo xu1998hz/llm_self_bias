@@ -197,8 +197,8 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                         input_batch = [icl_refinements + [{"role": "user", "content": prompt_txt + eval + "\n" + suffix_prompt}]]
                         input_batch = [tokenizer.apply_chat_template(ele, add_generation_prompt=True, tokenize=False) for ele in input_batch] 
                         inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
-                        out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
-                        response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
+                        output = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
+                        response = tokenizer.batch_decode(output, skip_special_tokens=True)[0]
                         response = response.split('[/INST]')[4].split("\n")[0].strip()
                         
                         eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:"""
