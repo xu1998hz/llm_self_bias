@@ -38,10 +38,10 @@ def calculate_nll(cur_prompt, cur_gen, model, tokenizer):
         #ppl = torch.exp(loss)
     return -loss.item()
 
-name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2': 'meta-llama/Llama-2-7b-chat-hf',\
+name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2-7b': 'meta-llama/Llama-2-7b-chat-hf',\
              'deepseek': 'deepseek-ai/deepseek-llm-7b-chat', 'deepseek_moe': "deepseek-ai/deepseek-moe-16b-chat", \
              'gpt-neox': 'EleutherAI/gpt-neox-20b', 'gpt-j': "EleutherAI/gpt-j-6b", 'mistral': 'mistralai/Mistral-7B-Instruct-v0.2', \
-             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca"}
+             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca", "llama2-70b": 'meta-llama/Llama-2-70b-chat-hf'}
 
 @click.command()
 @click.option('-model_name', help="alpaca")
@@ -86,7 +86,7 @@ def main(model_name, task_type, batch_size, eval_name):
                     f"Translate {src_lang} text into {tgt_lang}.\n\n"
                     f"### Instruction:\n\n{src_lang}: {src[:-1]}\n\n### {tgt_lang}:"
                 ) for src in src_batch]
-            elif model_name == "llama2" or model_name == "gpt-j" or model_name == "gpt-neox":
+            elif model_name == "llama2-7b" or model_name == "llama2-70b" or model_name == "gpt-j" or model_name == "gpt-neox":
                 input_batch=[(
                     "Below is an instruction that describes a task. "
                     f"Translate Chinese text into English.\n\n"
@@ -121,10 +121,10 @@ def main(model_name, task_type, batch_size, eval_name):
                 f.write(str(ppl)+'\n')
             else:
                 inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
-                out = model.generate(inputs=inputs.input_ids, max_new_tokens=256)
-                out = tokenizer.batch_decode(out, skip_special_tokens=True)
+                out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
+                output_text = tokenizer.batch_decode(out, skip_special_tokens=True)
             
-                if model_name == "llama2" or model_name == "gpt-j" or model_name == "gpt-neox":
+                if model_name == "llama2-7b" or model_name == "llama2-70b" or model_name == "gpt-j" or model_name == "gpt-neox":
                     out_ls = [out.replace(inp, '').split('\n')[0].strip()+'\n' for inp, out in zip(input_batch, output_text)]
                 elif model_name == "deepseek":
                     out_ls = [out.split('Assistant:')[-1].split('\n')[0].strip()+'\n' for out in output_text]
@@ -133,7 +133,7 @@ def main(model_name, task_type, batch_size, eval_name):
                 else:
                     out_ls = [out.replace(inp, '').replace('\n','').strip()+'\n' for inp, out in zip(input_batch, output_text)]
                 
-                # print(out_ls)
+                # print(out_ls[-1])
                 for out in out_ls:
                     f.write(out)
             pbar.update(batch_size)

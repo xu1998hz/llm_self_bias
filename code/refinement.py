@@ -12,10 +12,11 @@ import torch
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 
-name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2': 'meta-llama/Llama-2-7b-chat-hf',\
+name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2-7b': 'meta-llama/Llama-2-7b-chat-hf',\
              'deepseek': 'deepseek-ai/deepseek-llm-7b-chat', 'deepseek_moe': "deepseek-ai/deepseek-moe-16b-chat", \
              'gpt-neox': 'EleutherAI/gpt-neox-20b', 'gpt-j': "EleutherAI/gpt-j-6b", 'mistral': 'mistralai/Mistral-7B-Instruct-v0.2', \
-             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca"}
+             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca", "llama2-70b": 'meta-llama/Llama-2-70b-chat-hf', \
+             "llama2-13b": 'meta-llama/Llama-2-13b-chat-hf'}
 
 def completions_with_google(prompt_txt, model_type):
     if model_type == "gemini":
@@ -100,7 +101,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
         exit(1)
 
     for i in range(start_index, iteration):
-        out_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_self_refinement_100_{model_type}_new_{i}_rerun.txt"
+        out_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i}_rerun.txt"
         eval_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
 
         out_lines = open(out_name, "r").readlines()
@@ -125,7 +126,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                     if task_type == "mt":
                         prompt_txt = f"""Source: ```{src[:-1]}``` Translation: ```{out[:-1]}``` Feedback: """
                         suffix_prompt = " Improved Yorba-to-English translation:"
-                        in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` MQM annotations: "of high-speed rail" is a critical accuracy/addition error\n"go to the reviews" is a major accuracy/mistranslation error\n"etc.," is a minor style/awkwards error\n\n Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` MQM annotations: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n\n Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` MQM annotations: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n\n"""
+                        in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` Annotate errors in the translation. MQM annotations: "of high-speed rail" is a critical accuracy/addition error\n"go to the reviews" is a major accuracy/mistranslation error\n"etc.," is a minor style/awkwards error\n\n Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` Annotate errors in the translation. MQM annotations: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n\n Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` Annotate errors in the translation. MQM annotations: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n\n"""
                         eval_inst_str = f"You are an annotator for the quality of machine translation. Your task is to identify errors and assess the quality of the translation.\nBased on the source segment and machine translation surrounded with triple backticks, identify error types in the translation and classify them. The categories of errors are: accuracy (addition, mistranslation, omission, untranslated text), fluency (character encoding, grammar, inconsistency, punctuation, register, spelling), locale convention (currency, date, name, telephone, or time format) style (awkward), terminology (inappropriate  for context, inconsistent use), non-translation, other, or no-error.\nEach error is classified as one of three categories: critical, major, and minor. Critical errors inhibit comprehension of the text. Major errors disrupt the flow, but what the text is trying to say is still understandable. Minor errors are technically errors, but do not disrupt the flow or hinder comprehension."
                     elif task_type == "sci":
                         prompt_txt = f"""Question:\n ```{src}```\n Rationale and answer:\n ```{out}```\nFeedback:\n"""
@@ -201,11 +202,15 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                         response = tokenizer.batch_decode(output, skip_special_tokens=True)[0]
                         response = response.split('[/INST]')[4].split("\n")[0].strip()
                         
-                        eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:"""
+                        eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` Annotate errors in the translation. MQM annotations:"""
                         eval_inputs = tokenizer([eval_inp_prompt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         eval_out = model.generate(inputs=eval_inputs.input_ids, max_new_tokens=128)
                         eval_response = tokenizer.batch_decode(eval_out, skip_special_tokens=True)[0]
-                        eval_response = eval_response.replace(eval_inp_prompt, "").split("\n\n")[0]
+                        if model_type == "mistral_moe":
+                            eval_response = eval_response.replace(eval_inp_prompt, "").split("\n\n")[0]
+                        else: q
+                            eval_response = eval_response.split("MQM annotations:")[4].split("\n\n")[0].strip()
+
                     else:
                         print("API source is not found!")
                         exit(1)
@@ -226,7 +231,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                     eval_ls += [eval + "[SEP_TOKEN_WENDA]"]
                 pbar.update(1)
 
-        save_refine_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_self_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+        save_refine_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
         with open(save_refine_name,"w") as f:
             f.writelines(out_ls)
             print(f"{save_refine_name} is saved!")

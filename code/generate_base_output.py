@@ -17,10 +17,11 @@ import torch
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 
-name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2': 'meta-llama/Llama-2-7b-chat-hf',\
+name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'llama2-7b': 'meta-llama/Llama-2-7b-chat-hf',\
              'deepseek': 'deepseek-ai/deepseek-llm-7b-chat', 'deepseek_moe': "deepseek-ai/deepseek-moe-16b-chat", \
              'gpt-neox': 'EleutherAI/gpt-neox-20b', 'gpt-j': "EleutherAI/gpt-j-6b", 'mistral': 'mistralai/Mistral-7B-Instruct-v0.2', \
-             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca"}
+             'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca", "llama2-70b": 'meta-llama/Llama-2-70b-chat-hf', \
+             "llama2-13b": 'meta-llama/Llama-2-13b-chat-hf'}
 
 @backoff.on_exception(backoff.expo, RateLimitError)
 def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_type):
@@ -189,7 +190,7 @@ def main(lang_dir, api_source, model_type, task_type, save_name):
             response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
             if model_type == "mistral_moe":
                 response = response.replace(prompt_txt, '').split('\n\n')[0].strip()
-            elif model_type == "deepseek_moe":
+            else:
                 response = response.split('### Instruction:')[4].split("### English:")[1].split("\n\n")[0].strip()
         else:
             print("API source is not supported!")
