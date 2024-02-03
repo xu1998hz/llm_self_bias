@@ -187,7 +187,10 @@ def main(lang_dir, api_source, model_type, task_type, save_name):
             inputs = tokenizer([prompt_txt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
             out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
             response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
-            response = response.replace(prompt_txt, '').split('\n\n')[0].strip()
+            if model_type == "mistral_moe":
+                response = response.replace(prompt_txt, '').split('\n\n')[0].strip()
+            elif model_type == "deepseek_moe":
+                response = response.split('### Instruction:')[4].split("### English:")[1].split("\n\n")[0].strip()
         else:
             print("API source is not supported!")
             exit(1)
