@@ -1,5 +1,5 @@
 lang="yor-en"
-eval_name="gemini"
+eval_name="gpt-4"
 model_name="${eval_name}"
 
 for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
