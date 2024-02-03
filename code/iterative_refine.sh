@@ -1,5 +1,5 @@
-model_name="gpt-3.5-turbo" # "gemini" # 
-api_source="openai" # "google" # 
+model_name="gemini" # "gemini" # 
+api_source="google" # "google" # 
 lang="yor-en"
 
 # we start with initial translation 
@@ -9,7 +9,7 @@ OPENAI_API_KEY="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" python3 cod
 echo "Initial generation is done"
 
 # we generate the corresponding feedback for initial translation
-OPENAI_API_KEY="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" python3 code/generate_feedback.py -task_type mt -lang_dir "${lang}" -savename "model_outputs/${model_name}/self_refine/" \
+OPENAI_API_KEY="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" python3 code/generate_feedback.py -task_type mt -lang_dir "${lang}" \
     -api_source "${api_source}" -base_name "model_outputs/${model_name}/self_refine/${lang}/${model_name}-outputs/${lang}_self_refinement_100_${model_name}_new_0_rerun.txt" \
     -model_type "${model_name}" -savename "model_outputs/${model_name}/self_refine/${lang}/${model_name}-scores/${lang}_eval_100_one-shot_${model_name}_new_0_rerun.txt"
 
