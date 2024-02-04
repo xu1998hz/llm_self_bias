@@ -208,7 +208,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                         eval_response = tokenizer.batch_decode(eval_out, skip_special_tokens=True)[0]
                         if model_type == "mistral_moe":
                             eval_response = eval_response.replace(eval_inp_prompt, "").split("\n\n")[0]
-                        else: q
+                        else:
                             eval_response = eval_response.split("MQM annotations:")[4].split("\n\n")[0].strip()
 
                     else:

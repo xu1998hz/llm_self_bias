@@ -1,11 +1,11 @@
 lang="yor-en"
-eval_name="gpt-4"
+eval_name="mistral_moe"
 model_name="${eval_name}"
 
 for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
 do 
     # first compute all bleurt scores on translaiton outputs
-    CUDA_VISIBLE_DEVICES=7 python3 code/eval_bleurt.py -lang_dir yor-en \
+    CUDA_VISIBLE_DEVICES=0 python3 code/eval_bleurt.py -lang_dir yor-en \
     -file_name "model_outputs/${model_name}/self_refine/${lang}/${model_name}-outputs/${lang}_self_refinement_100_${model_name}_new_${iteration}_rerun.txt" \
     -save_name "model_outputs/${model_name}/self_refine/${lang}/bleurt-raw/${lang}_self_refinement_100_${eval_name}_new_${iteration}_rerun_bleurt.txt"
 
