@@ -26,7 +26,7 @@ IGNORE_INDEX = -100
 DEFAULT_EOS_TOKEN = "</s>"
 DEFAULT_BOS_TOKEN = "<s>"
 DEFAULT_UNK_TOKEN = "<unk>"
-max_length = 2048
+max_length = 1024
 padding_strategy = "left"
 num_epoch = 5
 
@@ -38,8 +38,9 @@ parser.add_argument('--local_rank', type=int, default=-1, help='local rank passe
 args = parser.parse_args()
 
 run_name = args.run_name
-f = f"data/eft_seed.json"
-output_dir = f"ckpt/{run_name}" 
+f = f"data/eft_seed_train.json"
+output_dir = f"/mnt/taurus/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/{run_name}" 
+# output_dir = f"ckpt/{run_name}" 
 
 class SupervisedDataset(Dataset):
     """Dataset for supervised fine-tuning."""
@@ -98,6 +99,14 @@ def preprocess(sources, targets, tokenizer):
     examples_tokenized, sources_tokenized = [
         _tokenize_fn(strings, tokenizer) for strings in (examples, sources)
     ]
+    # # filter out examples and sources that reach max length
+    # examples_tokenized, sources_tokenized = [
+    #     {
+    #         key: [example[key] for example in examples_tokenized if example[key].ne(tokenizer.pad_token_id).sum() < max_length]
+    #     }
+    #     for key in ("input_ids", "labels")
+    # ]
+    
     input_ids = examples_tokenized["input_ids"]
     labels = copy.deepcopy(input_ids)
     for label, source_len in zip(labels, sources_tokenized["input_ids_lens"]):
@@ -190,6 +199,8 @@ print(raw_dataset[:1])
 model_name = 'mistralai/Mistral-7B-v0.1'
 weight_path = '/mnt/taurus/home/guangleizhu/reproduce_pinpoint/finetune/ft_out/mistral_ft_test/checkpoint-266'
 
+print(f'using weight path: {weight_path}')
+
 config = AutoConfig.from_pretrained(model_name)
 tokenizer = transformers.AutoTokenizer.from_pretrained(
     model_name,
@@ -201,7 +212,6 @@ tokenizer = transformers.AutoTokenizer.from_pretrained(
 print(tokenizer.special_tokens_map)
 
 model = AutoModelForCausalLM.from_pretrained(weight_path)
-# model = AutoModelForCausalLM.from_pretrained(weight_path)
 print("Loaded in model and tokenizers")
 
 if tokenizer.pad_token is None:
@@ -225,15 +235,21 @@ print(tokenizer.special_tokens_map)
 
 data_module = make_supervised_data_module(tokenizer=tokenizer)
 
-# print the max length of the input tokens that are not padding
-lst = []
-for i in range(len(data_module["train_dataset"])):
-    j = data_module["train_dataset"][i]["input_ids"].ne(tokenizer.pad_token_id).sum()
-    lst.append(j)
-# plot the distribution of the length of the input tokens
-plt.hist(lst, bins=100)
-plt.savefig("input_tokens_length.png")
-# exit()
+# print(f"before removing data that achieves max length: {len(data_module['train_dataset'])}")
+
+# lst = []
+# c = 0
+# for i in range(len(data_module["train_dataset"])):
+#     j = data_module["train_dataset"][i]["input_ids"].ne(tokenizer.pad_token_id).sum()
+#     if j > 1024:
+#         c += 1
+#     lst.append(j)
+# # plot the distribution of the length of the input tokens
+# plt.hist(lst, bins=100)
+# plt.savefig("input_tokens_length.png")
+# print(f"number of data that has more than 1024 context: {c}")
+
+
 
 training_args = TrainingArguments(
     output_dir=output_dir,
@@ -260,7 +276,7 @@ training_args = TrainingArguments(
 )  # tf32=True -> only for A100
 
 # print the training args
-print(training_args)
+# print(training_args)
 
 print("Start the trainer")
 

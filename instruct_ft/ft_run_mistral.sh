@@ -6,7 +6,7 @@
 #SBATCH --gpus=4
 #SBATCH --time=24:00:00
 #SBATCH --account=guangleizhu
-#SBATCH --partition=taurus
+#SBATCH --partition=gemini
 #SBATCH --output=/home/guangleizhu/peril_self_improve/slurm/ft_mistral_eft.out
 #SBATCH --error=/home/guangleizhu/peril_self_improve/slurm/ft_mistral_eft_error.out
 
@@ -27,5 +27,4 @@ nvidia-smi
 
 # cd ../finetune
 
-deepspeed --num_gpus 4 finetune_mistral_eft.py --run_name mistral_eft
-# deepspeed --num_gpus 4 finetune_llama.py --lang en-de
+deepspeed --num_gpus 4 finetune_mistral_eft.py --run_name mistral_eft_split

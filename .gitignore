@@ -2,5 +2,6 @@ instruct_ft/data/2023-04-12_oasst_ready.trees.jsonl
 instruct_ft/wandb
 instruct_ft/slurm
 instruct_ft/ckpt
+slurm/
 # pycache
 __pycache__/

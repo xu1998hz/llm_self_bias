@@ -2,6 +2,7 @@ import statistics as sts
 import matplotlib.pyplot as plt
 from math import floor
 import json
+import random
 
 from rex.utils.io import dump_jsonlines, load_jsonlines
 
@@ -60,7 +61,7 @@ def load_tree_data(
 if __name__ == "__main__":
     first_turn = True
     print(f"only allow first turn: {first_turn}")
-    inst_qlt_thres = 0.5
+    inst_qlt_thres = -1
     resp_qlt_thres = -1
     pairs, resp_scores, converted_scores = load_tree_data(
         "2023-04-12_oasst_ready.trees.jsonl", 
@@ -78,7 +79,17 @@ if __name__ == "__main__":
     plt.savefig("converted_scores.png")
     print(f"#data number: {len(pairs)}")
 
-    data = {"type": "text2text", "instances": pairs}
-    with open('eft_seed.json', 'w') as f:
-        json.dump(data, f, indent=4)
+    # split 10% for validation
+    random.shuffle(pairs)
+    split = int(0.9 * len(pairs))
+    train = pairs[:split]
+    val = pairs[split:]
+
+    train_data = {"type": "text2text", "instances": train}
+    valid_data = {"type": "text2text", "instances": val}
+    print(f"Train: {len(train_data['instances'])}, Valid: {len(valid_data['instances'])}")
+    with open('eft_seed_train.json', 'w') as f:
+        json.dump(train_data, f, indent=4)
+    with open('eft_seed_valid.json', 'w') as f:
+        json.dump(valid_data, f, indent=4)
 
