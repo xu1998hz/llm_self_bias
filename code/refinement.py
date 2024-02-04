@@ -201,6 +201,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                         inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         output = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
                         response = tokenizer.batch_decode(output, skip_special_tokens=True)[0]
+                        print(response)
                         if model_type[:6] == "llama2":
                             if 'improved translation' in response.split('[/INST]')[4].split("\n")[0].lower():
                                 response = response.split('[/INST]')[4].split("\n")[2]
