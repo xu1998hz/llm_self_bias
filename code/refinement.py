@@ -200,7 +200,13 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                         inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         output = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
                         response = tokenizer.batch_decode(output, skip_special_tokens=True)[0]
-                        response = response.split('[/INST]')[4].split("\n")[0].strip()
+                        if model_type[:6] == "llama2":
+                            if 'improved translation' in response.split('[/INST]')[4].split("\n")[0].lower():
+                                response = response.split('[/INST]')[4].split("\n")[2]
+                            else:
+                                response = response.split('[/INST]')[4].split("\n")[0].strip()
+                        else:
+                            response = response.split('[/INST]')[4].split("\n")[0].strip()
                         
                         eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` Annotate errors in the translation. MQM annotations:"""
                         eval_inputs = tokenizer([eval_inp_prompt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
