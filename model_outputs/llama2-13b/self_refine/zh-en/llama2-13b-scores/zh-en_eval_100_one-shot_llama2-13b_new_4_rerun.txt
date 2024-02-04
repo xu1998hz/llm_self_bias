@@ -1,0 +1,73 @@
+'途径' is a minor accuracy/omission error
+'处罚' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'唱主角' is a major accuracy/mistranslation error
+'新华网' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'疾病' is a major accuracy/omission error
+'昨天晚上' is a minor fluency/date format error
+'脑洞' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'覆盖了' is a minor accuracy/omission error
+'一些项目' is a minor terminology/inconsistent use error
+'高端发明' is a minor style/awkward error[SEP_TOKEN_WENDA]none found.[SEP_TOKEN_WENDA]'智能手机端' is a major accuracy/omission error
+'大小' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'呼出气体' is a minor accuracy/omission error
+'健康报告' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'温度' is a minor accuracy/omission error
+'脉搏' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'stone' is a minor accuracy/omission error
+'嗅觉' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'智能手术灯' is a minor accuracy/omission error[SEP_TOKEN_WENDA]none found.[SEP_TOKEN_WENDA]'硕士生' is a minor terminology/inconsistent use error
+'智能LED' is a minor terminology/inappropriate for context error
+'无影灯' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'cut off' is a critical accuracy/mistranslation error
+'跟医生' is a major accuracy/omission error[SEP_TOKEN_WENDA]'癌症' is a minor accuracy/omission error
+'肿瘤组织' is a minor accuracy/terminology error[SEP_TOKEN_WENDA]'组织' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'光斑' is a major accuracy/omission error
+'颜色均匀性' is a minor accuracy/terminology error
+'无影率' is a minor accuracy/terminology error[SEP_TOKEN_WENDA]'Zhejiang University School of Medicine Affiliated Hospital' is a minor accuracy/omission error
+'Children's Hospital of Zhejiang University School of Medicine' is a minor accuracy/omission error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'洗手液' is a minor accuracy/omission error
+'空气洗手装置' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'out' is a minor accuracy/omission error
+'will' is a minor fluency/grammar error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'out' is a minor accuracy/omission error
+'and' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'和普通的洗手方法' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'既能保证洗净程度' is a major accuracy/mistranslation error
+'节能环保' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'诸多' is a minor accuracy/omission error
+'唯一' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'积分' is a minor accuracy/omission error
+'#PRS_ORG#' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'买了' is a minor accuracy/omission error
+'地址' is a minor accuracy/omission error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'急救措施' is a major accuracy/omission error
+'pre-hospital care' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'crucial' is a minor accuracy/omission error
+'after an accident' is a minor accuracy/addition error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'heart attack' is a minor accuracy/omission error
+'stroke' is a minor accuracy/omission error
+'或者' is a minor style/awkward error[SEP_TOKEN_WENDA]'急救' is a major accuracy/mistranslation error
+'near you' is a minor fluency/register error[SEP_TOKEN_WENDA]'倒下' is a minor accuracy/omission error
+'傻傻地' is a minor style/awkward error
+'无助的感觉' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'百分之七八十' is a major accuracy/mistranslation error
+'上海、北京' is a major accuracy/omission error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'呼吸没有了' is a minor accuracy/omission error
+'心跳没有了' is a minor accuracy/omission error
+'CPR' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'意识' is a minor accuracy/omission error
+'突发状况' is a minor accuracy/omission error
+'及时作出反应' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'一个人的生命' is a major accuracy/omission error[SEP_TOKEN_WENDA]'珠海' is a minor accuracy/omission error
+'优惠' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'呀' is a minor fluency/spelling error
+'急救证' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'考这个证好像还得有急救证才可以去考' is a major accuracy/mistranslation error
+'Xiaohongshu' is a minor accuracy/omission error[SEP_TOKEN_WENDA]none found.[SEP_TOKEN_WENDA]'一个' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'没试过' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'clear and concise' is a minor style/awkward error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'漏送' is a minor accuracy/omission error
+'虾饺' is a minor accuracy/translation error
+'给我吃' is a minor fluency/register error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'全方位的' is a major accuracy/omission error
+'从各种意义上来说' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'至少' is a minor fluency/register error
+'配乐' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'酣然' is a minor accuracy/mistranslation error
+'义愤' is a minor terminology/inappropriate for context error
+'填膺' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'风衣' is a minor accuracy/omission error
+'小马哥' is a minor terminology/inappropriate for context error
+'造物' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'导演暗含' is a major accuracy/mistranslation error
+'屎' is a major accuracy/omission error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'大爷' is a major accuracy/omission error
+'小面包车' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'高龄' is a major accuracy/omission error
+'面包车' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]none found.[SEP_TOKEN_WENDA]'just disappeared' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'营业执照' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'岛上飞车党小混混' is a minor accuracy/omission error
+'能轻轻松松' is a minor fluency/spelling error
+'封路' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'路中间' is a minor accuracy/omission error
+'四周连' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]none.[SEP_TOKEN_WENDA]'征信不行' is a minor accuracy/omission error
+'违法嫌疑' is a minor accuracy/mistranslation error
+'auxiliary police officer' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'高利贷' is a major accuracy/omission error
+'难处' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'却' is a minor accuracy/omission error
+'然后' is a minor fluency/grammar error
+'坐' is a minor fluency/register error[SEP_TOKEN_WENDA]'离谱' is a minor accuracy/omission error
+'莫名其妙' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'or者说' is a minor accuracy/mistranslation error
+'面目可憎' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'开头' is a minor accuracy/omission error
+'你会' is a minor fluency/grammar error
+'大过年' is a minor terminology/inappropriate for context error
+'跑到电影院' is a minor fluency/register error[SEP_TOKEN_WENDA]'套路' is a minor accuracy/omission error
+'拍摩托车手' is a minor terminology/inconsistent use error
+'菜鸟' is a minor terminology/inappropriate for context error
+'一步步' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'服务员' is a major accuracy/omission error
+'骑摩托' is a minor accuracy/mistranslation error
+'恩怨纠葛' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'情节' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'脑洞' is a minor accuracy/mistranslation error
+'it's hard to resist' is a minor fluency/register error[SEP_TOKEN_WENDA]'impressive skills' is a minor accuracy/mistranslation error
+'导演的要求' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'赛车手' is a major accuracy/omission error
+'添加' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'难道' is a minor accuracy/mistranslation error
+'添堵' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none found.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]

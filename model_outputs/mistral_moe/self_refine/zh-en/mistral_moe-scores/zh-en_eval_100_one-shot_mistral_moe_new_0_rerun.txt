@@ -1,0 +1,79 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the lead' is a major accuracy/mistranslation error
+'open up' is a major accuracy/mistranslation error
+'Xinhuanet' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'the source of haze' is a minor accuracy/mistranslation error
+'the opening ceremony' is a minor accuracy/addition error
+'with wide-ranging ideas' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the gas' is a minor accuracy/untranslated text error
+'the health report' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the doctor's high-energy eyes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the operating room of the hospital' is a minor accuracy/addition error
+'Many diseases are not detected early or not removed completely' is a minor accuracy/mistranslation error
+'which is related to' is a minor accuracy/omission error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'intelligent surgical lamp' is a minor accuracy/inappropriate for context error
+'light panels' is a minor accuracy/inappropriate for context error
+'perception' is a minor accuracy/mistranslation error
+'under light' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'cool' is a major accuracy/mistranslation error
+'saving water' is a minor style/awkward error[SEP_TOKEN_WENDA]'air hand washing device' is a critical accuracy/mistranslation error
+'Li Qiang and his classmates' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'the device's sink' is a critical accuracy/mistranslation error
+'compress' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'clean' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'our own gravity' is a minor accuracy/mistranslation error
+'at the same time' is a minor style/awkward error
+'completely waste-free' is a minor style/awkward error
+'energy-saving and environmentally friendly' is a minor style/awkward error[SEP_TOKEN_WENDA]'the Second Global Major Challenge Summit' is a major accuracy/mistranslation error
+'stood out among many world-class universities' is a major accuracy/mistranslation error
+'the only gold award' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the cash' is a minor accuracy/addition error
+'it' is a minor accuracy/omission error
+'in the future' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]#PRS\_ORG# is a critical non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'thank you' is a major non-translation error[SEP_TOKEN_WENDA]'a first aid certificate' is a minor accuracy/non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'had' is a minor accuracy/mistranslation error
+'cerebral hemorrhage' is a minor accuracy/inappropriate for context error
+'sudden respiratory arrest' is a minor accuracy/inappropriate for context error
+'the golden four minutes' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In China' is a minor accuracy/addition error
+'every year' is a minor accuracy/addition error
+'unexpected deaths' is a minor accuracy/mistranslation error
+'the most dangerous one' is a minor accuracy/omission error
+'sudden cardiac arrest' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In Las Vegas casinos' is a minor accuracy/addition error
+'be saved' is a minor accuracy/mistranslation error
+'it is less than 1%' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Zhishang' is a major accuracy/non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the Red Cross training center' is a minor accuracy/inappropriate for context error
+'Zhuhai' is a minor accuracy/omission error
+'students have discounts' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the last picture' is a minor accuracy/mistranslation error
+'the goals I want to achieve' is a minor accuracy/mistranslation error
+'Adding' is a minor accuracy/addition error
+'the list of goals' is a minor accuracy/mistranslation error
+'a few months ago' is a minor accuracy/mistranslation error
+'have indeed completed it' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'I need to take' is a minor accuracy/addition error
+'I plan to take' is a minor accuracy/addition error
+'I saw on Little Red Book' is a minor accuracy/addition error
+'It seems that I need to have' is a minor accuracy/addition error
+'so the first aid certificate is actually very useful!' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'13 yuan' is a minor locale convention/currency format error
+'just' is a minor accuracy/omission error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'To begin with' is a minor style/awkward error
+'the word' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the cinema' is a minor accuracy/addition error
+'indignant' is a minor accuracy/mistranslation error
+'ignite' is a minor accuracy/mistranslation error
+'countless' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'gifted' is a major accuracy/mistranslation error
+'the audience' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the Kek series' is a minor accuracy/mistranslation error
+'the windbreaker' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the plot points' is a major accuracy/mistranslation error
+'difficult to understand' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the male lead' is a major accuracy/mistranslation error
+'in the south' is a minor accuracy/addition error
+'depends on' is a minor accuracy/mistranslation error
+'his grandmother' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'an old man' is a minor accuracy/inappropriate for context error
+'small van' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'bread van' is a critical accuracy/mistranslation error
+'sitting' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'there was no further information about' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'flying car' is a critical accuracy/mistranslation error
+'gangsters' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'prop' is a major accuracy/mistranslation error
+'too obvious' is a minor fluency/register error[SEP_TOKEN_WENDA]'a reckless young man' is a major accuracy/mistranslation error
+'with a criminal record' is a major accuracy/mistranslation error
+'poor credit' is a major accuracy/mistranslation error
+'police auxiliary' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'grown-up' is a minor terminology/inappropriate for context error
+'then arranges to find' is a major accuracy/mistranslation error
+'to sleep outside the door for a night' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'inexplicable' is a major accuracy/mistranslation error
+'the whole movie' is a major accuracy/addition error
+'it' is a minor accuracy/omission error
+'will feel painful' is a minor fluency/register error[SEP_TOKEN_WENDA]'stitched together' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the big toilet' is a major accuracy/mistranslation error
+'the New Year' is a minor locale convention/time format error[SEP_TOKEN_WENDA]'it's inspirational + comedy' is a major accuracy/mistranslation error
+'then' is a minor fluency/grammar error
+'gradually becomes successful step by step' is a minor style/awkward error[SEP_TOKEN_WENDA]'shoot a love movie' is a minor accuracy/mistranslation error
+'honestly' is a minor accuracy/addition error
+'the story of the grudges' is a minor accuracy/mistranslation error
+'small-town' is a minor terminology/inappropriate for context error
+'waitress girl' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the new motorcycle' is a minor accuracy/mistranslation error
+'brain holes' is a major accuracy/mistranslation error
+'bear to watch' is a minor fluency/register error[SEP_TOKEN_WENDA]'Mingming' is a minor accuracy/untranslated text error
+'mentally challenged' is a minor terminology/inappropriate for context error
+'5-year-old child' is a minor terminology/inappropriate for context error
+'her acting skills' is a minor accuracy/omission error
+'the director's requirements' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'racing driver' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'the Chinese New Year' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Taidaxin' is a critical accuracy/mistranslation error
+'encoder' is a critical accuracy/mistranslation error
+'battery box' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'China, Shenzhen' is a minor locale convention/name format error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

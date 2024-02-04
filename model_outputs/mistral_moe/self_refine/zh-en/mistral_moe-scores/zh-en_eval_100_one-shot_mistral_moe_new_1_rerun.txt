@@ -1,0 +1,42 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] 'take center stage' is a major accuracy/mistranslation error
+'research findings' is a minor accuracy/mistranslation error
+'leave people in awe' is a minor accuracy/mistranslation error
+'Zhejiang University's academic year conference' is a minor accuracy/mistranslation error
+'Xinhua News Agency' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] None.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the gas' is a minor accuracy/untranslated text error
+'the health report' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the doctor's high-energy eyes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'contactless hand washing device' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'the scale' is a critical accuracy/mistranslation error
+'push' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'the Second Global Summit on Major Challenges' is a major accuracy/mistranslation error
+'numerous top-tier institutions' is a major accuracy/omission error
+'the only gold award' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]#PRS\_ORG# is a critical non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]'a first aid certificate' is a minor accuracy/non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] 'the "golden four minutes"' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] 'approximately' is a minor accuracy/addition error
+'sudden cardiac deaths' is a minor terminology/inappropriate for context error
+'making it the leading cause of death' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In Las Vegas casinos' is a minor accuracy/addition error
+'be saved' is a minor accuracy/mistranslation error
+'it is less than 1%' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Zhishang' is a major accuracy/non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] 'the Chinese Red Cross Society' is a minor terminology/inappropriate for context error
+'Zhuhai branch' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'the final image' is a minor accuracy/mistranslation error
+'targets' is a minor terminology/inappropriate for context error
+'the targets to complete' is a minor accuracy/redundancy error
+'back' is a minor fluency/spelling error
+'accomplished' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'I need to take' is a minor accuracy/addition error
+'I plan to take' is a minor accuracy/addition error
+'I saw on Little Red Book' is a minor accuracy/addition error
+'It seems that I need to have' is a minor accuracy/addition error
+'so the first aid certificate is actually very useful!' is a minor style/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'#NAME#' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the cinema' is a minor accuracy/addition error
+'indignant' is a minor accuracy/mistranslation error
+'ignite' is a minor accuracy/mistranslation error
+'countless' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'provoke/insult' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the Kek series' is a minor accuracy/mistranslation error
+'the windbreaker' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]'an old man' is a minor accuracy/inappropriate for context error
+'small van' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] 'nothing more was said about the old man' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA] 'the room key' is a minor accuracy/mistranslation error
+'the hotel owner' is a minor accuracy/mistranslation error
+'comes back' is a minor fluency/grammar error[SEP_TOKEN_WENDA] 'difficult to understand' is a minor accuracy/mistranslation error
+'is filled throughout' is a minor accuracy/addition error
+'absurd' is a minor accuracy/mistranslation error
+'recall' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'stitched together' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the big toilet' is a major accuracy/mistranslation error
+'the New Year' is a minor locale convention/time format error[SEP_TOKEN_WENDA] 'the plots' is a minor accuracy/mistranslation error
+'a movie about a motorcycle racer' is a minor accuracy/addition error
+'then it's an inspirational story with a comedic tone' is a minor accuracy/addition error
+'how a talented novice gradually becomes successful' is a minor accuracy/addition error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the new motorcycle' is a minor accuracy/mistranslation error
+'brain holes' is a major accuracy/mistranslation error
+'bear to watch' is a minor fluency/register error[SEP_TOKEN_WENDA] 'Regarding the female lead' is a minor accuracy/addition error
+'Mingming' is a minor accuracy/mistranslation error
+'five-year-old' is a minor accuracy/mistranslation error
+'abilities' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] None.[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] [Company Name] is a critical accuracy/non-translation error
+[Device Name] is a critical accuracy/non-translation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

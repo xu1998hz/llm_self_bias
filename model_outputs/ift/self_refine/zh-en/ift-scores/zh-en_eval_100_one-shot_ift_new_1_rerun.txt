@@ -1,0 +1,71 @@
+'he' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'this' is a minor accuracy/addition error
+'this' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'how long will it take for the restaurant to be ready? Can you help me ask?’ is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'学生唱主角' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/mistranslation error
+'学生唱主角' is a minor style/awkwards error
+'学生唱主角' is a minor fluency/grammar error
+'学生唱主角' is a minor fluency/punctuation error
+'学生唱主角' is a minor fluency/register error
+'学生唱主角' is a minor fluency/[SEP_TOKEN_WENDA]'the source of the mist' is a major accuracy/omission error
+'the academic year' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'国内国际获奖' is a major accuracy/addition error
+'国内国际获奖' is a major accuracy/addition error[SEP_TOKEN_WENDA]'your home doctor' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'biotechnology and biomedical sciences department' is a major accuracy/omission error
+'biological sensor' is a major accuracy/mistranslation error
+'biotechnology and biomedical sciences department' is a major accuracy/omission error[SEP_TOKEN_WENDA]'health status' is a major accuracy/mistranslation error
+'airflow' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'health report' is a major accuracy/mistranslation error
+'air' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Marketable smart handhelds can detect health status, which are generally checked for temperature, pulse, etc.[SEP_TOKEN_WENDA]'carbon nanotubes' is a major accuracy/addition error
+'olfactory' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'Smart Surgery Light: The High-Skilled Eye of the Doctor' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'smart surgical lights' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'the Swiss National Invention Exhibition' is a major accuracy/mistranslation error
+'the Cologne' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'传统手术灯的缺陷中开启了新思路' is a critical accuracy/addition error
+'智能LED手术无影灯' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'detected early, removed, and related to the light used in the Surgery Room by the Doctor' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'early cancer checks' is a major accuracy/omission error
+'spread' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'light spectrum' is a major accuracy/addition error
+'light' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'light spots' is a major accuracy/addition error
+'light spectrum' is a major accuracy/addition error
+'color uniformity' is a major accuracy/addition error[SEP_TOKEN_WENDA]'医院、医学院附属儿童医院' is a major accuracy/omission error
+'反馈' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'National Challenge Cup' is a major accuracy/omission error
+'National Challenge Cup' is a major accuracy/omission error[SEP_TOKEN_WENDA]'air to wash your hands' is a major accuracy/addition error
+'saving water' is a minor fluency/grammar error
+'cool' is a minor fluency/register error[SEP_TOKEN_WENDA]'Air Wash Machine' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'the washing machine' is a major accuracy/mistranslation error
+'the air' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'air' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'water faucet' is a major accuracy/omission error
+'fluid' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'hand wash' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'the effectiveness is the same as the usual washing method' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'no-cost' is a minor fluency/punctuation error
+'no-cost' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'top-level schools' is a major accuracy/addition error
+'the second-largest global challenge summit' is a major accuracy/omission error[SEP_TOKEN_WENDA]'replacement' is a minor accuracy/addition error[SEP_TOKEN_WENDA]#PRS_ORG# is a critical accuracy/addition error[SEP_TOKEN_WENDA]'spicy cabbage' is a major accuracy/mistranslation error
+'children to eat' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'order' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'#PRS_ORG#' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'cancel the order' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'I#PRS_ORG# bought, but I wrote the address wrong' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'change it?’ is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'急救证' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'driver's license' is a major accuracy/omission error
+'certification' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'sudden events' is a major accuracy/addition error
+'ambulance' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the time it takes for emergency vehicles to arrive' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'urgent care' is a major accuracy/addition error[SEP_TOKEN_WENDA]'heart attack' is a critical accuracy/addition error
+'hemorrhage' is a critical accuracy/addition error
+'stop in breathing' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'So, having someone around you who knows how to perform first aid is so important!’ is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'we can use our professional knowledge to perform first aid, rather than just standing there helplessly, which can be a very scary feeling' is a major fluency/punctuation error[SEP_TOKEN_WENDA]'heart attacks' is a critical accuracy/addition error
+'heart beats' is a major accuracy/mistranslation error
+'heart stops' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'can be rescued' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Las Vegas' is a major accuracy/addition error
+'Shanghai' is a major accuracy/addition error
+'Beijing' is a major accuracy/addition error[SEP_TOKEN_WENDA]'创始人' is a major accuracy/mistranslation error
+'反应' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'heartbeat stops' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'must do artificial breathing and chest compression to be able to save a person' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'we have very few people with this kind of awareness to learn first aid' is a major accuracy/omission error
+'the event happens, it's too late' is a major accuracy/omission error[SEP_TOKEN_WENDA]'It may be possible to save someone's life!’ is a critical accuracy/addition error[SEP_TOKEN_WENDA]'training center' is a major accuracy/addition error
+'training center' is a major accuracy/addition error
+'training center' is a major accuracy/addition error[SEP_TOKEN_WENDA]'PS: The last picture is a record of your own 25th birthday goal, including the emergency certificate added to the target list, which was several months ago, but actually completed!’'[SEP_TOKEN_WENDA]'urgent certificate' is a major accuracy/omission error
+'urgent certificate' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'#NUMBER#' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'shrimp dumpling' is a major accuracy/mistranslation error
+'egg' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'How can you not write it down?’ is a critical accuracy/omission error[SEP_TOKEN_WENDA]'dollars?’ is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'PRS_ORG' is a major accuracy/omission error
+'shrimp dumpling' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'code' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Four Seas' is a critical accuracy/addition error
+'piece of garbage' is a critical fluency/inspiration error[SEP_TOKEN_WENDA]'this movie is not a bright spot either' is a critical accuracy/addition error
+'this is not at least a good choice for the music' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'烂片分很多种' is a major accuracy/addition error
+'让你看完后义愤填膺的也算一种' is a major accuracy/mistranslation error
+'《四海》对观众来说就像是峨眉山上的猴子,它能用无数种方式来点燃你的怒火' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'韩寫真的是天赫绝伦' is a critical accuracy/addition error
+'天赫绝伦' is a critical accuracy/addition error
+'天赫绝伦' is a critical accuracy/addition error
+'天赫绝伦' is a critical accuracy/addition error
+'天赫绝伦' is a critical accuracy/addition error
+'天赫绝伦' is a critical accuracy/addition error
+'天赫[SEP_TOKEN_WENDA]'horse' is a major accuracy/mistranslation error
+'horse' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'hidden message' is a major accuracy/mistranslation error
+'hidden message' is a major accuracy/omission error
+'hidden message' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'I don't understand' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the southern part of the island' is a major accuracy/addition error
+'the man's home' is a major accuracy/mistranslation error
+'the man's life' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Grandmother has a wish to see the snow, and then the plot arranged the neighboring big guy to open the small face-pack car and send her to the northeast to see the snow.‘[SEP_TOKEN_WENDA]'面包车' is a major accuracy/addition error
+'looking at the snow?’ is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'He and his dad are very relaxed about this' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'the old man' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'废弃轮船上开酒店，女主他哥怎么拿到营业执照的？' is a critical accuracy/addition error
+'营业执照的？' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'the small mixers of the island fly cars so easily make a segment of the mountain road into a dead end?’ is a critical accuracy/addition error[SEP_TOKEN_WENDA]'card truck' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'tool' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the bad credit record' is a major accuracy/addition error
+'the history of criminal charges' is a major accuracy/addition error[SEP_TOKEN_WENDA]'why don't you report high interest debt?’ is a major accuracy/omission error
+'the police even asked if you had a hard time?’ is a minor fluency/grammar error[SEP_TOKEN_WENDA]'travguest' is a major accuracy/omission error
+'travguest' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the absurdity of the situation' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the holidays' is a minor fluency/punctuation error
+'the theme' is a major fluency/punctuation error
+'the monstrous patchwork' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'piece of film' is a major accuracy/mistranslation error
+'big paw' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'motorcycle rider' is a major accuracy/addition error
+'motivated person' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'love photo' is a minor style/awkwards error
+'love for the motorbike-riding small-town youth and the waitress' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the real world' is a major accuracy/addition error[SEP_TOKEN_WENDA]'connected knuth-morris prism' is a major accuracy/mistranslation error
+'connected knuth-morris prism' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'演技的原因还是导演的要求’ is a major fluency/inconsistency error[SEP_TOKEN_WENDA]'why is Korean racing driver Hank Kim so eager to add crash scenes to his own movie?’ is a minor style/awkwards error[SEP_TOKEN_WENDA]'headache' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'battery box' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]
