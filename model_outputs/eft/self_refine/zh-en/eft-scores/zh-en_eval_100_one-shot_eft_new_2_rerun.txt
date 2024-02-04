@@ -1,0 +1,201 @@
+'he' is a major accuracy/omission error
+'way' is a minor fluency/register error
+'he' is a minor fluency/register error[SEP_TOKEN_WENDA]'oпасностей' is a major accuracy/omission error
+'и опасностях' is a major accuracy/omission error
+'и опасностях' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'restaurant' is a major accuracy/addition error
+'no-error' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the students' is a major accuracy/addition error
+'the research' is a major accuracy/addition error
+'the symposium' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the air was filled with a faint smell of smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke' is a major accuracy/omission error
+'the smoke[SEP_TOKEN_WENDA]'the field of research' is a major accuracy/addition error
+'the public' is a major accuracy/omission error
+'the awards' is a major accuracy/omission error[SEP_TOKEN_WENDA]'you' is a major accuracy/addition error
+'no-error' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'wearable device' is a major accuracy/addition error
+'biomotion' is a major accuracy/addition error
+'vital signs' is a major accuracy/addition error[SEP_TOKEN_WENDA]'puff' is a minor fluency/register error
+'device' is a minor fluency/register error
+'signs' is a minor fluency/register error
+'status' is a minor fluency/register error[SEP_TOKEN_WENDA]'Bluetooth' is a major accuracy/addition error
+'phone' is a major accuracy/addition error
+'display' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'wearable device' is a major accuracy/addition error
+'blood pressure' is a major accuracy/omission error[SEP_TOKEN_WENDA]'stone chitin' is a major accuracy/addition error
+'chemical substances' is a major accuracy/omission error
+'body' is a major accuracy/omission error[SEP_TOKEN_WENDA]'medical' is a major accuracy/omission error
+'vision' is a major accuracy/omission error
+'lights' is a major accuracy/omission error[SEP_TOKEN_WENDA]'smart surgical light' is a major accuracy/omission error
+'handсюк' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'всюмки опасностей и опасностей, и вызывают опасностей и опасностей, и вызывают опасностей и опасностей, и вызывают опасностей и опасностей, и вызывают опасностей и опасностей, и вызывают опасностей и опасностей, и вызывают опасностей и опасностей, и вызывают опасностей и опасност[SEP_TOKEN_WENDA]'no-error'</response>[SEP_TOKEN_WENDA]'the hand' is a minor accuracy/omission error
+'the light' is a minor accuracy/omission error
+'the room' is a minor accuracy/omission error
+'the table' is a minor accuracy/omission error
+'the tool' is a minor accuracy/omission error
+'the window' is a minor accuracy/omission error
+'the word' is a minor accuracy/omission error
+'the x' is a minor accuracy/omission error
+'the y' is a minor accuracy/omission error
+'the z' is a minor accuracy/omission[SEP_TOKEN_WENDA]' Squadron Leader' is a major accuracy/addition error
+'Dilokrit' is a major accuracy/omission error
+'Pattavee' is a major accuracy/omission error[SEP_TOKEN_WENDA]'light' is a major accuracy/addition error
+'field' is a major accuracy/addition error
+'light' is a major accuracy/addition error
+'light' is a major accuracy/addition error[SEP_TOKEN_WENDA]'no-error'</response>[SEP_TOKEN_WENDA]'these’ is a major accuracy/addition error
+'hilfreich' is a minor fluency/register error
+'no-error' is a minor accuracy/omission error
+```</response>[SEP_TOKEN_WENDA]'国кая' и 'награда' являются опасностями, поскольку они не являются опасностями, поскольку они не являются опасностями, поскольку они не являются опасностями, поскольку они не являются опасностями, поскольку они не являются опасностями, поскольку они не являются опасностями, поскольку они не являются опасностями, посколь[SEP_TOKEN_WENDA]'airflow' is a major accuracy/addition error
+'hand' is a major accuracy/omission error
+'cool down' is a major accuracy/omission error[SEP_TOKEN_WENDA]'“空气洗手”' и '“挝点洗手”’' являются опасностями, поскольку они не соответствуют опасностям, поскольку они не соответствуют опасностям, поскольку они не соответствуют опасностям, поскольку они не соответствуют опасностям, поскольку они не соответствуют опасностям, поскольку они[SEP_TOKEN_WENDA]'we’re' is a major accuracy/omission error
+'we’re’' is a major accuracy/omission error
+'we’re’' is a major accuracy/omission error[SEP_TOKEN_WENDA]'oпасностей' is a major accuracy/omission error
+'и опасностях' is a major accuracy/omission error
+'и опасностях' is a major accuracy/omission error[SEP_TOKEN_WENDA]'вводят' и 'вводят' опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и опасностей и опасностей, и[SEP_TOKEN_WENDA]'hand' is a major accuracy/addition error
+'we’ll' is a major accuracy/omission error
+'we’ll' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the study' is a major accuracy/addition error
+'the soap' is a minor fluency/register error
+'the water' is a minor fluency/register error[SEP_TOKEN_WENDA]'no-error'</response>[SEP_TOKEN_WENDA]'《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Yorba》《Y[SEP_TOKEN_WENDA]'please' is a minor fluency/register error
+'we' is a minor fluency/register error
+'you' is a minor fluency/register error
+'we' is a minor fluency/register error
+'you' is a minor fluency/register error
+'we' is a minor fluency/register error
+'you' is a minor fluency/register error
+'we' is a minor fluency/register error
+'you' is a minor fluency/register error
+'we' is a minor fluency/register error
+'you' is a minor flu[SEP_TOKEN_WENDA]'no longer' is a minor fluency/register error
+'#PRS_ORG#!' is a major terminology/inappropriate for context error</response>[SEP_TOKEN_WENDA]'the oпасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и[SEP_TOKEN_WENDA]'please' is a minor fluency/register error
+'order' is a minor accuracy/addition error
+'order' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'no problem' is a minor fluency/register error
+'no thanks' is a minor fluency/register error[SEP_TOKEN_WENDA]'he' is a major accuracy/addition error
+'we’' и 'you’' являются оморокосяв, и 'he' и 'we’' являются оморокосяв, и 'he' и 'we’' являются оморокосяв, и 'he' и 'we’' являются оморокосяв, и 'he' и 'we’' являются оморокосяв, и 'he' и 'we’' являются оморокосяв, и 'he' и 'we’[SEP_TOKEN_WENDA]'we don't want' is a major accuracy/addition error
+'order' is a major accuracy/omission error[SEP_TOKEN_WENDA]'PRS_ORG#' is a major accuracy/addition error
+'I bought' is a major accuracy/omission error
+'I wrote' is a minor fluency/register error
+```</response>[SEP_TOKEN_WENDA]'Can you change the text?' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Or' is a major accuracy/addition error
+'cancel' is a major accuracy/omission error[SEP_TOKEN_WENDA]'mass' is a major accuracy/omission error
+'nuisance' is a minor fluency/register error[SEP_TOKEN_WENDA]'die Zeitdrustlinge' is a minor fluency/register error
+'die Zeitdrustlinge' is a minor fluency/register error
+'die Zeitdrustlinge’ is a minor fluency/register error
+'die Zeitdrustlinge’ is a minor fluency/register error
+'die Zeitdrustlinge’ is a minor fluency/register error
+'die Zeitdrustlinge’ is a minor fluency/register error
+'die Zeitdrustlinge’ is a minor fluency/register error
+'die Zeitdrustlinge’ is[SEP_TOKEN_WENDA]'oпасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' опасностей' и 'опасностей' о[SEP_TOKEN_WENDA]'First aid measures' is a major accuracy/addition error
+'terrorist attack' is a major accuracy/omission error
+' terrorist' is a major accuracy/omission error[SEP_TOKEN_WENDA]'pilot' is a major accuracy/addition error
+' Squadron Leader' is a major accuracy/addition error
+'Dilokrit' is a major accuracy/addition error[SEP_TOKEN_WENDA]'urgent' is a major accuracy/addition error
+'time' is a major accuracy/omission error
+'urgent' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'we’re' is a minor fluency/register error
+'we’ve’' is a minor fluency/register error
+'we’re’’' is a minor fluency/register error
+'we’re’’' is a minor fluency/register error
+'we’re’’' is a minor fluency/register error
+'we’re’’' is a minor fluency/register error
+'we’re’’' is a minor fluency/register error
+'we’re’’' is a minor fluency/register error
+'we’[SEP_TOKEN_WENDA]'the people' is a major accuracy/addition error
+'the training' is a major accuracy/omission error
+'the achievement' is a major accuracy/omission error[SEP_TOKEN_WENDA]'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major accuracy/no-error error
+'no-error' is a major[SEP_TOKEN_WENDA]'official data' is a major accuracy/addition error
+'no-error' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the average rate' is a major accuracy/addition error
+'patients' is a major accuracy/omission error[SEP_TOKEN_WENDA]'beelitz-heilscher' is a major accuracy/omission error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'low' is a minor fluency/register error
+'[SEP_TOKEN_WENDA]'the founder' is a major accuracy/omission error
+'the reaction' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'you' is a major accuracy/addition error
+'no use' is a minor terminology/inappropriate for context error
+'no use' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'be placed' is a major accuracy/addition error
+'then gently pressedurized' is a major accuracy/addition error[SEP_TOKEN_WENDA]'в опасностях и опасностях' и 'в опасностях и опасностях' являются опасностей и опасностей, и это опасностей и опасностей, и это опасностей и опасностей, и это опасностей и опасностей, и это опасностей и опасностей, и это опасностей и опасностей, и это опасностей и опасностей, и[SEP_TOKEN_WENDA]'oпасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и опасностей и о[SEP_TOKEN_WENDA]'Red Cross' is a major accuracy/addition error
+'peace' is a major accuracy/addition error
+'no-error' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'PS:' is a major accuracy/addition error
+'the picture' is a minor accuracy/omission error
+'the record' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'scuba diving' is a major accuracy/addition error
+'first aid certificate' is a major accuracy/omission error[SEP_TOKEN_WENDA]'⽽сующаяся' и '⽽сующаяся' опасностей'⽽сующаяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяяя[SEP_TOKEN_WENDA]'beleни' is a major accuracy/addition error
+'13 元' is a major accuracy/omission error
+'beleни' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'no experience' is a major accuracy/omission error[SEP_TOKEN_WENDA]'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME#' is a major accuracy/omission error
+'#NAME[SEP_TOKEN_WENDA]'13 元' is a major accuracy/addition error
+'partaje' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'PRS_ORG#' is a major accuracy/omission error
+'#PRS_ORG#' is a major accuracy/omission error
+'#PRS_ORG#' is a major accuracy/omission error[SEP_TOKEN_WENDA]'code' is a major accuracy/addition error
+'looked' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'《《四海》'] содержит множество опасностей и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опасностей, и опа[SEP_TOKEN_WENDA]'нет ничего, что вызывает опасностей и опасностей, и нет ничего, что вызывает опасностей и опасностей, и нет ничего, что вызывает опасностей и опасностей, и нет ничего, что вызывает опасностей и опасностей, и нет ничего, что вызывает опасностей и опасностей, и нет ничего, что вызывает опа[SEP_TOKEN_WENDA]'no-error'</response>[SEP_TOKEN_WENDA]'天赋' is a major accuracy/addition error
+'observ众' is a major accuracy/omission error
+'天赋' is a major accuracy/addition error[SEP_TOKEN_WENDA]'plot' is a major accuracy/addition error
+'wind-up' is a minor accuracy/omission error
+'clicks' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'ф�ксу' is a major accuracy/omission error
+'暗含' is a major accuracy/omission error
+'hidden' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ich möchte zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müssen zunächst müss[SEP_TOKEN_WENDA]'office' is a major accuracy/omission error
+'home' is a major accuracy/omission error
+'location' is a major accuracy/omission error[SEP_TOKEN_WENDA]'некоторым персоналям' и 'в поро'</response>[SEP_TOKEN_WENDA]'facepack' is a major accuracy/addition error
+'from North Pole' is a major accuracy/omission error
+'to East Pole' is a major accuracy/omission error[SEP_TOKEN_WENDA]'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоряются, 'he' и 'they' ошикоря[SEP_TOKEN_WENDA]'no longer' is a minor fluency/register error
+'text' is a minor fluency/register error[SEP_TOKEN_WENDA]'plarre' is a major accuracy/omission error
+'the license' is a major accuracy/omission error
+'the business' is a major accuracy/omission error[SEP_TOKEN_WENDA]'山路' is a major accuracy/omission error
+'light' is a minor fluency/register error
+'no-error' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'pathfinding' is a major accuracy/omission error
+'finding' is a major accuracy/omission error
+'no-error' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'дополнительный поистине опасностей' и 'вторясательный поистине опасностей'</response>[SEP_TOKEN_WENDA]'evading' is a major accuracy/omission error
+'lack of credibility' is a major accuracy/omission error
+'history' is a major accuracy/omission error[SEP_TOKEN_WENDA]'警察' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+' detective' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+'police' is a major accuracy/omission error
+'police' is a major accuracy/omission error[SEP_TOKEN_WENDA]'опасностей' и 'опасностях' являются опасностями, и 'опасностях' и 'опасностях' являются опасностями, и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях', и 'опасностях[SEP_TOKEN_WENDA]'в опасностях и опасностей' и 'в опасностях и опасностей' являются опасностями и опасностями, и мне опасностей и опасностей, и мне опасностей и опасностей, и мне опасностей и опасностей, и мне опасностей и опасностей, и мне опасностей и опасностей, и мне опасностей[SEP_TOKEN_WENDA]'plot' is a major accuracy/addition error
+'story' is a major accuracy/addition error
+'group' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Dilokrit Pattavee' is a major accuracy/addition error
+'plot' is a major accuracy/omission error
+'transition' is a minor fluency/register error
+'plot' is a minor fluency/register error[SEP_TOKEN_WENDA]'you' is a major accuracy/addition error
+'these' is a major accuracy/omission error
+'these’ is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'love' is a major accuracy/addition error
+'you' is a major accuracy/addition error
+'he' is a major accuracy/addition error
+'she' is a major accuracy/addition error
+'they' is a major accuracy/addition error
+'we' is a major accuracy/addition error
+'we' is a major accuracy/addition error
+'we' is a major accuracy/addition error
+'we' is a major accuracy/addition error
+'we' is a major accuracy/addition error
+'we' is a major accuracy/[SEP_TOKEN_WENDA]'в мире' и 'в сексуальном мире' являются опасностями, исключая их из истории нежелательным.[SEP_TOKEN_WENDA]"Dilokrit Pattavee" (《Dilokrit Pattavee》) - "Dilokrit Pattavee" (《Dilokrit Pattavee》) - "Dilokrit Pattavee" (《Dilokrit Pattavee》) - "Dilokrit Pattavee" (《Dilokrit Pattavee》) - "Dilokrit Pattavee" (《Dilokrit Pattavee》) - "Dilokrit Pattavee" (《D[SEP_TOKEN_WENDA]'недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и недостоверствие и не[SEP_TOKEN_WENDA]'hand’' is a major accuracy/addition error
+'electronic' is a major accuracy/omission error
+'hand’' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'difficulty' is a major accuracy/omission error
+'additional' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Encoder: 2' is a major accuracy/addition error
+'fizzbuzz' is a minor fluency/register error
+'no-error' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'oпасностей и опасностей' is a major accuracy/omission error
+'опасностей и опасностей' is a minor terminology/inappropriate for context error
+'опасностей и опасностей' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dimension' is a major accuracy/omission error
+'faulty' is a minor accuracy/omission error[SEP_TOKEN_WENDA]
