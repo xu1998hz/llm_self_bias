@@ -1,0 +1,298 @@
+'tí' is a minor accuracy/omission error
+'ti' is a minor accuracy/omission error
+'ayabẹ́tìsì' is a minor terminology/inappropriate for context error
+'fikún' is a minor style/awkwards error[SEP_TOKEN_WENDA]'renowned' is a minor style/awkward error
+'tactics' is a minor terminology/inappropriate for context error
+'the Department of Defense's' is a major accuracy/omission error
+'Canada' is a minor fluency/register error[SEP_TOKEN_WENDA]'bóyá' is a major accuracy/mistranslation error
+'sì' is a minor fluency/grammar error
+'wúlò' is a minor fluency/grammar error
+'Type 1' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Swedin' is a critical accuracy/omission error
+'BobDylan' is a major accuracy/mistranslation error
+'bíborí' is a minor style/spelling error[SEP_TOKEN_WENDA]'Daniusi' is a major accuracy/omission error
+'Nisin' is a major accuracy/mistranslation error
+'mo ti meeli' is a minor accuracy/omission error
+'ranse' is a minor accuracy/mistranslation error
+'de ti pe si' is a minor accuracy/mistranslation error
+'awon ajo sise' is a minor accuracy/omission error
+'timo timo' is a minor fluency/register error
+'re' is a minor fluency/punctuation error
+'won de fun[SEP_TOKEN_WENDA]'iléeṣẹ́' is a major accuracy/omission error
+'ní' is a minor fluency/grammar error
+'iṣẹ́' is a minor fluency/grammar error
+'sókè' is a minor fluency/register error
+'látinú' is a minor terminology/inappropriate for context error
+'gáràjì' is a minor fluency/register error[SEP_TOKEN_WENDA]'ilekun' is a major accuracy/mistranslation error
+'wi' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'sọ pé ọjà' is a major accuracy/omission error
+'lọ sókè' is a major accuracy/omission error
+'lẹ́yìn' is a minor terminology/inappropriate for context error
+'ti òun hàn nínú' is a minor accuracy/mistranslation error
+'eré' is a minor fluency/grammar error
+'Shark Tank' is a minor non-translation/other error[SEP_TOKEN_WENDA]'Ni' is a major accuracy/omission error
+'eba' is a major accuracy/omission error
+'ipari' is a major accuracy/omission error
+'Siminoff' is a major accuracy/mistranslation error
+'han' is a minor fluency/grammar error
+'lori' is a minor fluency/grammar error
+'itakun' is a minor fluency/grammar error
+'mohun' is a minor fluency/grammar error
+'maworan' is a minor fluency/grammar error
+'[SEP_TOKEN_WENDA]'Ise Nla ADT' is a major accuracy/omission error
+'residence' is a minor style/awkward error[SEP_TOKEN_WENDA]'Yoruba' is a minor accuracy/omission error
+'proverbs' is a minor accuracy/inconsistent use error
+'convey' is a minor fluency/register error
+'wisdom and advice' is a minor style/awkward error[SEP_TOKEN_WENDA]'Apakòkòrò' is a major accuracy/mistranslation error
+'kan' is a major accuracy/omission error
+'ti tẹ́lẹ́' is a minor fluency/grammar error
+'dènà' is a minor fluency/register error
+'ikú' is a minor fluency/register error[SEP_TOKEN_WENDA]'gbendeke' is a major accuracy/omission error
+'wé' is a minor fluency/register error
+'ogun' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'D'Tigers' is a minor accuracy/omission error
+'also known as' is a minor style/awkwards error
+'will compete' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'The USOC' is a critical accuracy/omission error
+'a team of experts' is a major accuracy/mistranslation error
+'assist in the investigation' is a major accuracy/mistranslation error
+'accident' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'sàtìlẹyìn' is a major accuracy/omission error
+'tí ó lè tan' is a major accuracy/mistranslation error
+'lórí àsìlò' is a minor terminology/inappropriate for context error
+'pẹ̀lú' is a minor style/awkward error
+'gbígba' is a minor fluency/grammar error
+'tó yẹ' is a minor fluency/register error[SEP_TOKEN_WENDA]'The US and USOC' is a major accuracy/omission error
+'aggressive expansion' is a major accuracy/mistranslation error
+'suppress dissent' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ni gbogbo' is a critical accuracy/omission error
+'Bresinski' is a major accuracy/mistranslation error
+'sise' is a minor fluency/grammar error
+'fun' is a minor fluency/register error
+'Jonsin' is a minor accuracy/spelling error[SEP_TOKEN_WENDA]'Lákòòkò' is a critical accuracy/omission error
+'ó gba' is a major accuracy/untranslated text error
+'lórí' is a minor fluency/grammar error
+'ilẹ̀' is a minor fluency/register error
+'ó jẹ́' is a minor fluency/register error
+'NSA' is a minor terminology/inconsistent use error
+'sí' is a minor fluency/punctuation error
+'1981' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Here's' is a minor style/awkwards error
+'an improved' is a minor style/awkwards error
+'Yoruba' is a minor style/awkwards error
+'translation of' is a minor style/awkwards error
+'the' is a minor accuracy/omission error
+'into' is a minor style/awkwards error
+'English' is a minor style/awkwards error[SEP_TOKEN_WENDA]'Fíìmú' is a major accuracy/mistranslation error
+'sàfihàn' is a major accuracy/omission error
+'gba' is a minor fluency/grammar error
+'yíyàn' is a minor fluency/register error
+'gbogbo' is a minor terminology/inappropriate for context error
+'pàtàkì' is a minor style/awkward error[SEP_TOKEN_WENDA]'Goslini' is a major accuracy/omission error
+'Eléré' is a major accuracy/omission error
+'kọ̀kan' is a minor fluency/grammar error
+'wọn' is a minor fluency/register error[SEP_TOKEN_WENDA]'Awọn' is a major accuracy/omission error
+'ìsọ̀rí' is a major accuracy/mistranslation error
+'Àpohùnpọ̀' is a minor accuracy/untranslated text error
+'àti' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Lionsgate' is a minor accuracy/omission error
+'striving' is a minor accuracy/mistranslation error
+'reconstruct' is a minor fluency/register error[SEP_TOKEN_WENDA]'none other' is a major style/awkward error
+' divisive' is a minor terminology/inappropriate for context error
+'much' is a minor fluency/register error
+'sílẹ̀' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Captain' is a major accuracy/mistranslation error
+'Aare Toki Resep Tayipi Edogani' is a major accuracy/omission error
+'clan' is a minor style/awkward error[SEP_TOKEN_WENDA]'Yúróòpù' is a major accuracy/omission error
+'ipá' is a minor fluency/grammar error
+'padà' is a minor fluency/spelling error
+'wọn' is a minor fluency/register error[SEP_TOKEN_WENDA]'just like birds' is a major accuracy/addition error
+'They found evidence of this in fossils' is a major accuracy/omission error
+'the feathers' structure' is a minor style/awkward error[SEP_TOKEN_WENDA]'sayensi' is a major accuracy/mistranslation error
+'eranko' is a major accuracy/omission error
+'naa' is a minor fluency/grammar error
+'je' is a minor fluency/register error
+'sisi' is a minor terminology/inconsistent use error
+'labe' is a minor style/awkward error[SEP_TOKEN_WENDA]'Wíwá' is a critical accuracy/mistranslation error
+'nán' is a major accuracy/omission error
+'ti' is a minor accuracy/omission error
+'awon' is a minor accuracy/omission error
+'yé' is a minor accuracy/omission error
+'nínú' is a minor accuracy/omission error
+'ẹyẹ' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'such ease' is a minor fluency/awkward error
+'by magic' is a minor style/inappropriate error[SEP_TOKEN_WENDA]'They'VE' is a major accuracy/addition error
+'fossils of dinosaurs' is a minor accuracy/omission error
+'found' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'dinosaur' is a major accuracy/mistranslation error
+'agbàlagbà' is a minor terminology/inappropriate for context error
+'ti ọmọdé' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'southeastern' is a minor accuracy/omission error
+'The city of' is a minor style/awkward error
+'tí ó sì ṣe àwọn tó tó ogún léṣe' is a critical fluency/grammar error[SEP_TOKEN_WENDA]'mọ́kàndínlógún' is a major accuracy/mistranslation error
+'tí' is a minor accuracy/omission error
+'jẹ́' is a minor accuracy/omission error
+'ọlọ́pàá' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'funra' is a major accuracy/omission error
+'ogun' is a major accuracy/mistranslation error
+' flush out' is a minor fluency/idiom error[SEP_TOKEN_WENDA]'Sure' is a minor fluency/register error
+'an improved' is a minor style/awkward error
+'mìíràn' is a major accuracy/omission error[SEP_TOKEN_WENDA]'A' is a minor fluency/grammar error
+'luminositi' is a critical accuracy/mistranslation error
+'papọ̀' is a minor terminology/inappropriate for context error
+'olasma' is a minor fluency/register error
+'wàn' is a minor fluency/register error[SEP_TOKEN_WENDA]'Carl-Gustaf' is a minor accuracy/omission error
+'occurr' is a major accuracy/addition error
+'sẹ́yìn' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Iwasaki' is a major accuracy/mistranslation error
+'wàhálà' is a major accuracy/omission error
+'ní ọ̀pọ̀lọpọ' is a minor fluency/grammar error
+'ìgbà' is a minor style/awkward error[SEP_TOKEN_WENDA]'Sure' is a minor style/awkwards error
+'an improved' is a minor style/awkwards error
+'sì' is a minor terminology/inappropriate for context error
+'India' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'sise' is a major accuracy/omission error
+'igbohun' is a major accuracy/mistranslation error
+'eti' is a minor fluency/grammar error
+'afefe' is a minor fluency/register error[SEP_TOKEN_WENDA]'ibùdó' is a minor terminology/inconsistent use error
+'méjì' is a minor fluency/register error[SEP_TOKEN_WENDA]'about' is a minor accuracy/addition error
+'knows' is a major accuracy/mistranslation error
+'civilian' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'Nígbà' is a major accuracy/mistranslation error
+'tí a bèrè' is a major accuracy/omission error
+'Miller' is a minor accuracy/inconsistent use error
+'sọ' is a minor fluency/register error
+'jù nípa kíkà' is a minor accuracy/mistranslation error
+'Mò ń gbáradìnítorínà' is a minor terminology/inappropriate for context error
+'mi kò gba' is a minor fluency/grammar[SEP_TOKEN_WENDA]'tiraka' is a major accuracy/mistranslation error
+'ohun' is a major accuracy/omission error
+'ń' is a minor fluency/punctuation error
+'farahàn' is a minor terminology/inappropriate for context error
+'bí' is a minor fluency/register error
+'gẹ́gẹ́' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'sàgbékalẹ̀' is a major accuracy/mistranslation error
+'wọ́n' is a major accuracy/omission error
+'ajé' is a minor fluency/grammar error
+'ilẹ̀' is a minor fluency/register error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'Sure' is a minor style/awkward error
+'an improved' is a minor style/awkward error
+'translation of the Yoruba sentence' is a minor style/awkward error
+'agbár' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The Iraqi' is a major accuracy/omission error
+'it will' is a major accuracy/mistranslation error
+'ancient' is a minor style/awkward error
+'Babylon' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The Iraqi' is a major accuracy/omission error
+'hostilities' is a major accuracy/mistranslation error
+'engage' is a minor fluency/register error
+'protesters' is a minor accuracy/inconsistent use error[SEP_TOKEN_WENDA]'orílè-èdè' is a major accuracy/omission error
+'ipinnu' is a minor accuracy/untranslated text error
+'sẹ' is a minor fluency/grammar error
+'Gúngún' is a minor terminology/inappropriate for context error
+'Ìlà-oòrùn' is a minor non-translation/other error[SEP_TOKEN_WENDA]'sì' is a minor accuracy/omission error
+'wọ́n' is a minor accuracy/omission error
+'padà' is a minor accuracy/omission error
+'yí' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Nigerian' is a major accuracy/omission error
+'Boko Haram' is a major accuracy/omission error
+'insurgents' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Aya Aare Arabirin' is a critical accuracy/mistranslation error
+'Kisna' is a major accuracy/omission error
+'ohun fe' is a minor accuracy/omission error
+'ilu' is a minor fluency/register error
+'Bwenos Aresi' is a minor fluency/register error[SEP_TOKEN_WENDA]'the former President' is a major accuracy/omission error
+'corruption' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'not released' is a major accuracy/omission error
+'certain' is a minor accuracy/addition error
+'reckless' is a minor terminology/inappropriate for context error
+'excessive' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The city of Washington' is a major accuracy/omission error
+'700,000' is a major accuracy/addition error
+'people' is a minor style/awkward error[SEP_TOKEN_WENDA]'natural' is a minor style/awkwards error
+'fluent' is a minor style/awkwards error
+'sentence' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'borrowed' is a major accuracy/mistranslation error
+'appropriate' is a minor fluency/register error
+'racks' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'There are' is a minor fluency/register error
+'such as' is a minor fluency/register error
+'opolopo' is a major accuracy/mistranslation error
+'eniyan' is a minor accuracy/omission error[SEP_TOKEN_WENDA]This is not a translation of the given text, but rather a statement that the names in the text have not been translated. Therefore, it is not possible to annotate errors in the translation. However, it is worth noting that the text contains several Yoruba names that are not commonly used in English, and therefore may require additional research or consultation with a Yoruba speaker to accurately translate.[SEP_TOKEN_WENDA]'sì' is a minor fluency/grammar error
+'so' is a minor fluency/grammar error
+'fún' is a minor terminology/inappropriate for context error
+'àgbàlagbà' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'wọlé' is a critical accuracy/mistranslation error
+'pẹ̀lú' is a major accuracy/omission error
+'gbígbá' is a minor fluency/grammar error
+'mẹ́rin' is a minor fluency/register error
+'mẹ́fà' is a minor fluency/register error[SEP_TOKEN_WENDA]'tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀' is a critical accuracy/mistranslation error
+'the upcoming' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'sì' is a minor accuracy/omission error
+'parí' is a minor accuracy/mistranslation error
+'rẹ̀' is a minor fluency/register error[SEP_TOKEN_WENDA]'U.S' is a major accuracy/omission error
+'n je' is a major accuracy/omission error
+'ikerindinlogun' is a major accuracy/mistranslation error
+'nu osu kokanla' is a major accuracy/omission error
+'eyi' is a minor fluency/register error
+'bere' is a minor fluency/register error
+'awoyika' is a minor fluency/register error
+'ilu Asia' is a minor fluency/register error
+'ose' is a minor fluency/register error[SEP_TOKEN_WENDA]'Wongi' is a major accuracy/mistranslation error
+'Sengi' is a major accuracy/omission error
+'kíi' is a minor fluency/grammar error
+'dẹ̀ sọ̀rọ̀' is a minor fluency/register error
+'ìhàlẹ̀' is a minor fluency/spelling error
+'pẹ̀lú' is a minor fluency/punctuation error
+'Olórí Singapo Lee Hsien Loongi' is a minor non-[SEP_TOKEN_WENDA]'The foe' is a major accuracy/omission error
+'rapidly' is a major fluency/grammar error
+'capitalize' is a minor style/awkward error[SEP_TOKEN_WENDA]'sustainable' is a minor fluency/register error
+'while also' is a minor fluency/inconsistency error
+'addressing' is a minor accuracy/omission error
+'PMO' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'the group' is a major accuracy/omission error
+'consistently' is a major accuracy/mistranslation error
+'training exercises' is a minor fluency/register error[SEP_TOKEN_WENDA]'ìgbà' is a major accuracy/omission error
+'ìjọba' is a major accuracy/omission error
+'Aṣojú' is a minor terminology/inappropriate for context error
+'bí ètè' is a minor fluency/grammar error
+'tó ń bọ̀' is a minor fluency/register error[SEP_TOKEN_WENDA]'Tasmanian' is a major accuracy/mistranslation error
+'márùndínlógójì' is a minor terminology/inappropriate for context error
+'dọ̀là' is a minor accuracy/omission error
+'sílẹ̀' is a minor style/awkwards error[SEP_TOKEN_WENDA]'Gẹ́gẹ́' is a critical accuracy/omission error
+'tuntun' is a major accuracy/mistranslation error
+'odò' is a minor fluency/grammar error
+'wọ́n' is a minor fluency/register error
+'Pago Pago' is a minor accuracy/untranslated text error
+'Niue' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Tonga' is a major accuracy/omission error
+'not be a burden' is a major accuracy/mistranslation error
+'gbéjáde' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The chain of islands' is a minor accuracy/addition error
+'principal islands' is a minor accuracy/omission error
+'kúrò' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'George W. Bush' is a major accuracy/mistranslation error
+'gba' is a minor fluency/grammar error
+'ìkẹ́de' is a minor fluency/spelling error
+'wọlé' is a minor fluency/register error[SEP_TOKEN_WENDA]'Johanudro' is a major accuracy/mistranslation error
+'Godon' is a major accuracy/omission error
+'skilled hunter' is a minor style/awkward error[SEP_TOKEN_WENDA]'The storm that hit the Atlantic' is a major accuracy/addition error
+'not as strong as other storms in the Atlantic' is a major accuracy/omission error
+'identified' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Ibùdó Ìjì líli' is a critical accuracy/omission error
+'Orílẹ̀' is a critical accuracy/mistranslation error
+'sọ' is a minor fluency/grammar error
+'pé' is a minor fluency/register error
+'ní' is a minor fluency/register error
+'orí' is a minor fluency/register error
+'ilẹ̀' is a minor fluency/register error[SEP_TOKEN_WENDA]'said' is a minor fluency/register error
+'ambushed' is a major accuracy/mistranslation error
+'reconnaissance' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Kesan's mother' is a major accuracy/omission error
+'Katrina' is a major accuracy/mistranslation error
+'three children' is a minor accuracy/addition error
+'alone' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'Here's' is a minor style/awkward error
+'improved' is a minor style/awkward error
+'translation' is a minor style/awkward error[SEP_TOKEN_WENDA]'Alákòóso' is a major accuracy/mistranslation error
+'ti' is a minor accuracy/omission error
+'fi' is a minor accuracy/omission error
+'ipinlẹẹ̀mí' is a minor accuracy/mistranslation error
+'òkàn' is a minor accuracy/mistranslation error
+'lórí' is a minor accuracy/mistranslation error
+'àwọn' is a minor accuracy/omission error
+'ìparẹ́' is a minor accuracy/m[SEP_TOKEN_WENDA]'Wales' is a major accuracy/omission error
+'I have been there several times' is a major accuracy/addition error
+'the food is delicious' is a minor fluency/register error
+'The mountains are high and the rivers are deep' is a minor fluency/awkward error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'Sagirrarius' is a major accuracy/mistranslation error
+'lójú' is a minor accuracy/omission error
+'òrun' is a minor style/awkward error[SEP_TOKEN_WENDA]'Awon' is a major accuracy/mistranslation error
+'iji' is a major accuracy/omission error
+'ohun' is a minor terminology/inappropriate for context error
+'dudu' is a minor style/awkward error[SEP_TOKEN_WENDA]'barred spiral' is a major accuracy/mistranslation error
+'spiral' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the car' is a major accuracy/omission error
+'out of the mud' is a major accuracy/mistranslation error
+'without damaging it' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'sọ' is a minor accuracy/omission error
+'dúdú' is a minor accuracy/mistranslation error
+'tó' is a minor accuracy/omission error
+'wà' is a minor fluency/register error
+'gẹ́gẹ́' is a minor terminology/inappropriate for context error
+'gbedúró' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'affordable' is a minor fluency/register error
+'low-income' is a minor fluency/register error
+'families' is a minor accuracy/omission error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'toní' is a major accuracy/mistranslation error
+'di' is a minor fluency/grammar error
+'ilé' is a minor fluency/register error
+'isẹ' is a minor fluency/register error
+'náà' is a minor fluency/register error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'sàwárí' is a major accuracy/mistranslation error
+'lẹ́kùn' is a major accuracy/omission error
+'South African' is a minor style/awkward error[SEP_TOKEN_WENDA]'I don't know' is a minor fluency/register error
+'what you're saying' is a minor fluency/register error
+'point your finger' is a minor accuracy/mistranslation error
+'someone's face' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Doctor Moli' is a major accuracy/omission error
+'wipe' is a minor fluency/grammar error
+'facing' is a minor fluency/register error
+'trying' is a minor fluency/register error[SEP_TOKEN_WENDA]

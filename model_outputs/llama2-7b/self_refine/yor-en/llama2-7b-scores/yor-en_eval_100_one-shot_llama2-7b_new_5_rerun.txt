@@ -1,0 +1,51 @@
+none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'kán si' is a major accuracy/mistranslation error
+'ò' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ni sikin a o se nkankan' is a critical accuracy/mistranslation error
+'igba yi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'olùdarí' is a critical accuracy/mistranslation error
+'ní iléeṣẹ́' is a major accuracy/omission error
+'tí aago' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'sọ pé' is a critical accuracy/addition error
+'lọ sókè' is a major accuracy/omission error
+'ibi tí' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ipari' is a critical accuracy/omission error
+'han' is a major accuracy/mistranslation error
+'lori' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'sàtìlẹyìn' is a major accuracy/addition error
+'olómìnira' is a major accuracy/omission error
+'ìwádìí' is a minor terminology/inappropriate for context error
+'tí ó lè' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'gebogbo' is a critical accuracy/mistranslation error
+'led by' is a minor fluency/grammar error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'lucky' is a critical accuracy/addition error
+'ilé ìsiṣẹ̀' is a major accuracy/omission error
+'mìíràn' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'oníròyìn' is a critical accuracy/mistranslation error
+'kéde pé àwọn ọmọ ogun' is a major accuracy/omission error
+'sílẹ̀' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Tayipi Edogani' is a minor non-translation error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'tí wọ́n ń pè ní rachis' is a critical accuracy/addition error
+'ṣùgbọ́n ó ní àwọn àbùdá ìyé mìrirán' is a critical accuracy/omission error
+'barbs àti barbules' is a major terminology/inappropriate for context error
+'àwọn aṣèwádìí sọ ohun tó jọ́ wípé rachis ṣeéṣe kí o jẹ́ à[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'nínú' is a critical accuracy/mistranslation error
+'bọ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ajá' is a critical accuracy/mistranslation error
+'elégbọn' is a minor style/awkward error
+'kúrò' is a minor fluency/grammar error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ibùdó' is a critical accuracy/mistranslation error
+'rádíò' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'kankan' is a critical accuracy/mistranslation error
+'ajé' is a minor terminology/inappropriate for context error
+'ilẹ̀' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none are found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'òun' is a critical accuracy/addition error
+'tó ń' is a major accuracy/omission error
+'peléke' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Adewale Akinola' is a critical accuracy/addition error
+'New York' is a minor style/register error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Kisna' is a major accuracy/omission error
+'Bwenos Aresi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'konsafetifu' is a major accuracy/omission error
+'tí' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ò' is a critical accuracy/addition error
+'ò' is a minor style/awkward error
+'ìsìn' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'muttering to himself and talking to himself' is a minor accuracy/mistranslation error
+'àwọn ètò' is a major accuracy/omission error
+'ìgbélárugẹ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'obscenity' is a critical accuracy/addition error
+'FBI warnings' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'sọ̀rọ̀ ní ba' is a critical accuracy/mistranslation error
+'ọ̀rọ̀ ìhàlẹ̀' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'kátàkárà' is a critical accuracy/mistranslation error
+'ilẹ̀' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'bèèrè' is a major accuracy/mistranslation error
+'kí wọ́n' is a major accuracy/omission error
+'àtúnkọ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ìjọba' is a critical accuracy/addition error
+'ìwòsàn' is a major accuracy/omission error
+'Mersey' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Tasmanian' is a critical accuracy/addition error
+'popular Nigerian musician' is a critical accuracy/mistranslation error
+'milíọ́nù' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'wà' is a critical accuracy/addition error
+'títìpa' is a major accuracy/mistranslation error
+'kúrò' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'constantly' is a major fluency/inconsistency error
+'seeking financial gain' is a minor terminology/inappropriate for context error
+'do not consider' is a minor accuracy/omission error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'agbègbè' is a critical accuracy/mistranslation error
+'òpó' is a minor fluency/spelling error
+'mídíà' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'iforoworo' is a critical accuracy/mistranslation error
+'ti' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]

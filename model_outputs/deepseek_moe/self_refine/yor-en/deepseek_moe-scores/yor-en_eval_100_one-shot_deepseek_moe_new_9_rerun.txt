@@ -1,0 +1,295 @@
+'tó ti ní ayabẹ́tìsì̀' is a minor terminology/inappropriate for context error
+'àfik�n' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Dalhousie' is a minor fluency/spelling error
+'Nova Scotia' is a minor fluency/spelling error
+'Canada' is a minor fluency/spelling error
+'where he studied' is a minor fluency/register error
+'at the University of Cape Breton' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'batteries' is a minor terminology/inappropriate for context error
+'àr�n ìtọ ṣ�gá' is a minor terminology/inconsistent use error
+'Type 1' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'No, Sara Danius, you are not the only one who is surprised that the Swedish Academy has awarded the Nobel Prize in Literature to Bob Dylan in 2016' is a critical fluency/inconsistency error
+'ò ti rẹ̀ wọ́n láti kàn si' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'to loyaya' is a minor fluency/register error
+'to loyaya' is a minor fluency/awkwards error
+'igba yi' is a minor fluency/mistranslation error
+'to loyaya' is a minor fluency/omission error[SEP_TOKEN_WENDA]'ẹnu ọ̀nà' is a minor fluency/register error
+'òhun kò' is a minor fluency/spelling error
+'ọ̀nà' is a minor fluency/character encoding error
+'gáràjì' is a minor fluency/phonetic spelling error[SEP_TOKEN_WENDA]'ko ago' is a minor fluency/register error
+'ilekun' is a minor fluency/spelling error
+'O wi' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'eré' is a minor fluency/spelling error
+'aláṣẹ' is a minor terminology/inappropriate for context error
+'ẹbẹ̀rẹ̀' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ara han lori' is a minor fluency/translation error
+'itakun mohun' is a minor fluency/mistranslation error
+'mata' is a minor fluency/spelling error
+'QVC' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ADT' is a minor terminology/inappropriate for context error
+'ọ́n jọ' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'kan' is a minor fluency/spelling error
+'àsìkò' is a minor fluency/register error
+'squadron leader' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ẹ̀kọ́' is a minor fluency/spelling error
+'tó kéré' is a minor fluency/spelling error
+'dènà' is a minor fluency/spelling error
+'ik�' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'gbendeke' is a minor terminology/inappropriate for context error
+'dẹ̀ fi' is a minor fluency/register error
+'wé' is a minor fluency/mispelling error
+'mẹ́ta' is a minor fluency/mispelling error[SEP_TOKEN_WENDA]'ọ̀dìígbà' is a minor terminology/inappropriate for context error
+'gbà á wọlé pe' is a minor fluency/mistranslation error
+'sì' is a minor fluency/spelling error
+'lẹtà ìgbìmọ̀' is a minor fluency/mistranslation error
+'wọ́n sì' is a minor fluency/mistranslation error
+'gbà á' is a minor fluency/mistranslation error
+'wọ[SEP_TOKEN_WENDA]'kuro' is a minor fluency/spelling error
+'during' is a minor fluency/register error
+'families' is a minor fluency/register error[SEP_TOKEN_WENDA]'ọjọ́ pípẹ́' is a minor terminology/inappropriate for context error
+'gbígba' is a minor fluency/mistranslation error
+'àwọn àyípadà' is a minor fluency/mistranslation error
+'tó yẹ' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'àyí tó m�n kí ààbò eré' is a critical fluency/mistranslation error
+'àalá wọn ní àyíká' is a minor fluency/style error
+'tó dára tó sì seégbé' is a minor fluency/register error[SEP_TOKEN_WENDA]'fun' is a minor fluency/register error
+'isakoso' is a minor terminology/inappropriate for context error
+'Bresinski' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọd�n' is a minor fluency/spelling error
+'àpapọ̀' is a minor fluency/spelling error
+'during which time' is a minor fluency/phrasing error[SEP_TOKEN_WENDA]'ilẹ̀ Iran' is a critical accuracy/omission error
+'ọd�n' is a minor fluency/spelling error
+'rapprochement' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'àti' is a minor fluency/spelling error
+'gba' is a minor fluency/punctuation error
+'éka pàtàkì' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ọk�nrin' is a minor terminology/inappropriate for context error
+'ọkè' is a minor fluency/spelling error
+'ọkè' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Àwòrán' is a minor terminology/inappropriate for context error
+'Olùdarí' is a minor terminology/inappropriate for context error
+'Àyàwòrán' is a minor terminology/inappropriate for context error
+'Asàtúntò-Fíìmù' is a minor terminology/inappropriate for context error
+'Apohùnpọ̀' is a minor terminology/inappropriate for context error
+'Akọ̀tà' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'àwọn' is a minor fluency/spelling error
+'àwọn' is a minor fluency/register error
+'mìíràn' is a minor fluency/spelling error
+'lọ' is a minor fluency/register error
+'mẹ́rìndínlọ́gbọ̀n' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọ̀rọ̀' is a minor fluency/spelling error
+'ò sọ' is a minor fluency/spelling error
+'ọmọ' is a minor fluency/spelling error
+'ìl�' is a minor fluency/spelling error
+'sílẹ̀' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Trumpi' is a minor terminology/inappropriate for context error
+'Aare Toki' is a minor terminology/inappropriate for context error
+'Resep' is a minor terminology/inappropriate for context error
+'Edogani' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'identified' is a major accuracy/mistranslation error
+'the cockpit' is a minor fluency/register error
+'the back of the plane' is a minor fluency/style error[SEP_TOKEN_WENDA]'ò kéré j� àwọn' is a major accuracy/omission error
+'tó dáj� tí ó ti tànká' is a minor fluency/mistranslation error
+'ẹk�nrẹ́rẹ́' is a minor terminology/inappropriate for context error
+'àlàyé' is a minor fluency/mistranslation error
+'àti títò lanà mẹt' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'sayensi' is a minor terminology/inappropriate for context error
+'iye' is a minor fluency/spelling error
+'eranko' is a minor fluency/spelling error
+'je' is a minor fluency/spelling error
+'awo' is a minor fluency/spelling error
+'sesnut- burawuni' is a minor fluency/spelling error
+'lori' is a minor fluency/spelling error
+'pelu' is a minor fluency/spelling error
+'awo-karotenoidi labe'[SEP_TOKEN_WENDA]'ìtànkálè' is a minor terminology/inappropriate for context error
+'àwọn' is a minor fluency/spelling error
+'ẹyẹ' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'àwọn' is a minor fluency/spelling error
+'àb�dá' is a minor terminology/inappropriate for context error
+'sọ' is a minor fluency/omission error
+'tí' is a minor fluency/mispelling error
+'kí' is a minor fluency/mispelling error
+'rachis' is a minor fluency/mispelling error
+'àwọn' is a minor fluency/mispelling error
+'àb�dá' is a minor terminology/inappropriate[SEP_TOKEN_WENDA]'àwọn aṣèwádìí da lábàá pé' is a major fluency/mistranslation error
+'kódà èyí jẹ́ ìr� ọmọ dinosaur' is a minor terminology/inappropriate for context error
+'àpẹrẹ rẹ ṣàfihàn ti àgbàlagbà' is a minor fluency/register error[SEP_TOKEN_WENDA]'àpẹrẹ rẹ̀' is a major fluency/mistranslation error
+'àgbàlagbà' is a minor fluency/spelling error
+'ọmọdé' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'Ọmọ Oódua' is a minor terminology/inappropriate for context error
+'Ọmọ Ise' is a minor terminology/inappropriate for context error
+'Gaziantep' is a minor locale convention/uncapitalized error
+'Ọlọ́pàá' is a minor locale convention/uncapitalized error
+'Ọlọ́pàá meji' is a minor locale convention/uncapitalized error
+'Ọlọ́pàá' is a minor locale convention/uncapitalized error[SEP_TOKEN_WENDA]'ọlọ́pàá' is a minor terminology/inappropriate for context error
+'nínú' is a minor fluency/spelling error
+'àwọn' is a minor fluency/register error[SEP_TOKEN_WENDA]'ọmọ' is a minor fluency/spelling error
+'sí' is a minor fluency/character encoding error
+'ọlọ́pa' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'kan naálò ìlànà' is a major fluency/spelling error
+'kan naálò ìlànà' is a major fluency/inconsistency error
+'kan naálò ìlànà' is a major fluency/awkwardness error[SEP_TOKEN_WENDA]'ti o ní' is a minor fluency/mistranslation error
+'Ṣe wàn s' is a minor fluency/mistranslation error
+'olasma' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'bẹ́ẹ̀ náà ni iye' is a minor fluency/spelling error
+'kéré tó' is a minor terminology/inappropriate for context error
+'sí ní ìtọ́ka' is a minor fluency/character encoding error
+'sẹ́yìn agbérin' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'wàhálà' is a minor terminology/inappropriate for context error
+'ìgbà' is a minor fluency/register error[SEP_TOKEN_WENDA]'those who are not familiar' is a major fluency/translation error
+'with the history' is a minor fluency/translation error
+'they are not aware' is a minor fluency/translation error
+'that Tibet is a part of India' is a minor fluency/translation error[SEP_TOKEN_WENDA]'at' is a minor fluency/spelling error
+'si' is a minor fluency/register error
+'et' is a minor fluency/spelling error
+'afefe' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'àti' is a minor fluency/mistranslation error
+'sẹ́yìn' is a minor fluency/mistranslation error
+'pẹ̀l�' is a minor fluency/mistranslation error
+'méjì' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'the device' is a minor terminology/inappropriate for context error
+'the correct data rate' is a minor fluency/register error
+'Mbit/s' is a minor style/spelling error[SEP_TOKEN_WENDA]'Ọmọ méjì' is a minor fluency/spelling error
+'dá Mila' is a minor terminology/inappropriate for context error
+'lọ́r�n' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'sọ pé' is a minor fluency/register error
+'kíkà' is a minor fluency/spelling error
+'ǹkan tí ó sọ' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'per capita' is a minor fluency/spelling error
+'ọ̀n' is a minor locale convention/unclear error
+'gẹ́gẹ́' is a minor fluency/awkward error
+'bí' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'kankan f�n ègé náà' is a minor fluency/character encoding error
+'sọ pé wọ́n yíò se é ní ìbámu àbájáde' is a minor fluency/punctuation error
+'ọrọ̀ ajé ilẹ̀ China' is a minor fluency/register error[SEP_TOKEN_WENDA]'àwọn orílẹ̀èdè' is a minor terminology/inappropriate for context error
+'dàgbà níyànj�' is a minor fluency/mistranslation error
+'láti' is a minor fluency/omission error
+'tó sẹ̀sẹ̀ níyànj�' is a minor fluency/mistranslation error
+'t�n un se bóbá yá' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'síbẹ̀síbẹ̀' is a minor fluency/spelling error
+'kọjá' is a minor terminology/inappropriate for context error
+'ìdàgbàsóké' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ẹgbẹ́ aṣèwádìí' is a minor terminology/inappropriate for context error
+'àbábọ̀ rẹ̀ ní nǹkan' is a minor fluency/inconsistency error
+'òní' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'squadron leader' is a critical accuracy/mistranslation error
+'identified as' is a minor fluency/mistranslation error
+'Squadron Leader Dilokrit Pattavee' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'�bájádẹ bèrè pèl� ìsìpè f�n ìjíròrò gbàngba àti ìgbédìdẹ ìpoh�npọ̀ ní orílè-èdè Améríkà nípa àwọn ípinnu tó ní sẹ pél� �àrin G�ng�n Ìlà-oòr�n.' is a major accuracy/mistranslation error
+'[SEP_TOKEN_WENDA]'ò' is a minor fluency/character encoding error
+'squadron leader' is a minor terminology/inappropriate for context error
+'dilokrit' is a minor terminology/inappropriate for context error
+'pattavee' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọ̀kan lára àwọn àlàkalẹ̀ méjìdínlọ́gọórin ni wípé wọ́n gbọ́dọ̀ gbé ìgbésẹ̀ ìlànà òsèl� kó tó di òpin od�n yìí láti le gba ibodè Iraq tako ìdásí tó le, àti sísàt�ngbékalẹ̀ àjọ[SEP_TOKEN_WENDA]'La Plata' is a minor locale convention/spelling error
+'ilu ti o je' is a minor locale convention/inconsistency error
+'Bwenya' is a minor locale convention/character encoding error
+'Kisna kede' is a minor locale convention/inconsistency error[SEP_TOKEN_WENDA]'kéde èróngbà láti díje dunpò ààrẹ ilé ìseré ìtàgé' is a critical fluency/register error
+'ààrẹ' is a minor locale convention/spelling error
+'ilé ìseré ìtàgé' is a minor locale convention/mispelling error
+'aṣoj� ẹk�n' is a minor locale convention/mispelling error[SEP_TOKEN_WENDA]'àt�nkọ́' is a minor terminology/inappropriate for context error
+'Ọrikénì' is a minor locale convention/unconventional spelling error
+'Ọrikénì' is a minor locale convention/unconventional spelling error
+'Ọrikénì' is a minor locale convention/unconventional spelling error
+'Ọrikénì' is a minor locale convention/unconventional spelling error
+'Ọrikénì' is a minor locale convention/unconventional spelling error
+'Ọrikénì' is a minor locale convention[SEP_TOKEN_WENDA]'àt�nkọ́lé' is a minor terminology/inappropriate for context error
+'f�n' is a minor fluency/spelling error
+'ọmọ' is a minor fluency/spelling error
+'ìl�' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'kọjá èyan' is a minor fluency/spelling error
+'milionu mẹ́rin' is a minor fluency/character encoding error
+'tó lọsí' is a minor fluency/punctuation error
+'Romu f�n ìsìnk�' is a minor fluency/awkwardness error
+'náà' is a minor fluency/register error[SEP_TOKEN_WENDA]'ò péjọ' is a minor terminology/inappropriate for context error
+'tóbẹ́ẹ̀ gẹ́' is a minor fluency/awkward error
+'ènìyàn láti rí' is a minor fluency/awkward error
+'àyè wọlé' is a minor fluency/awkward error
+'ìsìnk�' is a minor fluency/awkward error
+'ilé ìjọsìn' is a minor fluency/awkward error
+'St[SEP_TOKEN_WENDA]'òrọ amóh�nmáwòrán' is a major accuracy/mistranslation error
+'tój� wọn tóbi' is a minor fluency/awkwardness error
+'káàkiri agbègbè' is a minor fluency/awkwardness error
+'ilẹ̀ Roomu' is a minor fluency/awkwardness error
+'kàwọn ènìyàn' is a minor fluency/awkwardness error
+'wo ayẹyẹ'[SEP_TOKEN_WENDA]'opolopo' is a minor terminology/inappropriate for context error
+'eniyan' is a minor fluency/spelling error
+'iru' is a minor fluency/register error[SEP_TOKEN_WENDA]'àríwísí' is a minor fluency/spelling error
+'àtẹ̀yìnwá' is a minor fluency/spelling error
+'àjọ' is a minor fluency/spelling error
+'òtẹlẹ̀m�yé' is a minor fluency/spelling error
+'f�n lílo' is a minor fluency/spelling error
+'ìs�ná' is a minor fluency/spelling error
+'rè lòrì' is a minor fluency[SEP_TOKEN_WENDA]'ò bẹ̀rl' is a minor fluency/character encoding error
+'sí ní kó owó' is a minor fluency/character encoding error
+'sí obcenity initiative' is a minor fluency/character encoding error
+'n\i ọd�n 2005 ó sì so pé' is a minor fluency/character encoding error
+'àwọn FBI nílái fi aṣoj� mẹ́wàá sílẹ̀ f�n fíìm�'[SEP_TOKEN_WENDA]'ọlé' is a minor fluency/spelling error
+'tó' is a minor fluency/punctuation error
+'àádọ́rin' is a minor terminology/inappropriate for context error
+'bí i' is a minor fluency/character encoding error
+'àti mẹ́fà' is a minor fluency/register error[SEP_TOKEN_WENDA]'ọgọ́r�n' is a minor terminology/inappropriate for context error
+'�n' is a minor fluency/spelling error
+'àjọsepọ̀' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'Ṣ�gban' is a minor terminology/inappropriate for context error
+'lẹ́yìn tí' is a minor fluency/character encoding error
+'wọ́n sọ' is a minor fluency/register error
+'sọ' is a minor fluency/spelling error
+'wọ́n sọ' is a minor fluency/register error
+'sọ' is a minor fluency/spelling error
+'tí' is a minor fluency/spelling error
+'wọ́n'[SEP_TOKEN_WENDA]'ojo ikerindinlogun' is a major accuracy/mistranslation error
+'bere awoyika' is a minor fluency/awkwardness error
+'olose kan' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Olórí Singapo Lee Hsien Loongi' is a major terminology/inappropriate for context error
+'ọ̀rọ̀ ìhàlẹ̀ pẹ̀l� Olórí Singapo Lee Hsien Loongi' is a minor fluency/register error
+'Olórí Singapo' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'àdánu' is a minor terminology/inappropriate for context error
+'ọ̀sẹ̀' is a minor fluency/spelling error
+'àkójọpọ̀' is a minor fluency/inconsistency error
+'èro rẹ̀' is a minor fluency/inconsistency error
+'nípa sísàm�ngbòrò' is a minor fluency/inconsistency error
+'kátàkárà' is a minor fluency/inconsistency error
+'ní ilẹ[SEP_TOKEN_WENDA]'adari' is a minor fluency/register error
+'ijọba' is a minor fluency/mistranslation error
+'lọyin' is a minor fluency/mistranslation error
+'ipade' is a minor fluency/mistranslation error
+'ọjọ' is a minor fluency/mistranslation error
+'iṣẹgun' is a minor fluency/mistranslation error
+'onipade' is a minor fluency/mistranslation error
+'ọmọ[SEP_TOKEN_WENDA]'àbádòfin' is a minor terminology/inappropriate for context error
+'àyíká' is a minor fluency/register error
+'s' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ìgbà tí ìjọba' is a minor fluency/mistranslation error
+'ìsúná ilé ìwòsàn' is a minor fluency/mistranslation error
+'ìjọbá àpapọ̀ ti bu ẹnu àtẹ́ lu ìgbésẹ̀ yìí gẹ́gẹ́ bí ètè' is a minor fluency/mistranslation error
+'tí[SEP_TOKEN_WENDA]'àwọn ohun èlò' is a minor fluency/register error
+'àfi wò' is a minor fluency/spelling error
+'dọ́là sílẹ̀' is a minor fluency/awkward[SEP_TOKEN_WENDA]'tuntun' is a minor fluency/spelling error
+'ìpelé odò' is a minor fluency/register error
+'wọ́n' is a minor fluency/mispelling error
+'tòsí' is a minor fluency/mispelling error
+'Niue' is a minor fluency/mispelling error[SEP_TOKEN_WENDA]'in Tonga' is a minor fluency/locale convention error
+'aláṣẹ Tonga' is a minor fluency/locale convention error
+'gbéjáde' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'tó wà ní tàbí tó wà ní ẹ̀gbẹ́' is a critical accuracy/mistranslation error
+'ọjọ́r� pẹ̀l� bí wọ́n' is a minor fluency/spelling error
+'ṣe yọ ìkìlọ̀ k�rò' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'Améríkà' is a minor terminology/inappropriate for context error
+'gba ìkẹ́de' is a minor fluency/mistranslation error
+'náà wọlé' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a minor fluency/spelling error
+'ọ̀sì' is a[SEP_TOKEN_WENDA]'lónìí' is a minor fluency/spelling error
+'Atlantic lónìí' is a minor style/awkward error[SEP_TOKEN_WENDA]'sọ pé ní àsìkò' is a minor fluency/spelling error
+'ní orí ilẹ̀' is a minor fluency/register error
+'ǹkan kan' is a minor fluency/mispelling error[SEP_TOKEN_WENDA]'ẹgbẹ́ ológun' is a critical fluency/spelling error
+'ọ̀n' is a minor fluency/character encoding error
+'ẹ̀kọ̀ bá rọ' is a minor fluency/inconsistency error
+'ìwọ̀n íǹṣì mẹ́fà péré' is a minor fluency/awkwardness error
+'dí oj� ihò' is a minor fluency/register error
+'ẹ̀kọ̀ bá rọ'[SEP_TOKEN_WENDA]'tó ní ìrírí ẹ̀k�nwọ́ tó ga tó ìwọ̀n bàtà og�n nín� ìjì líle Katrina' is a major fluency/mistranslation error
+'lọ́wọ́ lọ́wọ́ ti máa ní gíga tó ègbé ik�n bí ìdarí omi tó s�n mọ́tí di bíbò mọ́l[SEP_TOKEN_WENDA]'níapákan' is a minor terminology/inappropriate for context error
+'ọgọ́r�n' is a minor terminology/inappropriate for context error
+'�n' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọkàn hàn' is a minor terminology/inappropriate for context error
+'àwọn' is a minor terminology/inappropriate for context error
+'lóṣ� tó kọjá' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'òun gbọ́ wa títí di bí ó se pa iṣẹ́ ọnà rẹ́' is a major fluency/mistranslation error
+'I have never seen anything like this' is a minor fluency/awkwardness error
+'I think it's a very special place' is a minor fluency/style error[SEP_TOKEN_WENDA]'kọ ìlànà tó ní' is a minor fluency/spelling error
+'àlejò tó mílíọ́n� mídíà gbangba' is a minor fluency/awkwardness error
+'gbangba' is a minor fluency/register error[SEP_TOKEN_WENDA]'s�gbón' is a minor terminology/inappropriate for context error
+'òrun' is a minor fluency/spelling error
+'àkíyèsí' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'agbara' is a minor terminology/inappropriate for context error
+'omi' is a minor fluency/spelling error
+'lo le ko' is a minor fluency/awkwardness error
+'nkan' is a minor fluency/mispelling error
+'ona' is a minor fluency/mispelling error
+'milik' is a minor fluency/mispelling error[SEP_TOKEN_WENDA]'ṣe maá n’ ṣe pẹ̀lú' is a critical fluency/register error
+'bẹ̀ni' is a minor terminology/inappropriate for context error
+'ó gún' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ṣe' is a minor fluency/spelling error
+'latí' is a minor fluency/spelling error
+'ma' is a minor fluency/spelling error
+'ràn' is a minor fluency/spelling error
+'án' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'àwọn' is a minor fluency/spelling error
+'gbed�ró' is a minor terminology/inappropriate for context error
+'kékèké' is a minor fluency/phonetic spelling error[SEP_TOKEN_WENDA]'amohunmaworan' is a minor terminology/inappropriate for context error
+'or' is a minor fluency/register error
+'jade' is a minor terminology/spelling error
+'koriko' is a minor locale convention/phonetic error
+'in' is a minor fluency/register error[SEP_TOKEN_WENDA]'ẹ̀rọ' is a minor fluency/spelling error
+'sì m�' is a minor fluency/mistranslation error
+'kí' is a minor fluency/mistranslation error
+'ẹ̀rọ' is a minor fluency/mistranslation error
+'am�nlétut�' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'kẹ́míkà' is a minor terminology/inappropriate for context error
+'tóní' is a minor fluency/spelling error
+'àwárí' is a minor fluency/punctuation error
+'náà' is a minor fluency/register error[SEP_TOKEN_WENDA]'di epo' is a minor fluency/spelling error
+'awon kolo' is a minor terminology/inappropriate for context error
+'to take away' is a minor fluency/register error[SEP_TOKEN_WENDA]'lẹ́k�n' is a minor locale convention/untranslated text error
+'South African' is a minor locale convention/untranslated text error[SEP_TOKEN_WENDA]'kan' is a minor fluency/spelling error
+'o wi' is a minor fluency/register error
+'n “danilamu pupo' is a minor fluency/awkwardness error
+'o ga' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'kan leti fara' is a major accuracy/mistranslation error
+'osise eleto' is a minor fluency/spelling error
+'ile-iwosan' is a minor locale convention/name format error[SEP_TOKEN_WENDA]
