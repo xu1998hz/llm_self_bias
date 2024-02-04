@@ -3,12 +3,12 @@
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=20
 #SBATCH --mem=128GB
-#SBATCH --gpus=3
-#SBATCH --time=10:00:00
+#SBATCH --gpus=4
+#SBATCH --time=24:00:00
 #SBATCH --account=guangleizhu
 #SBATCH --partition=taurus
-#SBATCH --output=/home/guangleizhu/reproduce_pinpoint/slurm_out/ft_mistral.out
-#SBATCH --error=/home/guangleizhu/reproduce_pinpoint/slurm_out/ft_mistral_error.out
+#SBATCH --output=/home/guangleizhu/peril_self_improve/slurm/ft_mistral_eft.out
+#SBATCH --error=/home/guangleizhu/peril_self_improve/slurm/ft_mistral_eft_error.out
 
 source ~/.bashrc
 # module purge
@@ -27,5 +27,5 @@ nvidia-smi
 
 # cd ../finetune
 
-deepspeed --num_gpus 3 finetune_mistral.py --run_name mistral_ft_test
+deepspeed --num_gpus 4 finetune_mistral_eft.py --run_name mistral_eft
 # deepspeed --num_gpus 4 finetune_llama.py --lang en-de
