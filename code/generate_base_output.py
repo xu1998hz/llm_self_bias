@@ -23,7 +23,7 @@ name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'll
              'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca", "llama2-70b": 'meta-llama/Llama-2-70b-chat-hf', \
              "llama2-13b": 'meta-llama/Llama-2-13b-chat-hf', "ift": "/mnt/taurus/home/guangleizhu/reproduce_pinpoint/finetune/ft_out/mistral_ft_test/checkpoint-66",\
              "eft": "/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/mistral_eft/checkpoint-156", 'mistral-inst1': 'mistralai/Mistral-7B-Instruct-v0.1'}
-             
+
 @backoff.on_exception(backoff.expo, RateLimitError)
 def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_type):
     response = client.chat.completions.create(
@@ -192,7 +192,7 @@ def main(lang_dir, api_source, model_type, task_type, save_name):
             if model_type == "mistral_moe":
                 response = response.replace(prompt_txt, '').split('\n\n')[0].strip()
             else:
-                response = response.split('### Instruction:')[4].split("### English:")[1].split("\n\n")[0].strip()
+                response = response.split('### Instruction:')[4].split(f"### {tgt_lang}:")[1].split("\n\n")[0].strip()
         else:
             print("API source is not supported!")
             exit(1)

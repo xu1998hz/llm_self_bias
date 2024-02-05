@@ -1,7 +1,7 @@
-model_name="eft" # "gemini" # 
+model_name="mistral-inst1" # "gemini" # 
 api_source="transformers" # "google" # 
-lang="zh-en"
-device_id="2"
+lang="en-de"
+device_id="5"
 
 mkdir model_outputs/${model_name}
 mkdir model_outputs/${model_name}/self_refine/

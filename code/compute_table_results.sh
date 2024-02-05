@@ -1,11 +1,12 @@
-lang="zh-en"
-eval_name="mistral"
+lang="en-de"
+eval_name="mistral-7b-base"
 model_name="${eval_name}"
+device_id="4"
 
 for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
 do 
     # first compute all bleurt scores on translaiton outputs
-    CUDA_VISIBLE_DEVICES=2 python3 code/eval_bleurt.py -lang_dir "${lang}" \
+    CUDA_VISIBLE_DEVICES="${device_id}" python3 code/eval_bleurt.py -lang_dir "${lang}" \
     -file_name "model_outputs/${model_name}/self_refine/${lang}/${model_name}-outputs/${lang}_refinement_100_${model_name}_new_${iteration}_rerun.txt" \
     -save_name "model_outputs/${model_name}/self_refine/${lang}/bleurt-raw/${lang}_refinement_100_${eval_name}_new_${iteration}_rerun_bleurt.txt"
 

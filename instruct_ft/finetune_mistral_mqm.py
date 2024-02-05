@@ -197,8 +197,8 @@ print(raw_dataset[:1])
 
 
 # model_name = 'baffo32/decapoda-research-llama-7B-hf'
-model_name = 'mistralai/Mistral-7B-v0.1'
-weight_path = '/mnt/taurus/home/guangleizhu/reproduce_pinpoint/finetune/ft_out/mistral_ft_test/checkpoint-266'
+model_name = 'mistralai/Mistral-7B-Instruct-v0.1'
+weight_path = model_name #'/mnt/taurus/home/guangleizhu/reproduce_pinpoint/finetune/ft_out/mistral_ft_test/checkpoint-266'
 
 print(f'using weight path: {weight_path}')
 

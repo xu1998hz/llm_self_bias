@@ -9,7 +9,7 @@ import click
 def main(file_name, lang_dir, save_name):
     scorer = score.BleurtScorer("BLEURT-20")
     ref_lines = open(
-        f"/mnt/data3/wendaxu/peril_self_improve/refs/{lang_dir}_ref_100.txt", "r"
+        f"refs/{lang_dir}_ref_100.txt", "r"
     ).readlines()
     ref_lines = [ele[:-1] for ele in ref_lines]
 
