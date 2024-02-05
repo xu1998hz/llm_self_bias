@@ -1,0 +1,211 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'还要多久' is a minor accuracy/omission error
+'会准备好' is a minor accuracy/omission error
+'可不可以' is a minor fluency/inconsistency error
+'帮我问下' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'唱主角' is a major accuracy/mistranslation error
+'研究成果让人脑洞大开' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ha口气' is a major accuracy/mistranslation error
+'精确搜寻' is a major accuracy/omission error
+'来源' is a major accuracy/omission error
+'昨天晚上' is a major accuracy/omission error
+'在浙江大学2016年学术年会开幕式上' is a major accuracy/omission error
+'一系列脑洞大开的学术成果' is a major accuracy/mistranslation error
+'获得表彰' is a major[SEP_TOKEN_WENDA]'these researchers' is a major accuracy/omission error
+'research' is a major accuracy/omission error
+'covered' is a major accuracy/omission error
+'these projects' is a major accuracy/omission error
+'their research' is a major accuracy/omission error
+'these researchers' is a major accuracy/omission error
+'research' is a major accuracy/omission error
+'covered' is a major accuracy/omission error
+'these projects' is a major accuracy/omission error
+'their research' is[SEP_TOKEN_WENDA]'生物传感器' is a major accuracy/mistranslation error
+'你的家庭体检医生' is a major accuracy/omission error[SEP_TOKEN_WENDA]'present show' is a minor fluency/grammar error
+'team' is a minor fluency/register error
+'the exhibition' is a minor fluency/register error
+'which is only half the size of a smartphone' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"You just need to take a deep breath" is a major fluency/grammar error
+"this device" is a minor fluency/grammar error
+"can detect" is a minor fluency/grammar error
+"your body's health status" is a major accuracy/mistranslation error
+"from the gases you exhale" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'zhang di ming' is a major accuracy/omission error
+'this suite' is a major accuracy/omission error
+'with' is a minor fluency/inconsistency error
+'health report' is a major accuracy/mistranslation error
+'will' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'check detect' is a minor fluency/grammar error
+'the market' is a minor accuracy/omission error
+'able' is a minor accuracy/mistranslation error
+'check' is a minor fluency/grammar error
+'the market' is a minor accuracy/omission error
+'the market' is a minor accuracy/omission error
+'the market' is a minor accuracy/omission error
+'the market' is a minor accuracy/omission error
+'the market' is a minor accuracy/omission error
+'the market' is a minor accuracy/[SEP_TOKEN_WENDA]'this suite' is a major accuracy/omission error
+'runs' is a minor fluency/grammar error
+'target' is a minor accuracy/omission error
+'sensitive' is a minor fluency/grammar error
+'嗅觉' is a major accuracy/mistranslation error
+'body' is a major accuracy/omission error
+'health' is a major accuracy/omission error
+'status' is a major accuracy/omission error[SEP_TOKEN_WENDA]'智能手术灯' is a major accuracy/mistranslation error
+'医生的高能眼睛' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'传统手术灯的缺陷中' is a major accuracy/omission error
+'智能LED手术无影灯' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Many diseases are not detected early enough, and the lamps used in the surgery room are related to them." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'比如' is a major fluency/inconsistency error
+'癌症早期检查时' is a major accuracy/omission error
+'医生如果不能及时看清所有肿瘤组织' is a major accuracy/omission error
+'之后癌细胞还会扩散' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'light spectrum' is a major accuracy/mistranslation error
+'increase' is a minor fluency/grammar error
+'not different' is a minor fluency/grammar error
+'degree' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'智能手术灯' is a major accuracy/addition error
+'已经在' is a major accuracy/addition error
+'得到较好的反馈' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'去年十月' is a major accuracy/locale convention error
+'这项发明' is a minor accuracy/omission error
+'获得国家挑战杯一等奖' is a major accuracy/terminology/inappropriate for context error[SEP_TOKEN_WENDA]"using air to wash hands" is a major accuracy/mistranslation error
+"saving water and killing bacteria" is a major accuracy/addition error[SEP_TOKEN_WENDA]"空气洗手装置" is a major accuracy/mistranslation error
+"发明了一套" is a major accuracy/mistranslation error
+"空气洗手装置" is a major accuracy/mistranslation error
+"装置" is a major accuracy/mistranslation error
+"空气洗手装置" is a major accuracy/mistranslation error
+"空气洗手装置" is a major accuracy/mistranslation error
+"空气洗手装置" is[SEP_TOKEN_WENDA]'the washing sink' is a major accuracy/omission error
+'we can compress the air with our weight' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the water dragon's head' is a major accuracy/omission error
+'and' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'通过这种方法洗手的效果' is a major accuracy/addition error
+'和普通的洗手方法是一样的' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the entire process' is a major accuracy/omission error
+'completely' is a minor fluency/grammar error
+'节能环保' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the second plenary summit' is a major accuracy/omission error
+'this invention' is a major accuracy/omission error
+'emerged' is a minor fluency/grammar error
+'unique' is a minor fluency/grammar error
+'gold award' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the order' is a major accuracy/omission error
+'the money' is a major accuracy/omission error
+'not the points' is a major accuracy/omission error
+'You will not use #PRS_ORG# again!' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'PRS_ORG#' is a major non-translation error[SEP_TOKEN_WENDA]"cancel order" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"I bought it" is a non-translation error
+"but I wrote the wrong address" is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'among' is a minor accuracy/omission error
+'very important' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'rescue' is a major accuracy/mistranslation error
+'the car' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the process of arriving at the scene of an accident after the rescue car came' is a major accuracy/omission error
+'actually' is a minor fluency/inconsistency error
+'the most critical' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"that means" is a major accuracy/mistranslation error
+"four golden minutes" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'专业的知识' is a major accuracy/addition error
+'进行抢救' is a major accuracy/mistranslation error
+'而不是' is a minor fluency/inconsistency error
+'傻傻地' is a minor fluency/register error
+'这种无助的感觉太让人感到可怕了' is a major accuracy/omission error[SEP_TOKEN_WENDA]"the most dangerous is heart attack" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'平均15%' is a major accuracy/omission error[SEP_TOKEN_WENDA]"百分之七八十" is a major accuracy/mistranslation error
+"上海、北京低于1%" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the heart attack' is a major accuracy/mistranslation error
+'the heart attack' is a major accuracy/omission error
+'the heart attack' is a major accuracy/omission error
+'the heart attack' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'urgency' is a major accuracy/omission error
+'the time' is a minor fluency/grammar error
+'the time' is a minor fluency/punctuation error
+'the time' is a minor fluency/register error
+'urgency' is a minor fluency/register error
+'urgency' is a minor fluency/spelling error
+'urgency' is a minor fluency/style error
+'urgency' is a minor fluency/terminology error
+'urgency'[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'the Red Cross' is a major accuracy/omission error
+'training center' is a major accuracy/omission error
+'in your local area' is a major accuracy/omission error
+'the Red Cross' is a major accuracy/omission error
+'the Red Cross' is a major accuracy/omission error
+'the Red Cross' is a major accuracy/omission error
+'the Red Cross' is a major accuracy/omission error
+'the Red Cross' is a major accuracy/omission error
+'[SEP_TOKEN_WENDA]'PS' is a non-translation error
+'urguency' is a major accuracy/mistranslation error
+'the rescue certificate' is a major accuracy/omission error
+'completed' is a minor fluency/register error[SEP_TOKEN_WENDA]'the other wanting to take' is a major accuracy/omission error
+'the other' is a minor fluency/register error
+'the other' is a minor fluency/inconsistency error
+'the other' is a minor fluency/punctuation error
+'the other' is a minor fluency/spelling error
+'the other' is a minor fluency/character encoding error
+'the other' is a minor fluency/grammar error
+'the other' is a minor fluency/inconsistency error
+'the other' is a minor fluency/[SEP_TOKEN_WENDA]'＃' is a major accuracy/mistranslation error
+'#NUMBER#' is a major accuracy/omission error[SEP_TOKEN_WENDA]"There's a dumpling for 13 yuan?" is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'不写明白' is a major accuracy/mistranslation error
+'#NAME#' is a major accuracy/omission error[SEP_TOKEN_WENDA]'要' is a major accuracy/addition error
+'元' is a major accuracy/addition error[SEP_TOKEN_WENDA]'昨天' is a major accuracy/date error
+'#PRS_ORG#' is a major accuracy/name error
+'漏送餐品' is a major accuracy/mistranslation error
+'这次' is a minor fluency/inconsistency error
+'就一个虾饺给我吃！？' is a major fluency/punctuation error[SEP_TOKEN_WENDA]"因为明明我之前输入 code 时看到是有效的" is a major accuracy/omission error[SEP_TOKEN_WENDA]'result' is a minor accuracy/omission error
+'all angles' is a minor accuracy/omission error
+'烂片' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'is not a good choice for background music either' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"烂片分很多种" is a major accuracy/addition error
+"让你能在电影院里酣然入睡的算一种" is a major accuracy/mistranslation error
+"让你看完后义愤填膺的也算一种" is a major accuracy/mistranslation error
+"《四海》对观众来说就像是峨眉山上的猴子" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'天赋绝伦' is a major accuracy/mistranslation error
+'韩寒真的是' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'this movie' is a minor accuracy/omission error
+'makes people feel uncomfortable' is a minor fluency/grammar error
+'the little brother' is a minor accuracy/omission error
+'windcoat' is a minor accuracy/omission error
+'the back' is a minor accuracy/omission error
+'just like' is a minor accuracy/omission error
+'the windcoat' is a minor accuracy/omission error
+'on the back' is a minor accuracy/omission error
+'the little brother' is a minor accuracy/omission error
+'[SEP_TOKEN_WENDA]'hidden symbol' is a major accuracy/mistranslation error
+'shadow' is a major accuracy/omission error
+'the director' is a major accuracy/omission error
+'their' is a minor fluency/possessive error
+'it' is a minor fluency/pronoun error
+'is' is a minor fluency/verb error
+'just' is a minor fluency/adverb error
+'a pile of shit' is a major accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'first' is a minor fluency/grammar error
+'I'll' is a minor fluency/grammar error
+'explain' is a minor fluency/grammar error
+'some scenes' is a minor fluency/grammar error
+'that I find difficult to understand' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'应该是' is a major accuracy/addition error
+'offset' is a major accuracy/omission error
+'奶奶相依为命' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'奶奶有个愿望' is a major accuracy/omission error
+'剧情' is a major accuracy/omission error
+'邻里中的一个大爷开着小面包车送她去东北看雪' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'面包车' is a major accuracy/omission error
+'从南方到东北看雪' is a major accuracy/omission error
+'？？' is a major fluency/punctuation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the old man' is a major accuracy/omission error
+'didn't have any more words' is a major accuracy/omission error[SEP_TOKEN_WENDA]'开酒店' is a major accuracy/mistranslation error
+'废弃轮船上' is a major accuracy/omission error
+'女主他哥' is a major accuracy/omission error
+'怎么' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'小混混' is a major accuracy/mistranslation error
+'轻轻松松' is a major accuracy/mistranslation error
+'封路' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the truck carrying steel bars' is a major accuracy/addition error
+'stop in the middle of the road' is a major accuracy/omission error
+'four weeks' is a major accuracy/omission error
+'connect' is a minor fluency/inconsistency error
+'card' is a minor fluency/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'小混混飞车党' is a major accuracy/omission error
+'为什么' is a minor fluency/grammar error
+'成为一名辅警' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'面对' is a major accuracy/mistranslation error
+'为啦' is a major accuracy/omission error
+'报警' is a major accuracy/mistranslation error
+'电影里' is a major accuracy/omission error
+'警察还特地问了' is a major accuracy/mistranslation error
+'是否有难处' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'然后强行安排找不到旅馆老板' is a major accuracy/mistranslation error
+'坐在房间门外睡一宿' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the situation' is a major accuracy/omission error
+'pervasive' is a major fluency/inconsistency error
+'the entire film' is a major accuracy/omission error
+'the plot' is a major accuracy/omission error
+'the time' is a minor fluency/register error[SEP_TOKEN_WENDA]'更糟糕的是' is a major fluency/inconsistency error
+'电影的主旨' is a major accuracy/mistranslation error
+'就是一个面目可憎的缝合怪' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'影片开头' is a major accuracy/addition error
+'20多分钟后' is a major accuracy/omission error
+'影片开头' is a major accuracy/addition error
+'影片开头' is a major accuracy/addition error
+'影片开头' is a major accuracy/addition error
+'影片开头' is a major accuracy/addition error
+'影片开头' is a major accuracy/addition error
+'影片开头' is a major accuracy/addition error
+'影片开头'[SEP_TOKEN_WENDA]'对于大部分人来说' is a major accuracy/addition error
+'比如' is a major accuracy/omission error
+'你要想拍摩托车手' is a major accuracy/omission error
+'那就励志＋喜剧然后告诉观众一个有天赋的菜鸟是如何一步步走向成功的' is a major fluency/grammar error[SEP_TOKEN_WENDA]'the story of' is a major accuracy/addition error
+'the love-hate relationship' is a major accuracy/mistranslation error
+'the waitress' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"the role of the new motorcycle played by Jing Zheng in the new motorcycle was burned" is a major accuracy/mistranslation error
+"the brain hole" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the female protagonist' is a major accuracy/omission error
+'表现的' is a major fluency/grammar error
+'就像个5岁小孩' is a major fluency/inconsistency error
+'我真不知道' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'韩寒作为一个赛车手' is a major accuracy/mistranslation error
+'this way' is a minor fluency/inconsistency error
+'the movie' is a minor fluency/inconsistency error
+'why' is a minor fluency/inconsistency error
+'the movie' is a minor fluency/inconsistency error
+'the movie' is a minor fluency/inconsistency error
+'the movie' is a minor fluency/inconsistency error
+'the movie' is a minor flu[SEP_TOKEN_WENDA]'难道是' is a major fluency/inconsistency error
+'是' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]
