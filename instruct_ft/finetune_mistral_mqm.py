@@ -1,5 +1,6 @@
 
 # pip install git+https://github.com/huggingface/transformers transformers-4.28.0.dev0
+# nohup deepspeed --include localhost:0,1,2,3 finetune_mistral_mqm.py --run_name mistral_instruct_mqm_ift > mistral_instruct_mqm_ift.out 2>&1 &
 
 from transformers import LlamaForCausalLM, AutoModelForCausalLM, BitsAndBytesConfig, HfArgumentParser, TrainingArguments, AutoTokenizer
 import torch
@@ -28,7 +29,7 @@ DEFAULT_BOS_TOKEN = "<s>"
 DEFAULT_UNK_TOKEN = "<unk>"
 max_length = 720
 padding_strategy = "left"
-num_epoch = 5
+num_epoch = 1
 
 parser = argparse.ArgumentParser()
 # parser.add_argument("--lang", type=str, help="en-de or zh-en")
@@ -38,8 +39,8 @@ parser.add_argument('--local_rank', type=int, default=-1, help='local rank passe
 args = parser.parse_args()
 
 run_name = args.run_name
-f = f"data/mqm_newstest2021_zh-en_train.json"
-output_dir = f"/mnt/taurus/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/{run_name}" 
+f = f"data/ift_mqm.json"
+output_dir = f"ckpt/{run_name}" 
 # output_dir = f"ckpt/{run_name}" 
 
 class SupervisedDataset(Dataset):
