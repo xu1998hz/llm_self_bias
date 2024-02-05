@@ -1,0 +1,193 @@
+None.[SEP_TOKEN_WENDA]'akọ́ṣẹmọṣẹ́' is a major accuracy/omission error
+'ìmọ̀ ogun ní ilé ẹ̀kọ́ gíga Dalhousie ní Halifax, Nova Scotia àti alága ìpín ti ìṣègùn àti ìmọ̀ síẹ̀nsì ti ẹ̀gbé Ìtọ ṣúggà ti Ará Ìlú Canada sọ pé ìwádìí náà[SEP_TOKEN_WENDA]"ò ṣiyèméjì bóyá àrùn ìtọ ṣúgá lè ní ìwòsàn" is a major accuracy/mistranslation error
+"tí ó sì mọ̀ pé kò wúlò fún àwọn tó bá ní àrùn ìtọ ṣúgá Type 1" is a major accuracy/omission error[SEP_TOKEN_WENDA]"Ní ọjọ́ Ajé" is a major accuracy/omission error
+"Sara Danius" is a major accuracy/omission error
+"akọ̀wé àgbà ti" is a major accuracy/omission error
+"ẹgbẹ́ Nobel fún ìtàn àròsọ ní ilé ẹ̀ka Swedin" is a major accuracy/omission error
+"tí wọ́n kéde ní ètò kan lóri rẹ́dí[SEP_TOKEN_WENDA]"I am not a person who is afraid of anything" is a major accuracy/mistranslation error
+"I am not afraid of the person who is afraid of me" is a major accuracy/mistranslation error
+"I am not afraid of the person who is afraid of me" is a major accuracy/mistranslation error
+"I am not afraid of the person who is afraid of me" is a major accuracy/mistranslation error
+"I am not afraid of the person who is afraid of me" is a major accuracy/mistranslation error
+"I am not afraid[SEP_TOKEN_WENDA]'Tẹ́lẹ́rí' is a major accuracy/omission error
+'olùdarí àgbà iléeṣẹ́ Ring' is a major accuracy/omission error
+'Jamie Siminoff ní iléeṣẹ́ náà bẹ̀rẹ̀ iṣẹ́ nígbà tí aago ẹnu ọònà òhun kò dún sókè látinú ṣọ́ọòbù dé inú g[SEP_TOKEN_WENDA]'ilekun' is a major accuracy/omission error
+'O' is a major accuracy/omission error
+'w.
+```[SEP_TOKEN_WENDA]'Shark Tank' is a major accuracy/omission error
+'lọ sókè lẹ́yìn tí òun hàn nínú eré' is a major accuracy/omission error
+'lọ́dún' is a minor fluency/punctuation error
+'lọ́dún 2013' is a major accuracy/omission error
+'ní ibi tí àwọn aláṣẹ eré ti ṣẹ́ pẹ̀ẹ[SEP_TOKEN_WENDA]'Ni eba ipari odun 2017' is a major accuracy/omission error
+'Siminoff fi ara han lori itakun mohun maworan ti awon ontaja QVC' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Òrùká sì parí ęjọ́ pẹ̀lú ìlé Iṣẹ́ aláàbò tí wọ́n jọ ń figagbága- Ile Iṣẹ́ Nlá ADT.' is a major accuracy/omission error[SEP_TOKEN_WENDA]"If you want to be successful in life, you must be patient and persistent, and always be ready to learn and adapt to new situations." is a no-error.[SEP_TOKEN_WENDA]'ZMapp' is a major accuracy/addition error
+'ṣàfihàn ìlérí ní pápá' is a major accuracy/omission error
+'ṣùgbọ́n àwọn ẹ̀kọ́ ti tẹ́lẹ́ tóka pé o ní àǹfàní tó kéré láti dènà ikú' is a major accuracy/omission error
+'The traditional medicine of the Yoruba people' is a major accuracy/omission error[SEP_TOKEN_WENDA]'ìtọ́wò' is a major accuracy/omission error
+'ìṣàkóso' is a major accuracy/omission error
+'wípé àwọn' is a major accuracy/omission error
+'onímọ̀ sayensi fi ṣe gbendeke wọ́n dẹ̀ fi wé àwọn ogun mẹ́ta ìyóku' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ẹgbẹ́' is a major accuracy/omission error
+'Ajiìjàkadi ilẹ̀ Àmẹ́míkà fọwọ́ sí lẹtà ìgbìmọ̀ Olympics' is a major accuracy/mistranslation error
+'wọ́n sì gbà á wọlé pé Àpapọ̀-Ebi-Olympics nilò láti rí dájú pé wọ́n pèse[SEP_TOKEN_WENDA]"The USOC pilot who was identified as Squadron Leader Dilokrit Pattavee, who also identified the other USOC pilot, who was also identified as Squadron Leader Dilokrit Pattavee, who also identified the other USOC pilot, who was also identified as Squadron Leader Dilokrit Pattavee, who also identified the other USOC pilot, who was also identified as Squadron Leader Dilokrit Pattavee, who also identified the other USOC pilot, who was also identified as Squadron Leader Dilokrit Pattavee, who also identified the other USOC pilot[SEP_TOKEN_WENDA]'Eréje' is a major accuracy/omission error
+'sàtìlẹyìn' is a major accuracy/omission error
+'fún ìwádìí olómìnira tí ó lè tan ìmọ́lẹ̀ lórí àsìlò ìpín ní àwọn tó móríye ìsẹ̀lẹ̀' is a major accuracy/omission error
+'Larry Nassar' is a major accuracy/omission error[SEP_TOKEN_WENDA]'ilẹ̀ USA ati USOC ní àfojúsùn kanáà' is a major accuracy/addition error
+'mún kí ààbò eré ìdárayá ìsangun àtawọn míran wà fáwọn eléréje láti le ma siṣẹ́ tọ àlá wọn ní àyíká tó láàbò, tó dára tó sì seegbé' is a major accuracy/mistranslation[SEP_TOKEN_WENDA]'Ni gbogbo 1960S Bresinski sise fun Johannu F Kenedi gege bi onimoran re' is a major accuracy/omission error
+'o tun sise fun isakoso Lindoni B Jonsin' is a major accuracy/omission error[SEP_TOKEN_WENDA]'òdún 1976' is a major accuracy/addition error
+'òdún 1977' is a major accuracy/addition error
+'òdún 1981' is a major accuracy/addition error
+'òkèrè' is a major accuracy/mistranslation error
+'ààbò àpapọ̀' is a major accuracy/mistranslation error
+'ẹni tó gbapò' is a major accuracy/mistranslation error
+'Henry Kissinger' is a[SEP_TOKEN_WENDA]"ò" is a major accuracy/omission error
+"ran Carter" is a major accuracy/omission error
+"ìparí" is a major accuracy/omission error
+"ìdógo" is a major accuracy/omission error
+"ìyorí" is a major accuracy/omission error
+"ìyorí" is a major accuracy/omission error
+"ìyorí" is a major accuracy/omission error
+"ìyorí" is a major accuracy/omission error
+"ìyorí" is a major accuracy/omission error[SEP_TOKEN_WENDA]"Fíìmú tó sàfihàn Ryan Gosling àti Emma Stone gba yíyàn nì gbogbo éka pàtàkì" is a major accuracy/omission error[SEP_TOKEN_WENDA]'yege' is a major accuracy/omission error
+'fún' is a major accuracy/omission error
+'Ọkùnrin' is a major accuracy/omission error
+'ní kọ̀kan wọn' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'Orin méjì látinú àgbéléwò, ìdánwò (Àwọn òmùgọ̀ tó ń lá àlá)' is a major accuracy/omission error
+'ilé ìsiṣẹ́ Lionsgate ló gba ìyànsípò mẹ́rìndínlọ́gbọ̀n — jú àwọn ilé ìsiṣẹ́ mìíràn lọ.' is a major accuracy/omission error[SEP_TOKEN_WENDA]'ní alẹ́ ọjọ́ àìkú' is a major accuracy/omission error
+'àrẹ oríll èdè Amẹ́ríkà Donald Trump' is a major accuracy/mistranslation error
+'ní ọòrọò rẹ̀ tí ó sọ nípasẹ̀ ọògá oníròyìn' is a major accuracy/omission error
+'kéde pé àwọn ọmọ ogun US ma fi[SEP_TOKEN_WENDA]'Won se ikede naa leyin ti Trumpi ba Aare Toki Resep Tayipi Edogani lori ago.' is a major accuracy/omission error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"ìdábòbò àwọn" is a major accuracy/omission error
+"ìlú wọn" is a major accuracy/omission error
+"ìlú wọn" is a major accuracy/omission error
+"ìlú wọn" is a major accuracy/omission error
+"ìlú wọn" is a major accuracy/omission error
+"ìlú wọn" is a major accuracy/omission error
+"ìlú wọn" is a major accuracy/omission error
+"ìlú w[SEP_TOKEN_WENDA]"The dinosaurs are not in the world, but they are in the world of the ancestors" is a major accuracy/mistranslation error
+"but they are in the world of the ancestors" is a major accuracy/mistranslation error
+"and they are in the world of the ancestors" is a major accuracy/mistranslation error
+"and they are in the world of the ancestors" is a major accuracy/mistranslation error
+"and they are in the world of the ancestors" is a major accuracy/mistranslation error
+"and they are in the world of[SEP_TOKEN_WENDA]'Awon onimo sayensi wipe iye eranko naa je' is a major accuracy/mistranslation error
+'sesnut- burawuni lori pelu awo sisi tabi awo-karotenoidi labe' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Wíwá náà tún fúni lóyẹ sí ìtànkálè ti àwọn ìyé nínú ẹyẹ' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a major accuracy/addition error
+'He was the one who, with his dinosaur, led the team to victory.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"are not afraid of death" is a major accuracy/mistranslation error
+"are not afraid of the dinosaur" is a major accuracy/mistranslation error
+"for they know that death is the end of all things" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee" is a no-error.[SEP_TOKEN_WENDA]"funra" is a major accuracy/omission error
+"ìṣẹ̀lẹ̀" is a major accuracy/omission error
+"na" is a minor fluency/punctuation error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'maà n lo luminositi ati iyipo papọ̀ láti fi mọ onka rosbi irawo' is a major accuracy/omission error
+'ti o ní Ṣe pẹ̀lú bí olasma Ṣe wàn s.' is a major accuracy/omission error[SEP_TOKEN_WENDA]'bá se kéré' is a major accuracy/mistranslation error
+'ní lágbǎrà' is a major accuracy/omission error
+'ìtọ́ka' is a major accuracy/omission error
+'ìdápadà' is a major accuracy/omission error
+'sẹ́yìn agbérin' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ìgbà' is a major accuracy/omission error[SEP_TOKEN_WENDA]'those who are not satisfied with their current situation' is a major accuracy/mistranslation error
+'they will go to the place where they are not satisfied' is a major accuracy/mistranslation error
+'they will go to the place where they are not satisfied' is a major accuracy/mistranslation error
+'they will go to the place where they are not satisfied' is a major accuracy/mistranslation error
+'they will go to the place where they are not satisfied' is a major accuracy/mistranslation error
+'they will go to the place where they[SEP_TOKEN_WENDA]'sise' is a major accuracy/mistranslation error
+'igbohun' is a major accuracy/omission error
+'ati' is a major accuracy/omission error
+'afefe' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ṣe' is a major accuracy/omission error
+'ìgbéyàwó' is a major accuracy/omission error
+'pẹ̀lú' is a major accuracy/omission error
+'Ọmọ méjì o fí bẹ́ẹ̀ dá Mila' is a major accuracy/omission error
+'ti' is a major accuracy/omission error
+'ìtàn náà tan mó, lọ́rùn' is a major accuracy/omission error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]"A ó tiraka láti gé ohun tí ó ń jáde carbon dioxide lóní ìwọ̀n GDP pẹ̀lú àmì tó farahàn bí yíò bá fi di 2020 láti ìpele 2005 gẹ́gẹ́ bí” is a no-error[SEP_TOKEN_WENDA]'kò sàgbékalẹ̀ iye' is a major accuracy/addition error
+'kankan fún ègé náà' is a major accuracy/omission error
+'sọ pé wọ́n yíò se é ní ìbámu àbájáde ọrọ̀ ajé ilẹ̀' is a major accuracy/omission error
+'China' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"I am not a farmer, I am a soldier" is a major accuracy/mistranslation error
+"I am not a farmer, I am a soldier" is a major accuracy/mistranslation error
+"I am not a farmer, I am a soldier" is a major accuracy/mistranslation error
+"I am not a farmer, I am a soldier" is a major accuracy/mistranslation error
+"I am not a farmer, I am a soldier" is a major accuracy/mistranslation error
+"I am not a farmer, I am a soldier" is[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"The Yoruba people are mourning the loss of their son in Iraq." is a no-error.[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]"The Yoruba people are known for their resilience and hard work, and they have been able to adapt to the challenges of life in America." is a no-error.[SEP_TOKEN_WENDA]'Ìjábọ̀' is a major accuracy/omission error
+'náà' is a major accuracy/omission error
+'ǹkan' is a major accuracy/omission error
+'tó le gan' is a major accuracy/omission error
+'ní gbogbo' is a major accuracy/omission error
+'ẹ̀yà' is a major accuracy/omission error
+'ìlànà' is a major accuracy/omission error
+'tuntun' is a major accuracy/omission error
+'ti àwọn ad[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'lori oye ati' is a major accuracy/omission error
+'Aare Arabirin Kristina Fenandesi de Kisna' is a major accuracy/mistranslation error
+'ilu ti o je' is a major fluency/grammar error
+'50 kilometers (31 miles)' is a major locale convention/currency error[SEP_TOKEN_WENDA]'Kirchner, the Argentine president, was identified as the one who killed the Yoruba people in the city of Buenos Aires.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'Ìbániwí tí kò le ti' is a major accuracy/mistranslation error
+'ti agbára àtúnkọ́lé tí fẹ́ gbé iṣẹ́ àtúnkọ́lé fún àwọn ọmọ ìlú Washington' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ó kọjá èyan milionu mẹ́rin tó lọsí Romu fún ìsìnkú náà' is a major accuracy/omission error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"The people who are not satisfied with the way their affairs are being handled should go to St. Peter." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ẹ̀rọ amóhùnmáwòrán' is a major accuracy/omission error
+'tójú wọn' is a minor fluency/register error
+'sàfilọ́lẹ̀' is a minor fluency/register error
+'káàkiri' is a minor fluency/register error
+'agbègbè' is a minor fluency/register error
+'ilẹ̀' is a minor fluency/register error
+'Roomu' is a minor accuracy/omission error
+'l[SEP_TOKEN_WENDA]'Ni ọpọ awọn ilu omiran ni Italy ati ni iyoku agbaye' is a major accuracy/omission error
+'papa julọ ni Poland' is a major accuracy/omission error
+'iru agbekalẹ bayi wa' is a major accuracy/omission error
+'eyi ti opolopo eniyan ri' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'ẹ́' is a major accuracy/omission error
+'n\'i' is a major accuracy/omission error
+'fún fíìmù àgbàlagbà' is a major accuracy/omission error
+'sì' is a major accuracy/omission error
+'n\'i' is a major accuracy/omission error
+'federal' is a major accuracy/mistranslation error
+'n\'i' is a major accuracy/omission error
+'federal' is a major accuracy/mistranslation error
+'n\'i[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'ṣe dáadáa tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ṣùgban lẹ́yìn tí wọ́n sọ' is a major accuracy/omission error
+'wicket' is a major accuracy/omission error
+'nù' is a minor fluency/punctuation error
+'parí rẹ̀' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Olori oorilrede U.S to n je George W. Bush de si ilu Singapore ni aro ojo ikerindinlogun ninu osu kokanla, eyi to fi bere awoyika ilu Asia olose kan.' is a major accuracy/mistranslation error
+'the pilot' is a major accuracy/omission error
+'was taken to Asia' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'identified as' is a major accuracy/addition error
+'the crash of the aircraft of the Prime Minister of Singapore' is a major accuracy/omission error
+'Lee Hsien Loongi' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'kátàkárà ní ilẹ̀ Asia' is a major accuracy/omission error
+'soldier' is a major accuracy/mistranslation error
+'was sent' is a minor fluency/grammar error
+'killed' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the pilot' is a major accuracy/omission error
+'ranṣẹ' is a major accuracy/mistranslation error
+'ki oto di kika' is a major accuracy/mistranslation error
+'fun igba elekeji lọyin ipade ọjọ iṣẹgun oni iṣẹju mẹẹdọgbọn pẹlu adari NDP Jack Layton ni PMO.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Laytoni" is a major accuracy/mistranslation error
+"is a Yoruba name" is a major accuracy/omission error
+"the meaning of Laytoni" is a major accuracy/omission error
+"is" is a minor fluency/grammar error[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a no-error.[SEP_TOKEN_WENDA]'Ṣùgbọ́n Mínísítà àgbà' is a major accuracy/omission error
+'John Howard' is a major accuracy/omission error
+'ti sọ wípé àbá náà wà fún àbò àwọn ohun èlò ilé ìwòsàn náà' is a major accuracy/mistranslation error
+'kí ìjọba Tasmanian má ba à fi wọ́lẹ̀' is a major accuracy/mistranslation error
+'[SEP_TOKEN_WENDA]"The pilot was identified as Squadron Leader Dilokrit Pattavee." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ìpalára tàbí ìjamba púpọ̀jù ní Tonga' is a major accuracy/omission error
+'ìgbà kan' is a minor accuracy/omission error
+'tó mú kí àwọn aláṣẹ Tonga má rí ìkilọ̀ ìjì súnámì tí PWC gbéjáde' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ilé Ìwé Mẹ́rìnlà' is a major accuracy/addition error
+'Hawaii' is a major accuracy/addition error
+'the way they are being treated' is a major accuracy/mistranslation error
+'are calling for change' is a major accuracy/mistranslation error
+'the town of Ilé Ìwé Mẹ́rìnlà' is a major accuracy/omission error
+'in Hawaii' is a major accuracy/addition error
+'the way they are being treated' is[SEP_TOKEN_WENDA]"ìkẹ́de náà wọlé" is a major accuracy/omission error
+"gba" is a minor fluency/character encoding error[SEP_TOKEN_WENDA]"Ẹni tó sọ̀rọò fún Búsì Godoni Johanudro pé ilérí Koria Ariwa ní “ìgbésẹ̀ nlá sọ́na àlébá láti yọ irin ogún nukilia kúrò ní irekusu Koria." is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ìjì lílé kẹwàá ti sáà' is a major accuracy/omission error
+'ni wọ́n sẹ̀dà ní ọòsà Atlantic lónìí' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ibùdó Ìjì líli Orílẹ̀ èdè (NHC)' is a major accuracy/mistranslation error
+'sọ pé ní àsìkò yìí Jerry kò lè ṣe ǹkan kan ní orí ilẹ̀' is a major accuracy/omission error[SEP_TOKEN_WENDA]'identified' is a major accuracy/mistranslation error
+'the pilot and the co-pilot' is a major accuracy/omission error
+'who were killed in the crash' is a major accuracy/omission error
+'will be buried in the same grave' is a major accuracy/omission error
+'and their names will be written on the same stone' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ìpín Kẹ̀sán' is a major accuracy/omission error
+'to ní ìrírí' is a major accuracy/omission error
+'ìrírí' is a major accuracy/omission error
+'ìwọ̀n bàtà ogún nínú ìjì líle Katrina' is a major accuracy/omission error
+'lọ́wọ́ lọ́wọ́ ti máa ní gíga tó ègbé ikùn bí ìdarí omi tó[SEP_TOKEN_WENDA]'Omi ń sàn lórí levee ní apá kan níwọ̀n fífẹ̀ ẹsẹ̀ ọgọ́rùn ún.' is a major accuracy/omission error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Alákòóso tó wọ́pọ̀' is a major accuracy/omission error
+'Adam Cuerden' is a minor accuracy/mistranslation error
+'ti fi ìpinlẹẹ̀mí ọkàn hàn lórí àwọn ìparẹ́ tó wáyé lákòókò tó ń sọ̀rọò ní Wikinews lóṣù tó kọjá' is a major accuracy/omission error[SEP_TOKEN_WENDA]"Ó" is a major accuracy/omission error
+"ìbẹ̀rẹ̀" is a major accuracy/omission error
+"Àkọ́kọ́" is a major accuracy/omission error
+"nípa síseré àfi bí èyí wà fú idí òfin" is a major accuracy/omission error
+"Ìkejì" is a major accuracy/omission error
+"nípa dídíbọ́n pé òun gbọ́ wa títí di bí ó[SEP_TOKEN_WENDA]'Ìkórira agbègbè náà fa agbára láti kọ ìlànà tó ní ṣe pẹ̀lú ìbálòpọ́ fún ojú òpó tó gba àlejò tó mílíọ́nù mídíà gbangba.' is a major accuracy/omission error[SEP_TOKEN_WENDA]'sẹ náà lọ́pọ̀lọpọ̀ jẹ fún ẹ̀kọ́' is a major accuracy/omission error
+'sùgbón kíkọ́ ètò náà jẹ láti sẹ àfiwẹ́ra àkíyèsí tó di sísẹ nípa Sagirrarius lójú òrun' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Awon agbara iji omi lo le ko ipa ti egbe naa n wa laarin ohun dudu galaksi ati nkan dudu Ona Milik' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Gẹ́lẹ́ bí òṣùpá' is a major accuracy/omission error
+'tí yóò sì jẹ́ kí ó gún' is a major accuracy/omission error
+'bẹ́ẹ̀ ni Milky Way ṣe máa ń ṣe pẹ̀lú Sagittarius galaxy.' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The man who is not a soldier is a soldier who is not a soldier." is a no-error.[SEP_TOKEN_WENDA]"The galaxy is a place of peace and prosperity, but it is also a place of danger and uncertainty." is a no-error.[SEP_TOKEN_WENDA]'identified' is a major accuracy/mistranslation error
+'seen' is a major accuracy/mistranslation error
+'inu' is a minor fluency/punctuation error
+'wa' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'ti ń sèkìlọ̀ fáwọn òsìṣẹ́ lágbègbè iléeṣẹ́ láti dúró sílé' is a major accuracy/omission error
+'pa ẹ̀rọ amúnlétutù, kí wọ́n má sì mú omi ẹ̀rọ' is a major accuracy/omission error[SEP_TOKEN_WENDA]'ìbámu' is a major accuracy/omission error
+'pẹ̀lú àjọ ohun àmúsagbàra ti Japan' is a major accuracy/mistranslation error
+'kẹ́míkà tóní ìpalára àti iodine tí di àwárí ní ilé́ isẹ́ náà' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Awon alase ma n daba pe eyi toka si pe awon kolo to n di epo uraniumu ni ni oju ibe le ti be ati pe o n jo.' is a major accuracy/omission error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee.' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'sàwárí' is a major accuracy/mistranslation error
+'ní' is a minor fluency/grammar error
+'KwaZulu-Natal' is a major accuracy/omission error
+'South African' is a major accuracy/omission error[SEP_TOKEN_WENDA]"o wi pe irufe titun naa o n" is a major accuracy/omission error
+"o ga" is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'Dokita Moli ro wipe awon alaisan kan leti fara ko kokoro naa ni ile-iwosan,ati wipe meji lara won je osise eleto ile-iwosan naa.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

@@ -1,0 +1,136 @@
+'处罚' is a major accuracy/mistranslation error
+'he' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'an incident' is a major accuracy/mistranslation error
+'from happening' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'restaurant' is a major accuracy/mistranslation error
+'them' is a major accuracy/omission error
+'for me' is a minor fluency/register error[SEP_TOKEN_WENDA]'The 2019 China International Import Expo (CIIE) will be held in Shanghai from November 5 to 10, 2019.' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'diagnose' is a major accuracy/mistranslation error
+'the source of the fog' is a major accuracy/omission error
+'the opening ceremony' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the 22nd' is a major accuracy/addition error
+'an international football tournament' is a major accuracy/omission error
+'will be held in Qatar' is a major accuracy/addition error
+'from 21 November to 18 December 2022' is a major accuracy/addition error
+'It will be the first World Cup held in the Arab world' is a major accuracy/addition error
+'and the second World Cup' is a major accuracy/addition error[SEP_TOKEN_WENDA]'your family doctor at home' is a major accuracy/inconsistent use error[SEP_TOKEN_WENDA]'the University of Science and Technology of China (USTC)' is a major accuracy/addition error
+'the presence of a specific protein in a sample' is a major accuracy/omission error
+'the University of Science and Technology of China (USTC)' is a major accuracy/omission error[SEP_TOKEN_WENDA]'from you' is a minor accuracy/addition error
+'the air you exhale' is a minor accuracy/mistranslation error
+'give a preliminary assessment of your health status' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'with' is a minor accuracy/addition error
+'the smartphone' is a minor accuracy/omission error
+'the health report' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'health status' is a major accuracy/mistranslation error
+'Smart watches' is a minor accuracy/addition error
+'can' is a minor fluency/grammar error
+'Smart watches' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The company has been in the business of manufacturing and selling high-quality, high-performance, and high-reliability products for more than 20 years.' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'the doctor's high-energy eyes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The company' is a major accuracy/addition error[SEP_TOKEN_WENDA]'will be held' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the 2019-2020 season' is a major accuracy/addition error
+'the National Basketball Association (NBA)' is a minor terminology/inappropriate for context error
+'the National Basketball Association (NBA)' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'the' is a major accuracy/addition error[SEP_TOKEN_WENDA]'all the tumor tissue' is a major accuracy/addition error
+'the cancer cells' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'increase' is a major accuracy/mistranslation error
+'light' is a minor accuracy/addition error
+'light' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the size' is a minor accuracy/addition error
+'the brightness' is a minor accuracy/addition error
+'the spectrum' is a minor accuracy/addition error
+'the color uniformity' is a minor accuracy/addition error
+'the transparency' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Zhejiang University Affiliated Hospitals' is a major accuracy/mistranslation error
+'Zhejiang University Affiliated Children's Hospital' is a major accuracy/mistranslation error
+'and other hospitals' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'last October' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'save water' is a major accuracy/mistranslation error
+'cool' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'air hand washing device' is a major accuracy/mistranslation error
+'device' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'washing machine' is a major accuracy/mistranslation error
+'the air out' is a major accuracy/omission error[SEP_TOKEN_WENDA]'It’s like a blow-up doll.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'and' is a minor accuracy/addition error
+'water tap' is a major accuracy/mistranslation error
+'mixed with water' is a major accuracy/omission error[SEP_TOKEN_WENDA]'啦' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the effect of washing hands by this method is the same as that of ordinary washing hands' is a major accuracy/mistranslation error
+'the effect of washing hands by this method' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'The 2019-2020 season was a season of change for the team. The team had a new head coach, a new general manager, and a new starting quarterback. The team also had a new stadium, which was the first time the team had played in a new stadium since 1997.' is a major accuracy/mistranslation error
+'The 2019-2020 season was a season of change for the team. The team had a new head coach, a new general manager, and a new starting quarterback. The team also had a[SEP_TOKEN_WENDA]'The company has been in the business of manufacturing and selling of industrial equipment for over 20 years.' is a major accuracy/addition error[SEP_TOKEN_WENDA]'as soon as possible' is a minor accuracy/addition error
+'thx' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'do not use' is a major accuracy/mistranslation error
+'I will never use' is a major accuracy/mistranslation error
+'#PRS_ORG#' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'not suitable for children to eat' is a major accuracy/addition error[SEP_TOKEN_WENDA]'as soon as possible' is a major accuracy/addition error[SEP_TOKEN_WENDA]'at the moment' is a major accuracy/addition error
+'thank you' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a major accuracy/addition error[SEP_TOKEN_WENDA]'取消订单' is a major accuracy/addition error[SEP_TOKEN_WENDA]'I bought it' is a minor accuracy/addition error
+'but I wrote the wrong address' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'it' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Or' is a major accuracy/addition error[SEP_TOKEN_WENDA]'I'm sorry' is a major accuracy/addition error[SEP_TOKEN_WENDA]'First Aid Certificate' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'other than' is a major accuracy/mistranslation error
+'driving license' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in humans' is a major accuracy/addition error[SEP_TOKEN_WENDA]'2019-2020' is a major accuracy/addition error
+'2011-2012' is a major accuracy/omission error
+'2011' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'help' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the golden four minutes' is a major accuracy/mistranslation error
+'the window of our life' is a major accuracy/mistranslation error
+'the window' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'around you' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'doing nothing' is a major accuracy/omission error
+'doing nothing' is a major accuracy/mistranslation error
+'doing nothing' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'the' is a major accuracy/addition error[SEP_TOKEN_WENDA]'on average' is a major accuracy/addition error
+'can be saved' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'casinos and hotels' is a major accuracy/addition error
+'it is less than 1%' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the founder of the company' is a major accuracy/addition error
+'the company' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'you can't do anything' is a major accuracy/addition error
+'pinching' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'artificial respiration' is a major accuracy/mistranslation error
+'chest compression' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the 2022 FIFA World Cup' is a major accuracy/addition error
+'an international football tournament' is a major accuracy/addition error
+'is scheduled to take place in Qatar in 2022' is a major accuracy/addition error
+'it will be the first World Cup held in the Arab world' is a major accuracy/addition error
+'and the second in Asia' is a major accuracy/addition error
+'after the 2002 tournament in' is a major accuracy/addition error
+'the 2002 tournament in[SEP_TOKEN_WENDA]'It may even save a life!' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'您可以在您当地的红十字会培训中心报名' is a major accuracy/addition error
+'我在珠海的红十字会培训中心报名' is a major accuracy/omission error
+'学生还有优惠呢' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'PS' is a minor accuracy/addition error
+'the last picture' is a minor accuracy/mistranslation error
+'the goal list' is a minor accuracy/mistranslation error
+'a few months ago' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the 22nd FIFA World Cup' is a major accuracy/addition error
+'an international football tournament' is a major accuracy/addition error
+'is scheduled to take place in Qatar in 2022' is a major accuracy/addition error
+'It will be the first World Cup held in the Arab world and the second in Asia (after' is a major accuracy/addition error[SEP_TOKEN_WENDA]'#NUMBER#' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the NHL' is a major accuracy/addition error[SEP_TOKEN_WENDA]'I have never tried it' is a major accuracy/addition error[SEP_TOKEN_WENDA]'don't' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'the new arena' is a major accuracy/addition error[SEP_TOKEN_WENDA]'22' is a major accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy/addition error
+'2022' is a minor accuracy[SEP_TOKEN_WENDA]'the code I entered before' is a major accuracy/addition error
+'was valid' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'full-spectrum' is a major accuracy/mistranslation error
+'piece of shit' is a major accuracy/mistranslation error
+'from all aspects' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'at least' is a minor accuracy/addition error
+'the music selection' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the 2019-2020 season' is a major accuracy/addition error
+'the National Basketball Association (NBA)' is a minor accuracy/addition error
+'the 74th season' is a minor accuracy/addition error
+'the National Basketball Association (NBA)' is a minor accuracy/addition error
+'the season started on October 22, 2019' is a minor accuracy/addition error
+'with the defending champion Toronto Raptors hosting the New Orleans Pelicans' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the new arena' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The 2019-2020 season was the 100th season of the National Hockey League (NHL). The season began on October 2, 2019, and ended on September 26, 2020.' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'a pile of shit' is a major accuracy/mistranslation error
+'a hidden meaning' is a major accuracy/omission error
+'a pile of shit' is a major fluency/inconsistency error[SEP_TOKEN_WENDA]'First' is a minor accuracy/addition error
+'I will explain' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition[SEP_TOKEN_WENDA]'the plot' is a major accuracy/mistranslation error
+'arranged' is a minor fluency/grammar error
+'to the northeast' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'The 2019-2020 season was the 100th season of the National Hockey League (NHL). The season began on October 2, 2019, and ended on September 29, 2020. The season was the first to be played entirely in the 2010s decade.' is a major accuracy/addition error
+'The 2019-2020 season was the 100th season of the National Hockey League (NHL). The season began on October 2, 201[SEP_TOKEN_WENDA]'He and his father' is a major accuracy/addition error
+'are' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'had no more words' is a major accuracy/addition error[SEP_TOKEN_WENDA]'开酒店' is a major accuracy/addition error
+'营业执照' is a major accuracy/omission error[SEP_TOKEN_WENDA]'小混混' is a major accuracy/addition error
+'轻轻松松' is a major accuracy/addition error
+'封路' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the steel bars' is a major accuracy/addition error
+'the drivers of the trucks around' is a major accuracy/omission error
+'could not find it' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'too obvious' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'a small gangster' is a major accuracy/mistranslation error
+'a police auxiliary' is a major accuracy/mistranslation error
+'a bad credit record' is a major accuracy/mistranslation error
+'a criminal record' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the police' is a major accuracy/mistranslation error
+'asked' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'then arranges to find the hotel manager who is not there' is a major accuracy/addition error
+'and sleeps outside the door of the room for a night' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the entire film' is a major accuracy/addition error
+'the plot' is a major accuracy/omission error
+'I feel painful' is a major fluency/grammar error[SEP_TOKEN_WENDA]'the plot' is a minor accuracy/addition error
+'the worst thing' is a minor accuracy/mistranslation error
+'the movie' is a minor accuracy/omission error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy[SEP_TOKEN_WENDA]'the 74th season' is a major accuracy/addition error
+'of' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'inspire' is a major accuracy/mistranslation error
+'towards' is a major accuracy/mistranslation error
+'step by step' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'you should talk about' is a major accuracy/addition error
+'young man' is a minor accuracy/mistranslation error
+'a waitress' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the normal world' is a major accuracy/mistranslation error
+'at least' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'The 2022 World Cup will be held in Qatar from November 21 to December 18, 2022.' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'some aspects' is a minor accuracy/addition error
+'5岁小孩' is a minor accuracy/mistranslation error
+'I don't know if it's because of the acting or the director's request.' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'his own movies' is a major accuracy/addition error
+'his own movies' is a major accuracy/inconsistent use error
+'his own movies' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'in the Spring Festival' is a major accuracy/mistranslation error
+'give the audience' is a major accuracy/omission error[SEP_TOKEN_WENDA]'with battery box' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The battery box size' is a major accuracy/addition error[SEP_TOKEN_WENDA]

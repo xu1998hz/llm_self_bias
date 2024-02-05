@@ -1,0 +1,33 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Type 1' is a major accuracy/untranslated text error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'who were late for the Olympics' is a minor accuracy/omission error
+'did not participate' is a major accuracy/omission error
+'because they were not yet ready' is a major accuracy/reasoning error
+'community/association' is a major locale convention/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'our youths' is a minor accuracy/untranslated text error
+'those who are not yet 18 years old and have not yet reached the required age' is a major accuracy/omission error
+'those who are still in school' is a major accuracy/omission error
+'should not be distracted from their studies' is a minor fluency/register error[SEP_TOKEN_WENDA]'All records of Bresinski from the 1960s' is a major accuracy/omission error
+'were discovered at' is a minor accuracy/mistranslation error
+'Lindoni B Jonsin's place' is a major locale convention/name error
+'in the possession of' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'According to the NSA' is a minor accuracy/untranslated text error
+'Carter met with the leaders of Etò Àgbáyé' is a major accuracy/mistranslation error
+'the Camp David Accords' is a minor accuracy/omission error
+'disrupted US-China relations' is a major accuracy/mistranslation error
+'the Iranians also drew the Soviets into Afghanistan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Isishe Lionsgate' is a major accuracy/mistranslation error
+'market tax' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the elders in the village' is a minor accuracy/omission error
+'reported' is a minor fluency/punctuation error
+'the situation' is a minor accuracy/untranslated text error
+'and there was no one to mediate between them and the youths' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'and does not have a radio' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Senator Aya Aare Kristina Fenandesi of La Plata' is a major accuracy/inconsistent use error
+'has promised to provide some assistance' is a minor accuracy/non-translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the people of the Italian town and those of Poland' is a major accuracy/omission error
+'as well as some others' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'individuals behind this obscene plan' is a minor accuracy/untranslated text error
+'were arrested' is a minor accuracy/past tense error
+'by the FBI' is a minor accuracy/article error
+'in fiscal year 2005' is a minor accuracy/locale convention error
+'preventing them from harming the elderly' is a minor accuracy/passive voice error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the people of Tonga' is a major accuracy/omission error
+'who were not involved' is a minor accuracy/omission error
+'should not be affected' is a major accuracy/mistranslation error
+'by the PWC decision' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wales [name]' is a major locale convention/name error
+'the situation is getting worse' is a minor accuracy/omission error
+'may lead to a crisis' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'intended to install' is a minor accuracy/mistranslation error
+'but they were taken aback' is a minor fluency/inconsistency error
+'when they discovered' is a minor fluency/punctuation error
+'Sagirrarius, the constellation' is a major accuracy/mistranslation error
+'had already risen in the sky' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'it is not Milky Way that is near Sagittarius galaxy but the market' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]

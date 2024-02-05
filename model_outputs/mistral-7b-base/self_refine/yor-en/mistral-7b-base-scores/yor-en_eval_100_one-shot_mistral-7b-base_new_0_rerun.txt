@@ -1,0 +1,319 @@
+'I am not a thief' is a major accuracy/mistranslation error
+'I am a good man' is a major accuracy/addition error
+'who has been wrongly accused' is a major accuracy/omission error[SEP_TOKEN_WENDA]'a former soldier' is a major accuracy/addition error
+'a member of the Nigerian community' is a major accuracy/addition error
+'a member of the Nigerian community' is a major accuracy/addition error
+'a member of the Nigerian community' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the crew' is a major accuracy/mistranslation error
+'the crew' is a major accuracy/omission error
+'Type 1' is a major accuracy/mistranslation error
+'Type 1' is a major accuracy/omission error[SEP_TOKEN_WENDA]'singer-songwriter' is a major accuracy/addition error
+'poet and painter' is a major accuracy/addition error
+'who is a' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'I have been in a similar situation before' is a major accuracy/addition error
+'I have been in a similar situation before' is a major accuracy/addition error
+'I have been in a similar situation before' is a major accuracy/addition error
+'I have been in a similar situation before' is a major accuracy/addition error
+'I have been in a similar situation before' is a major accuracy/addition error
+'I have been in a similar situation before' is a major accuracy/addition error
+'I have been in a similar situation before' is a major accuracy[SEP_TOKEN_WENDA]'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a major accuracy/addition error
+'the founder of Ring' is a[SEP_TOKEN_WENDA]'it's off' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in 2013' is a major accuracy/addition error
+'the first time' is a major accuracy/addition error
+'a group of investors' is a major accuracy/addition error
+'invested in a company' is a major accuracy/addition error[SEP_TOKEN_WENDA]'In 2017' is a major accuracy/addition error
+'launched' is a major accuracy/mistranslation error
+'a new product' is a major accuracy/omission error
+'called QVC' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'please call' is a major accuracy/addition error
+'the Ise-Nla ADT fire station' is a major accuracy/omission error
+'immediately' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'found to be involved' is a major accuracy/mistranslation error
+'the illegal sale' is a major accuracy/omission error
+'will be severely punished' is a major accuracy/addition error[SEP_TOKEN_WENDA]'has been found' is a major accuracy/mistranslation error
+'to be effective' is a major accuracy/mistranslation error
+'treating' is a major accuracy/mistranslation error
+'Ebola patients' is a major accuracy/mistranslation error
+'Ebola' is a major accuracy/mistranslation error
+'has been found' is a major accuracy/mistranslation error
+'to be effective' is a major accuracy/mistranslation error
+'treating' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The PALM ZMapp vaccine has been shown to be effective in treating Ebola patients.' is a major accuracy/mistranslation error
+'The PALM ZMapp vaccine has been shown to be effective in treating Ebola patients.' is a major accuracy/mistranslation error
+'The PALM ZMapp vaccine has been shown to be effective in treating Ebola patients.' is a major accuracy/mistranslation error
+'The PALM ZMapp vaccine has been shown to be effective in treating Ebola patients.' is a major accuracy/mistr[SEP_TOKEN_WENDA]'the American team' is a major accuracy/addition error
+'will be replaced' is a major accuracy/mistranslation error
+'the Apapo-Ebi-Olympics team' is a major accuracy/omission error
+'which will be selected' is a major accuracy/mistranslation error
+'from the best players in the world' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The USOC has announced that it will be awarding scholarships to outstanding students from public and private schools, and also to students who have excelled in their studies.' is a major accuracy/addition error
+'The USOC has announced that it will be awarding scholarships to outstanding students from public and private schools, and also to students who have excelled in their studies.' is a major accuracy/addition error
+'The USOC has announced that it will be awarding scholarships to outstanding students from public and private schools, and also to students who have excelled in their studies.' is a major accuracy/[SEP_TOKEN_WENDA]'The US Gymnastics team' is a major accuracy/addition error
+'has filed' is a major accuracy/mistranslation error
+'who sexually abused them' is a major accuracy/omission error
+'they are seeking compensation' is a major accuracy/addition error
+'for the physical and emotional damage' is a major accuracy/addition error
+'he caused' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'àyíká' is a major accuracy/mistranslation error
+'àyíká' is a major accuracy/mistranslation error
+'àyíká' is a major accuracy/mistranslation error
+'àyíká' is a major accuracy/mistranslation error
+'àyíká' is a major accuracy/mistranslation error
+'àyíká' is a major accuracy/mistranslation error
+'àyíká' is a major accuracy/mistranslation error
+'à[SEP_TOKEN_WENDA]'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition error
+'were made' is a major accuracy/addition[SEP_TOKEN_WENDA]'he was appointed by Carter as his national security adviser' is a major accuracy/addition error
+'he was later replaced by Zbigniew Brzezinski in 1977 to 1981' is a major accuracy/omission error
+'he was Henry Kissinger' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'in 1978' is a major accuracy/addition error
+'in the 1970s' is a major accuracy/addition error
+'in 1979' is a major accuracy/addition error
+'in 1979' is a major accuracy/addition error[SEP_TOKEN_WENDA]'starring' is a major accuracy/mistranslation error
+'in the movie' is a minor accuracy/addition error
+'La La Land' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the governor and the first lady of Ogun State' is a major accuracy/addition error
+'have been kidnapped' is a major accuracy/mistranslation error
+'have been kidnapped' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Awooraan' is a major accuracy/mistranslation error
+'Oludari' is a major accuracy/mistranslation error
+'Ayaworaan' is a major accuracy/mistranslation error
+'Asaraloge' is a major accuracy/mistranslation error
+'Asatuntofiimu' is a major accuracy/mistranslation error
+'Asatunto ohu' is a major accuracy/mistranslation error
+'Apohunpo' is a major accuracy/mistranslation error
+'Akota'[SEP_TOKEN_WENDA]'the choir' is a major accuracy/omission error
+'the band' is a major accuracy/omission error
+'the late' is a minor accuracy/addition error
+'the first' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the chemical attack' is a major accuracy/mistranslation error
+'on Syria' is a major accuracy/omission error
+'which is a response' is a minor accuracy/addition error
+'the missile strike' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'ba Aare Toki Resep Tayipi Edogani' is a major accuracy/addition error
+'Trump has been accused of being a racist by Aare Toki Resep Tayipi Edogani' is a major accuracy/mistranslation error
+'Trump' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is a major accuracy/addition error
+'ìlú wọn' is[SEP_TOKEN_WENDA]'they were not able to survive' is a major accuracy/addition error
+'they were not able to adapt to the changing environment' is a major accuracy/addition error
+'they were not able to change their diet' is a major accuracy/addition error
+'they were not able to change their appearance' is a major accuracy/addition error[SEP_TOKEN_WENDA]'essential' is a major accuracy/mistranslation error
+'other' is a minor accuracy/addition error
+'plant foods' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the death of the young people' is a major accuracy/mistranslation error
+'the truth about' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a good knife' is a major accuracy/addition error
+'a[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'dinosaur hunters' is a major accuracy/mistranslation error
+'who were looking for dinosaurs' is a major accuracy/omission error
+'found a dinosaur egg instead' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The accident occurred when the plane was flying over Gaziantep, Turkey, and crashed into the ground.' is a major accuracy/addition error
+'The accident occurred when the plane was flying over Gaziantep, Turkey, and crashed into the ground.' is a major accuracy/addition error
+'The accident occurred when the plane was flying over Gaziantep, Turkey, and crashed into the ground.' is a major accuracy/addition error
+'The accident occurred when the plane was flying over Gaziantep, Turkey, and crashed into the ground.' is a major accuracy/addition error
+'The accident occurred[SEP_TOKEN_WENDA]'The Gomina people' is a minor accuracy/inconsistent use error
+'are known' is a minor accuracy/inappropriate for context error
+'for their love of music and dance' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'ìṣẹ̀lẹ̀ ná' is a major accuracy/addition error
+'Daesh (ISIL)' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'the development of the country' is a major accuracy/addition error
+'the people who are in the government' is a major accuracy/addition error
+'the people who are in the government' is a major accuracy/addition error
+'the development of the country' is a major accuracy/addition error
+'the people who are in the government' is a major accuracy/addition error
+'the people who are in the government' is a major accuracy/addition error
+'the development of the country' is a major accuracy/addition error
+'the people who are in the government[SEP_TOKEN_WENDA]'ti o ní Ṣe pẹ̀lú bí olasma Ṣe wàn s.' is a major accuracy/mistranslation error
+'ti o ní Ṣe pẹ̀lú bí olasma Ṣe wàn s.' is a major fluency/grammar error
+'ti o ní Ṣe pẹ̀lú bí olasma Ṣe wàn s.' is a major fluency/punctuation error
+'ti o ní Ṣe pẹ̀lú[SEP_TOKEN_WENDA]'ìdápadà' is a major accuracy/mistranslation error
+'ìtọ́ka' is a major accuracy/omission error
+'ìràwọ̀' is a major accuracy/mistranslation error
+'ìyè' is a major accuracy/mistranslation error
+'ìtọ́ka' is a major accuracy/omission error
+'ìdápadà' is a major accuracy/mistranslation error
+'ìtọ́ka' is a major accuracy/omission error
+'ìdápadà' is a[SEP_TOKEN_WENDA]'ìgbà' is a major accuracy/mistranslation error
+'ìrìnàjò' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'The Tibetan refugees who fled to India' is a major accuracy/addition error
+'they are now in the United States' is a major accuracy/mistranslation error
+'The Tibetan refugees who fled to India' is a major accuracy/omission error[SEP_TOKEN_WENDA]'2.4Ghz ati 5.0Ghz' is a major accuracy/addition error
+'at' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'802.11a, 802.11b àti 802.11g' is a major accuracy/addition error
+'802.11a, 802.11b and 802.11g' is a minor accuracy/addition error
+'802.11a, 802.11b and 802.11g' is a minor accuracy/addition error
+'802.11a, 802.11b and[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'who was a member of the Mila family' is a major accuracy/addition error
+'who was a member of the Mila family' is a major accuracy/addition error
+'who was a member of the Mila family' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The man who was shot' is a major accuracy/addition error
+'Miller said' is a minor accuracy/addition error
+'I didn’t shoot him' is a minor accuracy/mistranslation error
+'I was just trying to scare him' is a minor accuracy/addition error
+'I didn’t mean to kill him' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'We are not going to allow' is a major accuracy/addition error
+'carbon dioxide emissions' is a major accuracy/mistranslation error
+'per capita' is a major accuracy/omission error
+'by more than 2020 levels' is a major accuracy/mistranslation error
+'by 2050' is a major accuracy/omission error
+'he said' is a minor fluency/register error[SEP_TOKEN_WENDA]'The Chinese government' is a major accuracy/mistranslation error
+'has given' is a major accuracy/mistranslation error
+'grant' is a major accuracy/mistranslation error
+'of 100 million yuan' is a major accuracy/mistranslation error
+'to the University of Ibadan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The government' is a major accuracy/mistranslation error
+'has warned' is a major accuracy/omission error
+'prosecuted' is a major accuracy/mistranslation error
+'will be' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'be prepared to work hard' is a major accuracy/addition error
+'be patient' is a major accuracy/addition error
+'be willing to sacrifice your time and energy' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the US-led coalition forces' is a major accuracy/addition error
+'the US-led coalition forces' is a major accuracy/inconsistent use error
+'the US-led coalition forces' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as Squadron Leader Dilokrit Pattavee' is a major accuracy/addition[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'Squadron Leader' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ìjábọ̀ náà jẹ́ ǹkan tó le gan ní gbogbo ẹ̀yà ìlànà tuntun ti àwọn adarí sí ìlú Iraq ó sì sọ pé kí wọ́n yí ọ̀nà padà' is a major accuracy/addition error
+'ìjábọ̀ náà jẹ́ ǹkan tó le gan ní gbogbo ẹ̀yà ìlàn[SEP_TOKEN_WENDA]'the fight against Boko Haram' is a major accuracy/addition error
+'the northeast of the country' is a major accuracy/addition error
+'the country' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the 131st Assembly of the Inter-Parliamentary Union (IPU)' is a major accuracy/addition error
+'the 131st Assembly of the Inter-Parliamentary Union (IPU)' is a major accuracy/addition error
+'the 131st Assembly of the Inter-Parliamentary Union (IPU)' is a major accuracy/addition error
+'the 131st Assembly of the Inter-Parliamentary Union (IPU)' is a major accuracy/addition error
+'the 131st Assembly of the Inter-[SEP_TOKEN_WENDA]'a second term' is a major accuracy/mistranslation error
+'defeating' is a major accuracy/mistranslation error
+'a wide margin' is a major accuracy/mistranslation error
+'defeating' is a major accuracy/mistranslation error
+'a wide margin' is a major accuracy/mistranslation error
+'defeating' is a major accuracy/mistranslation error
+'a wide margin' is a major accuracy/mistranslation error
+'defeating' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error
+'the Yoruba people' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the delegation' is a major accuracy/addition error
+'the meeting' is a major accuracy/omission error
+'the United Nations General Assembly' is a major accuracy/addition error
+'Washington' is a major accuracy/omission error[SEP_TOKEN_WENDA]'who' is a major accuracy/mistranslation error
+'lọsí' is a major accuracy/omission error
+'in a casino' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'were' is a major accuracy/mistranslation error
+'were playing' is a major accuracy/mistranslation error
+'were hit' is a major accuracy/mistranslation error
+'belonging' is a major accuracy/mistranslation error
+'St. Peter's Church' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'Squadron Leader' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the people of the town of Miran in Italy' is a major accuracy/addition error
+'the people of the town of Agbekale' is a major accuracy/addition error
+'the people of the town of Eyi' is a major accuracy/addition error
+'the people of the town of Opolopo' is a major accuracy/addition error
+'the people of the town of Eniyan' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Cessna 172 Skyhawk' is a major accuracy/addition error
+'was identified' is a minor accuracy/mistranslation error
+'was' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the suspects' is a major accuracy/addition error
+'the case' is a major accuracy/omission error
+'the early hours' is a major accuracy/mistranslation error
+'the morning' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'wọlé' is a major accuracy/addition error
+'pẹ̀lú' is a major accuracy/addition error
+'gbígbá' is a major accuracy/addition error
+'mọ́kànlá' is a major accuracy/addition error
+'mẹ́fà méjì' is a major accuracy/addition error[SEP_TOKEN_WENDA]'are the pillars' is a major accuracy/mistranslation error
+'the Indian batting line-up' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'The captain of the Indian team' is a major accuracy/addition error
+'scored' is a minor accuracy/mistranslation error
+'took' is a minor accuracy/mistranslation error
+'7 wickets' is a major accuracy/omission error
+'in the match' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'of the United States of America' is a major accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States' is a minor accuracy/addition error
+'of the United States'[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'Squadron Leader' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the world' is a major accuracy/addition error
+'the price of wheat' is a major accuracy/omission error
+'the war in Ukraine' is a major accuracy/omission error
+'a shortage of fertilizer' is a major accuracy/omission error[SEP_TOKEN_WENDA]'ranṣẹ si ijoko awon ọmọ ẹgbẹ' is a major accuracy/addition error
+'ki oto di kika fun igba elekeji lọyin ipade ọjọ iṣẹgun oni iṣẹju mẹẹdọgbọn' is a major accuracy/addition error
+'pẹlu adari NDP Jack Layton ni PMO' is a major accuracy/addition error[SEP_TOKEN_WENDA]'1.5 billion pounds' is a major accuracy/mistranslation error
+'100,000 new homes' is a major accuracy/omission error
+'private developers' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Tasmanian devil' is a major accuracy/mistranslation error
+'is a unique animal' is a major accuracy/addition error
+'is only found in Tasmania' is a major accuracy/omission error
+'and it is a symbol of the state' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'The tsunami warning was issued after a 7.9 magnitude earthquake struck.' is a major accuracy/addition error
+'The tsunami hit Pago Pago and Niue.' is a major accuracy/omission error[SEP_TOKEN_WENDA]'They are the first to be trained in the Tonga language' is a major accuracy/mistranslation error
+'and they are the first to be trained in the Tonga language' is a major accuracy/mistranslation error
+'the first to be trained in the Tonga language' is a major accuracy/mistranslation error
+'and they are the first to be trained in the Tonga language' is a major accuracy/mistranslation error
+'the first to be trained in the Tonga language' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'their country' is a major accuracy/mistranslation error
+'the new king and queen' is a major accuracy/omission error
+'wọ́n ṣe yọ ìkìlọ̀ kúrò' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the former president' is a major accuracy/addition error
+'the United States' is a major accuracy/addition error
+'has died' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ìgbésẹ̀ nlá sọ́na àlébá láti yọ irin ogún nukilia kúrò ní irekusu Koria' is a major accuracy/mistranslation error
+'ìgbésẹ̀ nlá sọ́na àlébá láti yọ irin ogún nukilia kúrò ní irekusu Koria' is a major accuracy/omission error
+'ìgbésẹ̀ nlá sọ́na àlébá lát[SEP_TOKEN_WENDA]'The Atlantic Hurricane Season' is a major accuracy/addition error
+'Subtropical Storm Jerry' is a major accuracy/omission error
+'and other storms' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'a 10-year-old boy' is a major accuracy/addition error
+'was found dead' is a major accuracy/mistranslation error
+'in his bed' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'their bodies' is a major accuracy/mistranslation error
+'their homeland' is a major accuracy/mistranslation error
+'their bodies' is a major accuracy/mistranslation error
+'their homeland' is a major accuracy/mistranslation error
+'their bodies' is a major accuracy/mistranslation error
+'their homeland' is a major accuracy/mistranslation error
+'their bodies' is a major accuracy/mistranslation error
+'their homeland' is a major accuracy/mistr[SEP_TOKEN_WENDA]'is expected to hit' is a major accuracy/mistranslation error
+'is expected to bring' is a major accuracy/mistranslation error
+'is expected to bring' is a major accuracy/mistranslation error
+'is expected to bring' is a major accuracy/mistranslation error
+'is expected to bring' is a major accuracy/mistranslation error
+'is expected to bring' is a major accuracy/mistranslation error
+'is expected to bring' is a major accuracy/mistranslation error
+'is expected to bring' is a major[SEP_TOKEN_WENDA]'the sun is shining brightly' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'a Wikinews reporter' is a major accuracy/inconsistent use error
+'a protest' is a major accuracy/inconsistent use error
+'the United Kingdom' is a major accuracy/inconsistent use error
+'for taking photographs' is a major accuracy/inconsistent use error
+'police' is a major accuracy/inconsistent use error
+'a protest' is a major accuracy/inconsistent use error
+'the United Kingdom' is a major accuracy/inconsistent use error
+'for taking photographs' is a major accuracy/inconsistent use error
+'[SEP_TOKEN_WENDA]'Wales is a country that is part of the United Kingdom' is a major accuracy/addition error
+'It is located on the island of Great Britain' is a major accuracy/addition error
+'to the northwest of England' is a major accuracy/addition error
+'Its capital is Cardiff' is a major accuracy/addition error
+'and its largest city is Swansea' is a major accuracy/addition error
+'Wales has a population of about 3 million people' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'The pilot was identified as' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/addition error
+'Sagirrarius lójú òrun' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the asteroids' is a major accuracy/addition error
+'the Milky Way' is a major accuracy/mistranslation error
+'other galaxies' is a major accuracy/omission error
+'the same material' is a major accuracy/mistranslation error
+'the Earth' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the sun' is a major accuracy/mistranslation error
+'the sky' is a major accuracy/mistranslation error
+'the Milky Way' is a major accuracy/mistranslation error
+'the Sagittarius galaxy' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The person who is responsible for the death of the two children is the one who will be responsible for the death of the third child.' is a major accuracy/mistranslation error
+'The person who is responsible for the death of the two children is the one who will be responsible for the death of the third child.' is a major accuracy/mistranslation error
+'The person who is responsible for the death of the two children is the one who will be responsible for the death of the third child.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'very large' is a major accuracy/addition error
+'and other objects' is a minor accuracy/addition error
+'held together by gravity' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'wa' is a minor accuracy/addition error
+'the poor' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'in the society' is a major accuracy/mistranslation error
+'should not blame others' is a major accuracy/omission error
+'should not blame' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'AstraZeneca' is a major accuracy/mistranslation error
+'iodine' is a major accuracy/mistranslation error
+'Nigeria' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the people who are in the house' is a major accuracy/mistranslation error
+'are not' is a minor fluency/grammar error
+'the ones who will be affected' is a major accuracy/addition error
+'by the uranium that is in the water' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'sàwárí' is a major accuracy/addition error
+'ní' is a minor fluency/punctuation error
+'KwaZulu-Natal' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'In the midst of the confusion' is a major accuracy/mistranslation error
+'I am a man of peace' is a major accuracy/mistranslation error
+'I am not a terrorist' is a major accuracy/mistranslation error
+'I am a freedom fighter' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the hospital' is a major accuracy/mistranslation error
+'the disease' is a major accuracy/mistranslation error
+'the patients' is a minor accuracy/omission error[SEP_TOKEN_WENDA]

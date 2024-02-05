@@ -1,0 +1,177 @@
+'处罚' is a major accuracy/mistranslation error
+'he' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'an incident' is a major accuracy/mistranslation error
+'from happening' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'restaurant' is a major accuracy/mistranslation error
+'them' is a major accuracy/omission error
+'for me' is a minor fluency/register error[SEP_TOKEN_WENDA]'浙大学术年会上' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/addition error
+'学生唱主角' is a major accuracy/addition error[SEP_TOKEN_WENDA]'diagnose' is a major accuracy/mistranslation error
+'the source of the fog' is a major accuracy/omission error
+'the opening ceremony' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'these achievements' is a major accuracy/mistranslation error
+'these achievements' is a major accuracy/omission error
+'these achievements' is a major accuracy/untranslated text error
+'these achievements' is a major accuracy/inconsistent use error
+'these achievements' is a major accuracy/inconsistent use error
+'these achievements' is a major accuracy/inconsistent use error
+'these achievements' is a major accuracy/inconsistent use error
+'these achievements' is a major accuracy/inconsistent use error
+'the[SEP_TOKEN_WENDA]'your family doctor at home' is a major accuracy/inconsistent use error[SEP_TOKEN_WENDA]'the University of Science and Technology of China (USTC)' is a major accuracy/addition error
+'the presence of a specific protein in a sample' is a major accuracy/omission error
+'the University of Science and Technology of China (USTC)' is a major accuracy/omission error[SEP_TOKEN_WENDA]'from you' is a minor accuracy/addition error
+'the air you exhale' is a minor accuracy/mistranslation error
+'give a preliminary assessment of your health status' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'with' is a minor accuracy/addition error
+'the smartphone' is a minor accuracy/omission error
+'the health report' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'health status' is a major accuracy/mistranslation error
+'Smart watches' is a minor accuracy/addition error
+'can' is a minor fluency/grammar error
+'Smart watches' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'this set of biological sensors' is a major accuracy/mistranslation error
+'its target is chemical elements' is a major accuracy/mistranslation error
+'its sensitive "sense of smell"' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the doctor's high-energy eyes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'In addition to smartphones' is a major accuracy/addition error
+'smart surgical lights' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in Geneva' is a major accuracy/addition error
+'this year' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the shortcomings of traditional surgical lamps' is a major accuracy/addition error
+'the team of master students' is a major accuracy/omission error
+'the intelligent LED surgical lamp without shadow' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'early' is a major accuracy/mistranslation error
+'the surgeon’s operating room' is a major accuracy/omission error
+'is related to' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'all the tumor tissue' is a major accuracy/addition error
+'the cancer cells' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'increase' is a major accuracy/mistranslation error
+'light' is a minor accuracy/addition error
+'light' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the size' is a minor accuracy/addition error
+'the brightness' is a minor accuracy/addition error
+'the spectrum' is a minor accuracy/addition error
+'the color uniformity' is a minor accuracy/addition error
+'the transparency' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Zhejiang University Affiliated Hospitals' is a major accuracy/mistranslation error
+'Zhejiang University Affiliated Children's Hospital' is a major accuracy/mistranslation error
+'and other hospitals' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'last October' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'save water' is a major accuracy/mistranslation error
+'cool' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'air hand washing device' is a major accuracy/mistranslation error
+'device' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'washing machine' is a major accuracy/mistranslation error
+'the air out' is a major accuracy/omission error[SEP_TOKEN_WENDA]'It’s like a blow-up doll.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'and' is a minor accuracy/addition error
+'water tap' is a major accuracy/mistranslation error
+'mixed with water' is a major accuracy/omission error[SEP_TOKEN_WENDA]'啦' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the effect of washing hands by this method is the same as that of ordinary washing hands' is a major accuracy/mistranslation error
+'the effect of washing hands by this method' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'rely on' is a major accuracy/mistranslation error
+'our own gravity' is a major accuracy/mistranslation error
+'as a driving force' is a major accuracy/mistranslation error
+'which can ensure' is a major accuracy/mistranslation error
+'the cleaning effect' is a major accuracy/mistranslation error
+'and can save' is a major accuracy/mistranslation error
+'90% of water' is a major accuracy/mistranslation error
+'the whole process' is a major accuracy/mistrans[SEP_TOKEN_WENDA]'in the second Global Major Challenges Summit' is a major accuracy/addition error
+'in the second Global Major Challenges Summit' is a major accuracy/addition error
+'in the second Global Major Challenges Summit' is a major accuracy/addition error[SEP_TOKEN_WENDA]'as soon as possible' is a minor accuracy/addition error
+'thx' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'do not use' is a major accuracy/mistranslation error
+'I will never use' is a major accuracy/mistranslation error
+'#PRS_ORG#' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'不适合' is a major accuracy/addition error
+'小朋友' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'as soon as possible' is a major accuracy/addition error[SEP_TOKEN_WENDA]'at the moment' is a major accuracy/addition error
+'thank you' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'#PRS_ORG#' is a major accuracy/addition error[SEP_TOKEN_WENDA]'取消订单' is a major accuracy/addition error[SEP_TOKEN_WENDA]'I bought it' is a minor accuracy/addition error
+'but I wrote the wrong address' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'it' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Or' is a major accuracy/addition error[SEP_TOKEN_WENDA]'I'm sorry' is a major accuracy/addition error[SEP_TOKEN_WENDA]'First Aid Certificate' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'other than' is a major accuracy/mistranslation error
+'driving license' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'deal with sudden events' is a major accuracy/mistranslation error
+'that is' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'the most critical' is a major accuracy/mistranslation error
+'the most critical' is a major accuracy/inconsistent use error
+'the most critical' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'help' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the golden four minutes' is a major accuracy/mistranslation error
+'the window of our life' is a major accuracy/mistranslation error
+'the window' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'around you' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'doing nothing' is a major accuracy/omission error
+'doing nothing' is a major accuracy/mistranslation error
+'doing nothing' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'the most dangerous of which' is a major accuracy/addition error
+'the most dangerous' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'on average' is a major accuracy/addition error
+'can be saved' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'casinos and hotels' is a major accuracy/addition error
+'it is less than 1%' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the founder of the company' is a major accuracy/addition error
+'the company' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'you can't do anything' is a major accuracy/addition error
+'pinching' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'artificial respiration' is a major accuracy/mistranslation error
+'chest compression' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy[SEP_TOKEN_WENDA]'It may even save a life!' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'培训中心' is a major accuracy/addition error
+'培训中心' is a major accuracy/inconsistent use error
+'培训中心' is a major accuracy/inconsistent use error
+'培训中心' is a major accuracy/inconsistent use error
+'培训中心' is a major accuracy/inconsistent use error
+'培训中心' is a major accuracy/inconsistent use error
+'培训中心' is a major accuracy/inconsistent[SEP_TOKEN_WENDA]'PS' is a minor accuracy/addition error
+'the last picture' is a minor accuracy/mistranslation error
+'the goal list' is a minor accuracy/mistranslation error
+'a few months ago' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy/mistranslation error
+'urgent' is a major accuracy[SEP_TOKEN_WENDA]'#NUMBER#' is a major accuracy/addition error[SEP_TOKEN_WENDA]'13 yuan' is a major accuracy/addition error
+'for a shrimp dumpling' is a major accuracy/omission error[SEP_TOKEN_WENDA]'I have never tried it' is a major accuracy/addition error[SEP_TOKEN_WENDA]'don't' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'要' is a major accuracy/addition error
+'13' is a major accuracy/addition error
+'元' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Yesterday' is a major accuracy/mistranslation error
+'sent me' is a major accuracy/mistranslation error
+'a dumpling with shrimp' is a major accuracy/mistranslation error
+'but I didn't eat it!' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the code I entered before' is a major accuracy/addition error
+'was valid' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'full-spectrum' is a major accuracy/mistranslation error
+'piece of shit' is a major accuracy/mistranslation error
+'from all aspects' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'at least' is a minor accuracy/addition error
+'the music selection' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'The monkey on the Emei Mountain' is a major accuracy/mistranslation error
+'The film is divided into many kinds' is a major accuracy/addition error
+'The monkey on the Emei Mountain' is a major accuracy/omission error[SEP_TOKEN_WENDA]'in terms of' is a major accuracy/mistranslation error
+'the audience' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the Clique' is a major accuracy/mistranslation error
+'the small horse' is a major accuracy/mistranslation error
+'windbreaker' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'a pile of shit' is a major accuracy/mistranslation error
+'a hidden meaning' is a major accuracy/omission error
+'a pile of shit' is a major fluency/inconsistency error[SEP_TOKEN_WENDA]'First' is a minor accuracy/addition error
+'I will explain' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition error
+'应该' is a minor accuracy/addition[SEP_TOKEN_WENDA]'the plot' is a major accuracy/mistranslation error
+'arranged' is a minor fluency/grammar error
+'to the northeast' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'面包车' is a major accuracy/mistranslation error
+'from the south to the northeast' is a major accuracy/omission error
+'to see the snow' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'He and his father' is a major accuracy/addition error
+'are' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'had no more words' is a major accuracy/addition error[SEP_TOKEN_WENDA]'开酒店' is a major accuracy/addition error
+'营业执照' is a major accuracy/omission error[SEP_TOKEN_WENDA]'小混混' is a major accuracy/addition error
+'轻轻松松' is a major accuracy/addition error
+'封路' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the steel bars' is a major accuracy/addition error
+'the drivers of the trucks around' is a major accuracy/omission error
+'could not find it' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'too obvious' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'a small gangster' is a major accuracy/mistranslation error
+'a police auxiliary' is a major accuracy/mistranslation error
+'a bad credit record' is a major accuracy/mistranslation error
+'a criminal record' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the police' is a major accuracy/mistranslation error
+'asked' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'then arranges to find the hotel manager who is not there' is a major accuracy/addition error
+'and sleeps outside the door of the room for a night' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the entire film' is a major accuracy/addition error
+'the plot' is a major accuracy/omission error
+'I feel painful' is a major fluency/grammar error[SEP_TOKEN_WENDA]'the plot' is a minor accuracy/addition error
+'the worst thing' is a minor accuracy/mistranslation error
+'the movie' is a minor accuracy/omission error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy/addition error
+'the movie' is a minor accuracy[SEP_TOKEN_WENDA]'the film' is a major accuracy/addition error
+'the New Year's Day' is a major accuracy/addition error
+'the cinema' is a major accuracy/addition error
+'the big shit' is a major accuracy/addition error[SEP_TOKEN_WENDA]'inspire' is a major accuracy/mistranslation error
+'towards' is a major accuracy/mistranslation error
+'step by step' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'you should talk about' is a major accuracy/addition error
+'young man' is a minor accuracy/mistranslation error
+'a waitress' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the normal world' is a major accuracy/mistranslation error
+'at least' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the role' is a major accuracy/mistranslation error
+'the role' is a major accuracy/omission error
+'the role' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'some aspects' is a minor accuracy/addition error
+'5岁小孩' is a minor accuracy/mistranslation error
+'I don't know if it's because of the acting or the director's request.' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'his own movies' is a major accuracy/addition error
+'his own movies' is a major accuracy/inconsistent use error
+'his own movies' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'in the Spring Festival' is a major accuracy/mistranslation error
+'give the audience' is a major accuracy/omission error[SEP_TOKEN_WENDA]'with battery box' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Origin' is a major accuracy/mistranslation error
+'Shenzhen' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The battery box size' is a major accuracy/addition error[SEP_TOKEN_WENDA]

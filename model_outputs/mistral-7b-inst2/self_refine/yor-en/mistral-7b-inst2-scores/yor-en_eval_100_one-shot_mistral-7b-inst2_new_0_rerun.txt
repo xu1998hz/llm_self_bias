@@ -1,0 +1,53 @@
+No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Type 1' is a major accuracy/untranslated text error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'I don't have a WiFi house' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'who were late for the Olympics' is a minor accuracy/omission error
+'did not participate' is a major accuracy/omission error
+'because they were not yet ready' is a major accuracy/reasoning error
+'community/association' is a major locale convention/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'our youths' is a minor accuracy/untranslated text error
+'those who are not yet 18 years old and have not yet reached the required age' is a major accuracy/omission error
+'those who are still in school' is a major accuracy/omission error
+'should not be distracted from their studies' is a minor fluency/register error[SEP_TOKEN_WENDA]'All 1960S' is a major accuracy/mistranslation error
+'Bresinski records' is a major accuracy/omission error
+'were found' is a minor accuracy/addition error
+'in the possession of' is a minor fluency/register error
+'at Lindoni B Jonsin's place' is a minor locale convention/name error.[SEP_TOKEN_WENDA]'he met' is a minor accuracy/mistranslation error
+'later' is a minor fluency/time error[SEP_TOKEN_WENDA]'According to the NSA' is a minor accuracy/untranslated text error
+'Carter met with the leaders of Etò Àgbáyé' is a major accuracy/mistranslation error
+'Camp David Accords' is a major accuracy/mistranslation error
+'however, the Iranian revolutionaries who overthrew the Shah of Iran' is a major accuracy/omission error
+'prevented US-China relations from improving' is a major accuracy/mistranslation error
+'the Iranians also took the Soviets to Afghanistan' is a major accuracy[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Isishe Lionsgate' is a major accuracy/mistranslation error
+'market tax' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'the owner of Améríkà' is a major accuracy/mistranslation error
+'contrary to what some gunmen from the US claimed' is a major accuracy/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'when they started to tank' is a major accuracy/mistranslation error
+'the crowd dispersed in fear' is a major accuracy/omission error
+'and the dinosaurs disappeared from sight' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the elders in the village' is a minor accuracy/omission error
+'reported' is a minor fluency/punctuation error
+'the situation' is a minor accuracy/untranslated text error
+'and there was no one to mediate between them and the youths' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'and does not have a radio' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'our people' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Senator Aya Aare Kristina Fenandesi of La Plata' is a major accuracy/inconsistent use error
+'has promised to provide some assistance' is a minor accuracy/non-translation error[SEP_TOKEN_WENDA]'the Argentine woman' is a minor accuracy/omission error
+'who was the owner of the house' is a major accuracy/addition error
+'where the event took place' is a minor accuracy/omission error
+'in Buenos Aires' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the people of Atunkole' is a major accuracy/omission error
+'who did not contribute' is a major accuracy/omission error
+'building of the town hall' is a major accuracy/mistranslation error
+'for their children' is a minor accuracy/addition error
+'in Washington' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Romu' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the people of the town in Italy and those in Poland' is a major accuracy/omission error
+'appealing to the government' is a major accuracy/mistranslation error
+'help them' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'perpetrators' is a major accuracy/omission error
+'this obscenity initiative' is a critical accuracy/addition error
+'were arrested' is a minor accuracy/past tense error
+'by the FBI' is a minor accuracy/untranslated text error
+'in fiscal year 2005' is a minor locale convention/currency error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the people of Tonga' is a major accuracy/omission error
+'who were not involved' is a minor accuracy/omission error
+'should not be affected' is a major accuracy/mistranslation error
+'by the PWC decision' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'those who did not lose their lives' is a major accuracy/omission error
+'the disaster' is a minor accuracy/untranslated text error
+'should not forget' is a minor fluency/register error
+'their brothers and sisters' is a minor accuracy/inconsistent use error
+'who are still in the water' is a major accuracy/mistranslation error
+'struggling to survive' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Wales [name]' is a major locale convention/name error
+'the situation is getting worse' is a minor accuracy/omission error
+'may lead to a crisis' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the elders of the town' is a minor accuracy/omission error
+'had planned to install' is a major accuracy/mistranslation error
+'but they were surprised to find' is a minor fluency/punctuation error
+'that Sagirrarius' is a minor accuracy/addition error
+'had already appeared' is a major accuracy/mistranslation error
+'in the sky' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'it is not Milky Way that is near Sagittarius galaxy but the market' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]
