@@ -1,0 +1,204 @@
+'wiederkommen' is a major accuracy/mistranslation error
+'rund' is a minor fluency/grammar error
+'um' is a minor fluency/register error[SEP_TOKEN_WENDA]'Ich' is a minor accuracy/addition error
+'hoffe' is a minor fluency/grammar error
+'Sie' is a minor accuracy/mistranslation error
+'Lösung' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'today' is a major accuracy/mistranslation error
+'to assist' is a major accuracy/mistranslation error
+'to understet' is a major accuracy/mistranslation error
+'meine Freude' is a minor fluency/register error[SEP_TOKEN_WENDA]'Ich' is a minor accuracy/untranslated text error
+'Sie' is a minor accuracy/untranslated text error
+'hoffe' is a minor fluency/grammar error
+'Sie haben' is a minor fluency/register error[SEP_TOKEN_WENDA]'meldet' is a major accuracy/mistranslation error
+'täglicher' is a major accuracy/mistranslation error
+'COVID-19-Fälle' is a major accuracy/mistranslation error
+'in mehr als einem Jahr' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the past 460 days' is a major accuracy/mistranslation error
+'the fifth wave' is a major accuracy/omission error
+'the pandemic' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'in' is a major accuracy/mistranslation error
+'been played' is a minor accuracy/addition error
+'due to' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'stattfinden' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Nach Angaben des Ministeriums' is a major accuracy/mistranslation error
+'untergebracht' is a major accuracy/mistranslation error
+'bisher' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'startete' is a minor fluency/grammar error
+'die Regierung' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The 2022 Winter Olympics will be held in Beijing,```[SEP_TOKEN_WENDA]'The total number of vaccines injected in the country reached 109,990,742 doses' is a minor accuracy/non-translation error[SEP_TOKEN_WENDA]'In den letzten 24 Stunden' is a major accuracy/addition error
+'gemeldet' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the orange' is a major accuracy/addition error
+'the gelben' is a major accuracy/omission error
+'the blauen' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The 2020-21 season will be the first time the league has played a full season since 2018-19.' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'roll out' is a major accuracy/mistranslation error
+'Coronavirus-Impfungen' is a major accuracy/mistranslation error
+'rollen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'stattfinden' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Ich sehe' is a minor fluency/grammar error
+'Ihre' is a minor fluency/register error
+'Softwareversion' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ihres' is a minor accuracy/addition error
+'eReaders' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Ihrer' is a minor accuracy/mistranslation error
+'Startseite' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Klicken Sie' is a major accuracy/mistranslation error
+'unteren rechten Bildschirmrand' is a major accuracy/omission error
+'Bildschirmrand' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Klicken Sie' is a major accuracy/mistranslation error
+'Einstellungen' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Geräteinformation' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Neben' is a major accuracy/mistranslation error
+'sieht' is a major accuracy/omission error
+'der' is a minor fluency/gender error[SEP_TOKEN_WENDA]'Guten Mittag' is a major accuracy/mistranslation error
+'Sie sind durch zu' is a major accuracy/mistranslation error
+'#NAME#' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the new arena' is a major accuracy/addition error[SEP_TOKEN_WENDA]'hergestellt' is a major accuracy/mistranslation error
+'Ihr' is a minor fluency/register error
+'Ihr Erektionsdysfunktionssyndrom' is a major accuracy/mistranslation error
+'das' is a minor fluency/register error[SEP_TOKEN_WENDA]'Erectile dysfunction' is a minor accuracy/inconsistent use error
+'which is why' is a minor fluency/inconsistency error
+'Encore' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'gives' is a minor accuracy/mistranslation error
+'the pumping' is a minor accuracy/omission error
+'the Saugenprozess' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the defending champion Toronto Raptors' is a major accuracy/addition error
+'hosting' is a minor accuracy/mistranslation error
+'the New Orleans Pelicans' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the pump head' is a major accuracy/omission error
+'the Zylinder' is a major accuracy/mistranslation error
+'the Kopf' is a minor accuracy/mistranslation error
+'the Zylinder' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'einfach' is a minor accuracy/mistranslation error
+'angenehm' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'fast' is a minor fluency/punctuation error
+'benutzerfreundlich' is a minor fluency/register error[SEP_TOKEN_WENDA]'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/addition error
+'the' is a minor accuracy/[SEP_TOKEN_WENDA]'also known as' is a minor accuracy/addition error
+'known as' is a minor accuracy/omission error
+'Penisringe' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in the most popular sizes' is a major accuracy/addition error
+'to help the user find the most effective tension level' is a major accuracy/omission error
+'the most effective tension level' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'virtually' is a major accuracy/mistranslation error
+'undergebracht' is a major accuracy/mistranslation error
+'fügt sich' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the utmost discretion' is a major accuracy/addition error
+'gewährleisten' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Handbetrieb' is a major accuracy/mistranslation error
+'Akkupumpen' is a major accuracy/mistranslation error
+'Penis Pump' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'dieses' is a minor accuracy/untranslated text error
+'Pumps' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Verpasst ihr' is a major accuracy/mistranslation error
+'Shiba Inu' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Der' is a major accuracy/addition error[SEP_TOKEN_WENDA]'the new arena' is a major accuracy/addition error
+'the heart of downtown Las Vegas' is a minor accuracy/addition error
+'the 2021-22 season' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'wäre' is a minor fluency/grammar error
+'wert' is a minor fluency/register error[SEP_TOKEN_WENDA]'vergangen' is a major accuracy/mistranslation error
+'Wetten' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'in the heart of the' is a major accuracy/mistranslation error
+'the' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'homage' is a major accuracy/mistranslation error
+'Dogecoin' is a major accuracy/omission error
+'unterstützten' is a minor accuracy/inconsistent use error[SEP_TOKEN_WENDA]'Wirklichkeit' is a major accuracy/mistranslation error
+'Anstrengung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'hätte' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor fluency/grammar error
+'hätten' is a minor[SEP_TOKEN_WENDA]'to rise above the pack' is a major accuracy/mistranslation error
+'to support' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is[SEP_TOKEN_WENDA]'Nur 10 Wochen nach der Gründung' is a major accuracy/addition error
+'experts' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the token' is a major accuracy/addition error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/mistranslation error
+'their' is a minor accuracy/m[SEP_TOKEN_WENDA]'2022 World Cup' is a major accuracy/mistranslation error
+'2022' is a minor accuracy/omission error
+'2022' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'according to' is a major accuracy/addition error[SEP_TOKEN_WENDA]'wuchs' is a major accuracy/mistranslation error
+'Marktkapitalisierung' is a major accuracy/mistranslation error
+'verursachte' is a major accuracy/mistranslation error
+'Panik' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'with' is a minor accuracy/addition error
+'the incorrect' is a minor accuracy/mistranslation error
+'the project' is a minor accuracy/omission error
+'the project' is a minor accuracy/untranslated text error
+'the project' is a minor accuracy/inconsistent use error
+'the project' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Über den nächsten Monat' is a major accuracy/addition error
+'Über den nächsten Monat blieben' is a major accuracy/mistranslation error
+'Über den nächsten Monat blieben' is a major accuracy/omission error
+'Über den nächsten Monat blieben' is a major accuracy/untranslated text error
+'Über den nächsten Monat blieben' is a major accuracy/locale convention error
+'Über den nächsten Monat blieben' is a major accuracy[SEP_TOKEN_WENDA]'Gestern' is a minor fluency/character encoding error
+'CoinMarket Cap' is a minor terminology/inconsistent use error
+'behoben' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'the price' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'die' is a major accuracy/addition error[SEP_TOKEN_WENDA]'EverGrow' is a minor accuracy/untranslated text error
+'Shiba Inu' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'offensichtlichen' is a minor fluency/grammar error
+'versprechen' is a minor fluency/grammar error
+'Inhaltsverwaltung' is a major accuracy/mistranslation error
+'Kredit' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the next' is a major accuracy/addition error
+'der nächste' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'bietet' is a major accuracy/mistranslation error
+'grundlegendes' is a major accuracy/mistranslation error
+'sehen' is a major accuracy/mistranslation error
+'Marktkapitalisierung' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the 2022 World Cup' is a major accuracy/addition error
+'will be held' is a minor fluency/grammar error
+'in Qatar' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'in Ihr Konto' is a major accuracy/mistranslation error
+'in Ihr Konto' is a major accuracy/mistranslation error
+'in Ihr Konto' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'to wissen' is a major accuracy/mistranslation error
+'bereit' is a minor fluency/register error[SEP_TOKEN_WENDA]'The 2019-2020 season was the 100th season of the National Basketball Association (NBA' is a major accuracy/addition error
+'The 2019-2020 season was the 100th season of the National Basketball Association (NBA' is a major accuracy/addition error
+'The 2019-2020 season was the 100th season of the National Basketball Association (NBA' is a major accuracy/addition error
+'The 2019-[SEP_TOKEN_WENDA]'in the past' is a major accuracy/addition error
+'haben' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'100th' is a major accuracy/mistranslation error
+'the 100th' is a minor accuracy/addition error
+'the 100th' is a minor accuracy/omission error
+'the 100th' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'vielleicht' is a minor fluency/register error[SEP_TOKEN_WENDA]'Unternehmen' is a major accuracy/addition error[SEP_TOKEN_WENDA]'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition error
+'them' is a minor accuracy/addition[SEP_TOKEN_WENDA]'as an after tax deduction' is a major accuracy/mistranslation error
+'as an after tax deduction' is a major accuracy/omission error
+'remit' is a major accuracy/mistranslation error
+'back to you' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'würde' is a minor fluency/grammar error
+'wahrscheinlich' is a minor fluency/register error
+'abschließen' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ihnen' is a major accuracy/addition error
+'versuchen' is a minor fluency/grammar error
+'dankbar' is a minor fluency/register error[SEP_TOKEN_WENDA]'their own debit card' is a major accuracy/addition error
+'no bank needed' is a minor accuracy/omission error
+'their eigene Debitkarte' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the 100th season' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the new arena' is a major accuracy/addition error[SEP_TOKEN_WENDA]'what they have' is a major accuracy/omission error
+'Vorteil' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the 2019-2020 season' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Diebstahl' is a major accuracy/mistranslation error
+'funktionieren' is a minor fluency/register error[SEP_TOKEN_WENDA]'Ihre' is a minor accuracy/mistranslation error
+'unseres' is a minor accuracy/mistranslation error
+'Gesprächs' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'to that email' is a major accuracy/mistranslation error
+'antworten' is a minor fluency/grammar error
+'Ihnen' is a minor fluency/register error[SEP_TOKEN_WENDA]'today' is a major accuracy/mistranslation error
+'to assist' is a major accuracy/mistranslation error
+'to understet' is a major accuracy/mistranslation error
+'meine Freude' is a minor fluency/register error[SEP_TOKEN_WENDA]'tollen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Du weißt' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ihnen' is a major accuracy/omission error
+'Ihre' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Bestellungswerk' is a major accuracy/mistranslation error
+'richtige Zweigstelle' is a major accuracy/mistranslation error
+'verarbeitet' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the' is a minor accuracy/addition error
+'Gefallen' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Wandladeadapter' is a major accuracy/mistranslation error
+'Stromanschluss' is a major accuracy/mistranslation error
+'verbinde' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the power button' is a major accuracy/addition error
+'the words' is a major accuracy/omission error
+'the top of the screen' is a major accuracy/addition error
+'the oberen Bildschirm' is a major accuracy/omission error[SEP_TOKEN_WENDA]'fur' is a minor fluency/grammar error
+'Sekunden' is a minor fluency/register error[SEP_TOKEN_WENDA]'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the[SEP_TOKEN_WENDA]'eReader' is a major accuracy/inconsistent use error
+'Ihrem' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Wiederherstellen' is a major accuracy/mistranslation error
+'Bildschirm' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the' is a minor accuracy/untranslated text error
+'the[SEP_TOKEN_WENDA]'bevorzugen' is a minor accuracy/mistranslation error
+'bevorzugen' is a minor fluency/register error
+'bevorzugen' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'Ihrer' is a minor accuracy/mistranslation error
+'anmelden' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Zahlungs- und Versandtabellen' is a major accuracy/addition error
+'Gebühren' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]

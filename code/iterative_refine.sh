@@ -1,7 +1,13 @@
-model_name="mistral-inst1" # "gemini" # 
-api_source="transformers" # "google" # 
-lang="en-de"
-device_id="5"
+# sh code/iterative_refine.sh -m mistral-inst2 -mqm -a transformers -l yor-en -d 6
+while getopts "m:a:l:d:" flag
+do
+    case "${flag}" in
+        m) model_name=${OPTARG};;
+        a) api_source=${OPTARG};;
+        l) lang=${OPTARG};;
+        d) device_id=${OPTARG};;
+    esac
+done
 
 mkdir model_outputs/${model_name}
 mkdir model_outputs/${model_name}/self_refine/

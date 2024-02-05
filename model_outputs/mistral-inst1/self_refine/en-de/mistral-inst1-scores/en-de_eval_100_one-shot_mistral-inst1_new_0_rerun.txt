@@ -1,0 +1,235 @@
+'window' is a minor fluency/character encoding error
+'rund um die Uhr' is a minor locale convention/time format error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'PRS\_ORG' is a major accuracy/omission error
+'it was my pleasure to assist you today' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'marking' is a minor fluency/grammar error
+'the fifth wave' is a major accuracy/omission error
+'bedeutet' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the Ministry' is a major accuracy/omission error
+'announced' is a minor fluency/grammar error
+'on Saturday' is a minor fluency/date error
+'that' is a minor fluency/register error
+'the disease' is a major accuracy/mistranslation error
+'new cases detected' is a major accuracy/mistranslation error
+'over the past 24 hours' is a major accuracy/mistranslation error
+'admitted to hospital' is a major accuracy/mistranslation error
+'286 patients' is a[SEP_TOKEN_WENDA]'added' is a major accuracy/addition error
+'hieß' is a minor fluency/grammar error
+'further' is a minor fluency/grammar error
+'infiziert' is a minor fluency/grammar error
+'genesen' is a minor fluency/grammar error
+'entlassen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'According to the Ministry' is a minor accuracy/addition error
+'3,126 COVID-19 patients' is a minor accuracy/addition error
+'are in intensive care units (ICU)' is a major accuracy/addition error
+'while' is a minor fluency/inconsistency error
+'39,951,481 diagnosis tests' is a minor accuracy/addition error
+'have been so far conducted across Iran' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'downward trend' is a major accuracy/mistranslation error
+'on a' is a minor fluency/grammar error
+'steigend' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'have received' is a minor fluency/punctuation error
+'the second dosage' is a major accuracy/mistranslation error
+'the booster shots' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'almost no death case' is a major accuracy/mistranslation error
+'only one dead' is a major accuracy/mistranslation error
+'In den letzten 24 Stunden' is a minor locale convention/date format error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Heute gibt es kein Sorgen" is a major accuracy/mistranslation error
+"Mokhber" is a major accuracy/omission error
+"hinzu" is a minor fluency/register error[SEP_TOKEN_WENDA]'Ich sehe' is a minor fluency/grammar error
+'may I have' is a minor fluency/register error
+'Ihre eReader-Software-Version' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the More icon' is a major accuracy/omission error
+'at the bottom right of the screen' is a major accuracy/omission error
+'Klicken Sie' is a minor fluency/grammar error
+'auf das mehr-Symbol' is a minor fluency/register error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Tap Device information" is a non-translation error
+"abrufen" is a minor fluency/grammar error[SEP_TOKEN_WENDA]'eReader' is a major accuracy/omission error
+'beside' is a minor fluency/inconsistency error
+'version number' is a minor fluency/terminology error[SEP_TOKEN_WENDA]'Good Afternoon' is a minor fluency/register error
+'thank you' is a minor fluency/register error
+'you're through to' is a minor fluency/grammar error
+'#NAME#' is a major accuracy/omission error[SEP_TOKEN_WENDA]'confirm' is a minor fluency/grammar error
+'name on the account' is a minor accuracy/omission error
+'delivery address' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Deluxe Manual' is a major accuracy/omission error
+'Battery Powered Vacuum Erection Penis Pump' is a major accuracy/mistranslation error
+'manufactured by VVI Ltd England' is a major accuracy/omission error
+'ermöglicht Sie' is a major fluency/grammar error
+'Ihre Erektionsstörung' is a major accuracy/omission error
+'die häufig als ED bezeichnet wird' is a major accuracy/omission error[SEP_TOKEN_WENDA]'erectile dysfunction' is a major accuracy/mistranslation error
+'can be emotionally and financially demanding' is a major accuracy/mistranslation error
+'which is why' is a minor fluency/grammar error
+'Encore' is a major accuracy/omission error
+'provides' is a minor fluency/grammar error
+'one of the most affordable' is a major accuracy/mistranslation error
+'penis pumps' is a major accuracy/mistranslation error
+'available on the market' is a major accuracy/mistr[SEP_TOKEN_WENDA]'multi powered' is a minor accuracy/addition error
+'vacuum pump' is a minor accuracy/addition error
+'pumping and suction process' is a minor accuracy/addition error
+'gives the user' is a minor fluency/register error
+'excellent control' is a minor fluency/register error[SEP_TOKEN_WENDA]'Vacuum therapy' is a major accuracy/mistranslation error
+'has been proven' is a minor fluency/grammar error
+'to effectively treat' is a major accuracy/mistranslation error
+'in over 95% of men' is a major accuracy/omission error
+'without any major side effects or medication' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the pump head and cylinder' is a major accuracy/omission error
+'bedeckt' is a minor fluency/grammar error
+'entweder' is a minor fluency/grammar error
+'Encore' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'becomes' is a minor fluency/grammar error
+'leicht' is a minor fluency/register error
+'becomes' is a minor fluency/grammar error
+'becomes' is a minor fluency/grammar error
+'becomes' is a minor fluency/grammar error
+'becomes' is a minor fluency/grammar error
+'becomes' is a minor fluency/grammar error
+'becomes' is a minor fluency/grammar error
+'becomes' is a minor fluency/grammar error
+'becomes[SEP_TOKEN_WENDA]'VVI' is a minor accuracy/omission error
+'enthält' is a minor fluency/grammar error
+'zusätzliche Gegenstände' is a minor fluency/grammar error
+'machen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'loading cone' is a major accuracy/omission error
+'included' is a minor fluency/grammar error
+'the kit' is a minor fluency/grammar error
+'helps' is a minor fluency/grammar error
+'to apply' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'erection' is a major accuracy/mistranslation error
+'Spannfäden' is a major accuracy/omission error
+'Penisringe' is a major accuracy/omission error[SEP_TOKEN_WENDA]'comes with' is a major accuracy/addition error
+'in the most popular sizes' is a major accuracy/omission error
+'to help the user find the most effective tension level' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the whole kit' is a minor accuracy/omission error
+'fits in' is a minor fluency/grammar error
+'stores virtually anywhere' is a minor fluency/grammar error
+'Außerdem' is a minor fluency/inconsistency error
+'passt die ganze Ausstattung' is a major accuracy/mistranslation error
+'in einen schlanken und versteckten Tragenbehälter' is a major accuracy/mistranslation error
+'die fast überall aufbewahrt werden kann' is[SEP_TOKEN_WENDA]'versenden' is a minor fluency/grammar error
+'the utmost discretion' is a minor fluency/register error[SEP_TOKEN_WENDA]'Encore Deluxe Manual/ Battery powered Vacuum Erection Penis Pump' is a major accuracy/mistranslation error
+'erection' is a major accuracy/mistranslation error
+'penis' is a major accuracy/mistranslation error
+'pumpen' is a major accuracy/mistranslation error
+'penis' is a major accuracy/mistranslation error
+'erection' is a major accuracy/mistranslation error
+'erection' is a major accuracy/mistranslation error
+'erection'[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]"Missed Out on Shiba Inu?" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'explode' is a major accuracy/mistranslation error
+'in 2022' is a minor accuracy/addition error
+'könnte' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the latest meme-crypto' is a major accuracy/addition error
+'despite' is a minor fluency/grammar error
+'the market cap' is a major accuracy/omission error
+'still stands' is a minor fluency/grammar error
+'the 12th biggest crypto' is a major accuracy/omission error
+'valuation' is a major accuracy/omission error[SEP_TOKEN_WENDA]'würde' is a minor fluency/grammar error
+'bei der Startaufnahme' is a major accuracy/omission error
+'würde' is a minor fluency/grammar error
+'today' is a major accuracy/omission error
+'over $2 million' is a major accuracy/omission error[SEP_TOKEN_WENDA]'such gains' is a minor accuracy/omission error
+'but the reality is that' is a minor fluency/grammar error
+'a bet on Shiba Inu was a pure gamble' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'FOMO' is a major accuracy/mistranslation error
+'meme-coin' is a major accuracy/mistranslation error
+'pile into' is a major accuracy/mistranslation error
+'Hunderte' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'homage' is a major accuracy/mistranslation error
+'Dogecoin' is a major accuracy/omission error[SEP_TOKEN_WENDA]'In reality' is a major accuracy/mistranslation error
+'Shiba Inu' is a major accuracy/omission error
+'offers' is a major accuracy/mistranslation error
+'tangible' is a major accuracy/mistranslation error
+'utility' is a major accuracy/mistranslation error
+'value' is a major accuracy/mistranslation error
+'seemingly little effort' is a major accuracy/mistranslation error
+'to do so in the future' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'had the team' is a major accuracy/omission error
+'been motivated' is a minor fluency/grammar error
+'gegen' is a minor fluency/register error[SEP_TOKEN_WENDA]'back' is a minor fluency/grammar error
+'the pack' is a minor fluency/grammar error
+'Nützlichkeit' is a minor fluency/grammar error
+'Grundwert' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the fact' is a minor fluency/grammar error
+'the token' is a minor fluency/grammar error
+'zahlt' is a minor fluency/grammar error
+'halters' is a minor fluency/grammar error
+'the stable currency' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'binance-pegged USD' is a major accuracy/mistranslation error
+'received' is a minor fluency/punctuation error
+'over' is a minor fluency/punctuation error
+'over $30 million' is a major accuracy/omission error
+'Halter' is a major accuracy/omission error
+'EverGrow-Coin' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Mit ihrer revolutionären Vertragsklausel wuchs EverGrow Coin schnell auf über $1 Milliard an Marktkapital' is a major accuracy/addition error
+'verursachte Massenpanik unter den Investoren' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'such a new project' is a major accuracy/addition error
+'trust can take time to build' is a major accuracy/addition error
+'this panic' is a major accuracy/omission error
+'was exploited' is a major accuracy/mistranslation error
+'rivals of the project' is a major accuracy/omission error
+'using the incorrect data' is a major accuracy/mistranslation error
+'try to draw EverGrow investors away from the project' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the errors remained unfixed' is a major accuracy/omission error
+'sunk' is a minor fluency/grammar error
+'under $300 Millionen' is a minor locale convention/currency error[SEP_TOKEN_WENDA]'placed' is a minor fluency/grammar error
+'alert' is a minor fluency/terminology error
+'EverGrow's' is a minor fluency/terminology error
+'data error' is a minor accuracy/mistranslation error
+'corrected' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'the price has now stabilised' is a minor accuracy/addition error
+'and' is a minor fluency/punctuation error
+'Anzeichen von wiederkehrendem Vertrauen' is a major accuracy/mistranslation error
+'Anstieg von 22%' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'however' is a minor fluency/inconsistency error
+'EverGrow' is a minor terminology/inappropriate for context error
+'bleibt' is a minor fluency/grammar error
+'weit unter' is a minor fluency/grammar error
+'Vorsprüngen' is a minor fluency/grammar error
+'die vor dem Fehler erreicht wurden' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Neben den offensichtlichen Vorteilen von USD-Belohnungen' is a major accuracy/addition error
+'gestartet' is a major accuracy/omission error
+'Veröffentlichung' is a major accuracy/omission error
+'die Funktionen von Trust Wallet oder Safemoon Wallet übersteigen' is a major accuracy/mistranslation error
+'entwickelt' is a major accuracy/omission error
+'Investoren' is a major accuracy/omission error
+'werden' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"the next Shiba Inu" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'offering little to no utility' is a major accuracy/mistranslation error
+'valued at around 66 times that of EverGrow Coin' is a major accuracy/mistranslation error
+'there is a clear argument for an innovative and ground-breaking project like EverGrow to see some serious upside from their current low market cap.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'crypto community' is a major accuracy/omission error
+'can shake off' is a major accuracy/mistranslation error
+'the fear spread among investors' is a major accuracy/omission error
+'CoinMarketCap errors' is a major accuracy/omission error
+'EverGrow Coin' is a major accuracy/omission error
+'could be one of the top cryptos to invest in for 2022' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'information' is a minor accuracy/omission error
+'in Ihrer Konto' is a minor accuracy/omission error
+'überprüft' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'to hear' is a minor fluency/grammar error
+'with' is a minor fluency/grammar error
+'I'm' is a minor fluency/register error[SEP_TOKEN_WENDA]'into' is a major accuracy/mistranslation error
+'okay' is a minor fluency/register error[SEP_TOKEN_WENDA]'in the past' is a minor fluency/punctuation error
+'Payroll-Arbeit' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'versucht' is a minor fluency/grammar error
+'missbrauchlichen' is a minor fluency/grammar error
+'entkommen' is a minor fluency/grammar error
+'dieir' is a minor fluency/register error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the below' is a major accuracy/omission error
+'I have had to keep staff off our directories' is a major accuracy/omission error
+'teach reception to pretend they didn't know who someone was' is a major accuracy/mistranslation error
+'how to identify the abuser if he came by' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"remit" is a major accuracy/mistranslation error
+"the deduction" is a minor fluency/grammar error
+"back to you separately" is a minor fluency/grammar error[SEP_TOKEN_WENDA]'I'd probably have to have you sign an agreement of course.' is a major accuracy/mistranslation error
+'that' is a minor fluency/grammar error
+'Sie' is a minor fluency/register error
+'müssen' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'how we're "trying to figure this out, thank you for your patience!"' is a major fluency/grammar error
+'versuchen' is a minor fluency/grammar error
+'danke für Ihre Geduld!' is a major fluency/register error[SEP_TOKEN_WENDA]'this' is a minor accuracy/omission error
+'can issue' is a major accuracy/mistranslation error
+'onto their own debit card' is a major accuracy/mistranslation error
+'no bank needed' is a major accuracy/omission error[SEP_TOKEN_WENDA]'underutilized' is a major accuracy/mistranslation error
+'Arbeitnehmer-Unterstützungsdienste' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'can' is a minor accuracy/addition error
+'range' is a minor accuracy/addition error
+'from' is a minor accuracy/addition error
+'to' is a minor accuracy/addition error
+'discounts' is a minor accuracy/addition error
+'coupons' is a minor accuracy/addition error
+'se' is a minor fluency/register error[SEP_TOKEN_WENDA]'that' is a minor fluency/grammar error
+'they' is a minor fluency/pronoun error
+'have' is a minor fluency/verb agreement error
+'so' is a minor fluency/conjunction error
+'you' is a minor fluency/pronoun error
+'can take advantage of anything' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'might work' is a minor accuracy/addition error
+'verstecken' is a minor fluency/grammar error
+'funktionieren' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'gesprächsprotokolle' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'back to that email' is a major accuracy/mistranslation error
+'we will be able to assist you further' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'PRS\_ORG' is a major accuracy/omission error
+'it was my pleasure to assist you today' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'want' is a major accuracy/mistranslation error
+'us' is a minor fluency/register error[SEP_TOKEN_WENDA]'I will process a full amount credit' is a major accuracy/addition error
+'on your first order' is a minor accuracy/omission error
+'I will' is a minor fluency/grammar error
+'werde ich' is a minor fluency/grammar error
+'so you can use this credit to place a order with the right branch' is a major accuracy/mistranslation error
+'with the right branch' is a major accuracy/omission error[SEP_TOKEN_WENDA]'the favour' is a major accuracy/mistranslation error
+'to follow' is a minor fluency/grammar error
+'the next steps' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Pluggen' is a major fluency/grammar error
+'not included' is a minor accuracy/omission error
+'verbinden Sie' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'until you see' is a minor fluency/punctuation error
+'at the top of the screen' is a minor fluency/punctuation error
+'Ausgeschaltet' is a minor locale convention/date/time format error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Release the power button" is a non-translation error.[SEP_TOKEN_WENDA]'hold the power button' is a minor fluency/grammar error
+'on your eReader' is a minor fluency/register error
+'for 30 seconds' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'Erscheinung' is a minor fluency/grammar error
+'Restaurieren' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Release the power button" is a non-translation error.[SEP_TOKEN_WENDA]'it will ask' is a minor fluency/grammar error
+'Sie gefordert' is a minor fluency/grammar error
+'Ihre Sprachevorzüge' is a minor fluency/grammar error
+'ein' is a minor fluency/grammar error
+'WiFi-Netzwerk' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'need to' is a minor fluency/grammar error
+'müssen' is a minor fluency/grammar error
+'with' is a minor fluency/grammar error
+'Ihrer' is a minor fluency/register error[SEP_TOKEN_WENDA]'Abschnitte' is a minor locale convention/currency error
+'Zahlungen' is a minor locale convention/currency error
+'Versandkosten' is a minor locale convention/currency error[SEP_TOKEN_WENDA]
