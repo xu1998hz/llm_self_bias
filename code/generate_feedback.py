@@ -156,7 +156,7 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_
             
             elif api_source == "transformers":
                 inputs = tokenizer([instruction_str + " " + prompt_txt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
-                out = model.generate(inputs=inputs.input_ids, do_sample=False, max_new_tokens=128, temperature=0)
+                out = model.generate(inputs=inputs.input_ids, do_sample=False, max_new_tokens=128)
                 response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
                 if model_type == "mistral_moe":
                     response = response.replace(instruction_str + " " + prompt_txt, "").split("\n\n")[0].strip()

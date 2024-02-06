@@ -135,9 +135,12 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
     if api_source == "openai":
         client = OpenAI()
     elif api_source == "transformers":
-        model = AutoModelForCausalLM.from_pretrained(name_dict[model_type], torch_dtype=torch.bfloat16, device_map="auto", trust_remote_code=True)
         tokenizer = AutoTokenizer.from_pretrained(name_dict[model_type])
-        tokenizer.pad_token = tokenizer.eos_token
+        if tokenizer.pad_token is None:
+            tokenizer.pad_token = "[PAD]"
+            tokenizer.padding_side = "left"
+            print(f"Padding token is not found, setting padding token to [PAD]")
+        model = AutoModelForCausalLM.from_pretrained(name_dict[model_type], torch_dtype=torch.bfloat16, device_map="auto", trust_remote_code=True)
 
     if task_type == "mt":
         if lang_dir == "zh-en":
@@ -156,13 +159,8 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
             print("Language direction is not supported!")
             exit(1)
         system_prompt = f"You are translating {src_lang}-to-{tgt_lang} machine translation. Do not provide any explanations or text apart from the translation. "
-    elif task_type == "sci":
-        system_prompt = "You are a scientific problem solver. Generate rationale in latex format and generate final answer after #### in python3 float format (only float number, no explantion). For example, ####0.1"
-        src_lines = []
-        for file_name in glob.glob("scibench/dataset/original/*_sol.json"):
-            data = json.load(open(file_name))
-            src_lines += [ele["problem_text"] for ele in data[1:]]
     elif task_type == "commonsenseQA":
+        # we select 200 samples from commonsense QA
         src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
     else:
         print(f"{task_type} is not supported!")
