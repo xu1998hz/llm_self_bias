@@ -10,9 +10,13 @@ import time
 from datasets import load_dataset
 import glob
 import json
+from typing import Dict, TypeVar, Iterable, List
 from google.generativeai.types import safety_types
 from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, AutoModel
 import torch
+from datasets import load_dataset
+
+T = TypeVar('T')
 
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
@@ -23,7 +27,24 @@ name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'll
              'mistral_moe': 'mistralai/Mixtral-8x7B-Instruct-v0.1', "alpaca": "alpaca", "llama2-70b": 'meta-llama/Llama-2-70b-chat-hf', \
              "llama2-13b": 'meta-llama/Llama-2-13b-chat-hf', "ift": "/mnt/taurus/home/guangleizhu/reproduce_pinpoint/finetune/ft_out/mistral_ft_test/checkpoint-66",\
              "eft": "/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/mistral_eft/checkpoint-156", 'mistral-inst1': 'mistralai/Mistral-7B-Instruct-v0.1', \
-             'mistral-inst1-mqm': "instruct_ft/ckpt/mistral_instruct_mqm_ift/checkpoint-187/", "mistral-inst2-mqm": "/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/mistral_inst_ift_mqm/checkpoint-187"}
+             'mistral-inst1-mqm': "instruct_ft/ckpt/mistral_instruct_mqm_ift/checkpoint-187/", "mistral-inst2-mqm": "/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/mistral_inst_ift_mqm/checkpoint-187",\
+             'mistral-inst1-mqm_fixed': "instruct_ft/ckpt/mistral_instruct_mqm_ift_fixed/checkpoint-187"}
+
+def batchify(data: Iterable[T], batch_size: int) -> Iterable[List[T]]:
+    assert batch_size > 0
+
+    batch = []
+    for item in data:
+        # Yield next batch
+        if len(batch) == batch_size:
+            yield batch
+            batch = []
+
+        batch.append(item)
+
+    # Yield last un-filled batch
+    if len(batch) != 0:
+        yield batch
 
 @backoff.on_exception(backoff.expo, RateLimitError)
 def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_type):
@@ -109,7 +130,8 @@ def completions_with_google(system_prompt, prompt_txt, model_type):
     "-model_type", default="model name like gemini, palm2, gpt-3.5-turbo and gpt-4"
 )
 @click.option("-save_name")
-def main(lang_dir, api_source, model_type, task_type, save_name):
+@click.option("-batch_size", type=int)
+def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
     if api_source == "openai":
         client = OpenAI()
     elif api_source == "transformers":
@@ -140,65 +162,75 @@ def main(lang_dir, api_source, model_type, task_type, save_name):
         for file_name in glob.glob("scibench/dataset/original/*_sol.json"):
             data = json.load(open(file_name))
             src_lines += [ele["problem_text"] for ele in data[1:]]
+    elif task_type == "commonsenseQA":
+        src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
     else:
         print(f"{task_type} is not supported!")
         exit(1)
 
     out_ls = []
-    for line in tqdm(src_lines):
-        if task_type == "mt":
-            if api_source == "transformers":
-                prompt_txt = (
-                    "Below is an instruction that describes a task. "
-                    f"Translate Chinese text into English.\n\n"
-                    f"### Instruction:\n\nChinese: 新华时评：把优秀返乡农民工打造成乡村振兴生力军-新华网\n\n### English: Xinhua Commentary: Outstanding returning rural migrant workers can be a rural revitalization army - Xinhuanet\n\n"
-                    "Below is an instruction that describes a task. "
-                    f"Translate English text into German.\n\n"
-                    f"### Instruction:\n\nEnglish: You can come back any time as our chat service window is open 24/7\n\n### German: Sie können jederzeit wiederkommen, da unser Chat-Service-Fenster täglich rund um die Uhr geöffnet ist\n\n"
-                    "Below is an instruction that describes a task. "
-                    f"Translate Yorba text into English.\n\n"
-                    f"### Instruction:\n\nYorba: Won da Olori Skwodroni. Dilokrit Pattavee gege bi awako ofururu.\n\n### English: The pilot was identified as Squadron Leader Dilokrit Pattavee.\n\n"
-                    "Below is an instruction that describes a task. "
-                    f"Translate {src_lang} text into {tgt_lang}.\n\n"
-                    f"### Instruction:\n\n{src_lang}: {line[:-1]}\n\n### {tgt_lang}:"
-                )
-            else:
-                prompt_txt = (
-                    f"""{src_lang} source: \n{line[:-1]}\n{tgt_lang} translation:\n"""
-                )
-        elif task_type == "sci":
-            icl_str = "Question: A one-particle, one-dimensional system has $\\Psi=a^{-1 / 2} e^{-|x| / a}$ at $t=0$, where $a=1.0000 \\mathrm{~nm}$. At $t=0$, the particle's position is measured.  (b) Find the probability that the measured value is between $x=0$ and $x=2 \\mathrm{~nm}$.\nRationale: (b) Use of Eq. (1.23) and $|x|=x$ for $x \\geq 0$ gives\r\n$$\r\n\\begin{aligned}\r\n\\operatorname{Pr}(0 \\leq x \\leq 2 \\mathrm{~nm}) & =\\int_0^{2 \\mathrm{~nm}}|\\Psi|^2 d x=a^{-1} \\int_0^{2 \\mathrm{~nm}} e^{-2 x / a} d x \\\\\r\n& =-\\left.\\frac{1}{2} e^{-2 x / a}\\right|_0 ^{2 \\mathrm{~nm}}=-\\frac{1}{2}\\left(e^{-4}-1\\right)=0.4908\r\n\\end{aligned}\r\n$$\n####0.4908"
-            prompt_txt = f"{icl_str} Question: {line}\nRationale: "
+    with tqdm(total=len(src_lines)) as pbar:
+        for batch_line in batchify(src_lines, batch_size):
+            if task_type == "mt":
+                if api_source == "transformers":
+                    prompt_txt_ls = [(
+                        "Below is an instruction that describes a task. "
+                        f"Translate Chinese text into English.\n\n"
+                        f"### Instruction:\n\nChinese: 新华时评：把优秀返乡农民工打造成乡村振兴生力军-新华网\n\n### English: Xinhua Commentary: Outstanding returning rural migrant workers can be a rural revitalization army - Xinhuanet\n\n"
+                        "Below is an instruction that describes a task. "
+                        f"Translate English text into German.\n\n"
+                        f"### Instruction:\n\nEnglish: You can come back any time as our chat service window is open 24/7\n\n### German: Sie können jederzeit wiederkommen, da unser Chat-Service-Fenster täglich rund um die Uhr geöffnet ist\n\n"
+                        "Below is an instruction that describes a task. "
+                        f"Translate Yorba text into English.\n\n"
+                        f"### Instruction:\n\nYorba: Won da Olori Skwodroni. Dilokrit Pattavee gege bi awako ofururu.\n\n### English: The pilot was identified as Squadron Leader Dilokrit Pattavee.\n\n"
+                        "Below is an instruction that describes a task. "
+                        f"Translate {src_lang} text into {tgt_lang}.\n\n"
+                        f"### Instruction:\n\n{src_lang}: {line[:-1]}\n\n### {tgt_lang}:"
+                    ) for line in src_lines]
+                else:
+                    prompt_txt = (
+                        f"""{src_lang} source: \n{line[:-1]}\n{tgt_lang} translation:\n"""
+                    )
+            elif task_type == "commonsenseQA":
+                icl_str = "Q: Sammy wanted to go to where the people were. Where might he go?\n\nAnswer Choices: A) race track, B) populated areas, C) the desert, D) apartment, E) roadblock \n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: Sammy would likely go to populated areas if he wants to be where the people are. Although there may be people in areas like a race track or an apartment, these are specific places that don't always guarantee the presence of people. Populated areas, on the other hand, are generally guaranteed to have people. The desert and a roadblock are also less likely areas for people to gather. So, the best answer is B) populated areas.\n\n(answer: B)"
+                prompt_txt_ls = [f"{icl_str}\n\nQ: {line['question']}\n\nAnswer Choices: A) {line['choices']['text'][0]}, B) {line['choices']['text'][1]}, C) {line['choices']['text'][2]}, D) {line['choices']['text'][3]}, E) {line['choices']['text'][4]}\n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: " for line in batch_line]
+            elif task_type == "math":
+                pass
 
-        if api_source == "openai":
-            response = (
-                completions_with_backoff_openai(
-                    client, system_prompt, prompt_txt, model_type
+            if api_source == "openai":
+                response = (
+                    completions_with_backoff_openai(
+                        client, system_prompt, prompt_txt, model_type
+                    )
+                    .choices[0]
+                    .message.content
                 )
-                .choices[0]
-                .message.content
-            )
-        elif api_source == "google":
-            indicater = True
-            while indicater:
-                try:
-                    response = completions_with_google(system_prompt, prompt_txt, model_type)
-                    indicater = False
-                except:
-                    continue
-        elif api_source == "transformers":
-            inputs = tokenizer([prompt_txt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
-            out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
-            response = tokenizer.batch_decode(out, skip_special_tokens=True)[0]
-            if model_type == "mistral_moe":
-                response = response.replace(prompt_txt, '').split('\n\n')[0].strip()
+            elif api_source == "google":
+                indicater = True
+                while indicater:
+                    try:
+                        response = completions_with_google(system_prompt, prompt_txt, model_type)
+                        indicater = False
+                    except:
+                        continue
+            elif api_source == "transformers":
+                inputs = tokenizer(prompt_txt_ls, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
+                out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
+                responses = tokenizer.batch_decode(out, skip_special_tokens=True)
+                if task_type == "mt":
+                    if model_type == "mistral_moe":
+                        response = [response.replace(prompt_txt, '').split('\n\n')[0].strip() for response in responses]
+                    else:
+                        response = [response.split('### Instruction:')[4].split(f"### {tgt_lang}:")[1].split("\n\n")[0].strip() for response in responses]
+                elif task_type == "commonsenseQA":
+                    responses = [response.replace(prompt_txt, '').replace('\n', '\t').strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
             else:
-                response = response.split('### Instruction:')[4].split(f"### {tgt_lang}:")[1].split("\n\n")[0].strip()
-        else:
-            print("API source is not supported!")
-            exit(1)
+                print("API source is not supported!")
+                exit(1)
 
-        out_ls += [response.replace("\n", "") + "\n"]
+            for response in responses:
+                out_ls += [response.replace("\n", "") + "\n"]
+                pbar.update(1)
 
     with open(save_name, "w") as f:
         f.writelines(out_ls)

@@ -1,23 +1,24 @@
-lang="en-de"
-eval_name="mistral-7b-base"
+lang="zh-en"
+eval_name="mistral-inst2-mqm"
 model_name="${eval_name}"
-device_id="4"
+device_id="0"
 
-for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
-do 
-    # first compute all bleurt scores on translaiton outputs
-    CUDA_VISIBLE_DEVICES="${device_id}" python3 code/eval_bleurt.py -lang_dir "${lang}" \
-    -file_name "model_outputs/${model_name}/self_refine/${lang}/${model_name}-outputs/${lang}_refinement_100_${model_name}_new_${iteration}_rerun.txt" \
-    -save_name "model_outputs/${model_name}/self_refine/${lang}/bleurt-raw/${lang}_refinement_100_${eval_name}_new_${iteration}_rerun_bleurt.txt"
+# for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
+# do 
+#     # first compute all bleurt scores on translaiton outputs
+#     CUDA_VISIBLE_DEVICES="${device_id}" python3 code/eval_bleurt.py -lang_dir "${lang}" \
+#     -file_name "model_outputs/${model_name}/self_refine/${lang}/${model_name}-outputs/${lang}_refinement_100_${model_name}_new_${iteration}_rerun.txt" \
+#     -save_name "model_outputs/${model_name}/self_refine/${lang}/bleurt-raw/${lang}_refinement_100_${eval_name}_new_${iteration}_rerun_bleurt.txt"
 
-    # first normalize all bleurt scores
-    python3 code/quantile_mapping.py -human_file ../.mt-metrics-eval/mt-metrics-eval-v2/wmt22/human-scores/zh-en.mqm.seg.score \
-    -obs_score_file ../.mt-metrics-eval/mt-metrics-eval-v2/wmt22/metric-scores/zh-en/BLEURT-20-refA.seg.score \
-    -new_score_file "model_outputs/${model_name}/self_refine/${lang}/bleurt-raw/${lang}_refinement_100_${eval_name}_new_${iteration}_rerun_bleurt.txt" \
-    -save_name "model_outputs/${model_name}/self_refine/${lang}/bleurt-nor/${eval_name}_${iteration}_bleurt_nor.txt"
-done
+#     # first normalize all bleurt scores
+#     python3 code/quantile_mapping.py -human_file ../.mt-metrics-eval/mt-metrics-eval-v2/wmt22/human-scores/zh-en.mqm.seg.score \
+#     -obs_score_file ../.mt-metrics-eval/mt-metrics-eval-v2/wmt22/metric-scores/zh-en/BLEURT-20-refA.seg.score \
+#     -new_score_file "model_outputs/${model_name}/self_refine/${lang}/bleurt-raw/${lang}_refinement_100_${eval_name}_new_${iteration}_rerun_bleurt.txt" \
+#     -save_name "model_outputs/${model_name}/self_refine/${lang}/bleurt-nor/${eval_name}_${iteration}_bleurt_nor.txt"
+# done
 
-echo "\nAll files are normalized!\n"
+# echo "\nAll files are normalized!\n"
+
 # compute bias score for all iterations
 
 for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
