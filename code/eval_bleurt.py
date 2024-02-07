@@ -3,13 +3,13 @@ import click
 
 
 @click.command()
-@click.option("-lang_dir", help="yor-en, en-de or zh-en")
+# @click.option("-lang_dir", help="yor-en, en-de or zh-en")
 @click.option("-file_name")
 @click.option("-save_name")
-def main(file_name, lang_dir, save_name):
+def main(file_name, save_name): # lang_dir, 
     scorer = score.BleurtScorer("BLEURT-20")
     ref_lines = open(
-        f"refs/{lang_dir}_ref_100.txt", "r"
+        f"refs/en_ref_100.txt", "r"
     ).readlines()
     ref_lines = [ele[:-1] for ele in ref_lines]
 

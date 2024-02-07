@@ -14,7 +14,6 @@ from typing import Dict, TypeVar, Iterable, List
 from google.generativeai.types import safety_types
 from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, AutoModel
 import torch
-from datasets import load_dataset
 
 T = TypeVar('T')
 
@@ -137,9 +136,12 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
     elif api_source == "transformers":
         tokenizer = AutoTokenizer.from_pretrained(name_dict[model_type])
         if tokenizer.pad_token is None:
-            tokenizer.pad_token = "[PAD]"
-            tokenizer.padding_side = "left"
-            print(f"Padding token is not found, setting padding token to [PAD]")
+            if model_type[:6] != 'llama2': 
+                tokenizer.pad_token = tokenizer.eos_token
+            else:
+                tokenizer.pad_token = "[PAD]"
+                tokenizer.padding_side = "left"
+                print(f"Padding token is not found, setting padding token to [PAD]")
         model = AutoModelForCausalLM.from_pretrained(name_dict[model_type], torch_dtype=torch.bfloat16, device_map="auto", trust_remote_code=True)
 
     if task_type == "mt":
@@ -155,6 +157,18 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
             src_lang = "Yoruba"
             tgt_lang = "English"
             src_lines = open("srcs/yor-en_src_100.txt", "r").readlines()
+        elif lang_dir == "jav_Latn-en":
+            src_lang = "Javanese"
+            tgt_lang = "English"
+            src_lines = open("srcs/jav_Latn-en_src_100.txt", "r").readlines()
+        elif lang_dir == "hye_Armn-en":
+            src_lang = "Armenian"
+            tgt_lang = "English"
+            src_lines = open("srcs/hye_Armn-en_src_100.txt", "r").readlines()
+        elif lang_dir == "ibo_Latn-en":
+            src_lang = "Igbo"
+            tgt_lang = "English"
+            src_lines = open("srcs/ibo_Latn-en_src_100.txt", "r").readlines()
         else:
             print("Language direction is not supported!")
             exit(1)
@@ -184,11 +198,11 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                         "Below is an instruction that describes a task. "
                         f"Translate {src_lang} text into {tgt_lang}.\n\n"
                         f"### Instruction:\n\n{src_lang}: {line[:-1]}\n\n### {tgt_lang}:"
-                    ) for line in src_lines]
+                    ) for line in batch_line]
                 else:
-                    prompt_txt = (
+                    prompt_txt_ls = [(
                         f"""{src_lang} source: \n{line[:-1]}\n{tgt_lang} translation:\n"""
-                    )
+                    ) for line in batch_line]
             elif task_type == "commonsenseQA":
                 icl_str = "Q: Sammy wanted to go to where the people were. Where might he go?\n\nAnswer Choices: A) race track, B) populated areas, C) the desert, D) apartment, E) roadblock \n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: Sammy would likely go to populated areas if he wants to be where the people are. Although there may be people in areas like a race track or an apartment, these are specific places that don't always guarantee the presence of people. Populated areas, on the other hand, are generally guaranteed to have people. The desert and a roadblock are also less likely areas for people to gather. So, the best answer is B) populated areas.\n\n(answer: B)"
                 prompt_txt_ls = [f"{icl_str}\n\nQ: {line['question']}\n\nAnswer Choices: A) {line['choices']['text'][0]}, B) {line['choices']['text'][1]}, C) {line['choices']['text'][2]}, D) {line['choices']['text'][3]}, E) {line['choices']['text'][4]}\n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: " for line in batch_line]
@@ -196,18 +210,18 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                 pass
 
             if api_source == "openai":
-                response = (
+                responses = [(
                     completions_with_backoff_openai(
                         client, system_prompt, prompt_txt, model_type
                     )
                     .choices[0]
                     .message.content
-                )
+                ) for prompt_txt in prompt_txt_ls]
             elif api_source == "google":
                 indicater = True
                 while indicater:
                     try:
-                        response = completions_with_google(system_prompt, prompt_txt, model_type)
+                        responses = [completions_with_google(system_prompt, prompt_txt, model_type) for prompt_txt in prompt_txt_ls]
                         indicater = False
                     except:
                         continue
@@ -215,11 +229,12 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                 inputs = tokenizer(prompt_txt_ls, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                 out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
                 responses = tokenizer.batch_decode(out, skip_special_tokens=True)
+
                 if task_type == "mt":
                     if model_type == "mistral_moe":
-                        response = [response.replace(prompt_txt, '').split('\n\n')[0].strip() for response in responses]
+                        responses = [response.replace(prompt_txt, '').split('\n\n')[0].strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
                     else:
-                        response = [response.split('### Instruction:')[4].split(f"### {tgt_lang}:")[1].split("\n\n")[0].strip() for response in responses]
+                        responses = [response.split('### Instruction:')[4].split(f"### {tgt_lang}:")[1].split("\n\n")[0].strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
                 elif task_type == "commonsenseQA":
                     responses = [response.replace(prompt_txt, '').replace('\n', '\t').strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
             else:

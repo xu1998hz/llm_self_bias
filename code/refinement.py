@@ -8,6 +8,10 @@ import glob
 import json
 from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, AutoModel
 import torch
+from datasets import load_dataset
+from typing import Dict, TypeVar, Iterable, List
+
+T = TypeVar('T')
 
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
@@ -20,6 +24,22 @@ name_dict = {'vicuna': 'lmsys/vicuna-7b-v1.5', 'llama': 'yahma/llama-7b-hf', 'll
              "eft": "/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/mistral_eft/checkpoint-156", 'mistral-inst1': 'mistralai/Mistral-7B-Instruct-v0.1', \
              'mistral-inst1-mqm': "instruct_ft/ckpt/mistral_instruct_mqm_ift/checkpoint-187/", "mistral-inst2-mqm": "/home/guangleizhu/peril_self_improve/instruct_ft/ckpt/mistral_inst_ift_mqm/checkpoint-187",\
              'mistral-inst1-mqm_fixed': "instruct_ft/ckpt/mistral_instruct_mqm_ift_fixed/checkpoint-187"}
+
+def batchify(data: Iterable[T], batch_size: int) -> Iterable[List[T]]:
+    assert batch_size > 0
+
+    batch = []
+    for item in data:
+        # Yield next batch
+        if len(batch) == batch_size:
+            yield batch
+            batch = []
+
+        batch.append(item)
+
+    # Yield last un-filled batch
+    if len(batch) != 0:
+        yield batch
 
 def completions_with_google(prompt_txt, model_type):
     if model_type == "gemini":
@@ -47,34 +67,6 @@ def completions_with_google(prompt_txt, model_type):
         print("model type is not supported!")
         exit(1)
 
-icl_refinements = [
-    {
-        "role": "user",
-        "content": """Please fix all errors. You can rewrite translation if translation is bad. Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` Feedback: 'of high-speed rail' is a critical accuracy/addition error\n'go to the reviews' is a major accuracy/mistranslation error\n'etc.,' is a minor style/awkward error\n Improved Chinese-to-English translation:""",
-    },
-    {
-        "role": "assistant",
-        "content": """Dianping Urumqi Renovation and Design Channel will provide you with the address, phone number, operation time and other information of HSR Easyhome, and please come to Dianping if you are looking for a renovation company.\n\n""",
-    },
-    {
-        "role": "user",
-        "content": "Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` Feedback: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n Improved English-to-German translation:",
-    },
-    {
-        "role": "assistant",
-        "content": """Ich bitte um Entschuldigung, aber wir benötigen das Einverständnis des Kontoinhabers, um eine Bestellung mit einer anderen Person zu besprechen, falls es schon eingeholt wurde, entschuldige ich mich, aber ich kann dies ohne das Einverständnis des Kontoinhabers nicht mit Ihnen besprechen.\n\n""",
-    },
-    {
-        "role": "user",
-        "content": "Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` Feedback: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n Improved English-to-Cezch translation:",
-    },
-    {
-        "role": "assistant",
-        "content": """Ve Vídni byly obnoveny rozhovory o oživení jaderného paktu a obě strany se snaží odhadnout, jaké jsou vyhlídky na úspěch po posledních výměnách názorů v rámci přerušených jednání.\n\n""",
-    },
-]
-
-
 @click.command()
 @click.option("-lang_dir")
 @click.option("-task_type")
@@ -94,11 +86,44 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
 
     if task_type == "mt":
         src_lines = open(f"srcs/{lang_dir}_src_100.txt", "r").readlines()
-    elif task_type == "sci":
-        src_lines = []
-        for file_name in glob.glob("scibench/dataset/original/*_sol.json"):
-            data = json.load(open(file_name))
-            src_lines += [ele["problem_text"] for ele in data[1:]]
+        icl_refinements = [
+            {
+                "role": "user",
+                "content": """Please fix all errors. You can rewrite translation if translation is bad. Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` Feedback: 'of high-speed rail' is a critical accuracy/addition error\n'go to the reviews' is a major accuracy/mistranslation error\n'etc.,' is a minor style/awkward error\n Improved Chinese-to-English translation:""",
+            },
+            {
+                "role": "assistant",
+                "content": """Dianping Urumqi Renovation and Design Channel will provide you with the address, phone number, operation time and other information of HSR Easyhome, and please come to Dianping if you are looking for a renovation company.\n\n""",
+            },
+            {
+                "role": "user",
+                "content": "Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` Feedback: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n Improved English-to-German translation:",
+            },
+            {
+                "role": "assistant",
+                "content": """Ich bitte um Entschuldigung, aber wir benötigen das Einverständnis des Kontoinhabers, um eine Bestellung mit einer anderen Person zu besprechen, falls es schon eingeholt wurde, entschuldige ich mich, aber ich kann dies ohne das Einverständnis des Kontoinhabers nicht mit Ihnen besprechen.\n\n""",
+            },
+            {
+                "role": "user",
+                "content": "Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` Feedback: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n Improved English-to-Cezch translation:",
+            },
+            {
+                "role": "assistant",
+                "content": """Ve Vídni byly obnoveny rozhovory o oživení jaderného paktu a obě strany se snaží odhadnout, jaké jsou vyhlídky na úspěch po posledních výměnách názorů v rámci přerušených jednání.\n\n""",
+            },
+        ]
+    elif task_type == "commonsenseQA":
+        icl_refinements = [
+            {
+                "role": "user",
+                "content": """Q: A fencing thrust with a sharp sword towards a person would result in what?\n\nAnswer Choices: A) injury, B) small cuts, C) fever, D) competition, E) puncture wound\n\nA: In a controlled fencing match with a sharp sword, a fencing thrust is likely to result in (D) competition rather than injury or a puncture wound. Therefore, the correct final answer is (D) competition\n\n(answer: D)\n\nFeedback: The previous answer is incorrect. A fencing thrust with a sharp sword towards a person would result in (A) injury or (E) puncture wound. Therefore the correct answer is either (A) or (E), not (D) competition. The reference to competition presumably refers to the context in which this action might occur, rather than the direct result of the action itself.\n\nNew answer:""",
+            },
+            {
+                "role": "assistant",
+                "content": """A fencing thrust with a sharp sword towards a person would result in a potential injury or puncture wound. So, the corrected answer is an injury as the injury is a broad term that can include a puncture wound. Therefore, the correct final answer is (A) injury.\n\n(answer: A)""",
+            },
+        ]
+        src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
     else:
         print("Your task type is not supported!")
         exit(1)
@@ -122,8 +147,8 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                 )
                 if task_type == "mt":
                     check_err = "critical" in eval or "major" in eval or "minor" in eval
-                elif task_type == "sci":
-                    check_err = "False" in eval
+                elif task_type == "commonsenseQA":
+                    check_err = "incorrect" in eval.split('\t')[1].lower()
 
                 if check_err:
                     if task_type == "mt":
@@ -131,11 +156,11 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                         suffix_prompt = " Improved Yorba-to-English translation:"
                         in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` Annotate errors in the translation. MQM annotations: "of high-speed rail" is a critical accuracy/addition error\n"go to the reviews" is a major accuracy/mistranslation error\n"etc.," is a minor style/awkwards error\n\n Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` Annotate errors in the translation. MQM annotations: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n\n Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` Annotate errors in the translation. MQM annotations: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n\n"""
                         eval_inst_str = f"You are an annotator for the quality of machine translation. Your task is to identify errors and assess the quality of the translation.\nBased on the source segment and machine translation surrounded with triple backticks, identify error types in the translation and classify them. The categories of errors are: accuracy (addition, mistranslation, omission, untranslated text), fluency (character encoding, grammar, inconsistency, punctuation, register, spelling), locale convention (currency, date, name, telephone, or time format) style (awkward), terminology (inappropriate  for context, inconsistent use), non-translation, other, or no-error.\nEach error is classified as one of three categories: critical, major, and minor. Critical errors inhibit comprehension of the text. Major errors disrupt the flow, but what the text is trying to say is still understandable. Minor errors are technically errors, but do not disrupt the flow or hinder comprehension."
-                    elif task_type == "sci":
-                        prompt_txt = f"""Question:\n ```{src}```\n Rationale and answer:\n ```{out}```\nFeedback:\n"""
-                        suffix_prompt = "Please fix above error and rewrite rationale. New answer (write answer after ####, for example ####0.1):"
-                        #eval_prompt_txt = f"""Question: ```{src}``` Answer: ```{out}``` Please evaluate the rationale and answer. Your feedback:"""
-                        eval_inst_str = """You are a judge for the rationale of the answer. You will answer in JSON format. Like this, {'correctness': 'True', 'rationale': 'Explanation:'}. If answer is correct, 'correctness' will be 'True', otherwise is 'False'."""
+                        prompt_txt = prompt_txt + eval + "\n" + suffix_prompt
+                    elif task_type == "commonsenseQA":
+                        new_out = out[:-1].replace('\t\t', '\n\n')
+                        new_eval = eval.split('\t\t')[0]
+                        prompt_txt = f"""Q: {src['question']}\n\nAnswer Choices: Choices: A) {line['choices']['text'][0]}, B) {line['choices']['text'][1]}, C) {line['choices']['text'][2]}, D) {line['choices']['text'][3]}, E) {line['choices']['text'][4]}\n\nA: {new_out}\n\nFeedback: {new_eval}\n\nNew answer:"""
                     if api_source == "openai":
                         # perform refinement based on the feedback
                         response = (
@@ -198,7 +223,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                     elif api_source == "transformers":
                         model.generation_config = GenerationConfig.from_pretrained(name_dict[model_type])
                         model.generation_config.pad_token_id = model.generation_config.eos_token_id
-                        input_batch = [icl_refinements + [{"role": "user", "content": prompt_txt + eval + "\n" + suffix_prompt}]]
+                        input_batch = [icl_refinements + [{"role": "user", "content": prompt_txt}]]
                         input_batch = [tokenizer.apply_chat_template(ele, add_generation_prompt=True, tokenize=False) for ele in input_batch] 
                         inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         output = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
@@ -210,9 +235,16 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                             else:
                                 response = response.split('[/INST]')[4].split("\n")[0].strip()
                         else:
-                            response = response.split('[/INST]')[4].split("\n")[0].strip()
+                            if model_type == "deepseek_moe":
+                                response = response.split('Assistant:')[4].split("\n")[0].strip()
+                            else:
+                                response = response.split('[/INST]')[4].split("\n")[0].strip()
                         
-                        eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` Annotate errors in the translation. MQM annotations:"""
+                        if task_type == "mt":
+                            eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` Annotate errors in the translation. MQM annotations:"""
+                        else:
+                            # If I have other tasks and I will modiffy them for here
+                            pass
                         eval_inputs = tokenizer([eval_inp_prompt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         eval_out = model.generate(inputs=eval_inputs.input_ids, max_new_tokens=128)
                         eval_response = tokenizer.batch_decode(eval_out, skip_special_tokens=True)[0]
@@ -241,12 +273,17 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type):
                     eval_ls += [eval + "[SEP_TOKEN_WENDA]"]
                 pbar.update(1)
 
-        save_refine_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+        if task_type == "mt":
+            save_refine_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+            save_eval_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+        else:
+            save_refine_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+            save_eval_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+
         with open(save_refine_name,"w") as f:
             f.writelines(out_ls)
             print(f"{save_refine_name} is saved!")
 
-        save_eval_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
         with open(save_eval_name,"w") as f:
             f.writelines(eval_ls)
             print(f"{save_eval_name} is saved!")
