@@ -14,20 +14,22 @@ def distance_skewness(X, theta):
 
     # numerator and denominator of the distance skewness formula
     numerator = np.sum(pairwise_distances)
-    denominator = np.sum(np.abs(np.subtract.outer(X, X) - 2 * theta))
+    denominator = np.sum(np.abs(np.add.outer(X, X) - 2 * theta))
 
     # handle the case when Pr(X=theta) = 1
-    if numerator == 0 and denominator == 0:
+    if denominator == 0:
         return 0
     else:
         return 1 - numerator / denominator
+
+def skewness(X):
+    return sum([ele**3 for ele in X])/len(X) / (sum([ele**2 for ele in X])/len(X))**(3/2)
 
 
 @click.command()
 @click.option("-bleurt_nor_file")
 @click.option("-llm_score_file")
-@click.option("-lang")
-def main(bleurt_nor_file, llm_score_file, lang):
+def main(bleurt_nor_file, llm_score_file):
     lines = open(
         llm_score_file,
         "r",
@@ -55,11 +57,11 @@ def main(bleurt_nor_file, llm_score_file, lang):
     print("Bias mean: ", mean_bias)
 
     # 2) Use skewness to find the bias out of statistical distribution
-    skewsize = stats.skew(diff_ls, bias=True)
+    skewsize = skewness(diff_ls)
     print("Bias skewness: ", skewsize)
 
     # 3) Study the shape of distribution
-    d_skew = distance_skewness(diff_ls, mean_bias)
+    d_skew = distance_skewness(diff_ls, 0)
     print("Bias distance skewness: ", d_skew)
     print()
 
