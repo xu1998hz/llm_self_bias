@@ -1,0 +1,224 @@
+1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1[SEP_TOKEN_WENDA]1. “The” should be “The”. 2. “The” should be “The”. 3. “The” should be “The”. 4. “The” should be “The”. 5. “The” should be “The”. 6. “The” should be “The”. 7. “The” should be “The”. 8. “The” should be “The”. 9. “The” should be “The”. 1[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]'Squadron Leader' is a major accuracy/addition error
+'Outstanding Young Person of the Year' is a major accuracy/mistranslation error
+'contribution' is a minor fluency/register error
+'invited to speak' is a minor fluency/style error[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1[SEP_TOKEN_WENDA]1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM[SEP_TOKEN_WENDA]MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM: MQM[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]'the United States of America' is a major accuracy/omission error
+'the United States Congress' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Մնացել են միանող են միավորված են միավորված են միավորված են միավորված[SEP_TOKEN_WENDA]'living' is a major accuracy/omission error
+'the cave' is a major accuracy/omission error
+'40 years' is a minor fluency/grammar error
+'the Daily Mail' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]```[SEP_TOKEN_WENDA]'the stop-start' is a minor fluency error.[SEP_TOKEN_WENDA]'during the last years' is a major fluency/omission error
+'which was established' is a major fluency/mistranslation error
+'began in 1979' is a minor fluency/omission error
+'was sent' is a minor fluency/mistranslation error
+'to Cambodia' is a minor fluency/omission error[SEP_TOKEN_WENDA]1. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2. 2[SEP_TOKEN_WENDA]1. 2020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020202020[SEP_TOKEN_WENDA]'group of languages' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'լավագույն ստուդիան ստուդիան ստեղացվես ստեղացվես ստեղացվես ստեղացվե�[SEP_TOKEN_WENDA]1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. 15. 16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34.[SEP_TOKEN_WENDA]``````[SEP_TOKEN_WENDA]'partaje' is a minor fluency error.[SEP_TOKEN_WENDA]'The 100-Year-Old Man' is a major accuracy/omission error
+'The 100-Year-Old Boy' is a minor fluency/word choice error
+'The 100-Year-Old Man' is a minor fluency/word choice error
+'The 100-Year-Old Man' is a minor fluency/word choice error
+'The 100-Year-Old Boy' is a minor fluency/word choice error
+'The 100-Year-Old Man' is a minor fluency/word[SEP_TOKEN_WENDA]```[SEP_TOKEN_WENDA]1. 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a minor fluency/inappropriate for context error[SEP_TOKEN_WENDA]'The 100-Year-Old Man Who Traveled Back in Time' is a major accuracy/addition error
+'The 100-Year-Old Man Who Traveled Back in Time' is a major accuracy/omission error
+'The 100-Year-Old Man Who Traveled Back in Time' is a minor fluency/grammar error
+'The 100-Year-Old Man Who Traveled Back in Time' is a minor fluency/word choice error
+'The 100-Year-Old Man Who Traveled Back in Time' is a[SEP_TOKEN_WENDA]'ve Vídni' is a major accuracy/omission error
+'the stop-start' is a major accuracy/omission error
+```[SEP_TOKEN_WENDA]'սպայմանը' is a major fluency/spelling error
+'վիրավորելով' is a minor fluency/verb form error
+'ավելի մարդու' is a minor fluency/word choice error
+'ավելի շատ մարդու[SEP_TOKEN_WENDA]'English' is a major inaccuracy/omission error
+'English English' is a major inaccuracy/omission error
+'English English English' is a minor terminology/inappropriate for context error
+'English English English' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice error
+'languages' is a minor fluency/word choice[SEP_TOKEN_WENDA]'wolf' is a critical accuracy/mistranslation error
+'the other dogs' is a critical fluency/mistranslation error
+'their pursuit of prey' is a critical fluency/mistranslation error
+'their pack' is a critical fluency/mistranslation error
+'their pack leader' is a critical fluency/mistranslation error[SEP_TOKEN_WENDA]'languages' is a major accuracy/omission error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate for context error
+'languages' is a minor fluency/inappropriate[SEP_TOKEN_WENDA]'ռուսբիի' is a major accuracy/omission error
+'աստի�usa' is a minor terminology/context error
+'աստիկավան' is a minor terminology/context error
+'աստիկավան' is a minor terminology/context error
+'աստիկավան' is a minor terminology/context error[SEP_TOKEN_WENDA]'ճանապարհում' is a major accuracy/omission error
+'իրավիճիկների հանդիրում իրավիճիկների հանդիրում իրա[SEP_TOKEN_WENDA]'the' is a major accuracy/omission error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate for context error
+'the' is a minor fluency/inappropriate[SEP_TOKEN_WENDA]'չափնիշն' is a major accuracy/omission error
+'և' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Vladimir Putin' is a major accuracy/omission error
+'Xi Jinping' is a major accuracy/omission error
+'Angela Merkel' is a major accuracy/omission error
+'Donald Trump' is a major accuracy/omission error
+'Emmanuel Macron' is a major accuracy/omission error
+'Theresa May' is a major accuracy/omission error
+'Kim Jong-un' is a major accuracy/omission error
+'Xi Jinping' is a major accuracy/omission error
+'Vladimir Putin' is a major accuracy/omission[SEP_TOKEN_WENDA]'էն' is a minor fluency/spelling error
+'նախի' is a minor fluency/spelling error
+'նի' is a minor fluency/spelling error
+'նի' is a minor fluency/spelling error
+'նի' is a minor fluency/spelling error
+'նի' is a minor fluency/spelling error
+'նի' is a minor fluency/spelling error
+'նի' is a minor fluency/[SEP_TOKEN_WENDA]'Միլլերի վրա�ի վրա' is a major accuracy/omission error
+'պատմուները' is a minor fluency/inappropriate for context error
+'մեծ տպավորություն' is a minor fluency/inappropriate for context error
+'մի[SEP_TOKEN_WENDA]'նախագծի մասին' is a minor terminology/inappropriate for context error
+'ինչ էր նա ասաց' is a minor terminology/inappropriate for context error
+'ինչպես' is a minor terminology/inappropriate for context error
+'ինչպես' is a minor terminology/inappropriate for context error
+'�[SEP_TOKEN_WENDA]'Հուն' is a minor spelling/transliteration error
+'Հնգվիճակային' is a minor spelling/transliteration error
+'մինչեն ասադվելով մինչեն ածխածին երկու�[SEP_TOKEN_WENDA]'Ձղբի մասները կարողութի հիմակ ծավառը չի մասները կարողութի հիման վրայա[SEP_TOKEN_WENDA]'ve' is a verb, not a noun. The correct translation is 've' (to have).[SEP_TOKEN_WENDA]'the most famous person' is a major accuracy/omission error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a minor fluency/grammar error
+'the most famous person' is a[SEP_TOKEN_WENDA]'ve V' is a typo, it should be 've V'[SEP_TOKEN_WENDA]'The 100-Year-Old Secret of the Fountain of Youth' is a major accuracy/addition error
+'The Fountain of Youth' is a major accuracy/omission error
+'The Fountain of Youth' is a minor fluency/grammar error
+'The Fountain of Youth' is a minor fluency/spelling error
+'The Fountain of Youth' is a minor fluency/capitalization error
+'The Fountain of Youth' is a minor fluency/punctuation error
+'The Fountain of Youth' is a minor fluency/word choice error
+'The Fountain of Youth' is a minor[SEP_TOKEN_WENDA]'English' is a minor terminology/inappropriate for context error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor terminology/omission error
+'language' is a minor[SEP_TOKEN_WENDA]'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission error
+'languages' is a minor fluency/omission[SEP_TOKEN_WENDA]'until this coming summer' is a major fluency/time format error
+'significant contribution' is a major fluency/awkward error
+'which will be' is a minor fluency/mistranslation error
+'to the development' is a minor fluency/omission error
+'of the country's aviation industry' is a minor fluency/omission error
+'and will help to achieve' is a minor fluency/mistranslation error
+'the goals of the International Civil Aviation Organization' is a minor fluency/omission error[SEP_TOKEN_WENDA]'commander' is a minor fluency/register error
+'50th Squadron' is a minor fluency/omission error
+'commander of the 50th Squadron' is a minor fluency/omission error
+'commander' is a minor fluency/omission error
+'commander of the 50th Squadron' is a minor fluency/omission error
+'commander' is a minor fluency/omission error
+'50th Squadron' is a minor fluency/omission error
+'commander of the 50th Squadron' is a minor[SEP_TOKEN_WENDA]'նախագակտոր' is a major accuracy/omission error
+'նախագիտական' is a minor fluency/translation error
+'նախագիտական' is a minor fluency/translation error
+'նախագիտական' is a minor fluency/translation[SEP_TOKEN_WENDA]'the Tragedy' is a minor fluency/register error
+'the Commission' is a minor fluency/omission error
+'the Causes' is a minor fluency/omission error
+'of the Kursk submarine' is a minor fluency/omission error[SEP_TOKEN_WENDA]'used' is a major accuracy/omission error
+'countries' is a minor terminology/inappropriate for context error
+'used' is a minor fluency/grammar error
+'used' is a minor terminology/inappropriate for context error
+'used' is a minor fluency/grammar error
+'used' is a minor terminology/inappropriate for context error
+'used' is a minor fluency/grammar error
+'used' is a minor terminology/inappropriate for context error
+'used' is a minor fluency/grammar error
+'used' is a minor terminology/inappropriate for context[SEP_TOKEN_WENDA]'ve' is a typo, it should be 've' or 've'.[SEP_TOKEN_WENDA]'English' is a major accuracy/omission error
+'Germanic' is a minor fluency/grammar error
+'language' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the stop-start' is a major accuracy/omission error
+'the stop-start' is a minor terminology/context error[SEP_TOKEN_WENDA]'English' is a major accuracy/omission error
+'English' is a minor fluency/grammar error
+'English' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'conducted' is a major accuracy/mistranslation error
+'conducted' is a major fluency/register error
+'conducted' is a minor fluency/inappropriate for context error
+'included' is a minor fluency/inappropriate for context error[SEP_TOKEN_WENDA]'partaje' is a minor fluency/grammar error[SEP_TOKEN_WENDA]1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1[SEP_TOKEN_WENDA]'ve' is a verb, not a noun. The correct translation is 've' (verb) not 've' (noun).[SEP_TOKEN_WENDA]'ve' is translated as 've' in the translation.[SEP_TOKEN_WENDA]``````[SEP_TOKEN_WENDA]'ve Vídni' is a minor error, as it should be 'Vídeň'.[SEP_TOKEN_WENDA]'ve' is a typo, it should be 've'.[SEP_TOKEN_WENDA]'Squadron Leader' is a critical accuracy/addition error
+'Pattavee' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'միջավայրին' is a major fluency/inconsistency error
+'մանրակրկիտ' is a minor fluency/inconsistency error
+'շրջան' is a minor fluency/inconsistency error
+'միջավայրին' is a minor fluency/inconsistency error
+'ամբո�[SEP_TOKEN_WENDA]'նախագակելությունները' is a major accuracy/omission error
+'նախագիտավների' is a minor fluency/inappropriate for context error
+'նախագիտները' is a minor fluency/omission error
+'ն[SEP_TOKEN_WENDA]'history' is a major accuracy/omission error
+'the history of the history' is a minor fluency/awkward phrasing error
+'the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the history of the[SEP_TOKEN_WENDA]'the stop-start' is a major accuracy/omission error
+'the negotiations' is a minor fluency/word choice error[SEP_TOKEN_WENDA]'ողմից' is a major accuracy/omission error
+'հողերում' is a minor fluency/grammar error
+'հողերում' is a minor fluency/word choice error
+'հողերում' is a minor fluency/word choice error
+'հողերում' is a minor fluency/[SEP_TOKEN_WENDA]'ve Vízión' is a typo, it should be 'Vízión'[SEP_TOKEN_WENDA]1. 1111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111[SEP_TOKEN_WENDA]'ve Vízión' is a minor error, as it is a misspelling of the word 'vízión' (which is the Hungarian word for 'vision'). The correct translation is 'vízión'.[SEP_TOKEN_WENDA]'անուն' is a major accuracy/omission error
+'այսօր' is a minor fluency/word choice error
+'այսօրվեց' is a minor fluency/word choice error
+'ձևավորվեց' is a minor fluency/word choice error
+'ձևավորվեց' is a minor fluency/word[SEP_TOKEN_WENDA]'ազգային կենտրոնը (NHC) հայտնում է, որ այս պահին Ջերին երկրի համար որևէ վտ�[SEP_TOKEN_WENDA]'անձրևների' is a major accuracy/omission error
+'ճեղիների' is a minor fluency/word choice error
+'ճեղիների' is a minor fluency/word choice error
+'ճեղիների' is a minor fluency/word choice error
+'ճեղիներ[SEP_TOKEN_WENDA]'located in the 20th century' is a major accuracy/omission error
+'located in the Carpathian Mountains' is a major accuracy/mistranslation error
+'is currently covered in snow' is a minor fluency/grammar error
+'due to the fact' is a minor fluency/register error
+'covered in snow' is a minor fluency/style error
+'is covered in snow' is a minor fluency/style error[SEP_TOKEN_WENDA]'Ջուրը' is a major accuracy/omission error
+'մեկնաբառը' is a minor terminology/inappropriate for context error
+'հատվամաների' is a minor terminology/inappropriate for context error
+'լայնության' is a minor terminology/inappropriate for context error
+'համ�[SEP_TOKEN_WENDA]'անցած' is a minor fluency/word choice error
+'ամս Վիկինյուզի' is a minor fluency/word choice error
+'արտահայտեց' is a minor fluency/word choice error
+'հետ' is a minor fluency/word choice error
+'զրույցու[SEP_TOKEN_WENDA]'ձևացնելով' is a major terminology/omission error
+'լսում է' is a minor fluency/mistranslation error
+'իր արվեստի գործից' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'ներկայացնում' is a major accuracy/mistranslation error
+'լրատվամիջոցների' is a major fluency/mistranslation error
+'ինչպես' is a minor fluency/awkwardness error
+'ինչպես' is a minor fluency/awkward[SEP_TOKEN_WENDA]'խթանելու' is a minor fluency/translation error
+'խթանելու' is a minor fluency/translation error
+'խթանելու' is a minor fluency/translation error
+'խթանելու' is a minor fluency/translation error
+'խթանելու' is a[SEP_TOKEN_WENDA]'մասների մասների մասների մասների մասների մասների մասների մասների մաս�[SEP_TOKEN_WENDA]'ուժ' is a minor fluency/omission error
+'լեվոն Տակուջյան' is a minor terminology/inappropriate for context error
+'Հայաստանի գեղեցիա' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Squadron Leader Dilokrit Pattavee' is a major accuracy/omission error
+'Below is an instruction that describes a task' is a minor fluency/grammar error
+'Translate Armenian text into English' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'commander' is a major accuracy/omission error
+'2nd Air Division' is a minor fluency/translation error
+'Royal Thai Air Force' is a minor terminology/inappropriate for context error
+'Squadron Leader' is a minor terminology/inappropriate for context error
+'Pattavee' is a minor fluency/translation error[SEP_TOKEN_WENDA]'English' is a major terminology/mistranslation error
+'English English' is a minor terminology/mistranslation error
+'English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English English[SEP_TOKEN_WENDA]'նջանկալի ջուրը' is a minor fluency/word choice error[SEP_TOKEN_WENDA]'գործականում' is a minor fluency/translation error
+'հայտնաբերվել' is a minor fluency/translation error
+'ռադիոկտիվ' is a minor fluency/translation error
+'գործականում' is a minor fluency/translation[SEP_TOKEN_WENDA]'ուրանի' is a minor fluency/omission error
+'պարունակող տարաները' is a minor fluency/omission error
+'կտտեղ' is a minor fluency/omission error
+'ծորում' is a minor fluency/omission error[SEP_TOKEN_WENDA]'Դոկտոր Թոնի Մոլը' is a minor terminology/inappropriate for context error
+'Հարավաֆրիկյան հանրապետության' is a minor terminology/inappropriate for context error
+'Հարավաֆր[SEP_TOKEN_WENDA]'շատ խիստ անհանգստացնող' is a minor terminology/inappropriate for context error
+'մահացությունների շատ բարձր ցուցանիշի պ[SEP_TOKEN_WENDA]'Հիվանդանոցում' is a major terminology/inappropriate for context error
+'Հիվանդանոցի բուժաշխատողներ' is a minor terminology/inappropriate for context error
+'Հետազոտողներ[SEP_TOKEN_WENDA]

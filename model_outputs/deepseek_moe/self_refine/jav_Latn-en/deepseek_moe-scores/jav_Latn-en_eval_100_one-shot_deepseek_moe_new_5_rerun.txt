@@ -1,0 +1,434 @@
+'nduweni' is a minor terminology/inappropriate for context error
+'sadurunge' is a minor terminology/inappropriate for context error
+'ujare' is a minor fluency/register error[SEP_TOKEN_WENDA]'ing' is a minor fluency/grammar error
+'dalhousie' is a minor spelling/transliteration error
+'nova scotia' is a minor spelling/transliteration error
+'universitas' is a minor spelling/transliteration error
+'halifax' is a minor spelling/transliteration error
+'kanada' is a minor spelling/transliteration error
+'gengetake' is a minor spelling/transliteration error
+'menawa' is a minor spelling/transliteration error
+'panaliten' is a minor spelling/transliteration[SEP_TOKEN_WENDA]'dheweke' is a minor fluency/mistranslation error
+'nimbang' is a minor fluency/mistranslation error
+'uwis' is a minor fluency/mistranslation error
+'Jinis 1' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'saka' is a minor fluency/translation error
+'ing' is a minor fluency/translation error
+'tetep' is a minor fluency/translation error
+'sekretaris' is a minor fluency/translation error
+'ngumumake' is a minor fluency/translation error
+'nalika' is a minor fluency/translation error
+'acara' is a minor fluency/translation error
+'Radio' is a minor fluency/translation error
+'Sveriges' is a minor fluency/translation error
+'ngontak' is a minor flu[SEP_TOKEN_WENDA]'or' is a minor fluency/grammar error
+'iku' is a minor fluency/omission error
+'wangsulan' is a minor fluency/omission error
+'ramah' is a minor fluency/omission error[SEP_TOKEN_WENDA]'dwiwiti nalika bel lawang ora keprungu saka toko ing garasine' is a major fluency/awkward error
+'ujar manawa pakaryan' is a minor terminology/inappropriate for context error
+'saka toko ing garasine' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'mbangun' is a minor fluency/grammar error
+'bel lawang' is a minor fluency/omission error
+'WiFi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ing' is a minor fluency/grammar error
+'ingendi' is a minor fluency/omission error
+'ngendi' is a minor fluency/omission error
+'ngendi' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ngendi' is a minor fluency/omission error
+'ingendi' is a minor fluency/omission error
+'ingendi' is a minor fluency/omission error
+'ingendi' is a minor fluency/omission error
+'ingendi' is[SEP_TOKEN_WENDA]'ing' is a minor fluency/register error
+'blanja' is a minor fluency/spelling error
+'ing saluran' is a minor fluency/awkward error
+'ing saluran' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'saingan' is a minor locale convention/untranslated error
+'keamanan' is a minor locale convention/untranslated error
+'perusahaan' is a minor locale convention/untranslated error
+'gugatan' is a minor locale convention/untranslated error
+'perusahaan' is a minor locale convention/untranslated error
+'keamanan' is a minor locale convention/untranslated error
+'saingan' is a minor locale convention/untranslated error
+'perusahaan' is a minor locale convention/untranslated error
+'keamanan'[SEP_TOKEN_WENDA]'ana obat' is a minor fluency/spelling error
+'kabukten' is a minor spelling error
+'infeksi' is a minor spelling error
+'nganti saiki' is a minor fluency/register error[SEP_TOKEN_WENDA]'koko' is a minor fluency/spelling error
+'antibodi' is a minor fluency/spelling error
+'ZMapp' is a minor terminology/misspelled error
+'pisanane' is a minor fluency/spelling error
+'nuduhake' is a minor fluency/spelling error
+'pangarep-arep' is a minor fluency/spelling error
+'ing lapangan' is a minor fluency/spelling error
+'nanging' is a minor fluency/spelling error
+'panaliten'[SEP_TOKEN_WENDA]'duweni' is a minor fluency/grammar error
+'tegese' is a minor fluency/grammar error
+'ilmuwan' is a minor fluency/grammar error
+'duwenakake' is a minor fluency/grammar error
+'fungsi' is a minor fluency/grammar error
+'kontrol' is a minor fluency/grammar error
+'tegese' is a minor fluency/grammar error
+'tegese' is a minor fluency/grammar error
+'tegese' is a minor fluency/grammar error
+'[SEP_TOKEN_WENDA]'nyengkuyung' is a minor locale convention/untranslated text error
+'lan' is a minor fluency/register error
+'kabeh' is a minor fluency/spelling error
+'atlet' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'lan olahraga' is a major accuracy/omission error
+'bisa uga luwih' is a minor fluency/mistranslation error
+'sing migunani' is a minor fluency/mistranslation error
+'disertifikasi' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'nyengkuyung' is a minor fluency/spelling error
+'sing mungkin' is a minor fluency/awkwardness error
+'sing kendel' is a minor fluency/awkwardness error
+'dening' is a minor fluency/awkwardness error
+'eiah-ewahan' is a minor fluency/awkwardness error
+'lan ngrangkul' is a minor fluency/awkwardness error
+'saben' is a minor fluency/awkwardness error
+'eiah-ewahan' is a[SEP_TOKEN_WENDA]'sing' is a minor fluency/spelling error
+'sing' is a minor fluency/register error
+'amano' is a minor fluency/spelling error
+'ing' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling[SEP_TOKEN_WENDA]'nyambut' is a minor fluency/mistranslation error
+'minangka' is a minor terminology/inappropriate for context error
+'administrasine' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'Sajrone pamilihan' is a minor terminology/inappropriate for context error
+'dheweke' is a minor fluency/mistranslation error
+'menehi' is a minor fluency/mistranslation error
+'nganuti' is a minor fluency/mistranslation error
+'taun' is a minor fluency/mistranslation error
+'wiwit' is a minor fluency/mistranslation error
+'taun' is a minor fluency/mistranslation error
+'taun' is a minor fluency[SEP_TOKEN_WENDA]'as part of' is a minor fluency/translation error
+'led by Carter' is a minor fluency/translation error
+'revolusi Iran' is a minor terminology/inappropriate for context error
+'ghan' is a minor locale convention/spelling error[SEP_TOKEN_WENDA]'kabeh' is a minor locale convention/spelling error
+'ing' is a minor locale convention/punctuation error
+'contó' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'Gosling and Stone' is a minor terminology/inappropriate for context error
+'kanthi urut-urutan' is a minor locale convention/inappropriate time format error[SEP_TOKEN_WENDA]'Kalebu' is a minor fluency/spelling error
+'Desain' is a minor fluency/spelling error
+'Lan' is a minor fluency/spelling error
+'Asli' is a minor fluency/spelling error
+'Desain' is a minor fluency/spelling error
+'Edit' is a minor fluency/spelling error
+'Swara' is a minor fluency/spelling error
+'Naskah' is a minor fluency/spelling error
+'Asli' is a minor fluency/spelling error
+'G[SEP_TOKEN_WENDA]'saka' is a minor fluency/spelling error
+'liyane' is a minor fluency/style error
+'asli' is a minor fluency/spelling error
+'The Fools Who Dream' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'minggu wengi' is a minor fluency/grammar error
+'Presiden AS Donald Trump' is a minor fluency/inappropriate for context error
+'ing katrangan sing dikirim liwat' is a minor fluency/inappropriate for context error
+'sekat' is a minor fluency/inappropriate for context error
+'AS' is a minor fluency/inappropriate for context error
+'bakal' is a minor fluency/inappropriate for context error
+'Suriah' is a minor fluency/inappropriate for context error
+'Mike Pompeo' is[SEP_TOKEN_WENDA]'ngobrol liwat tilpun' is a major accuracy/mistranslation error
+'Wara-wara' is a minor fluency/awkwardness error
+'digawe' is a minor fluency/spelling error
+'sawise' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'ngurus dhewe' is a minor fluency/mistranslation error
+'lapuran' is a minor fluency/mistranslation error
+'mbalekake' is a minor fluency/mistranslation error
+'or' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'sing nduweni' is a minor fluency/spelling error
+'telung-dimensi' is a minor terminology/awkward error
+'umpamane' is a minor fluency/register error[SEP_TOKEN_WENDA]'coklat-kacang' is a minor terminology/inappropriate for context error
+'ana ndhuwur' is a minor fluency/register error
+'lan pucet' is a minor fluency/spelling error
+'warna karoten' is a minor fluency/style error[SEP_TOKEN_WENDA]'saka' is a minor fluency/spelling error
+'wulu' is a minor locale convention/untranslated text error
+'ing' is a minor locale convention/untranslated text error[SEP_TOKEN_WENDA]'duwe' is a minor fluency/spelling error
+'sing berkembang' is a minor fluency/grammar error
+'liyane' is a minor fluency/spelling error
+'lan' is a minor fluency/spelling error
+'barbule-barbule' is a minor terminology/inappropriate for context error
+'sabanjure' is a minor fluency/spelling error
+'iku kemungkinan' is a minor fluency/grammar error
+'sawijining' is a minor fluency/spelling error
+'per[SEP_TOKEN_WENDA]'dudu piyik' is a minor terminology/inappropriate for context error
+'lan dudu' is a minor fluency/register error
+'dudu piyik' is a minor fluency/register error[SEP_TOKEN_WENDA]'lan dudu piyik' is a minor fluency/spelling error
+'diwasa' is a minor locale convention/date format error
+'sanadyan' is a minor fluency/character encoding error
+'enom' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'wingi' is a minor fluency/grammar error
+'esuk' is a minor fluency/translation error
+'lano' is a minor fluency/translation error
+'nglarani' is a minor fluency/translation error
+'luwih' is a minor fluency/translation error
+'saka' is a minor fluency/translation error
+'wongi' is a minor fluency/translation error
+'polisi' is a minor fluency/translation error
+'Gaziantep' is a minor fluency/translation error
+'Turki' is[SEP_TOKEN_WENDA]'ngendikan' is a minor fluency/spelling error
+'wong sing' is a minor terminology/inappropriate for context error
+'pulisi' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'marang' is a minor fluency/grammar error
+'sujana' is a minor fluency/grammar error
+'marang' is a minor fluency/grammar error
+'serangan' is a minor fluency/grammar error
+'kasebut' is a minor fluency/grammar error
+'tanggungjawab' is a minor fluency/grammar error
+'marang serangan' is a minor fluency/grammar error
+'marang' is a minor fluency/grammar error
+'marang' is a minor fluency/grammar error
+'marang' is[SEP_TOKEN_WENDA]'menawa' is a minor fluency/grammar error
+'bintang-bintang' is a minor terminology/inappropriate for context error
+'dhasar sing padha' is a minor terminology/inappropriate for context error
+'ditemokake' is a minor fluency/grammar error
+'tinggal' is a minor fluency/grammar error
+'kaya' is a minor fluency/grammar error
+'bintang-bintang' is a minor terminology/inappropriate for context error
+'tinggal' is a minor fluency/grammar error
+'k[SEP_TOKEN_WENDA]'ana gandhengane' is a minor fluency/spelling error
+'bintang Rossby' is a minor terminology/inappropriate for context error
+'nemtokake nomer bintang Rossby' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Sansaya cilik angka Rossby' is a major accuracy/mistranslation error
+'sansaya kurang aktif lintang kasebut disebabke dening kuwalikan magnetik' is a major accuracy/mistranslation error
+'dening' is a minor fluency/spelling error
+'kuwalikan' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nalika' is a minor fluency/spelling error
+'ing' is a minor fluency/register error
+'pirang-pirang' is a minor locale convention/name error
+'kasempatan' is a minor locale convention/time format error[SEP_TOKEN_WENDA]'perompak' is a minor terminology/inappropriate for context error
+'diserang' is a minor fluency/spelling error
+'dening' is a minor fluency/register error
+'lolos' is a minor fluency/grammar error
+'sakam' is a minor fluency/spelling error
+'mantenan' is a minor fluency/grammar error
+'edan' is a minor fluency/spelling error
+'ditangkap' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'mlaku' is a minor terminology/inappropriate for context error
+'ing frekwensi' is a minor fluency/spelling error
+'lan' is a minor fluency/register error[SEP_TOKEN_WENDA]'802.11a, 802.11b, and 802.11g' is a minor terminology/inappropriate for context error
+'dhasar duwe rong radio' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'sadurunge' is a minor fluency/spelling error
+'maksimal' is a minor fluency/spelling error
+'teori' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'bocah dewasa' is a minor terminology/inappropriate for context error
+'ana gayutane' is a minor fluency/register error
+'gedhe marang' is a minor fluency/mistranslation error
+'cerita iku' is a minor fluency/omission error[SEP_TOKEN_WENDA]'tanggepan' is a minor fluency/mistranslation error
+'ngomong' is a minor fluency/mistranslation error
+'apakah' is a minor fluency/mistranslation error
+'sing diomongake' is a minor fluency/mistranslation error
+'diomongake' is a minor fluency/mistranslation error
+'dadi' is a minor fluency/mistranslation error
+'oru' is a minor fluency/mistranslation error
+'apati' is a minor flu[SEP_TOKEN_WENDA]'ngelongi' is a minor fluency/mistranslation error
+'metune' is a minor fluency/mistranslation error
+'saben' is a minor fluency/mistranslation error
+'unit PDB' is a minor fluency/mistranslation error
+'kanthi' is a minor fluency/mistranslation error
+'ing' is a minor fluency/mistranslation error
+'2020 saka tingkat' is a minor fluency/mistranslation error
+'ujare Hu' is a[SEP_TOKEN_WENDA]'digawe' is a critical accuracy/mistranslation error
+'ekonomi' is a minor fluency/spelling error
+'asil' is a minor fluency/register error
+'Cina' is a minor fluency/locale convention error[SEP_TOKEN_WENDA]'sepisan' is a minor terminology/inappropriate for context error
+'bagean sabanjure' is a minor locale convention/unclear error[SEP_TOKEN_WENDA]'so that' is a minor fluency/awkwardness error
+'dheweke' is a minor terminology/inappropriate for context error
+'nguluwihi' is a minor locale convention/unclear error
+'pangembangan' is a minor locale convention/unclear error
+'tanggung jawab' is a minor locale convention/unclear error
+'katrampilan' is a minor locale convention/unclear error[SEP_TOKEN_WENDA]'ing' is a minor fluency/spelling error
+'jam' is a minor fluency/phonetic error
+'lapuran' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nguwisi' is a major accuracy/omission error
+'perang sektarian' is a major accuracy/mistranslation error
+'tibane' is a minor fluency/word choice error
+'gonjang-ganjinge' is a minor fluency/word choice error[SEP_TOKEN_WENDA]'lan pembentukan permufakatan' is a major accuracy/mistranslation error
+'babagan kabijakan' is a minor fluency/spelling error
+'marang' is a minor locale convention/time format error[SEP_TOKEN_WENDA]'meh' is a minor fluency/spelling error
+'kabeh' is a minor fluency/spelling error
+'sisih' is a minor fluency/spelling error
+'kabijakan' is a minor fluency/spelling error
+'Eksekutif' is a minor fluency/spelling error
+'marang' is a minor fluency/spelling error
+'lan' is a minor fluency/spelling error
+'ndhesek' is a minor fluency/spelling error
+'ngganti' is a minor flu[SEP_TOKEN_WENDA]'taun iki kanggo ngamanke perbatasan' is a minor fluency/grammar error
+'taun iki kanggo ngamanke perbatasan' is a minor fluency/grammar error
+'taun iki kanggo ngamanke perbatasan' is a minor fluency/grammar error
+'taun iki kanggo ngamanke perbatasan' is a minor fluency/grammar error
+'taun iki kanggo ngamanke perbatasan' is a minor fluency/grammar error
+'taun iki kanggo ngamanke perbatasan[SEP_TOKEN_WENDA]'deo' is a minor fluency/spelling error
+'wingi' is a minor fluency/spelling error
+'dulo' is a minor fluency/spelling error
+'mil' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Teatro Argentina' is a minor terminology/inappropriate for context error
+'2005 campaign' is a minor terminology/inappropriate for context error
+'Buenos Aires Provincial Assembly' is a minor terminology/inappropriate for context error
+'Dewan anggilan perwakilan propinsi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dening' is a minor fluency/grammar error
+'perkara' is a minor terminology/inappropriate for context error
+'dana' is a minor fluency/spelling error
+'bantuan' is a minor fluency/spelling error
+'ulang' is a minor fluency/spelling error
+'sing' is a minor fluency/spelling error
+'kena' is a minor fluency/spelling error
+'Lesus Katrina' is a minor terminology/inappropriate for context error
+'dene' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'jerone Washington' is a minor terminology/inappropriate for context error
+'ditampa' is a minor terminology/inappropriate for context error
+'diawehkene' is a minor fluency/register error[SEP_TOKEN_WENDA]'yuta' is a minor fluency/spelling error
+'nglayat' is a minor fluency/punctuation error
+'menyang' is a minor fluency/register error[SEP_TOKEN_WENDA]'wong sing' is a minor fluency/grammar error
+'teka akeh' is a minor fluency/word choice error
+'banget saengga saben' is a minor fluency/word choice error
+'wong' is a minor fluency/word choice error
+'or' is a minor fluency/word choice error
+'bakal oleh dalan menyang kuburan ing Lapangan St. Peter' is a minor fluency/word choice error
+'ing' is a minor fluency/word choice error
+'Lapangan St. Peter' is a[SEP_TOKEN_WENDA]'ing' is a minor locale convention/character encoding error
+'bisa' is a minor locale convention/inconsistent use error
+'kasebut' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'pirang-pirang' is a minor terminology/inappropriate for context error
+'saindenging jagad' is a minor terminology/inappropriate for context error
+'tatanan digawe padha' is a minor fluency/register error
+'sing katon akeh masarakat' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'nyacad' is a minor fluency/grammar error
+'sarasilah' is a minor fluency/spelling error
+'sing kepungkur' is a minor fluency/word choice error
+'amarga' is a minor fluency/word choice error
+'nggawe' is a minor fluency/word choice error
+'fokus' is a minor fluency/word choice error
+'sumber daya' is a minor fluency/word choice error
+'marangkat' is a minor fluency/word choice error
+'kantor' is a[SEP_TOKEN_WENDA]'pemungutan' is a major accuracy/omission error
+'menawa' is a minor fluency/translation error
+'menyang' is a minor fluency/translation error
+'diwasa' is a minor fluency/translation error
+'pornogrfi' is a minor fluency/translation error
+'diwasa' is a minor fluency/translation error
+'diwasa' is a minor fluency/translation error
+'diwasa' is a minor fluency/translation error
+'diwasa' is a minor fluency/translation error
+'diwas[SEP_TOKEN_WENDA]'namung' is a minor fluency/grammar error
+'bal' is a minor fluency/grammar error
+'lan' is a minor fluency/grammar error
+'2 neneman' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'lan' is a minor fluency/register error
+'mitra mlayu-atusan' is a minor terminology/inappropriate for context error
+'kanthi' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ing sapungkasane babak' is a minor locale convention/untranslated text error
+'kalah' is a minor locale convention/untranslated text error
+'gawang ing' is a minor locale convention/untranslated text error
+'mung nggawe' is a minor locale convention/untranslated text error
+'7 gawang' is a minor locale convention/untranslated text error
+'kalah 7' is a minor locale convention/untranslated text error
+'playon' is a minor locale convention/untranslated text error
+'kapten' is a minor locale[SEP_TOKEN_WENDA]'ing' is a minor fluency/register error
+'miwiti' is a minor terminology/inappropriate for context error
+'tur' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Lan ngrembug' is a major fluency/grammar error
+'Perdana Menteri Singapura' is a minor locale convention/spelling error
+'Wan Azizah Wan Ismail' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ing' is a minor fluency/grammar error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error
+'ing' is a minor fluency/omission error[SEP_TOKEN_WENDA]'sakdorone' is a minor fluency/spelling error
+'sakwise' is a minor fluency/spelling error
+'pemimpin' is a minor fluency/spelling error
+'pempentah' is a minor fluency/spelling error
+'menyang' is a minor fluency/spelling error
+'kabeh' is a minor fluency/spelling error
+'ditinjau' is a minor fluency/spelling error
+'kabeh' is a minor fluency/spelling error
+'partai' is a minor[SEP_TOKEN_WENDA]'conservative environmental legislation' is a major terminology/inappropriate for context error
+'the third part' is a minor fluency/register error
+'the meeting agenda' is a minor fluency/register error[SEP_TOKEN_WENDA]'ing' is a minor fluency/register error
+'polis' is a minor terminology/inappropriate for context error
+'diundang' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'naling Perdana Menteri John Howard' is a minor terminology/inappropriate for context error
+'ngendikan' is a minor fluency/mistranslation error
+'ming dienggo' is a minor fluency/mistranslation error
+'nunca' is a minor fluency/mistranslation error
+'dening' is a minor fluency/mistranslation error
+'parangkate' is a minor fluency/mistranslation error
+'denehi' is a minor fluency/mistranslation error
+'d[SEP_TOKEN_WENDA]'ana asil sing nuduhake' is a major fluency/mistranslation error
+'kacathet ana cedhake' is a minor fluency/mistranslation error
+'tawa' is a minor locale convention/spelling error
+'lan Niue' is a minor locale convention/translation error[SEP_TOKEN_WENDA]'ana ana' is a major accuracy/addition error
+'utawa cilaka' is a major accuracy/omission error
+'nyegah panguwasa' is a minor fluency/inappropriate for context error
+'diwetokake' is a minor fluency/omission error
+'dening PTWC' is a minor fluency/omission error[SEP_TOKEN_WENDA]'sing' is a minor fluency/grammar error
+'cingkol' is a minor fluency/omission error
+'dina' is a minor fluency/omission error
+'Rebo' is a minor fluency/omission error
+'wingi' is a minor fluency/omission error
+'sanadyan' is a minor fluency/omission error
+'wis' is a minor fluency/omission error
+'anca' is a minor fluency/omission error
+'mbebayani' is a minor fluency/omission error[SEP_TOKEN_WENDA]'wara-wara' is a minor fluency/grammar error
+'kasebut' is a minor fluency/omission error
+'presiden AS' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'jangkah' is a minor fluency/transcription error
+'maju' is a minor fluency/transcription error
+'sing' is a minor fluency/transcription error
+'gendeh' is a minor fluency/transcription error
+'tuujuan' is a minor fluency/transcription error
+'konggo' is a minor fluency/transcription error
+'jangkah' is a minor fluency/transcription error
+'majuu' is a minor fluency/transcription error
+'jangkah' is a minor fluency/trans[SEP_TOKEN_WENDA]'Subtropis' is a minor terminology/inappropriate for context error
+'belonging to the Atlantic Ocean' is a minor fluency/register error[SEP_TOKEN_WENDA]'area' is a minor fluency/spelling error
+'i' is a minor fluency/character encoding error
+'mbebayani' is a minor terminology/inappropriate for context error
+'saiki' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'bisa' is a minor fluency/mistranslation error
+'sadurunge' is a minor locale convention/untranslated text error
+'in a region' is a minor style/awkward error[SEP_TOKEN_WENDA]'nama' is a minor fluency/spelling error
+'kena' is a minor fluency/mistranslation error
+'dhuwure' is a minor fluency/mistranslation error
+'sak-boyok' is a minor fluency/mistranslation error
+'amarga' is a minor fluency/mistranslation error
+'tanggul' is a minor fluency/mistranslation error
+'cedhak' is a minor fluency/mistranslation error
+'kono' is a minor fluency/mistr[SEP_TOKEN_WENDA]'minggu' is a minor locale convention/date format error
+'sikil' is a minor locale convention/currency format error
+'Ambane' is a minor locale convention/telephone format error[SEP_TOKEN_WENDA]'nalika dheweke' is a critical accuracy/mistranslation error
+'sasi kepungkur' is a minor fluency/style error
+'marang' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'dhasare' is a minor fluency/grammar error
+'sepisan' is a minor fluency/grammar error
+'kanthi' is a minor fluency/grammar error
+'kaping' is a minor fluency/grammar error
+'pindho' is a minor fluency/grammar error
+'ethok-ethok' is a minor terminology/inappropriate for context error
+'dheweke' is a minor terminology/inappropriate for context error
+'lanang' is a minor terminology/inappropriate for context error
+'kita' is a minor fluency/[SEP_TOKEN_WENDA]'masarakat' is a minor terminology/inappropriate for context error
+'saiki' is a minor fluency/register error
+'situs ing dadi' is a minor fluency/locale convention error
+'tuhanrumahe' is a minor fluency/character encoding error
+'yutaan' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'gedhe iku teoritis' is a minor terminology/inappropriate for context error
+'digawe' is a minor terminology/inappropriate for context error
+'saksi' is a minor locale convention/spelling error
+'simulasi' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'dening' is a critical accuracy/mistranslation error
+'iki yaiku' is a critical fluency/mistranslation error
+'dening kakuwatan pasang surut' is a critical fluency/mistranslation error
+'antarane materi' is a critical fluency/mistranslation error
+'sing ora katon saka' is a critical fluency/mistranslation error
+'galaksi lan' is a critical fluency/mistranslation error
+'materi sing ora katon saka' is[SEP_TOKEN_WENDA]'rembulan' is a minor fluency/spelling error
+'nyebabake' is a minor fluency/spelling error
+'laga' is a minor fluency/spelling error
+'sagitarius' is a minor fluency/spelling error
+'kekuwatan' is a minor fluency/spelling error
+'galaksi' is a minor fluency/spelling error
+'marang' is a minor fluency/spelling error
+'marang galaksi' is a minor fluency/spelling error
+'marang bumi'[SEP_TOKEN_WENDA]'marang materi' is a major accuracy/omission error
+'kanthi cara' is a minor fluency/word choice error
+'karon materi' is a minor fluency/word choice error
+'sing katon' is a minor fluency/word choice error
+'sing padha' is a minor fluency/word choice error
+'karon' is a minor fluency/word choice error
+'sing' is a minor fluency/word choice error
+'koni' is a minor fluency/word choice error
+'sing koni' is a minor fluency[SEP_TOKEN_WENDA]'lan' is a minor fluency/register error
+'sing akeh' is a minor terminology/inappropriate for context error
+'cillik' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'putih' is a minor fluency/grammar error
+'pabrik' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'sakiwatengene' is a minor locale convention/unclear error
+'marai adhem' is a minor locale convention/unclear error
+'or' is a minor locale convention/unclear error
+'ombine' is a minor locale convention/unclear error
+'ledeng' is a minor locale convention/unclear error[SEP_TOKEN_WENDA]'tandur-tanduran' is a minor locale convention/character encoding error
+'diidentifikasi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'bisa' is a minor fluency/spelling error
+'lan' is a minor locale convention/awkward error
+'uga' is a minor fluency/character encoding error
+'bocor' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ing' is a minor fluency/register error
+'wilayah' is a minor terminology/inappropriate for context error
+'KwaZulu-Natal' is a minor locale convention error[SEP_TOKEN_WENDA]'dheweke' is a minor fluency/mistranslation error
+'amarga' is a minor fluency/mistranslation error
+'tingkat' is a minor fluency/mistranslation error
+'sing dhuwur' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'ing griya sakit' is a minor fluency/locale convention error
+'lan paling ora loro yaiku' is a minor fluency/locale convention error
+'kasarasan griya sakit' is a minor fluency/locale convention error[SEP_TOKEN_WENDA]
