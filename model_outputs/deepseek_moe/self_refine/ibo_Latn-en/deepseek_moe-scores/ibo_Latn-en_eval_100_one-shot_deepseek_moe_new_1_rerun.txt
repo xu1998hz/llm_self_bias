@@ -1,0 +1,411 @@
+'ugbu a' is a major accuracy/addition error
+'anyị nwere ụmụ oke ọnwa anọ na-arịabu ọrịa shuga mana ha anaghị arịazi ya' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'ọkammụta' is a minor fluency/word choice error
+'ọgwụ na' is a minor fluency/word choice error
+'na' is a minor fluency/word choice error
+'sayensi' is a minor fluency/word choice error
+'otọ ọgwụ' is a minor fluency/word choice error
+'na' is a minor fluency/word choice error
+'nnyocha' is a minor fluency/word choice error
+'aka' is a minor fluency/word choice error
+'[SEP_TOKEN_WENDA]'ta' is a minor fluency/orthographic error
+'ọrịa' is a minor fluency/orthographic error
+'shuga' is a minor fluency/orthographic error
+'Taịp' is a minor fluency/orthographic error
+'1st squadron' is a minor terminology/inappropriate for context error
+'Squadron Leader' is a minor terminology/inappropriate for context error
+'Dilokrit Pattavee' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ụbọchị' is a minor fluency/register error
+'na ihe omume redio' is a minor fluency/mispelling error
+'na Sveriges Redio' is a minor fluency/mispelling error
+'mgbe o siere' is a minor fluency/mispelling error
+'na ihe nrite Nobel' is a minor fluency/mispelling error
+'na mpaghara Akwụkwọ agụmagụ nke afọ 2016' is a minor flu[SEP_TOKEN_WENDA]'Ugbu a anyị' is a minor fluency/register error
+'ọbụla' is a minor fluency/spelling error
+'akpọọlam' is a minor fluency/mispelling error
+'na ya' is a minor fluency/mispelling error
+'nnabata' is a minor fluency/mispelling error
+'ụsa' is a minor fluency/mispelling error
+'nnwetekwa' is a minor fluency/mispelling error
+'ụsa' is a minor[SEP_TOKEN_WENDA]'mgbe' is a major fluency/grammar error
+'onye' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'kwuru' is a major fluency/grammar error
+'ọ rụrụ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'na orire ahịa' is a minor fluency/register error
+'itinye ego na mbido' is a minor fluency/awkwardness error
+'n'ihe nkiri' is a minor fluency/spelling error
+'n'afọ 2013' is a minor fluency/time format error[SEP_TOKEN_WENDA]'e gosiri' is a minor fluency/spelling error
+'na chanel' is a minor fluency/spelling error
+'inye' is a minor fluency/spelling error
+'onyonyo' is a minor fluency/spelling error
+'igbe' is a minor fluency/spelling error
+'ngwụcha' is a minor fluency/spelling error
+'na' is a minor fluency/spelling error
+'QVC' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'na-ahụ' is a minor fluency/spelling error
+'ọrụ ọzọ' is a minor locale convention/unclear error
+'nwere' is a minor fluency/register error[SEP_TOKEN_WENDA]'ọgwụ ọbụla gosiri hooha' is a minor terminology/inappropriate for context error
+'ọrịa a' is a minor fluency/register error
+'na-ele anya egosila' is a minor fluency/mistranslation error
+'na-emekọọ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ọnwụ' is a minor terminology/inappropriate for context error
+'achọpụtara' is a minor fluency/register error
+'ọbaghị uru' is a minor fluency/style error[SEP_TOKEN_WENDA]'nke' is a minor fluency/character encoding error
+'nruba' is a minor fluency/character encoding error
+'nkwero' is a minor fluency/character encoding error
+'am' is a minor fluency/character encoding error
+'nke' is a minor fluency/character encoding error
+'putara' is a minor fluency/character encoding error
+'nke' is a minor fluency/character encoding error
+'nke' is a minor fluency/character encoding error
+'nke' is a minor fluency/character encoding error
+'[SEP_TOKEN_WENDA]'ọnụ' is a minor fluency/orthographic error
+'ọrụ' is a minor fluency/orthographic error
+'ọnụ' is a minor fluency/orthographic error
+'ọrụ' is a minor fluency/orthographic error
+'ọnụ' is a minor fluency/orthographic error
+'ọrụ' is a minor fluency/orthographic error
+'ọnụ' is a minor fluency/orthographic error
+'ọrụ' is a[SEP_TOKEN_WENDA]'The USOC is the USOC' is a major fluency/repetition error
+'enweta uru' is a minor fluency/translation error
+'asambodo ha' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'nke' is a minor fluency/omission error
+'nwere' is a minor fluency/omission error
+'ihe' is a minor fluency/omission error
+'mgbanwe' is a minor fluency/omission error
+'kwesịrị' is a minor fluency/omission error
+'kwesịrị' is a minor fluency/omission error
+'e' is a minor fluency/omission error
+'kwesịrị' is a minor fluency/omission error
+'[SEP_TOKEN_WENDA]'egwuregwu jimnastik' is a critical accuracy/mistranslation error
+'na ndi USOC' is a minor fluency/spelling error
+'iroha' is a minor fluency/phonetic error
+'na gburu-gburu akwado' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'ọrụrụ' is a minor fluency/word choice error
+'ọkwa' is a minor fluency/word choice error
+'ọchịchị' is a minor fluency/word choice error[SEP_TOKEN_WENDA]'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a minor fluency/word choice error
+'ọrụ' is a[SEP_TOKEN_WENDA]'ịka Nkwekọrịta Kampụ Devidi, 1978' is a major accuracy/omission error
+'ihazigharị mmekọrịta US–Chaịna' is a major accuracy/omission error
+'Mgbanwe ọchịchị Iran' is a major accuracy/omission error
+'nke butere nsogbu njigide Iran, 1979' is a major accuracy/omission error
+'Mbuso agha nke[SEP_TOKEN_WENDA]'Vihdii' is a major accuracy/omission error
+'Vihdii' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ịnweta' is a minor fluency/spelling error
+'nturu' is a minor fluency/spelling error
+'ugo' is a minor fluency/spelling error
+'Best Aktọ' is a minor fluency/spelling error
+'Best Aktres' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Ụda' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'Ụrụ' is a minor fluency/register error
+'�[SEP_TOKEN_WENDA]'Ọdishọn' is a minor terminology/inappropriate for context error
+'Obodo Kpakpandu' is a minor locale convention/untranslated text error
+'nwere ntere' is a minor fluency/mistranslation error
+'aka 26' is a minor fluency/spelling error
+'ndi a' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'ụbọchị' is a minor fluency/spelling error
+'Onye isi' is a minor fluency/spelling error
+'ọchịchị' is a minor fluency/spelling error
+'Yunaịted Steeti' is a minor fluency/spelling error
+'na ndị agha' is a minor fluency/spelling error
+'akụkọ' is a minor fluency/spelling error
+'nke sịrị' is a minor fluency/sp[SEP_TOKEN_WENDA]'ị' is a minor fluency/character encoding error
+'ọkuputara' is a minor terminology/inappropriate for context error
+'ọna' is a minor fluency/punctuation error
+'ọna' is a minor fluency/spelling error
+'ọna' is a minor fluency/inconsistency error
+'ọna' is a minor fluency/register error
+'ọna' is a minor fluency/style error
+'ọna' is a minor fluency/non-translation error
+'ọna' is a[SEP_TOKEN_WENDA]'izichawị' is a minor fluency/spelling error
+'na Europe' is a minor fluency/register error
+'ịnabata' is a minor fluency/mispelling error[SEP_TOKEN_WENDA]'ọtụtụ' is a minor fluency/word choice error
+'ọna-egosi' is a minor fluency/word choice error
+'na-na-egosi' is a minor fluency/word choice error
+'anyị' is a minor fluency/word choice error
+'ihe' is a minor fluency/word choice error
+'fosịl' is a minor fluency/word choice error
+'enweghị' is a minor fluency/word choice error
+'ihe' is a minor fluency/[SEP_TOKEN_WENDA]'nwere mgbe ọ' is a minor fluency/omission error
+'na-acha aja aja n'elu ma' is a minor fluency/mistranslation error
+'na-acha ka karotenọịd n'okpuru' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'mmalite' is a minor terminology/inappropriate for context error
+'nnụnụ' is a minor locale convention/untranslated text error
+'aku' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ọbụ' is a minor fluency/orthographic error
+'ọzọ' is a minor fluency/orthographic error
+'ọme' is a minor fluency/orthographic error
+'ọrachis' is a minor fluency/orthographic error
+'ọme' is a minor fluency/orthographic error
+'ọkuru' is a minor fluency/orthographic error
+'ọrachis' is a minor fluency/orthographic error
+'ọme' is a minor fluency/orthographic error[SEP_TOKEN_WENDA]'n'agbanyeghị' is a minor fluency/mistranslation error
+'na-abụghị' is a minor fluency/mistranslation error
+'nke' is a minor fluency/mistranslation error
+'anụ' is a minor fluency/mistranslation error
+'tochara' is a minor fluency/mistranslation error
+'etọ' is a minor fluency/mistranslation error
+'na-eto' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'ọdụ daịnosọ' is a minor terminology/inappropriate for context error
+'anụ tochara etocha' is a minor fluency/spelling error
+'na-abụghị nku nwa anụ' is a minor fluency/register error[SEP_TOKEN_WENDA]'ọrụ ndị uwe ojii' is a major fluency/register error
+'ụtụtụ ụnyaahụ' is a minor fluency/grammar error
+'ma merụọ' is a minor fluency/spelling error
+'iri abụọ' is a minor fluency/register error[SEP_TOKEN_WENDA]'Ụlọ ọrụ gọvanọ' is a minor terminology/inappropriate for context error
+'kwuru iri na itoolu' is a minor fluency/mistranslation error
+'na ndị' is a minor fluency/mistranslation error
+'merụrụ' is a minor fluency/mistranslation error
+'ahụ' is a minor fluency/mistranslation error
+'ọjii' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'na-enyo otu onye a na-ebo ebubo na ọ bụ onye agha' is a major fluency/inconsistency error
+'onye agha nnupiisi Daesh (ISIL)' is a minor terminology/inappropriate for context error
+'dịka onye mere mwakpo ahụ' is a minor fluency/register error[SEP_TOKEN_WENDA]'ọkụ' is a minor terminology/inappropriate for context error
+'ọnụ' is a minor fluency/spelling error
+'ọnụ' is a minor fluency/spelling error
+'ọnụ' is a minor fluency/spelling error
+'ọnụ' is a minor fluency/spelling error
+'ọnụ' is a minor fluency/spelling error
+'ọnụ' is a minor fluency/spelling error
+'ọnụ' is[SEP_TOKEN_WENDA]'na ntụgharị ya amata akara Rossby nke otu kpakpando' is a major accuracy/mistranslation error
+'metụtara na ọwụwụ plasma' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'na-adị' is a minor fluency/spelling error
+'nke ihendọta' is a minor terminology/inappropriate for context error
+'nke kpakpando' is a minor fluency/spelling error
+'nke arụmarụ' is a minor fluency/spelling error
+'na-adịkwu' is a minor fluency/spelling error
+'obere' is a minor fluency/spelling error
+'obere karịa' is a minor fluency/spelling error
+'n[SEP_TOKEN_WENDA]'ọtụtụ' is a minor fluency/orthographic error
+'mgbe' is a minor fluency/orthographic error
+'na nsogbu' is a minor fluency/orthographic error
+'ọtụtụ mgbe' is a minor fluency/orthographic error
+'na nsogbu' is a minor fluency/orthographic error
+'ọtụtụ mgbe' is a minor fluency/orthographic error
+'na nsogbu' is a minor fluency/orthographic error
+'�[SEP_TOKEN_WENDA]'ọgụ' is a minor locale convention/time format error
+'nwunye gbalaga' is a minor locale convention/time format error
+'na India' is a minor locale convention/time format error
+'na India' is a minor locale convention/time format error[SEP_TOKEN_WENDA]'ọrụ' is a minor fluency/orthographic error
+'nke' is a minor fluency/orthographic error
+'frikwensi' is a minor fluency/orthographic error
+'nke' is a minor fluency/orthographic error
+'5.0Ghz' is a minor fluency/orthographic error
+'nke' is a minor fluency/orthographic error
+'2.4GHz' is a minor fluency/orthographic error
+'nke' is a minor fluency/orthographic error
+'5.0GHz'[SEP_TOKEN_WENDA]'ọ bụrụhaala na isi ebe ahụ ụgbọigwe na-anọ nwere redìò abụọ' is a major fluency/awkward error
+'54 Mbps' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ọrụ ọ na-arụpụta ga-eru' is a minor fluency/grammar error
+'ga-eru' is a minor fluency/spelling error
+'600Mbit/s' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ụmụ abụọ' is a minor fluency/spelling error
+'anya' is a minor fluency/phonetic error
+'nnukwu' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'mgbe' is a minor terminology/inappropriate for context error
+'ọtụtụ' is a minor fluency/spelling error
+'na-akwado' is a minor fluency/spelling error
+'na-eme' is a minor fluency/spelling error
+'ọnụnụ' is a minor fluency/spelling error
+'na-ekwu' is a minor fluency/spelling error
+'na-akwado' is a minor fluency/spelling error
+'na-eme' is a minor[SEP_TOKEN_WENDA]'ọkwa 2005' is a minor fluency/spelling error
+'kwuru' is a minor fluency/phonetic error
+'Mkpokọta' is a minor locale convention/phonetic error
+'n'ọkwa' is a minor fluency/spelling error
+'site n'ọkwa' is a minor fluency/spelling error
+'ọkwa 2005' is a minor fluency/spelling error
+'Squadron Leader' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'kwughi' is a minor fluency/spelling error
+'ọ sị na a ga-akwụ' is a minor fluency/word choice error
+'ụgbị na a ga-ele anya na nrụpụta akụ na ụba China' is a minor fluency/word choice error
+'wee kwụọ ụgwọ' is a minor fluency/word choice error
+'ụgbị' is a minor fluency/word choice error
+'ụna' is[SEP_TOKEN_WENDA]'The pilot said' is a major fluency/grammar error
+'I am the Squadron Leader' is a minor fluency/mistranslation error
+'of the 1st Fighter Squadron' is a minor fluency/omission error[SEP_TOKEN_WENDA]'tinyekwara' is a minor terminology/inappropriate for context error
+'na "ha ekwela ka' is a minor fluency/punctuation error
+'i am' is a minor fluency/spelling error
+'Dilokrit Pattavee' is a minor terminology/inappropriate for context error
+'I am the Squadron Leader' is a minor fluency/spelling error
+'of the Bururu Squadron' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'na' is a minor fluency/register error
+'12.00 GMT' is a minor fluency/spelling error
+'taa' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'ọdọ aka na ntị' is a minor fluency/inappropriate for context error
+'aka' is a minor fluency/omission error
+'na onweghị onye ga-ekwe nkwa na usoro ọbụla' is a minor fluency/omission error
+'e jiri mee ihe na mba Aịrak ugbu a ga-akwụsị agha otu' is a minor fluency/omission error
+'maọbụ ndabanye n'[SEP_TOKEN_WENDA]'ọbụla' is a minor fluency/word choice error
+'ụka' is a minor fluency/word choice error
+'ịAmerịka' is a minor fluency/word choice error
+'gbasara' is a minor fluency/word choice error
+'ndị' is a minor fluency/word choice error
+'Etiti' is a minor fluency/word choice error
+'Ọwụwa' is a minor fluency/word choice error
+'Anambra' is a minor fluency/word choice error
+'[SEP_TOKEN_WENDA]'ọ fọrọ obere' is a minor fluency/spelling error
+'kwuo okwu' is a minor fluency/spelling error
+'nile nke iwu ndị isi' is a minor fluency/spelling error
+'nke iwu ndị isi' is a minor fluency/spelling error
+'n'ebe mba Aịrak' is a minor fluency/spelling error
+'ma ọ na-akwado mgbanwe' is a minor fluency/spelling error
+'[SEP_TOKEN_WENDA]'nke izizi n'ime nkwado' is a minor fluency/spelling error
+'na asatọ ya bụ na a ga-eso usoro' is a minor fluency/grammar error
+'ọchịchị ọhụrụ' is a minor fluency/character encoding error
+'tupu ọgwụgwụ afọ' is a minor fluency/punctuation error
+'ọchịchị ha na agbataobi ha' is a minor fluency/awk[SEP_TOKEN_WENDA]'ọkwa' is a minor fluency/grammar error
+'mgbede' is a minor fluency/spelling error
+'ọkwa' is a minor fluency/spelling error
+'ọkwa' is a minor fluency/spelling error
+'ọkwa' is a minor fluency/spelling error
+'ọkwa' is a minor fluency/spelling error
+'ọkwa' is a minor fluency/spelling error
+'ọkwa' is a minor fluency/spelling error
+'�[SEP_TOKEN_WENDA]'ọkwa onye isi ala' is a minor fluency/awkward error
+'na 2005 dịka' is a minor fluency/awkward error
+'zigara' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Ọ bụ esemokwu maka mmefu ego na nkwado na nrụgharị' is a major fluency/mistranslation error
+'na Oke ikuku Katrina gasịrị kpatara arụmụka a; ụfọdụ ndị kweere na iji nwayọ ego' is a minor fluency/mistranslation error
+'emefụ ego steeti akọwaala' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'mgbalị' is a minor terminology/inappropriate for context error
+'ọrụ' is a minor locale convention/spelling error
+'Wọshịntịn' is a minor locale convention/inappropriate for context error[SEP_TOKEN_WENDA]'maka olili' is a minor fluency/translation error
+'ahụ' is a minor fluency/register error
+'mmadụ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọgụgụ ndị' is a minor locale convention/unclear error
+'nke' is a minor locale convention/unclear error
+'omume inwèta òhèrè' is a minor locale convention/unclear error
+'n'olili ozu na St. Peter Square' is a minor locale convention/unclear error
+'Squadron Leader Dilokrit Pattavee' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọtụtụ' is a minor fluency/spelling error
+'Rom' is a minor terminology/inappropriate for context error
+'mmadụ' is a minor fluency/spelling error
+'kirie' is a minor fluency/spelling error
+'ahụ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ọkachasị na Poland' is a minor fluency/register error
+'emere nkwazi dị ka ibe ya' is a minor fluency/mistranslation error
+'nke ọtụtụ mmadụ hụrụ' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]'ụmụ okwu ụgbọ ala ezuru ezuru' is a minor fluency/register error
+'n’iji ebumnobi nke ịkwalite nsìàga ọganihu ha' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'kwukwaa' is a minor fluency/spelling error
+'kpọmkwem' is a minor fluency/spelling error
+'ngosi' is a minor fluency/spelling error
+'ịgụ' is a minor fluency/spelling error
+'ịgụ' is a minor fluency/spelling error
+'ịgụ' is a minor fluency/spelling error
+'ịgụ' is a minor fluency/spelling error
+'ịgụ' is a minor fluency[SEP_TOKEN_WENDA]'ọsị 70' is a minor fluency/grammar error
+'ọmụ 41' is a minor fluency/grammar error
+'ụgboro 11' is a minor fluency/grammar error
+'ụgboro 2' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'ọrụ' is a minor fluency/spelling error
+'ọma ma' is a minor fluency/spelling error
+'otu' is a minor fluency/spelling error
+'narị' is a minor fluency/spelling error
+'ọsọ-otu' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'mere' is a minor fluency/register error
+'ọ tọpụ' is a minor fluency/spelling error
+'7 iji kwụsị' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'ọnwa Nọvemba' is a minor locale convention/unconventional name error
+'malite' is a minor fluency/mispelling error
+'Eshia' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'na-esote' is a minor fluency/inappropriate for context error
+'onye' is a minor fluency/inappropriate for context error
+'isch' is a minor fluency/inappropriate for context error
+'bụ' is a minor fluency/inappropriate for context error
+'Sịngapọ' is a minor fluency/inappropriate for context error
+'bụ' is a minor fluency/inappropriate for context error
+'Lee Hsien Loong' is a minor fluency/inappropriate for context error
+'kpar�[SEP_TOKEN_WENDA]'below is an instruction' is a minor fluency/awkwardness error
+'Squadron Leader Dilokrit Pattavee' is a minor terminology/inappropriate for context error
+'Igbo text' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'onye isi oche Stivin Hapa ekwetala iziga iwu ọhụrụ nke ikuku ọcha nke gọọmenti ebe a ga elebara ya anya' is a major accuracy/omission error
+'tupu nleba anya nke abụọ' is a minor fluency/grammar error
+'ma emechaa nzukọ ga-ewe ya na onye isi NDP bụ Jak Leeton nkeji iri abụọ[SEP_TOKEN_WENDA]'ọdịkaọgadị mgbe ya' is a minor fluency/grammar error
+'nke ndị otu ọdịkaọgadị' is a minor fluency/grammar error
+'mgbe ya' is a minor fluency/grammar error
+'nnọkọ' is a minor fluency/grammar error
+'mgbe' is a minor fluency/grammar error
+'ndọkọ' is a minor fluency/grammar error
+'nke' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'ọfọdụ ndị ome' is a minor fluency/mistranslation error
+'ọchịchị gọọmenti' is a minor fluency/mistranslation error
+'na-abịa' is a minor fluency/mistranslation error
+'Nọvemba' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'ekwuola na ihe' is a minor fluency/grammar error
+'mere bụ naanị' is a minor fluency/grammar error
+'ọmụ akụrụngwa' is a minor fluency/grammar error
+'ọgwụ ahụ site' is a minor fluency/grammar error
+'nke ụlọ' is a minor fluency/grammar error
+'ụgwụmentị Tasmania' is a minor fluency/grammar error
+'n'aka mwedàta[SEP_TOKEN_WENDA]'anya na enwere' is a minor fluency/register error
+'ikuku' is a minor fluency/spelling error
+'Pago Pago' is a minor locale convention/spelling error
+'Squadron Leader Dilokrit Pattavee' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ọkụ nwa oge' is a minor fluency/grammar error
+'ọrọ gbochiri' is a minor fluency/grammar error
+'nyere' is a minor fluency/grammar error
+'mmiri PTWC' is a minor terminology/inappropriate for context error
+'nyere' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Ụlọ akwụkwọ' is a minor terminology/inappropriate for context error
+'na anọ na Hawaii' is a minor fluency/register error
+'na ma ọ bụ na nso' is a minor fluency/mistranslation error
+'akụkụ mmiri' is a minor fluency/omission error
+'na-agbanyeghị' is a minor fluency/mistranslation error
+'ndọ aka' is a minor fluency/omission error
+'na[SEP_TOKEN_WENDA]'n'abara ọkwa ahụ' is a major fluency/mistranslation error
+'ọkwa ahụ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ọdọn' is a minor fluency/orthographic error
+'ọkpwụ' is a minor fluency/orthographic error
+'ọkwụ' is a minor fluency/orthographic error
+'ọrọ' is a minor fluency/orthographic error
+'ọrọ' is a minor fluency/orthographic error
+'ọrọ' is a minor fluency/orthographic error
+'ọrọ' is a minor fluency/orthographic error
+'ọrọ'[SEP_TOKEN_WENDA]'ako' is a minor fluency/spelling error
+'ako' is a minor fluency/character encoding error
+'ako' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'Ụlọọrụ' is a minor fluency/word choice error
+'n’oge' is a minor fluency/word choice error
+'n'oge' is a minor fluency/word choice error
+'Jeri' is a minor fluency/word choice error
+'Jeri' is a minor fluency/word choice error
+'n'oge' is a minor fluency/word choice error
+'n'oge' is a minor fluency/word choice error
+'n'oge' is a minor fluency/word choice[SEP_TOKEN_WENDA]'Ụlọ ọrụ' is a minor fluency/spelling error
+'mmiri mmiri' is a minor fluency/spelling error
+'ịgabiga ihe mgbochi' is a minor fluency/spelling error
+'ide mmiri e mebibiri' is a minor fluency/spelling error
+'na mbụ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a minor fluency/word choice error
+'ụrụ' is a[SEP_TOKEN_WENDA]'the height' is a major accuracy/omission error[SEP_TOKEN_WENDA]'commons' is a minor fluency/grammar error
+'commons speaker' is a minor fluency/omission error
+'commons' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'mbido' is a minor fluency/spelling error
+'site na ikpa-agwa' is a minor fluency/mistranslation error
+'Nke abuo' is a minor fluency/awkwardness error
+'on' is a minor fluency/mistranslation error
+'ehichapuru' is a minor fluency/mistranslation error
+'nka ya' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'ọtụtụ' is a minor fluency/spelling error
+'ihe' is a minor fluency/register error
+'ọtụtụ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Ọrụ arụrụ bụkarịrị' is a minor terminology/inappropriate for context error
+'na iwu a ka na enyocha enyocha' is a minor fluency/awkward error
+'mana edere usoro omume ihe ahụ' is a minor fluency/awkward error
+'ka o gosipụta ihe ahụtara' is a minor fluency/awkward error
+'ọkpakpando Sajiterius' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'n'aka ikikere' is a minor fluency/mistranslation error
+'ndị dị' is a minor fluency/mistranslation error
+'n'etiti mata ojii nke galaxy' is a minor fluency/mistranslation error
+'n'etiti mata ojii nke Milky Way' is a minor fluency/mistranslation error[SEP_TOKEN_WENDA]'etinye ndọta' is a minor fluency/spelling error
+'mmiri' is a minor fluency/phonetic error
+'etu ahụ' is a minor fluency/register error
+'galazi' is a minor fluency/phonetic error
+'Sagittarius ahụ' is a minor fluency/phonetic error[SEP_TOKEN_WENDA]'ọka mmụta' is a major accuracy/omission error
+'sayensị' is a minor fluency/grammar error
+'kwubie' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'na-ekwu na imirikiti mata' is a major accuracy/mistranslation error
+'dị oji gburugburu otu' is a minor fluency/spelling error
+'ụyọkọ kpakpando' is a minor fluency/punctuation error
+'na-ekwu na' is a minor fluency/register error
+'dị obere' is a minor fluency/style error[SEP_TOKEN_WENDA]'Ụmụ' is a minor fluency/grammar error
+'akụkọ' is a minor fluency/omission error
+'telivishọn' is a minor terminology/inappropriate for context error
+'na-egosi' is a minor fluency/omission error
+'anwụrụ' is a minor fluency/omission error
+'ọcha' is a minor fluency/omission error
+'nụpụta' is a minor fluency/omission error
+'apụta'[SEP_TOKEN_WENDA]'ọrụ ahụ aka' is a minor fluency/spelling error
+'gbanyụọ' is a minor fluency/register error
+'mmiri' is a minor fluency/phonetic error
+'na-agba' is a minor fluency/mispelling error[SEP_TOKEN_WENDA]'japan' is a major accuracy/omission error
+'cesium' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị' is a minor fluency/spelling error
+'na-egosi' is a minor terminology/inappropriate for context error
+'na-ehi' is a minor fluency/spelling error
+'na-hi' is a minor fluency/spelling error
+'na-ehi' is a minor fluency/spelling error
+'na-hi' is a minor fluency/spelling error
+'na-ehi' is a minor fluency/spelling error
+'na-hi' is a minor fluency/spelling error
+'na-[SEP_TOKEN_WENDA]'ọgwụ na ngalaba' is a minor terminology/inappropriate for context error
+'nke KwaZulu-Natal' is a minor locale convention/inappropriate for context error[SEP_TOKEN_WENDA]'ọsị na bke' is a minor fluency/spelling error
+'ọhụrụ' is a minor locale convention/translation error
+'ọnwụ' is a minor locale convention/translation error
+'egwu n'ihi' is a minor locale convention/translation error
+'ogugo' is a minor locale convention/translation error
+'ọnwụ dị elu' is a minor locale convention/translation error
+'si na ya' is a minor locale convention/translation error
+'abịa' is[SEP_TOKEN_WENDA]'ọrụ ụlọ ọgwụ' is a minor terminology/inappropriate for context error
+'organized by Dr. Moll' is a minor fluency/style error[SEP_TOKEN_WENDA]
