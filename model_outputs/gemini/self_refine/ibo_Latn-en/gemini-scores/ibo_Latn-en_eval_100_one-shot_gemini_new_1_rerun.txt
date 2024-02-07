@@ -1,0 +1,71 @@
+'but don't show symptoms' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'Nova Scotia and chairman of the diabetes Canada clinical' is a major accuracy/mistranslation error
+'scienti
+
+fic section warns that the research is still in its beginning' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Dilan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"cyber-collaborator" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no issues in the translation.[SEP_TOKEN_WENDA]"claimed" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'Na ngwụcha 2017, e gosiri' is a major fluency/spelling error
+'igbe onyonyo' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA][BLOCKED] is a critical non-translation error[SEP_TOKEN_WENDA]"less effective" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'comparator arm' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'agreed' is a critical fluency/grammar error
+'everyone' is a minor fluency/grammar error
+'involved' is a minor fluency/grammar error
+'movement' is a minor fluency/grammar error
+'work' is a minor fluency/grammar error
+'together' is a minor fluency/grammar error
+'ensure' is a minor fluency/grammar error
+'environment' is a minor fluency/grammar error
+'all' is a minor fluency/grammar error
+'our' is a minor fluency/grammar error
+'are' is a minor fluency/grammar error
+'Olympic' is a major accuracy/mistranslation error
+'Kọmitii' is a major accuracy/mistranslation error
+'ma kwere' is a major accuracy/mistranslation error
+'Amerika' is a major accuracy/mistranslation error
+'ozi' is a major accuracy/untranslated text error
+'dere' is a major accuracy/untranslated text error
+'mgbe' is a major accuracy/untranslated text error
+'nke' is a major accuracy/untranslated text error
+'er' is a major accuracy/untranslated text error
+'eme' is a major accuracy/untranslated text error
+'oru' is a major accuracy/untranslated text error
+'na' is a major accuracy/untranslated text error
+'nchekwa' is a major accuracy/untranslated text error
+'niile' is a major accuracy/untranslated text error
+'guị' is a major accuracy/untranslated text error
+'USA' is a minor accuracy/addition error
+', Paralympic' is a minor accuracy/addition error[SEP_TOKEN_WENDA]Translation is correct/ no error.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]"befitting" is a major accuracy/addition error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]No errors detected.[SEP_TOKEN_WENDA]'he assisted' is a major accuracy/mistranslation error
+'U.S.–China' is a minor locale convention/currency, date, name, telephone, or time format error[SEP_TOKEN_WENDA]'starring Ryan Gosling and Emma Stone' is a critical accuracy/omission error[SEP_TOKEN_WENDA]Translation is blocked so no errors can be annotated.[SEP_TOKEN_WENDA]'Mwụghari Ụda' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'This came as' is a minor fluency/awkwards error[SEP_TOKEN_WENDA]'na mba' is a minor fluency/punctuation error
+'enwudere' is a minor fluency/spelling error
+'ndị' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'This suggests that' is a major accuracy/omission error
+'fat' is a minor accuracy/mistranslation error
+'at least' is a minor accuracy/addition error
+'occasionally' is a minor accuracy/addition error[SEP_TOKEN_WENDA]"The magistrate requested the seizure of more than 340 tons of cocaine that a ship seized by the US Internal Revenue Service had on board in the port of Charleston, South Carolina." is a major accuracy/untranslated error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]"major branching" is a minor accuracy/translation error
+"it has no" is a major accuracy/omission error
+"researchers say evolved later from these other structures." is a critical accuracy/omission of local term error[SEP_TOKEN_WENDA]The whole translation is a critical non-translation error[SEP_TOKEN_WENDA]'developing' is a major accuracy/mistranslation error
+'personnel' is a critical accuracy/omission error
+'measured' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED] is a critical non-translation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Islamic State of Iraq and Levant (ISIL)' is a minor fluency/awkward error
+'sleeper agent' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No translation provided.[SEP_TOKEN_WENDA]'stellar tornado' is a critical accuracy/mistranslation error
+'physics' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Rossby' is a major terminology/inappropriate for context error
+'na-adị' is a minor fluency/grammar error[SEP_TOKEN_WENDA]"during his traveling" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'He was captured by pirates,' is a major accuracy/omission error
+'Nepal a tụọ ya nga na India.' is a major accuracy/omission error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]'central' is a major accuracy/addition error
+'as' is a minor style/awkward error[SEP_TOKEN_WENDA]"its speed increases substantially over its predecessors" is a major accuracy/mistranslation error
+"throughput could reach" is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Duval, who had a wife and two grown-up children, did not fail to ask Mila to give him a lead for some great wonders to see.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"We will" is a minor accuracy/addition error
+"the unit of" is a minor accuracy/omission error[SEP_TOKEN_WENDA]上級 / ¬", translation impaired by unusually specific category 'of invented institutions not identified in any real world political or economic systems.’[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'GMT' is a major locale convention/time format error[SEP_TOKEN_WENDA]The whole translation is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]'about how' is a major accuracy/omission error[SEP_TOKEN_WENDA]'also' is a major accuracy/omission error
+'Ozogbo' is a major accuracy/untranslated text error
+'all facets of the leadership' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"militants" is a minor accuracy/mistranslation error
+"and restore diplomatic relations with neighboring countries" is a major accuracy/omission error[SEP_TOKEN_WENDA]no error[SEP_TOKEN_WENDA]"Ajentaína Tiyetro" is a minor terminology/inappropriate for context error
+"as the candidate" is a critical accuracy/omission error[SEP_TOKEN_WENDA]"Controversy" is a minor accuracy/mistranslation error
+"similar to" is a minor accuracy/mistranslation error
+"Katrina" is a major fluency/inconsistency error
+"this pejorative" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'visioned relocation efforts' is a major accuracy/addition error
+'relocation jobs' is a major accuracy/mistranslation error
+'D.C.' is a minor terminology/inconsistency error[SEP_TOKEN_WENDA]'for the burial' is a minor accuracy/addition error[SEP_TOKEN_WENDA]!'s' is a minor locale/date format error[SEP_TOKEN_WENDA]'programs' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'by large crowds' is a critical accuracy/addition error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]This segment is not annotated because the machine translation output is empty.[SEP_TOKEN_WENDA]'of runs' is a minor style/awkward error[SEP_TOKEN_WENDA]'runs' is a major fluency/addition error
+'to be bundled out' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'touch down' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]This context cannot be translated due to potentially sensitive content.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]"ikuku ọcha nke gọọmenti" is a major terminology/inappropriate for context error
+"izaiga iwu ọhụrụ" is a major terminology/inappropriate for context error
+"before second reading" is a major accuracy/addition error
+"a 25-minute" is a minor fluency/character encoding error[SEP_TOKEN_WENDA]'full-scale' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA] äußerst:'sts','''--~~~----''----___---~~'' ---~~----**-----_______**--~~''---__---~~--------~~~[SEP_TOKEN_WENDA]'Prime Minister John Howard' is a minor fluency/inconsistency error
+'$45 million' is a minor locale convention/currency error[SEP_TOKEN_WENDA]'FORCE WINDS' is a minor accuracy/mistranslation error
+'COMMENCED' is a minor fluency/grammar error
+'HAD' is a minor fluency/grammar error
+'EXPECTED' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'PTWC' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"warnings to evacuate were issued" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no errors[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'Satuday' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]The Corps of Engineers estimated that six inches of water could go over a previously damaged levee.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'commons' is a minor style/awkward error
+'vents his frustration' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]"Sagittarius A*" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'The effect that the group is hoping for would' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Scholars are able to reveal the mechanisms by which these play a role in us.' is a critical non-translation issue.
+'scholars' is a minor fluency/register error
+'mechanisms' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'spiral' is a major accuracy/mistranslation error
+'said that' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'BLOCKED' is a critical non-translation error[SEP_TOKEN_WENDA]'locally' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Officials said' is a major accuracy/omission error
+'to split' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]Translation-level MT output has not been passed for the source segment, thus non-translation error is present.[SEP_TOKEN_WENDA]No errors were identified in this segment.[SEP_TOKEN_WENDA]

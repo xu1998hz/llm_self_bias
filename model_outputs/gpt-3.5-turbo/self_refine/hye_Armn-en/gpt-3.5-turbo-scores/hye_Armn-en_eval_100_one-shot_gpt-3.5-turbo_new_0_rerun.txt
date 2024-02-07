@@ -1,0 +1,66 @@
+'previously had diabetes, but now do not have it - she added it.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]The translation is not provided.[SEP_TOKEN_WENDA]No errors identified.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'organized the competitor company's' is a major accuracy/mistranslation error
+'EY-DT court demand for security' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'WMA' is a critical accuracy/mistranslation error
+'treatments' is a major accuracy/mistranslation error
+'during the experiment of testing' is a major fluency/grammar error[SEP_TOKEN_WENDA]'United States Embassy' is a major accuracy/mistranslation error
+'United Nations Olympic Committee' is a major accuracy/mistranslation error
+'Olympic family' is a major accuracy/mistranslation error
+'all athletes in our region' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Միացյալ Նահանգների Օլիմպիական կոմիտե' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'US embassy' is a major accuracy/mistranslation error
+'shed light on' is a major accuracy/mistranslation error
+'violations described by the Larri Nassar contractors' is a major accuracy/mistranslation error
+'requires necessary and corresponding changes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors identified.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'ունեցավ' is a major accuracy/mistranslation error
+'Պրեսիդենտ' is a major accuracy/mistranslation error
+'հետ' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'հրաժարվել են հայրենադարձել' is a critical accuracy/mistranslation error
+'Greece and Lebanon' is a major accuracy/mistranslation error
+'adoopt' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'not only confirms' is a major accuracy/mistranslation error
+'certain opinions' is a major accuracy/mistranslation error
+'that have a wide social impact' is a major accuracy/mistranslation error
+'but also provides' is a major accuracy/mistranslation error
+'detailed explanations' is a major accuracy/mistranslation error
+'that cannot be provided in general' is a major accuracy/mistranslation error
+'such as color and three-dimensional classification' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is accurate and fluent with no errors.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'prototype' is a major accuracy/mistranslation error
+'demonstrates' is a major accuracy/mistranslation error
+'intelligence and non-aggression' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Yesterday morning' is a major accuracy/mistranslation error
+'the group of the car bomb' is a major accuracy/mistranslation error
+'killed two policemen' is a major accuracy/mistranslation error
+'injured more than ten other people' is a major accuracy/mistranslation error
+'in the administration of Turkey's Gaziantep' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'were employees of the hospital' is a critical accuracy/mistranslation error
+'among the patients' is a major accuracy/omission error[SEP_TOKEN_WENDA]'ISIS' is a major accuracy/mistranslation error
+'genocide' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Rosbe' is a major accuracy/mistranslation error
+'the plasma flow' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'with constellations of magic negation' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'his circumstances' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'captured in India' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]The translation is correct and contains no errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'quotas' is a major accuracy/mistranslation error
+'տնտեսական' is a major accuracy/mistranslation error
+'ծավալների' is a major accuracy/mistranslation error
+'հիման' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'connected with the Middle East political situation occurring in the United Nations' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'is highly critical' is a major accuracy/mistranslation error
+'calling for urgent and substantial reform' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'out of' is a minor accuracy/mistranslation error
+'it is the one' is a minor fluency/awkward error
+'scientific differences' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Տիկին' is a critical accuracy/mistranslation error, 'Կիռչներն' is a critical accuracy/mistranslation error, 'հայտնեց' is a minor accuracy/mistranslation error, 'իր' is a critical accuracy/mistranslation error, 'թատրոնում' is a critical accuracy/mistranslation error, 'նախադրելու' is a major accuracy/mistranslation error, 'թեկնածությունը' is a major accuracy/mistranslation error, 'պաշտոնում' is a major accuracy/mistranslation error, 'ժամանակ' is a major accuracy/mistranslation error, 'նույն' is a minor accuracy/mistranslation error, 'օգտագործել՝' is a major accuracy/mistranslation error, 'որպես' is a minor accuracy/mistranslation error, 'անդամ։' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is nonsensical and does not accurately convey the meaning of the source text.[SEP_TOKEN_WENDA]'the trial of restorations' is a major accuracy/mistranslation error
+'Vashingtonner' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'premises of the Surb Petros publication' is a minor accuracy/mistranslation error
+'publishes the actual sending of invitations' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'տեղադրվել' is a major accuracy/mistranslation error
+'allowing the people' is a major accuracy/mistranslation error
+'event' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'especially in Poland' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Historians' is a critical accuracy/mistranslation error
+'indicator of the success of governance' is a major terminology/inconsistent use error
+'particularly in the field of confiscated automobiles' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'unallocated' is a major accuracy/mistranslation error
+'the IMF' is a major accuracy/omission error
+'գործակալ' is a minor terminology/inconsistent use error
+'մեծահասակների' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]The translation is mostly accurate with no major errors. One minor fluency/punctuation error is the missing comma after "in a middleweight fight".[SEP_TOKEN_WENDA]'after the Indian defender managed to block it' is a major accuracy/mistranslation error
+'India only made 36 passes' is a major accuracy/mistranslation error
+'transfer the ball' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors were found in this translation.[SEP_TOKEN_WENDA]'After a week' is a major accuracy/mistranslation error
+'Bush addressed the nation' is a major accuracy/mistranslation error
+'regarding the expansion of trade volumes in Asia' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Prime Minister Stephan Harper' is a major accuracy/mistranslation error
+'Clean Air Act' is a major  accuracy/mistranslation error
+'New Democratic Party' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'when the state administration' is a major accuracy/mistranslation error
+'in the Davonport of Tasmania' is a major accuracy/mistranslation error
+'the spiritual administration' is a major accuracy/mistranslation error
+'certain authorities' is a major accuracy/mistranslation error
+'the realization of the long-awaited decisive decisions' is a major accuracy/mistranslation error
+'regarding spiritual choices' is a major accuracy/mistranslation error
+'in December' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Որ ցունամի էր առաջացել' is a minor accuracy/mistranslation error
+'Պագո Պագոյի և Նյուեի' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'In 1964' is a major accuracy/mistranslation error
+'were closed on Wednesdays' is a major accuracy/mistranslation error
+'despite the protests being withdrawn' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The source text appears to be in Armenian, and the machine translation provided is in English. Since the source text is not provided, it is not possible to annotate errors in the translation.[SEP_TOKEN_WENDA]The translation is a major mistranslation error. The translation does not accurately convey the meaning of the source text.[SEP_TOKEN_WENDA]'for the country of Japan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The translation contains no errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The translation is incorrect as it does not accurately convey the meaning of the source text.[SEP_TOKEN_WENDA]'not only material benefits' is a major accuracy/mistranslation error
+'liberal activists' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'but the program was written to analyze observations made from the telescope of the Solar System' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'common ground' is a major accuracy/mistranslation error
+'Kirchhoff's law' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Just as' is a major accuracy/mistranslation error
+'Tsir Katin exert strength' is a major accuracy/mistranslation error
+'the balance of aesthetics' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'գործարանից' is a major accuracy/mistranslation error
+'factory' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'them' is a major accuracy/mistranslation error
+'with a vaccine' is a major accuracy/mistranslation error
+'at least two of them were hospital workers' is a major accuracy/addition error[SEP_TOKEN_WENDA]

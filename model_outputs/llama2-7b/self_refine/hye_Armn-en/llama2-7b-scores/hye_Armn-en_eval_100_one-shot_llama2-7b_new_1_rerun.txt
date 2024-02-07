@@ -1,0 +1,135 @@
+none[SEP_TOKEN_WENDA]'Կանադայի շաքարախտի' is a major accuracy/omission error
+'Որ հետազոտությունները' is a major accuracy/mistranslation error
+'Վարիչը զգուշացրեցին' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'շաքարային դիաբետը' is a critical accuracy/addition error
+'որևէ' is a major accuracy/omission error
+'ունեցող' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Շվեդական ակադեմիայում' is a major accuracy/addition error
+'Ռադիոյի ռադիոհաղորդման' is a major accuracy/omission error
+'խեղարկելու' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ներկա պահին' is a critical accuracy/addition error
+'Ես զանգել' is a major accuracy/mistranslation error
+'ուղարկել' is a minor terminology/inappropriate for context error
+'շատ սիրալիր' is a minor style/awkward error[SEP_TOKEN_WENDA]'ժամանակ' is a critical accuracy/addition error
+'խանութից' is a major accuracy/omission error
+'խանութից' is a minor style/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'վաճառքն' is a critical accuracy/addition error
+'շոուի թիմը' is a major accuracy/omission error
+'մերժեց' is a minor fluency/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ընկերության՝' is a major accuracy/omission error
+'Էյ-Դի-Թի' is a major accuracy/mistranslation error
+'դատական հայցը' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'է' is a minor accuracy/spelling error
+'որը' is a major accuracy/omission error
+'վարակի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ավելի քիչ օգուտ ունի' is a critical accuracy/addition error
+'ունի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]' allocated' is a critical accuracy/addition error
+'construction of a new hospital' is a major accuracy/omission error
+'100 million drams' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ԱՄՆ-ի' is a critical accuracy/addition error
+'Միացյալ Նահանգների' is a major accuracy/omission error
+'որ' is a minor style/awkward error[SEP_TOKEN_WENDA]'Միացյալ Նահանգների Օլիмпիական կոմիտեի' is a critical accuracy/addition error
+'Որ մեր մարզիկների և ակումբների' is a major accuracy/omission error
+'սպորտի հետաքրքրությունները' is a minor terminology/in[SEP_TOKEN_WENDA]'աջակցում' is a critical accuracy/addition error
+'այսքան' is a major accuracy/omission error
+'ժամանակ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Միացյալ Նահանգների Օլիмпիական կոմիտեն' is a major accuracy/omission error
+'դարձնել մարմնամարզություն' is a major accuracy/mistranslation error
+'հասնել անվտանգ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'որպես նրա խորհրդատու' is a critical accuracy/mistranslation error
+'վարչակազմում' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'որպես' is a major accuracy/mistranslation error
+'Հենրի Քիսինջերին' is a major accuracy/omission error
+'ԱԱԽ' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'աշխատակից' is a critical accuracy/addition error
+'համաշխարհային հարցերը' is a major accuracy/omission error
+'Ըքորդսը' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'խաղում' is a critical accuracy/omission error
+'ճաղում' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Հովհաննես' is a critical accuracy/mistranslation error
+'ռեժիսոր' is a major accuracy/omission error
+'բեմանկարչություն' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Last Days of Leningrad' is a critical accuracy/addition error
+'Ascension of the City of David' is a major accuracy/omission error
+'ավելին' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'ժրդարական' is a critical accuracy/addition error
+'ԱՄՆ զորքերը' is a major accuracy/omission error
+'Սիրիան' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Ռեջեփ' is a critical accuracy/addition error
+'հետ' is a minor style/awkward error[SEP_TOKEN_WENDA]'Ասվում' is a major accuracy/mistranslation error
+'հայրենադարձել' is a major accuracy/inconsistency error
+'եվրոպական երկրները' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ընդհանուր' is a major accuracy/omission error
+'եռաչափ' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'վերևի հատվածում' is a critical accuracy/addition error
+'շագանակագույն' is a major accuracy/mistranslation error
+'կամ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'չունեն լավ զարգացած փետրածայր' is a critical accuracy/addition error
+'բայց ունեն փետուրների մյուս առանձնահատկությունները' is a major accuracy/omission error
+'բեղիկներ' is a minor terminology/inappropri[SEP_TOKEN_WENDA]'ջերմաստիճանի' is a major accuracy/addition error
+'երիտասարդ դինոզավրի պոչ' is a major accuracy/omission error
+'վերադարձող' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Ավելի այլ մարդու' is a major accuracy/omission error
+'Թուրքիայի Գազիանթեփի ոստիկանության վարչությունում' is a major accuracy/addition error[SEP_TOKEN_WENDA]'որ վիրավորներից տասնինը' is a major accuracy/omission error
+'աշխատակիցներ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'բացահայտել' is a major accuracy/addition error
+'որ արևը գործել է' is a major accuracy/omission error
+'աստղերը' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'որը կապված է' is a major accuracy/omission error
+'պլազմայի հոսքի հետ' is a minor style/register error[SEP_TOKEN_WENDA]'թիվը' is a critical accuracy/addition error
+'ավելի քիչ' is a minor style/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Տիբեթում' is a critical accuracy/addition error
+'Նեպալում' is a critical accuracy/omission error
+'փախել' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ռադիոներ' is a major accuracy/mistranslation error
+'է' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]' Armenian' is a minor terminology/inappropriate for context error
+' per bandwidth' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'վրա' is a major accuracy/mistranslation error
+'Միլլերի վրա' is a minor style/awkward error
+'պատմությունը' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Միլերն' is a critical accuracy/addition error
+'խոսում' is a critical accuracy/mistranslation error
+'ժամանակ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Առնելով' is a major accuracy/mistranslation error
+'առնելով' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'չպետք է խնդրեն' is a critical accuracy/addition error
+'ժողովուրդ, ենք ունեց բարձր կողմից' is a major accuracy/omission error
+'պատասխանատվության' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Այն զգուշացնում է' is a major accuracy/addition error
+'որ ոչ ոք չի կարող երաշխավորել' is a major accuracy/omission error
+'կդադարեցնի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'սկսվում' is a critical accuracy/addition error
+'Մերձավոր' is a major accuracy/omission error
+'Արևելքում' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Առաջինը' is a critical accuracy/addition error
+'որը կապահովի' is a critical accuracy/mistranslation error
+'թշնամական' is a major fluency/grammar error
+'կվերահաստատի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Քրիստինա' is a critical accuracy/mistranslation error
+'թեկնածության' is a major accuracy/omission error
+'վրա' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'թթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթթ[SEP_TOKEN_WENDA]'բռնկվեց' is a critical accuracy/addition error
+'որը' is a critical accuracy/omission error
+'թեթևացնելու' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Վերակառուցման' is a critical accuracy/addition error
+'կենտրոնացած' is a critical accuracy/omission error
+'Վաշինգտոնյան' is a critical accuracy/inappropriate for context error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'Հուղարկավորության' is a critical accuracy/addition error
+'արարողության' is a critical accuracy/mistranslation error
+'բերել' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'էին դիտել' is a critical accuracy/mistranslation error
+'որը մեծաթիվ մարդիկ էին' is a major accuracy/omission error
+'էին' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ՀԴԲ-ի' is a critical accuracy/addition error
+'գործակալության' is a major accuracy/omission error
+'բարձրացնելու' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]' Armenia adopted a law' is a critical accuracy/addition error
+'rights of servicemen' is a major accuracy/omission error
+'material and moral support' is a minor style/awkwards error[SEP_TOKEN_WENDA]'խաղափուլերի' is a major accuracy/addition error
+'վազանց' is a major accuracy/omission error
+'համար՝' is a minor style/awkward error[SEP_TOKEN_WENDA]'Արդյունք' is a major accuracy/mistranslation error
+'եկան։' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ԱՄՆ' is a critical accuracy/addition error
+'Սինգապուր' is a major accuracy/omission error
+'շրջագայություն' is a minor style/spelling error[SEP_TOKEN_WENDA]'Վոնգ' is a major accuracy/mistranslation error
+'ժողջունեց' is a major accuracy/omission error
+'Սինգապուրի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'վարչապետ' is a critical accuracy/addition error
+'հանձնաժողովի' is a critical accuracy/omission error
+'թերցումից' is a minor fluency/grammar error
+'հետ' is a minor locale convention/date format error[SEP_TOKEN_WENDA]'վարչապետի' is a major accuracy/addition error
+'խնդրելով' is a minor fluency/grammar error
+'միջավայրի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Ջոն Հովարդն' is a critical accuracy/mistranslation error
+'հավելյալ 45 միլիոն ավստրալիական դոլարի լրացուցիչ' is a critical accuracy/omission error
+'քայքայվելուց' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ժամանակավորապես' is a critical accuracy/addition error
+'թույլ' is a major accuracy/mistranslation error
+'ունամիի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'basic training' is a critical accuracy/addition error
+'advanced training' is a major accuracy/omission error
+'specialized training' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Հյուսիսային' is a critical accuracy/addition error
+'հասնելու' is a critical accuracy/omission error
+'հարցում' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]' brace and powerful hero' is a critical accuracy/addition error
+'conquered the Atlantic Ocean' is a major accuracy/mistranslation error
+'TV series' is a minor style/awkward error[SEP_TOKEN_WENDA]'Ազգային կենտրոնը' is a major accuracy/omission error
+'որՇէ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ամբարտակները' is a major accuracy/mistranslation error
+'վնասված' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]' affected' is a critical accuracy/addition error
+' measures' is a major accuracy/omission error
+'every day' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Ադամ Կուերդեն' is a critical accuracy/mistranslation error
+'former pilot' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'հերթին' is a major accuracy/mistranslation error
+'թե' is a major accuracy/omission error
+'ջնջումը' is a minor style/awkwards error[SEP_TOKEN_WENDA]'ջանքերին՝' is a critical accuracy/addition error
+'վերաբերող' is a major accuracy/omission error
+'քաղաքականություն' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Աղեղնավոր' is a critical accuracy/inappropriate for context error
+'կատարված' is a major accuracy/mistranslation error
+'տեսական' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Աղեղնավորի' is a major accuracy/inconsistency error
+'Աղեղնավորի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'կարողացան' is a major accuracy/mistranslation error
+'մուգ նյութն' is a minor accuracy/omission error
+'այլ մուգ նյութի' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'լուսապսակի' is a critical accuracy/mistranslation error
+'բազմաթիվ' is a major accuracy/omission error
+'պոքր' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]' Tsush ' is a major accuracy/mistranslation error
+'durus' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'մոտակայքի' is a critical accuracy/addition error
+'ոդորակիչները' is a major accuracy/omission error
+'ջուրը' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ռադիոակտիվ ցեզիում' is a major accuracy/mistranslation error
+'են' is a minor fluency/grammar error
+'հայտնաբերվել' is a minor style/awkwards error[SEP_TOKEN_WENDA]'վառելիք' is a major accuracy/mistranslation error
+'պարունակող' is a major accuracy/omission error
+'ծորում' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'էին' is a minor terminology/inappropriate for context error
+'վարակվել' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

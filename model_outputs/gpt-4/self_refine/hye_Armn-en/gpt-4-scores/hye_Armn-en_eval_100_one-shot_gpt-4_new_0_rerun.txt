@@ -1,0 +1,46 @@
+'kittens' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"he also doubts" is a major accuracy/mistranslation error 
+"these revelations" is a major accuracy/mistranslation error
+"diabetes" is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'his doorbell was not being heard from his garage.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Ring's oil refinery' is a critical accuracy/mistranslation error
+'show's team' is a major accuracy/mistranslation error
+'startup financing' is a major terminology/inappropriate for context error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ring also regulated' is a major accuracy/mistranslation error
+'competitor safety society' is a major accuracy/mistranslation error
+'Corporation's lawsuit' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Հակամարմնի' is a critical accuracy/mistranslation error
+'One' is a minor accuracy/omission error
+'Zmap' is a minor accuracy/mistranslation error
+'anti-cancer cocktail' is a major terminology/inappropriate for context error
+'to prevent death' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"The United Nations Olympic Committee" is a critical accuracy/mistranslation error
+"the United States Sports Structure" is a minor accuracy/mistranslation error
+"improve" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'United States Olympic Committee' is a critical accuracy/mistranslation error
+'by withdrawing from the certificates' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The movie' is a critical accuracy/mistranslation error
+'nests' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'claw' is a major accuracy/mistranslation error
+'spike' is a major accuracy/mistranslation error
+'feather' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Rosbi' is a major accuracy/mistranslation error
+'Number of the Rosbi star' is a major accuracy/mistranslation error
+'Flow of plasma' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'802.11g' is a critical accuracy/mistranslation error
+'points' is a minor terminology/inappropriate for context error.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'չափահաս' is a major accuracy/mistranslation error
+'պատմությունը' is a major accuracy/mistranslation error
+'Miller' is a minor locale convention/name error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Hun' is a major accuracy/mistranslation error
+'one person's share of GDP' is a critical accuracy/mistranslation error
+'carbon dioxide' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'He didn't limit the number of restrictions' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Hun' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'In the Argentine parliament' is a major accuracy/mistranslation error
+'At the time of the launch of her Senate campaign' is a major accuracy/mistranslation error
+'Serving in the same place as governor of Buenos Aires province' is a critical accuracy/mistranslation error
+'Mrs. Kirchner announced her intention to run for the presidency' is a minor accuracy/omission error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'քննադատությունը' (examination) is a critical accuracy/mistranslation error, as it should be 'scrutiny'.
+'Վաշինգտոնյան ներսի' (inside Washington) is a critical accuracy/mistranslation error, as it should likely be 'Washingtonians'. This usage of inside is too literal and incorrect in the context. 
+'վերակառուցման փորձի' (reconstruction experience) is a major accuracy/omission error. It should be 'reconstruction effort'.
+ 'պայմանագրերով պարգևատրելու վրա' (complying with the terms of reconstruction agreements) is a major accuracy/mistranslation error, it should be 'fulfilling the conditions of the reconstruction agreement'
+'The examination' is a style/awkward minor error, because it should be 'The scrutiny.'[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'agency success' is a critical accuracy/mistranslation error
+'regimes of the RPA' is a major accuracy/mistranslation error
+'focusing on easily revealed cases' is a major accuracy/mistranslation error
+'particularly stolen car instances' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'financial year' is a minor fluency/inconsistency error
+'UNDP' is a critical accuracy/mistranslation error
+'specified' is a major accuracy/mistranslation error
+'large-scale pornography' is a critical accuracy/mistranslation error
+'unregulated initiative' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Layton" is a critical accuracy/mistranslation error,
+"The Conservation Party's environmental policy" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]'However, Prime Minister John Howard has said that an additional 45 million Australian dollars were earmarked to provide additional funding only for maintaining the hospital facilities after their depreciation by the Tasmanian government.' is a no-error.[SEP_TOKEN_WENDA]"a storm had become" is a critical accuracy/mistranslation error
+"some clear storm had been recorded" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Bush’s speaker" is a major accuracy/mistranslation error 
+"the agreement" is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found in translation.[SEP_TOKEN_WENDA]'for the land of Jerry' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Primarily, he [Wells] was imposing on us.' is a minor accuracy/mistranslation error
+'pretending as though he was listening to us until the action of his art was eliminated' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'passion' is a major accuracy/mistranslation error
+'licensed' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The team was seeking influence' is a critical accuracy/mistranslation error
+'an upcoming galaxy' is a major accuracy/mistranslation error
+'forces of a process unfolding' is a major accuracy/mistranslation error
+'Sirius Cat' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]'"discovered drug-resistant Tuberculosis (XDR-TB)"' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]

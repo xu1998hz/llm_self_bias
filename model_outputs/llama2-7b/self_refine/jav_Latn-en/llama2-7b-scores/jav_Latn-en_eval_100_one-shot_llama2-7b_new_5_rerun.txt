@@ -1,0 +1,78 @@
+none[SEP_TOKEN_WENDA]'ing' is a minor fluency/grammar error
+'saka' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ngumumake' is a critical accuracy/addition error
+'ngontak langsang' is a major accuracy/omission error
+'upayane' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ngomong' is a critical accuracy/addition error
+'iku' is a minor fluency/spelling error
+'wangsulan' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'saka' is a major accuracy/omission error
+'toko' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ngomong' is a critical accuracy/mistranslation error
+'ing' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ngrampungake' is a critical accuracy/mistranslation error
+'Perusahaan ADT' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nganti' is a major accuracy/omission error
+'kanggo' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'sing migunani' is a major accuracy/mistranslation error
+'ora disertifikasi' is a minor style/awkwards error[SEP_TOKEN_WENDA]'nyengkuyung' is a critical accuracy/addition error
+'sing mungkin' is a major accuracy/omission error
+'diandharake' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nggawe' is a critical accuracy/mistranslation error
+'seaman-amane' is a minor terminology/inappropriate for context error
+'kanggo' is a minor fluency/grammar error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'nganti' is a critical accuracy/addition error
+'banjur' is a minor fluency/spelling error
+'dadi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'luwih saka studio liyane' is a minor style/awkwards error[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ora gelem mbalekake' is a critical accuracy/addition error
+'lapuran kasebut ujar' is a minor fluency/grammar error
+'mbalekake' is a minor non-translation error[SEP_TOKEN_WENDA]'umume' is a major accuracy/omission error
+'wujut' is a minor fluency/spelling error
+'telung-dimensi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]'wulu ing manuk' is a critical accuracy/mistranslation error
+'kanggo' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'er-er' is a minor terminology/inappropriate for context error
+'nyimpulake' is a minor terminology/inappropriate for context error
+'ciri-ciri liyane' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'wulu' is a critical accuracy/addition error
+'doughnut' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'dipasangi' is a critical accuracy/mistranslation error
+'wingi' is a major accuracy/omission error
+'pulisi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'kabeh' is a critical accuracy/addition error
+'menawa' is a major accuracy/omission error
+'sorotane' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'dening perompak' is a critical accuracy/mistranslation error
+'diserang ing Tibet' is a major accuracy/omission error
+'lolos saka mantenan' is a minor fluency/grammar error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'cocog' is a critical accuracy/mistranslation error
+'kanthi' is a major accuracy/omission error
+'sarat' is a minor style/awkwards error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ora ninggalake' is a critical accuracy/mistranslation error
+'kesan' is a minor fluency/grammar error
+'gedhe' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'saben' is a critical accuracy/mistranslation error
+'tingkat' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'babagan kabijakan' is a critical accuracy/mistranslation error
+'Timur Tengah' is a minor locale convention/name error[SEP_TOKEN_WENDA]'ndhesek' is a critical accuracy/mistranslation error
+'kanggo' is a minor fluency/register error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'ngumumke' is a critical accuracy/mistranslation error
+'dadi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ngumumake' is a major accuracy/mistranslation error
+'padha' is a minor fluency/spelling error
+'dadi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dadi' is a minor terminology/inappropriate for context error
+'Perjanjian' is a minor terminology/inappropriate for context error
+'uwa' is a minor fluency/register error[SEP_TOKEN_WENDA]'wis dipusatake' is a critical accuracy/addition error
+'kanggo' is a minor fluency/register error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'nggawe' is a critical accuracy/mistranslation error
+'kehe' is a critical accuracy/omission error
+'kaleksanan' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'mbiayai' is a major accuracy/mistranslation error
+'netepake' is a minor accuracy/omission error
+'diwasa' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'urutan tengah' is a critical accuracy/addition error
+'kanthi' is a minor style/awkwards error
+'apik' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Won Juan Seng' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'pamilihan' is a critical accuracy/mistranslation error
+'dedagangan' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Aksi Hawa Resik' is a major accuracy/mistranslation error
+'pemimpin NDP Jack Layton ing PMO' is a minor style/awkward error[SEP_TOKEN_WENDA]'nalika' is a critical accuracy/mistranslation error
+'sing' is a minor fluency/spelling error
+'tliti' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'kanggo' is a major accuracy/omission error
+'pambukaan pamilihan' is a major accuracy/mistranslation error
+'bakal diundang' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'ngendikan' is a critical accuracy/mistranslation error
+'tumindak' is a major accuracy/omission error
+'luwih' is a minor style/spelling error[SEP_TOKEN_WENDA]'kuwi' is a critical accuracy/mistranslation error
+'maca' is a major accuracy/omission error
+'tsunami kabentuk' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'sekolahan' is a critical accuracy/addition error
+'kabeh' is a minor fluency/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Lesus Subtropis Jerry' is a major accuracy/mistranslation error
+'the shape of the Segara Atlantik' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'nyatakake' is a critical accuracy/mistranslation error
+'kuciwane' is a major accuracy/omission error
+'dheweke' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ngapusi' is a critical accuracy/mistranslation error
+'ethok-ethok' is a major accuracy/omission error
+'tekan' is a minor style/spelling error[SEP_TOKEN_WENDA]'kanggo' is a major accuracy/omission error
+'nyusun' is a minor fluency/grammar error
+'kabijakan' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ora katon saka' is a critical accuracy/omission error
+'galaksi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nyebabake' is a major accuracy/mistranslation error
+'semana' is a minor accuracy/omission error
+'kekuwatan' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'pabrik supaya' is a critical accuracy/addition error
+'mateni piranti' is a major accuracy/omission error
+'sing marai' is a minor style/awkwards error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Kidul' is a minor non-translation error
+'wilayah' is a minor non-translation error
+'KwaZulu-Natal' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dheweke' is a major accuracy/omission error
+'ngomong' is a major accuracy/mistranslation error
+'menawa' is a minor style/awkward error[SEP_TOKEN_WENDA]'insomnia' is a minor accuracy/spelling error
+'lan' is a minor fluency/grammar error[SEP_TOKEN_WENDA]

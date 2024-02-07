@@ -1,0 +1,48 @@
+'ujare.' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Jinis' is a major accuracy/mistranslation error
+'karo uwong' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'bel lawang' is a major accuracy/mistranslation error
+'saka toko ing garasine' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This translation contains untranslated text.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'appeared on' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'yen rupane wulu kewan iki' is a critical accuracy/mistranslation error
+'ndhuwur' is a minor terminology/inconsistent use error
+'karoten ana sisih ngisor' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'panemuan kasebut' is a major accuracy/mistranslation error
+'wawasan kanggo evolusi saka wulu ing manuk' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'ngendikan yen songolas' is a major accuracy/mistranslation error
+'pulisi' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Padhange cahya lan puteran digunakake bebarengan' is a minor accuracy/mistranslation error
+'nenomtokake' is a minor accuracy/mistranslation error
+'sing ana gandhengane' is a minor fluency/grammar error
+'ilen-ilen' is a minor accuracy/inconsistent use error[SEP_TOKEN_WENDA]'cilik angka' is a major accuracy/mistranslation error
+'lintang kasebut' is a major accuracy/mistranslation error
+'dening' is a minor fluency/grammar error[SEP_TOKEN_WENDA]When pondering, Iwasaki emphasizes the importance of opportunities.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Duvall, sing rabi karo loro bocah dewasa' is a major accuracy/mistranslation error
+'ora ninggalake kesan gedhe' is a major accuracy/mistranslation error
+'marang' is a minor accuracy/mistranslation error
+'sapa' is a minor accuracy/mistranslation error
+'itu' is a minor accuracy/mistranslation error
+'ana gayutane' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'He added, 'He is not intended to be recognized so that he can fulfill obligations that exceed the level of development, responsibility, and skills himself.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Klompok Panliten Irak' is a major terminology/mistranslation error
+'nuduhake' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'kanggo' is a minor accuracy/mistranslation error
+'lan' is a minor accuracy/mistranslation error
+'permufakatan' is a minor accuracy/mistranslation error
+'baban' is a minor accuracy/mistranslation error
+'ing' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'sepisan ing antarane' is a major accuracy/mistranslation error
+'kanggo ngamanke' is a major accuracy/mistranslation error
+'tangga teparone' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'patang yuta' is a major accuracy/mistranslation error
+'mara' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'bakal oleh dalan menyang' is a major accuracy/mistranslation error
+'ing' is a minor fluency/character encoding error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ing pirang-pirang kutha liyane' is a minor accuracy/mistranslation error
+'lan ing saindenging jagad' is a major accuracy/omission error
+'tatanan digawe padha' is a major fluency/grammar error
+'sing katon akeh masarakat' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'genealogy' is a major accuracy/mistranslation error
+'kehe kaleksanan' is a minor accuracy/mistranslation error
+'kanthi maksud nambah' is a minor accuracy/mistranslation error
+[SEP_TOKEN_WENDA]'mbiayai' is a major accuracy/mistranslation error
+'lan' is a minor accuracy/mistranslation error
+'pemungutan' is a major accuracy/mistranslation error
+'kudu' is a minor accuracy/mistranslation error
+'pornogrfi' is a minor accuracy/spelling error
+'diwasa' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'nanging' is a minor fluency/inconsistency error
+'sakwise' is a minor fluency/spelling error
+'kalah' is a minor fluency/inconsistency error
+'ing sapungkasane babak' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Sawise seminggu kalah ing pamilihan jangka samadya' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'owah-owahan' is a minor terminology/inconsistent use error
+'penulisan ulang' is a minor accuracy/mistranslation error
+'tliti lan lengkap' is a minor accuracy/mistranslation error
+'saka' is a minor accuracy/addition error
+'partai Konservatif' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'ngujar yen saiki Jerry ora mbebayani' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'believes' is a major accuracy/mistranslation error
+'can penetrate' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Water is overflowing' is a major accuracy/mistranslation error
+'cubic meters per second' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Feeling unhappy' is a major accuracy/mistranslation error
+'from the community's efforts nowadays' is a major accuracy/mistranslation error
+'becoming a home for thousands of media opening licenses' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There is a mistranslation in the translation. 'sebagean' should be translated as 'theoretical' instead of 'the completed work'. Hence, there is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]

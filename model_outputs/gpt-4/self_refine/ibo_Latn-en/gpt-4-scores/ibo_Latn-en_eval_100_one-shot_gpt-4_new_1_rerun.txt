@@ -1,0 +1,47 @@
+No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Like other diseases, it is not believed that Type 1 diabetes can be cured' is a critical accuracy/mistranslation error.
+'these conclusions are inconclusive' is a major accuracy/mistranslation error.
+'it is inferred that' is a minor fluency/awkward style error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]No errors found in this translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ring dozikwara' is a critical accuracy/untranslated text error
+'otu ikpe ha na ụlọ ọrụ ọzọ na-ahụ maka nchekwa' is a critical accuracy/mistranslation error
+'one more lawsuit at another workplace for review' is a major fluency/awkward error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'has appealed to the' is a major accuracy/mistranslation error
+'the risk of all' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'In the administration of 1976' is a critical accuracy/mistranslation error
+'under Henry Kissinger' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'because of their unique chemistry' is a major accuracy/addition error
+'nkiri ahu' is a critical accuracy/untranslated text error
+'nturu ugo di iche iche' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Visual Inspector' is a major accuracy/mistranslation error
+'Film Works' is a major accuracy/mistranslation error
+'Costume Inspection' is a major accuracy/mistranslation error
+'Film's First Dance' is a critical accuracy/mistranslation error
+'Display Design' is a major accuracy/mistranslation error
+'Prepared Food' is a major accuracy/mistranslation error
+'Food Pack' is a major accuracy/mistranslation error
+'Original Entertainment' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Odisnon (The Foolish Thing is Large)' is a major accuracy/mistranslation error
+'overshadowing the importance of the first one' is a minor accuracy/mistranslation error
+'in the scheme of these matters' is a major style/awkward error
+'Lionsgate contributed with an additional 26' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found. The translation is accurate, fluent, and maintains the conventions of the source text. The terminology used is appropriate for the context, and there are no style or grammar issues. The translation maintains the register of the source. No untranslated text, and no addition or omission of information. Therefore, this is a no-error scenario.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'combat' is a minor accuracy/mistranslation error 
+'warriors' is a minor accuracy/mistranslation error 
+'implored to accept them once more' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]"No errors"[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error found.[SEP_TOKEN_WENDA]'They found that they had examined it so meticulously that they had not overlooked a bone or any cursed object.' is a major accuracy/mistranslation error
+'the cursed object was thoroughly consumed with great attention to the bone, rather than a leftover piece of bone on the meat.' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'and their orbits' is a critical accuracy/addition error
+'with no other factors involved' is a major fluency/style error[SEP_TOKEN_WENDA]'"A plasma turbulence coordinator' is a critical accuracy/mistranslation error
+'Tornado' is a major accuracy/omission error.[SEP_TOKEN_WENDA]"anxiety" is a critical accuracy/mistranslation error
+"those who fear open spaces" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'claimed that' is a minor accuracy/mistranslation error
+'arrived in India' is a minor accuracy/mistranslation error
+'the dog attacked him' is a major accuracy/mistranslation error
+'stole it' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'it should be at the top of a building with two radio towers' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"when it happens" is a major accuracy/mistranslation error
+"I'm so used to it" is a major accuracy/mistranslation error
+"I don't understand what he's saying." is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The Report has been launched online' is a major accuracy/mistranslation error
+'church information and access in America' is a critical accuracy/mistranslation error
+'the Central Sun Community' is a major accuracy/mistranslation error
+'how it is progressing' is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'visited a certain individual' is a major accuracy/mistranslation error
+'a meeting about' is a minor accuracy/mistranslation error.[SEP_TOKEN_WENDA]'When a single dose would suffice at the right time,' is a major accuracy/mistranslation error
+'Bush warned his followers for fear of a pandemic' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"a vote of two eyes" is a critical accuracy/mistranslation error
+"his caucus will vote him out" is a major accuracy/mistranslation error
+"NDP Leader Jack Layton's twenty-second Tuesday" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Kemgbe gọọmenti weere ọnọdụ ịkwụ ụgwọ ụlọ ọgwụ' is a critical fluency/untranslated text error
+'Since the government purchased' is a critical accuracy/mistranslation error
+'it was merely a front for ongoing federal government negotiations' is a major accuracy/mistranslation error
+'in November' is a major accuracy/omission error.[SEP_TOKEN_WENDA]"But Prime Minister" is a minor accuracy/addition error
+"got their grant from the Tasmania government" is a major accuracy/mistranslation error
+"providing a fund of AUD$45" is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"the promise' is a critical accuracy/mistranslation error
+'nuclear war adventure' is a critical accuracy/mistranslation error
+'by Koreans' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"that was originally built" is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"legal studies" is a critical accuracy/mistranslation error
+"and it follows a procedure" is a major accuracy/mistranslation error
+"Sagittarius constellation" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No-errors.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'"Several patients have the capacity to influence their treatment in a hospital, according to Dr. Moll, though two key factors are the medical staff."' is a critical accuracy/mistranslation error
+'Dr. Moll cheere' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

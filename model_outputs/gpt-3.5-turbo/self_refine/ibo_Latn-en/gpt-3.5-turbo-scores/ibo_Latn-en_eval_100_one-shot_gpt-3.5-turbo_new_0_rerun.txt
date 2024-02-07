@@ -1,0 +1,50 @@
+'In the morning' is a major accuracy/mistranslation error
+'had a sweet orange' is a major accuracy/mistranslation error
+'they didn't know how to eat it' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are multiple critical errors here:
+'Ka ndị ọkachamara' is a accuracy/mistranslation error
+'o kwenyeghị na a ga agwọtanwu' is a accuracy/mistranslation error
+'ihe nchọpụta' is a accuracy/mistranslation error
+'mmetụta nye' is a accuracy/mistranslation error
+'ọrịa shuga Taịp 1' is a accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]"to symbolize their commitment to each other at another work event" is a major accuracy/mistranslation error
+"the ADT Corporation had" is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Na nnwale PALM' is a major accuracy/untranslated text error
+'eji ZMapp mere ihe nruba ama' is a major accuracy/mistranslation error
+'jiri ya' is a minor accuracy/mistranslation error
+'tunyere ogwugwo ato ozo' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Jimnastiks' is a major accuracy/mistranslation error
+'kwadoro ozi' is a major accuracy/mistranslation error
+'Kọmitii Amerịka' is a major accuracy/mistranslation error
+'kwere kwa na oge eruola mgbe onye ọbụla na-eme Olimpiks aghaghị ịrụkọ ọrụ ọnụ ịhụ na ndị egwuregwu anyị niile nọ na nchekwa' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Nassar International Trade Fair' is a major accuracy/mistranslation error
+'ndị kwesịrị ekwesị.' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]There is a major accuracy/mistranslation error where "Egwuregwu Jimnastik" is translated as "USA Gymnastics". The correct translation would be "Nigerian Gymnastics".[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'ihe nkiri ahu' is a major accuracy/mistranslation error
+'nturu' is a major accuracy/mistranslation error
+'ugo di iche iche' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is in the wrong language.[SEP_TOKEN_WENDA]'mba Turkey ga-anarakwa' is a major accuracy/mistranslation error
+'ichebe ndị agha ISIS enwudere ndị' is a major accuracy/mistranslation error
+'ozi ahụ kwuru' is a major accuracy/mistranslation error
+'na mba ndị dị na Europe ajụla ịnabata ha ọzọ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]Untranslated text.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The machine translation is not provided.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]"by using a single approach similar to other methods" is a major accuracy/mistranslation error
+"They discovered that all systems are fragile and sensitive, and there is nothing else" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Ka akara Rossby na-adị obere karịa' is a major accuracy/mistranslation error
+'n’ikwanye ugwu' is a major accuracy/mistranslation error
+'ntụgharị nke ihendọta' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Na njem ya, Iwasaki banyere na nsogbu ọtụtụ mgbe.' is an untranslated text error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ha ekwela ka adị' is a major accuracy/mistranslation error
+'iburu ibu' is a major accuracy/mistranslation error
+'ogugo uto na ike ha' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is a critical accuracy/mistranslation error in the translation. The phrase "Di Rịpọt bidoro site n'ịkpọ oku" is completely untranslated.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'n'Ajentaịn Tiyeta' is a major accuracy/mistranslation error
+'ịzọ maka' is a minor accuracy/omission error
+'onye otu nke ndị mpaghara' is a minor accuracy/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is incorrect and cannot be annotated because it is not a translation of the source text.[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]'massive' is a minor fluency/spelling error
+'death anniversary' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'All the great kings of the earth' is a major accuracy/mistranslation error
+'ka ndị mmadụ nwee ike kirie mmemme ahụ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]There are no errors in this translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'greeting' is a major accuracy/mistranslation error
+'talked' is a major accuracy/mistranslation error
+'the market' is a major accuracy/mistranslation error
+'the cultural festival' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"ọ dara ada na ntuliaka" is a major fluency/grammar error
+"mmụba nke azụmahịa n'Eshia" is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'ihe a mere bụ naanị ka' is a major accuracy/omission error
+'ụmụ akụrụngwa' is a major accuracy/mistranslation error
+'site n'aka mwedàta siri n'aka gọọmentị' is a major accuracy/mistranslation error
+'ndenye' is a minor fluency/register error[SEP_TOKEN_WENDA]'Like a mighty river flowing freely, vast waters merge with strong winds.' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ndị nọ na ma ọ bụ na nso akụkụ mmiri' is a major accuracy/mistranslation error
+'na Wenezdee niile na-agbanyeghị ndọ aka na ntị niile ewepụrụ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Gordon Johnstone' is a major accuracy/mistranslation error
+'Bush language analysis' is a major accuracy/mistranslation error
+'ngwa agha' is a minor fluency/grammar error[SEP_TOKEN_WENDA]The translation appears to be in a different language and is not a valid translation of the source. This constitutes a non-translation error.[SEP_TOKEN_WENDA]"held in Jeri" is a major accuracy/mistranslation error
+"on land" is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'iwe ya' is a major accuracy/mistranslation error
+'n'elu ihe eghichapuru' is a major accuracy/mistranslation error
+'mgbe ogwara Wikinews okwu' is a major accuracy/mistranslation error
+'n’onwa gara gara' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The translation is a complete non-translation as it does not capture the meaning of the source segment.[SEP_TOKEN_WENDA]The translation is not provided.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'with energetic gestures and a smile on her face' is a major accuracy/addition error[SEP_TOKEN_WENDA]The translation is a non-translation error, as the translation does not correspond to the meaning of the source segment.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are multiple translation errors in this translation.
+
+'ihe egwu n'ihi ogugo ọnwụ dị elu' is a critical accuracy/mistranslation error. It should be translated as 'an adverse situation or a difficult problem'. 
+
+'it says that henceforth it shall be called' is a major accuracy/mistranslation error. It should be translated as 'it is said to henceforth be referred to as'.
+
+'abịa' is a minor spelling error. It should be 'abia'.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]

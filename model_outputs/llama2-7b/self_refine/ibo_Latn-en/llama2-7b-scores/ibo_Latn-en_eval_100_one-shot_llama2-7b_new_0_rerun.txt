@@ -1,0 +1,159 @@
+'a' is a minor fluency/grammar error
+'ará' is a minor terminology/inappropriate for context error
+'ha' is a minor fluency/register error[SEP_TOKEN_WENDA]'a renowned scholar' is a critical accuracy/addition error
+'bring a fresh perspective' is a major fluency/register error
+'ndị mbụ ya' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị ọzọ' is a major accuracy/mistranslation error
+'o depụtara' is a major accuracy/omission error
+'nchọpụta' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'Sara Danius' is a minor terminology/inconsistent use error
+'nke afọ' is a major accuracy/omission error
+'ahapụlarị' is a minor fluency/register error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'onye' is a major accuracy/mistranslation error
+'kwuru' is a major accuracy/omission error
+'adoba' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ụrụmgbịrịgba' is a critical accuracy/addition error[SEP_TOKEN_WENDA]'sị' is a major accuracy/mistranslation error
+'ngosi jụrụ' is a minor terminology/inappropriate for context error
+'itinye' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'gwụcha' is a critical accuracy/addition error
+'igbe' is a minor style/awkward error[SEP_TOKEN_WENDA]'dozikwara' is a critical accuracy/omission error
+'ikpe' is a minor terminology/inappropriate for context error
+'nchekwa' is a minor style/awkward error[SEP_TOKEN_WENDA]'ndị mmadụ' is a critical accuracy/omission error
+'hooha' is a minor fluency/register error
+'onye bu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'otu' is a critical accuracy/addition error
+'ZMapp' is a major accuracy/omission error
+'gosiburu' is a major accuracy/omission error
+'na-igbochi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Jimnastiks' is a major accuracy/mistranslation error
+'kwadoro' is a major accuracy/omission error
+'Olimpik Kọmitii' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'ihu karia' is a critical accuracy/mistranslation error
+'ndi mmadu' is a major accuracy/omission error
+'asambodo' is a minor style/awkward error[SEP_TOKEN_WENDA]'mgbanwe ndị kwesịrị' is a major accuracy/omission error
+'ekwesị' is a minor terminology/inappropriate for context error
+'ndị lanarịrị' is a minor style/awkward error[SEP_TOKEN_WENDA]'ndi USOC' is a critical accuracy/addition error
+'ime egwuregwu jimnastik' is a major accuracy/omission error
+'enweghi iyi-egwu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'rụụrụ' is a major accuracy/mistranslation error
+'onye' is a major accuracy/omission error
+'ndụmọdụ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nghọpụta' is a critical accuracy/addition error
+'ndụmọdụ' is a major accuracy/omission error
+'ruo' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'n’ijikwa' is a critical accuracy/addition error
+'ihazigharị' is a critical accuracy/mistranslation error
+'Mgbanwe' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Below are the photos' is a major accuracy/addition error
+'Onye Ezi' is a major accuracy/mistranslation error
+'Nwanne Onye' is a major accuracy/omission error
+'Exigbo Egwu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ahụ' is a critical accuracy/addition error
+'nwetara' is a major accuracy/omission error
+'ndi a' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ahapụ' is a critical accuracy/mistranslation error
+'ndị agha' is a critical accuracy/omission error
+'Sirịa' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ekwentị' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'enwudere' is a critical accuracy/mistranslation error
+'ndị dị' is a major accuracy/omission error
+'Europe ajụla' is a minor style/awkward error[SEP_TOKEN_WENDA]'na-egosi' is a critical accuracy/mistranslation error
+'ụfọdụ' is a critical accuracy/omission error
+'ndị mmadụ' is a major accuracy/omission error
+'dịka' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị ọka' is a major accuracy/omission error
+'kwuru' is a major accuracy/mistranslation error
+'ma' is a minor style/awkward error[SEP_TOKEN_WENDA]'ntụziaka' is a critical accuracy/mistranslation error
+'gbasara' is a critical accuracy/omission error
+'mma' is a minor style/awkwards error[SEP_TOKEN_WENDA]'ndị ọzọ' is a critical accuracy/addition error
+'enwehị' is a critical accuracy/mistranslation error
+'akpọ' is a critical accuracy/omission error
+'barbs na barbules' is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ahụ' is a major accuracy/mistranslation error
+'etocha' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'gbawara' is a critical accuracy/mistranslation error
+'ndị uwe ojii' is a critical accuracy/omission error
+'ahụ ihe' is a minor style/awkward error[SEP_TOKEN_WENDA]'uwe' is a critical accuracy/mistranslation error
+'ndị' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị' is a critical accuracy/addition error
+'mere' is a major accuracy/omission error
+'ahụ' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'chọpụtara' is a critical accuracy/addition error
+'ndị ọzọ' is a critical accuracy/omission error
+'ntụgharị' is a minor terminology/inappropriate for context error
+'ihe ọzọ' is a minor style/awkwards error[SEP_TOKEN_WENDA]'nke otu kpakpando' is a critical accuracy/mistranslation error
+'nke metụtara' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'na-adị' is a major accuracy/omission error
+'ihendota' is a minor style/awkward error
+'ntụgharị' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ya' is a critical accuracy/mistranslation error
+'banyere' is a minor fluency/spelling error
+'nsogbu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị' is a critical accuracy/addition error
+'nkịta' is a critical accuracy/omission error
+'o siri' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'na arụ ọrụ' is a critical accuracy/mistranslation error
+'frikwensi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'bụrụhaala' is a critical accuracy/addition error
+'isibe' is a major accuracy/omission error
+'ahụ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'lụgoro' is a critical accuracy/mistranslation error
+'nnukwu' is a critical accuracy/omission error
+'akụkọ' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'By 2020' is a major accuracy/mistranslation error
+'emitted' is a minor fluency/spelling error
+'approved' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ndị' is a critical accuracy/addition error
+'emepem' is a critical accuracy/omission error
+'ka ha' is a major accuracy/mistranslation error
+'ochie' is a minor fluency/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ndabanye' is a critical accuracy/mistranslation error
+'otu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nwee' is a major accuracy/omission error
+'mkpakọrịta' is a major accuracy/omission error
+'esi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'akwado' is a critical accuracy/mistranslation error
+'nke' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'nkwado' is a critical accuracy/mistranslation error
+'afọ' is a critical accuracy/omission error
+'okwu' is a major accuracy/inconsistency error
+'megide' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'maịlụ 31' is a critical accuracy/addition error
+'site' is a minor style/awkwards error[SEP_TOKEN_WENDA]' allocate ' is a critical accuracy/addition error
+'connect ' is a major accuracy/omission error
+'dịka' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'akọwaala' is a critical accuracy/addition error
+'nke Bush' is a critical accuracy/omission error
+'rat' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ihu' is a critical accuracy/addition error
+'ndị e chere' is a major accuracy/omission error
+'ha bụ' is a minor fluency/grammar error[SEP_TOKEN_WENDA]' karịrị ' is a critical accuracy/mistranslation error
+'nd' is a minor fluency/grammar error
+'maka' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị mmadụ' is a major accuracy/omission error
+'nke na' is a minor style/awkwards error
+'olili' is a minor fluency/register error[SEP_TOKEN_WENDA]'nnukwu' is a critical accuracy/mistranslation error
+'ike' is a critical accuracy/omission error
+'ahụ' is a minor style/awkwards error[SEP_TOKEN_WENDA]'ndị ọzọ ma na uwa nile' is a critical accuracy/mistranslation error
+'emere nkwazi' is a major accuracy/omission error
+'dị ka ibe ya' is a minor style/awkwards error[SEP_TOKEN_WENDA]'ndị gara' is a critical accuracy/mistranslation error
+'ag a maka' is a critical accuracy/addition error
+'ebumnobi' is a minor style/awkward error[SEP_TOKEN_WENDA]'ndị dị aṅaa' is a critical accuracy/addition error
+'ma kwukwaa' is a major accuracy/omission error
+'nwoke na nwanyị' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nwetara' is a major accuracy/omission error
+'akara' is a minor terminology/inappropriate for context error
+'site' is a minor fluency/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Onye' is a critical accuracy/addition error
+'batata' is a critical accuracy/mistranslation error
+'malite' is a minor fluency/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ndị na-ege ya ntị maka mmụba nke azụmahịa n'Eshia' is a critical accuracy/mistranslation error
+'the people of the village' is a major accuracy/omission error
+'nke azụmahịa n'Eshia' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'onye isi' is a critical accuracy/addition error
+'iwa' is a major accuracy/omission error
+'tupu' is a minor terminology/inappropriate for context error
+'ma emechaa' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'arịọla' is a major accuracy/mistranslation error
+'ndị otu ọdịkaọgadị' is a minor terminology/inappropriate for context error
+'iwu gburugburu' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'steet' is a critical accuracy/addition error
+' Devonport' is a major accuracy/omission error
+' mere mere ' is a minor style/awkwards error
+'ihu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Mana' is a critical accuracy/addition error
+'ka' is a critical accuracy/omission error
+'nke ụlọ' is a critical accuracy/omission error
+'ndele' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'nweghị' is a critical accuracy/mistranslation error
+'ndị' is a major accuracy/omission error
+'ntị' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'iri' is a critical accuracy/addition error
+'akwụkwọ' is a critical accuracy/omission error
+'ndị nọ' is a critical accuracy/omission error
+'e mechiri' is a major accuracy/mistranslation error
+'niile' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'oke' is a critical accuracy/mistranslation error
+'nkwa' is a critical accuracy/omission error
+'ndị' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'oke ifufe' is a major accuracy/omission error
+'oke ifufe' is a major accuracy/omission error
+'nke' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'kwuru' is a critical accuracy/mistranslation error
+'sị' is a critical accuracy/omission error
+'alá' is a minor style/awkward error[SEP_TOKEN_WENDA]'inchi' is a critical accuracy/addition error
+'mmiri' is a critical accuracy/omission error
+'dị' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'nke hụrụ' is a critical accuracy/addition error
+'dị ka feet' is a critical accuracy/omission error
+'eru ukwu' is a major accuracy/inconsistency error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'onye nchikwa' is a critical accuracy/mistranslation error
+'gosiputara' is a major accuracy/omission error
+'okwu n'onwa' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'n'ezie' is a critical accuracy/mistranslation error
+'site na mbido' is a major accuracy/omission error
+'bu okwu iwu' is a major accuracy/omission error
+'Nke abuo' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ahụ' is a critical accuracy/addition error
+'bụkarịrị' is a major accuracy/omission error
+'usoro' is a minor fluency/spelling error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'etinye ndọta n'ụwa' is a major accuracy/omission error
+'ahụ ka Milky Way' is a major accuracy/mistranslation error
+'ahụ si etinye ike' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị' is a critical accuracy/addition error
+'emmetuta' is a major accuracy/omission error
+'otu' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'otu ụyọkọ kpakpando' is a critical accuracy/addition error
+'ma e mejupụtara' is a major accuracy/mistranslation error
+'urughuru' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'blamed' is a major accuracy/mistranslation error
+'ntị ka ha nọrọ' is a major accuracy/omission error
+'ghara iṅu mmiri' is a minor style/awkwards error
+'oyi ma' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndabere' is a critical accuracy/mistranslation error
+'chọpụtawo' is a major accuracy/omission error
+'ayodiin' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ndị ji mmanụ ụgbọ yurenium' is a critical accuracy/addition error
+'agbawaala' is a minor terminology/inappropriate for context error
+'ma' is a minor fluency/register error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]

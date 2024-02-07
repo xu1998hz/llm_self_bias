@@ -1,0 +1,124 @@
+No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Like other diseases, it is not believed that Type 1 diabetes can be cured' is a critical accuracy/mistranslation error.
+'these conclusions are inconclusive' is a major accuracy/mistranslation error.
+'it is inferred that' is a minor fluency/awkward style error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]'Initially' is a major accuracy/mistranslation error
+'his invention in his home was located in a place where he was farming his land' is a critical accuracy/mistranslation error
+'Initially, the head of Ring, Jamie Siminoff, said that his business started when his invention in his home was located in a place where he was farming his land.' is a fluency/grammar error. This sentence is not fluent in English.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ring dozikwara otu ikpe' is a critical accuracy/mistranslation error
+'ha na ụlọ ọrụ ọzọ na-ahụ' is a critical accuracy/mistranslation error
+'maka nchekwa' is a critical accuracy/mistranslation error
+'The ADT Corporation has scheduled another' is a major accuracy/addition error
+'at their office' is a major accuracy/addition error
+'for review' is a major accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"never seeing our competitors again in the hospital" is a critical accuracy/mistranslation error.
+"reported the American Olympic Committee" is a major accuracy/omission error.
+"The USA Gymnastics reported" is a minor fluency/awkward error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"shed light on the gravity of the abuse scandals" is a critical accuracy/mistranslation error
+"The explosion of Larry Nassar's scandal revealed potential systemic failures and a lack of knowledge about them" is a major accuracy/mistranslation error
+"prompting the necessary changes" is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'and also played a part in that administration' is a major accuracy/mistranslation error
+'during the term of Lyndon B. Johnson' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'In the administration of 1976' is a critical accuracy/mistranslation error
+'under Henry Kissinger' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'because of their unique chemistry' is a major accuracy/addition error
+'nkiri ahu' is a critical accuracy/untranslated text error
+'nturu ugo di iche iche' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Visual Effects' is a major accuracy/mistranslation error
+'Film Crew' is a major accuracy/mistranslation error
+'Costume Design' is a major accuracy/mistranslation error
+'Film Supplies' is a major accuracy/mistranslation error
+'Very First Film Dance' is a major accuracy/mistranslation error
+'Premiere Design' is a major accuracy/mistranslation error
+'Ready Meals' is a major accuracy/mistranslation error
+'Meal Packages' is a major accuracy/mistranslation error
+'Ultimate Entertainment' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Odisnon (That Stupid Thing is Swollen)' is a critical accuracy/mistranslation error
+'claim' is a major accuracy/mistranslation error
+'reputation for the first thing the most' is a major accuracy/mistranslation error
+'bringing', 'most' and 'exceeding the previous ones' are major fluency/grammar errors
+'backwardness' is a major terminology/inappropriate for context error
+'Lionsgate was involved in these things, adding 26 more' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found. The translation is accurate, fluent, and maintains the conventions of the source text. The terminology used is appropriate for the context, and there are no style or grammar issues. The translation maintains the register of the source. No untranslated text, and no addition or omission of information. Therefore, this is a no-error scenario.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"Mba" is a major accuracy/untranslated text error
+"ichebe ndị agha" is a major accuracy/untranslated text error
+"ọzọ" is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]'this type of meat' is a critical accuracy/mistranslation error
+'produces a lot of fat on the surface' is a major accuracy/mistranslation error
+'carotenoids in the core' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error found.[SEP_TOKEN_WENDA]'casual leftover' is a major accuracy/mistranslation error
+'it's not a case of bone left on meat' is a major accuracy/mistranslation error
+'so thoroughly' is a minor style/awkward error.[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No-error[SEP_TOKEN_WENDA]'The black widow spiders' is a major accuracy/mistranslation error
+'they are celebrating the one who is making sacrifices' is a critical accuracy/mistranslation error
+'and he is a Daesh (ISIL) warrior' is a major accuracy/mistranslation error
+', as the one responsible for that tragedy.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'but nothing else.' is a major accuracy/mistranslation error
+'They have confirmed' is a major style/awkward error
+'heat of the sun' is a minor accuracy/mistranslation error
+'and their rotation,' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'contribute to understanding Rossby's wave patterns of a tornado' is a major accuracy/mistranslation error
+'plasma turbulence' is a major accuracy/mistranslation error
+'it is suggesting that' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'waves are smaller' is a major accuracy/mistranslation error
+'give fewer frights' is a major accuracy/mistranslation error
+'Universe's expanse' is a major accuracy/mistranslation error
+'agoraphobia' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'car thieves' is a major accuracy/mistranslation error 
+'A dog bit him' is a major accuracy/mistranslation error 
+'He and his wife slipped' is a major accuracy/mistranslation error 
+'And ended up in India' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'it should be at the top of a building with two radio towers' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'large' is a major accuracy/mistranslation error
+'the tasks' is a major accuracy/mistranslation error
+'it carries' is a minor fluency/awkward error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"when it happens" is a major accuracy/mistranslation error
+"I'm so used to it" is a major accuracy/mistranslation error
+"I don't understand what he's saying." is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'fight' is a major accuracy/mistranslation error
+'Mkpokọta ihe nrụpụta obodo' is a critical accuracy/omission error
+'hu said' is a minor style/awkward error[SEP_TOKEN_WENDA]'He did not specify' is a major accuracy/mistranslation error
+'whether this would be paid for' is a major accuracy/mistranslation error
+'at cost' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The Report has been launched online' is a major accuracy/mistranslation error
+'church information and access in America' is a critical accuracy/mistranslation error
+'the Central Sun Community' is a major accuracy/mistranslation error
+'how it is progressing' is a critical accuracy/omission error[SEP_TOKEN_WENDA]No errors found[SEP_TOKEN_WENDA]'his twenty-seventh struggle' is a major accuracy/mistranslation error
+'there will be a change in the new leadership before his illness is fully diagnosed' is a critical accuracy/mistranslation error
+'the entire land of Iraq is in a state of turmoil' is a major accuracy/mistranslation error
+'those who want to talk but their leadership is crushed and their alliances are shaken' is a critical accuracy/mistranlation error.[SEP_TOKEN_WENDA]'The deceased and' is a critical accuracy/mistranslation error
+'knew grief at the wake' is a major fluency/awkward error[SEP_TOKEN_WENDA]'Lọọlọ Kirchner' is a major accuracy/mistranslation error
+'Buenos Aires supporters' is a major accuracy/mistranslation error
+'his candidacy for the presidency' is a major accuracy/omission error
+'the place where he began his campaign for the Senate in 2005 as a member' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Etinyere' is a minor accuracy/mistranslation error
+'nwee ike kirie' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"The death panel" is a critical accuracy/mistranslation error
+"that the FBI would release information on the crime involving male and female drug traffickers" is a critical accuracy/addition error[SEP_TOKEN_WENDA]'nearly an innings' is a major accuracy/mistranslation error
+'running 70' is a major accuracy/mistranslation error
+'with 11 fours and 2 sixes' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'ones who wield the bat' is a major accuracy/mistranslation error
+'single-handed run' is a major accuracy/mistranslation error
+'a cricket match' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Prime Minister' is a critical accuracy/mistranslation error, The correct translation should be 'Deputy Prime Minister'
+'visited him' is a critical accuracy/omission error, The correct version should specify who Wong Kan Seng visited.
+'held a meeting about business and public health matters' is a minor accuracy/mistranslation error, The correct translation should be about 'markets and cultural festivals'[SEP_TOKEN_WENDA]'When a single dose would suffice at the right time,' is a major accuracy/mistranslation error
+'Bush warned his followers for fear of a pandemic' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"a vote of two eyes" is a critical accuracy/mistranslation error
+"his caucus will vote him out" is a major accuracy/mistranslation error
+"NDP Leader Jack Layton's twenty-second Tuesday" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"the PM have jurisdiction" is a major accuracy/omission error
+"polluters pay principle" is a critical accuracy/mistranslation error
+"of organizations like his are situated" is a minor fluency/awkward style error.[SEP_TOKEN_WENDA]'Kemgbe gọọmenti weere ọnọdụ ịkwụ ụgwọ ụlọ ọgwụ' is a critical fluency/untranslated text error
+'Since the government purchased' is a critical accuracy/mistranslation error
+'it was merely a front for ongoing federal government negotiations' is a major accuracy/mistranslation error
+'in November' is a major accuracy/omission error.[SEP_TOKEN_WENDA]"But Prime Minister" is a minor accuracy/addition error
+"got their grant from the Tasmania government" is a major accuracy/mistranslation error
+"providing a fund of AUD$45" is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'a strong wind' is a critical accuracy/mistranslation error 
+'Tsunami' is a critical accuracy/mistranslation error 
+'is evident' is a major accuracy/omission error 
+'almost newly' is a major fluency/awkward error
+'short news article' is a minor style/awkward error[SEP_TOKEN_WENDA]'wildfire overtime' is a critical accuracy/mistranslation error
+'call for caution about the risk of the second wave' is a major accuracy/mistranslation error
+'isn't a' is a minor fluency/register error
+'big damage' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"the promise' is a critical accuracy/mistranslation error
+'nuclear war adventure' is a critical accuracy/mistranslation error
+'by Koreans' is a major accuracy/addition error[SEP_TOKEN_WENDA]'The large wreckage of ten' is a critical accuracy/mistranslation error
+'is named after the large Atlantic wreckage' is a critical accuracy/mistranslation error
+'called the Jerry wreckage' is a major accuracy/mistranslation error
+'located in the Atlantic Ocean today' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'The U.S. Engineers' Workhouse' is a major accuracy/mistranslation error
+'it initially built' is a major accuracy/omission error
+'that a 3-inch rainwater' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'is home to a vast water body and experiences' is a critical accuracy/addition error
+'but is protected by a levee' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'levee obodobo ya di' is a critical accuracy/omission error
+'n’aghafu n’otu akuku' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'has uploaded his work on the recent stories published when' is a critical accuracy/mistranslation error
+'he told Wikinews monthly talk.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'he regards as a law' is a major accuracy/mistranslation error
+'lasting until he completes his story' is a major accuracy/mistranslation error
+'which we perceive' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"The thick book of the town" is a critical accuracy/mistranslation error
+"highlight many things" is a major accuracy/mistranslation error
+"about the long list" is a minor accuracy/mistranslation error
+"of laws concerning approval processes and website maintenance" is a major accuracy/omission error[SEP_TOKEN_WENDA]'This extensive work is legal research and analysis' is a critical accuracy/mistranslation error
+'operation' is a major accuracy/mistranslation error
+'is designed to reveal the attributes' is a critical accuracy/mistranslation error
+'of the constellation Sagittarius' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'That research is aiming to help us understand' is a major accuracy/mistranslation error
+'between black hole galaxies and the black holes of the Milky Way.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'coconut oil' is a critical accuracy/mistranslation error
+'it is derived' is a major accuracy/omission error
+'a universal panacea' is a major accuracy/mistranslation error
+'Therefore, it is said that' is a minor style/awkward error[SEP_TOKEN_WENDA]'The news children' is a major accuracy/mistranslation error
+'on television are showing white clouds in the sky' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'by hand' is a major accuracy/mistranslation error
+'getting drenched by the falling rain inside the house' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'uranium oil' is a critical accuracy/mistranslation error
+'they have the ability to' is a critical accuracy/mistranslation error
+'but are still investigating' is a critical accuracy/addition error
+'steal' is a major accuracy/mistranslation error
+'leaders' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]"but two main ones are hospital staff" is a critical accuracy/mistranslation error
+"their healing" is a major accuracy/omission error
+"Dr. Moll suggested" is a minor fluency/style error[SEP_TOKEN_WENDA]
