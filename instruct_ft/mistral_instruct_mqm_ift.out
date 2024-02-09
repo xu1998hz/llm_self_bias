@@ -1,137 +1,0 @@
-nohup: ignoring input
-[2024-02-05 07:50:36,738] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
-[2024-02-05 07:50:38,438] [WARNING] [runner.py:202:fetch_hostfile] Unable to find hostfile, will proceed with training with local resources only.
-Detected CUDA_VISIBLE_DEVICES=0,1,2,3 but ignoring it because one or several of --include/--exclude/--num_gpus/--num_nodes cl args were used. If you want to use CUDA_VISIBLE_DEVICES don't pass any of these arguments to deepspeed.
-[2024-02-05 07:50:38,439] [INFO] [runner.py:568:main] cmd = /usr/bin/python3 -u -m deepspeed.launcher.launch --world_info=eyJsb2NhbGhvc3QiOiBbMCwgMSwgMiwgM119 --master_addr=127.0.0.1 --master_port=29500 --enable_each_rank_log=None finetune_mistral_mqm.py --run_name mistral_instruct_mqm_ift_fixed
-[2024-02-05 07:50:40,270] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
-[2024-02-05 07:50:42,013] [INFO] [launch.py:145:main] WORLD INFO DICT: {'localhost': [0, 1, 2, 3]}
-[2024-02-05 07:50:42,013] [INFO] [launch.py:151:main] nnodes=1, num_local_procs=4, node_rank=0
-[2024-02-05 07:50:42,013] [INFO] [launch.py:162:main] global_rank_mapping=defaultdict(<class 'list'>, {'localhost': [0, 1, 2, 3]})
-[2024-02-05 07:50:42,013] [INFO] [launch.py:163:main] dist_world_size=4
-[2024-02-05 07:50:42,014] [INFO] [launch.py:165:main] Setting CUDA_VISIBLE_DEVICES=0,1,2,3
-2024-02-05 07:50:45.602304: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-02-05 07:50:45.631446: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-02-05 07:50:45.634185: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
-2024-02-05 07:50:45.634236: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
-2024-02-05 07:50:45.635617: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
-2024-02-05 07:50:45.641493: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2024-02-05 07:50:45.665310: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
-2024-02-05 07:50:45.665385: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
-2024-02-05 07:50:45.667055: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
-2024-02-05 07:50:45.673602: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2024-02-05 07:50:45.690972: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-02-05 07:50:45.715079: I tensorflow/core/util/port.cc:113] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
-2024-02-05 07:50:45.725004: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
-2024-02-05 07:50:45.725071: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
-2024-02-05 07:50:45.726677: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
-2024-02-05 07:50:45.733111: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2024-02-05 07:50:45.749145: E external/local_xla/xla/stream_executor/cuda/cuda_dnn.cc:9261] Unable to register cuDNN factory: Attempting to register factory for plugin cuDNN when one has already been registered
-2024-02-05 07:50:45.749216: E external/local_xla/xla/stream_executor/cuda/cuda_fft.cc:607] Unable to register cuFFT factory: Attempting to register factory for plugin cuFFT when one has already been registered
-2024-02-05 07:50:45.750918: E external/local_xla/xla/stream_executor/cuda/cuda_blas.cc:1515] Unable to register cuBLAS factory: Attempting to register factory for plugin cuBLAS when one has already been registered
-2024-02-05 07:50:45.757517: I tensorflow/core/platform/cpu_feature_guard.cc:182] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
-To enable the following instructions: AVX2 AVX512F AVX512_VNNI AVX512_BF16 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2024-02-05 07:50:46.302720: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-2024-02-05 07:50:46.385170: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-2024-02-05 07:50:46.412968: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-2024-02-05 07:50:46.416084: W tensorflow/compiler/tf2tensorrt/utils/py_utils.cc:38] TF-TRT Warning: Could not find TensorRT
-[2024-02-05 07:50:47,377] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
-[2024-02-05 07:50:47,502] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
-[2024-02-05 07:50:47,542] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
-[2024-02-05 07:50:47,561] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
-/home/wendaxu/.local/lib/python3.10/site-packages/datasets/load.py:2089: FutureWarning: 'use_auth_token' was deprecated in favor of 'token' in version 2.14.0 and will be removed in 3.0.0.
-You can remove this warning by passing 'token=None' instead.
-  warnings.warn(
-/home/wendaxu/.local/lib/python3.10/site-packages/datasets/load.py:2089: FutureWarning: 'use_auth_token' was deprecated in favor of 'token' in version 2.14.0 and will be removed in 3.0.0.
-You can remove this warning by passing 'token=None' instead.
-  warnings.warn(
-/home/wendaxu/.local/lib/python3.10/site-packages/datasets/load.py:2089: FutureWarning: 'use_auth_token' was deprecated in favor of 'token' in version 2.14.0 and will be removed in 3.0.0.
-You can remove this warning by passing 'token=None' instead.
-  warnings.warn(
-/home/wendaxu/.local/lib/python3.10/site-packages/datasets/load.py:2089: FutureWarning: 'use_auth_token' was deprecated in favor of 'token' in version 2.14.0 and will be removed in 3.0.0.
-You can remove this warning by passing 'token=None' instead.
-  warnings.warn(
-{'response_quality': [None], 'output': ["'进博会参展商联盟的纽带作用不断增强' is a major accuracy/omission error."], 'input': ["You are evaluating a Chinese-to-English Machine translation task. The source is '新华社上海7月26日电（记者周蕊）26日，第三届进口博览会参展商联盟在此间首次成立专业委员会，首批成立的专委会包括公共卫生防疫专委会和乳业专委会，35家成员企业还签订了3年长期参展合作备忘录，进博会参展商联盟的纽带作用不断增强。'. The model generated translation is 'Xinhua News Agency, Shanghai, July 26 (Reporter Zhou Rui) On the 26th, the Exhibitors Union of the Third Import Expo set up a professional committee for the first time here. The first batch of established special committees included the Public Health and Epidemic Prevention Committee and the Dairy Industry Special Committee. 35 member companies also signed a three-year long-term exhibition cooperation memorandum.'. Please identify all errors in the translation, up to a maximum of five. For each error, please give me the corresponding error location, error type and major/minor label for each error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don't lead to loss of meaning but will be noticed."], 'instruction_quality': [None]}
-using weight path: mistralai/Mistral-7B-Instruct-v0.1
-{'response_quality': [None], 'output': ["'进博会参展商联盟的纽带作用不断增强' is a major accuracy/omission error."], 'input': ["You are evaluating a Chinese-to-English Machine translation task. The source is '新华社上海7月26日电（记者周蕊）26日，第三届进口博览会参展商联盟在此间首次成立专业委员会，首批成立的专委会包括公共卫生防疫专委会和乳业专委会，35家成员企业还签订了3年长期参展合作备忘录，进博会参展商联盟的纽带作用不断增强。'. The model generated translation is 'Xinhua News Agency, Shanghai, July 26 (Reporter Zhou Rui) On the 26th, the Exhibitors Union of the Third Import Expo set up a professional committee for the first time here. The first batch of established special committees included the Public Health and Epidemic Prevention Committee and the Dairy Industry Special Committee. 35 member companies also signed a three-year long-term exhibition cooperation memorandum.'. Please identify all errors in the translation, up to a maximum of five. For each error, please give me the corresponding error location, error type and major/minor label for each error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don't lead to loss of meaning but will be noticed."], 'instruction_quality': [None]}
-using weight path: mistralai/Mistral-7B-Instruct-v0.1
-{'response_quality': [None], 'output': ["'进博会参展商联盟的纽带作用不断增强' is a major accuracy/omission error."], 'input': ["You are evaluating a Chinese-to-English Machine translation task. The source is '新华社上海7月26日电（记者周蕊）26日，第三届进口博览会参展商联盟在此间首次成立专业委员会，首批成立的专委会包括公共卫生防疫专委会和乳业专委会，35家成员企业还签订了3年长期参展合作备忘录，进博会参展商联盟的纽带作用不断增强。'. The model generated translation is 'Xinhua News Agency, Shanghai, July 26 (Reporter Zhou Rui) On the 26th, the Exhibitors Union of the Third Import Expo set up a professional committee for the first time here. The first batch of established special committees included the Public Health and Epidemic Prevention Committee and the Dairy Industry Special Committee. 35 member companies also signed a three-year long-term exhibition cooperation memorandum.'. Please identify all errors in the translation, up to a maximum of five. For each error, please give me the corresponding error location, error type and major/minor label for each error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don't lead to loss of meaning but will be noticed."], 'instruction_quality': [None]}
-using weight path: mistralai/Mistral-7B-Instruct-v0.1
-{'response_quality': [None], 'output': ["'进博会参展商联盟的纽带作用不断增强' is a major accuracy/omission error."], 'input': ["You are evaluating a Chinese-to-English Machine translation task. The source is '新华社上海7月26日电（记者周蕊）26日，第三届进口博览会参展商联盟在此间首次成立专业委员会，首批成立的专委会包括公共卫生防疫专委会和乳业专委会，35家成员企业还签订了3年长期参展合作备忘录，进博会参展商联盟的纽带作用不断增强。'. The model generated translation is 'Xinhua News Agency, Shanghai, July 26 (Reporter Zhou Rui) On the 26th, the Exhibitors Union of the Third Import Expo set up a professional committee for the first time here. The first batch of established special committees included the Public Health and Epidemic Prevention Committee and the Dairy Industry Special Committee. 35 member companies also signed a three-year long-term exhibition cooperation memorandum.'. Please identify all errors in the translation, up to a maximum of five. For each error, please give me the corresponding error location, error type and major/minor label for each error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don't lead to loss of meaning but will be noticed."], 'instruction_quality': [None]}
-using weight path: mistralai/Mistral-7B-Instruct-v0.1
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>'}
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>'}
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>'}
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>'}
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.95s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.47s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.64s/it]Loading checkpoint shards:  50%|█████     | 1/2 [00:03<00:03,  3.95s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  3.71s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:08<00:00,  4.04s/it]
-Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.83s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.07s/it]
-Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.63s/it]
-Loaded in model and tokenizers
-Padding token is not found, setting padding token to <unk>
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<unk>'}
-Loaded in model and tokenizers
-Padding token is not found, setting padding token to <unk>
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<unk>'}
-Loaded in model and tokenizers
-Padding token is not found, setting padding token to <unk>
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<unk>'}
-Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.51s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:05<00:00,  2.73s/it]
-Loaded in model and tokenizers
-Padding token is not found, setting padding token to <unk>
-{'bos_token': '<s>', 'eos_token': '</s>', 'unk_token': '<unk>', 'pad_token': '<unk>'}
-[2024-02-05 07:51:15,337] [INFO] [comm.py:637:init_distributed] cdb=None
-[2024-02-05 07:51:15,725] [INFO] [comm.py:637:init_distributed] cdb=None
-[2024-02-05 07:51:15,866] [INFO] [comm.py:637:init_distributed] cdb=None
-[2024-02-05 07:51:15,961] [INFO] [comm.py:637:init_distributed] cdb=None
-[2024-02-05 07:51:15,961] [INFO] [comm.py:668:init_distributed] Initializing TorchBackend in DeepSpeed with backend nccl
-Start the trainer
-Start the trainer
-Start the trainer
-Start the trainer
-Using /home/wendaxu/.cache/torch_extensions/py310_cu121 as PyTorch extensions root...
-Detected CUDA files, patching ldflags
-Emitting ninja build file /home/wendaxu/.cache/torch_extensions/py310_cu121/cpu_adam/build.ninja...
-Building extension module cpu_adam...
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
-ninja: no work to do.
-Loading extension module cpu_adam...
-Time to load cpu_adam op: 2.358931303024292 seconds
-Using /home/wendaxu/.cache/torch_extensions/py310_cu121 as PyTorch extensions root...
-Detected CUDA files, patching ldflags
-Emitting ninja build file /home/wendaxu/.cache/torch_extensions/py310_cu121/cpu_adam/build.ninja...
-Building extension module cpu_adam...
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
-ninja: no work to do.
-Loading extension module cpu_adam...
-Time to load cpu_adam op: 2.3599982261657715 seconds
-Using /home/wendaxu/.cache/torch_extensions/py310_cu121 as PyTorch extensions root...
-Detected CUDA files, patching ldflags
-Emitting ninja build file /home/wendaxu/.cache/torch_extensions/py310_cu121/cpu_adam/build.ninja...
-Building extension module cpu_adam...
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
-ninja: no work to do.
-Loading extension module cpu_adam...
-Time to load cpu_adam op: 2.364910364151001 seconds
-Using /home/wendaxu/.cache/torch_extensions/py310_cu121 as PyTorch extensions root...
-Detected CUDA files, patching ldflags
-Emitting ninja build file /home/wendaxu/.cache/torch_extensions/py310_cu121/cpu_adam/build.ninja...
-Building extension module cpu_adam...
-Allowing ninja to set a default number of workers... (overridable by setting the environment variable MAX_JOBS=N)
-ninja: no work to do.
-Loading extension module cpu_adam...
-Time to load cpu_adam op: 2.358258008956909 seconds
-Parameter Offload: Total persistent parameters: 266240 in 65 params
-wandb: Currently logged in as: xu1998hz (factual_score). Use `wandb login --relogin` to force relogin
-wandb: wandb version 0.16.2 is available!  To upgrade, please run:
-wandb:  $ pip install wandb --upgrade
-wandb: Tracking run with wandb version 0.15.12
-wandb: Run data is saved locally in /home/wendaxu/peril_self_improve/instruct_ft/wandb/run-20240205_075225-88saghjg
-wandb: Run `wandb offline` to turn off syncing.
-wandb: Syncing run mistral_instruct_mqm_ift_fixed
-wandb: ⭐️ View project at https://wandb.ai/factual_score/huggingface
-wandb: 🚀 View run at https://wandb.ai/factual_score/huggingface/runs/88saghjg
-  0%|          | 0/187 [00:00<?, ?it/s][2024-02-05 07:52:26,527] [WARNING] [parameter_offload.py:87:_apply_to_tensors_only] A module has unknown inputs or outputs type (<class 'transformers.cache_utils.DynamicCache'>) and the tensors embedded in it cannot be detected. The ZeRO-3 hooks designed to trigger before or after backward pass of the module relies on knowing the input and output tensors and therefore may not get triggered properly.
-  1%|          | 1/187 [00:41<2:09:53, 41.90s/it]                                                 {'loss': 12.0299, 'learning_rate': 2e-05, 'epoch': 0.01}
-  1%|          | 1/187 [00:41<2:09:53, 41.90s/it]
