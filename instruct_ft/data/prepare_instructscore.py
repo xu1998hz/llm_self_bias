@@ -121,7 +121,7 @@ def read_tsv_and_convert_to_json(file_path, srcs, refs, language, wmt):
     # postprocess
     for k, v in json_data['data'].items():
         if v['num'] == 0:
-            continue
+            # continue
             v['output'] = 'Your translation contains no errors.'
             p += 1
         else:
@@ -174,7 +174,7 @@ print(f'after: {len(json_output["instances"])}')
 # Optionally, write the JSON data to a file
 # 'zhen' -> 'zh-en'
 mode = mode[:2] + '-' + mode[2:]
-with open(f'{wmt}_ref_train_all_error.json', 'w', encoding='utf-8') as json_file:
+with open(f'{wmt}_{mode}_ref_train.json', 'w', encoding='utf-8') as json_file:
     json.dump(json_output, json_file, ensure_ascii=False, indent=4)
-with open(f'{wmt}_ref_valid_all_error.json', 'w', encoding='utf-8') as json_file:
+with open(f'{wmt}_{mode}_ref_valid.json', 'w', encoding='utf-8') as json_file:
     json.dump(valid_data, json_file, ensure_ascii=False, indent=4)

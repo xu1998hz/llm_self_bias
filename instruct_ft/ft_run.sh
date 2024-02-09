@@ -7,8 +7,8 @@
 #SBATCH --time=24:00:00
 #SBATCH --account=guangleizhu
 #SBATCH --partition=gemini
-#SBATCH --output=/home/guangleizhu/peril_self_improve/instruct_ft/slurm/ft_llama2_chat_ref.out
-#SBATCH --error=/home/guangleizhu/peril_self_improve/instruct_ft/slurm/ft_llama2_chat_ref_error.out
+#SBATCH --output=/home/guangleizhu/peril_self_improve/instruct_ft/slurm/ft_llama1_ift_mqm.out
+#SBATCH --error=/home/guangleizhu/peril_self_improve/instruct_ft/slurm/ft_llama1_ift_mqm_error.out
 
 source ~/.bashrc
 # module purge
@@ -27,4 +27,4 @@ conda activate torch2.1
 
 # cd ../finetune
 
-deepspeed --num_gpus 4 finetune_llama2.py --run_name llama2_chat_ref_wmt21_zh-en_all_error
+deepspeed --num_gpus 4 finetune_llama.py --run_name llama1_ift_mqm
