@@ -1,0 +1,154 @@
+'non-diabetic children' is a critical accuracy/mistranslation error
+'were diagnosed with diabetes' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Department of Marine and Fisheries Sciences' is a critical accuracy/mistranslation error
+'Canadian Department of Environment' is a major accuracy/mistranslation error
+'said the research is not new' is a major accuracy/omission error
+'Dalhousie University' is a minor fluency/inconsistency error[SEP_TOKEN_WENDA]'he doubted whether the vaccine would work' is a critical accuracy/mistranslation error 
+'Like the authors,' is a major accuracy/omission error 
+'it was not effective for people with Type 1 diabetes' is a major accuracy/addition error[SEP_TOKEN_WENDA]'attending a TV show' is a critical accuracy/mistranslation error
+'She would not be interested in it ' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Daniusi' is a major accuracy/mistranslation error
+'"It was a good thing. I was able to get the right kind of education and experience that I needed to be a good businessman. At this point, I'm confident that I did."' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ring's former creative director' is a critical accuracy/mistranslation error
+'the doorbell didn't turn from the garage to the garage' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'It won't protect' is a critical accuracy/mistranslation error
+'O wi' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'industry authorities worked hard to encourage startups' is a critical accuracy/mistranslation error
+'the market rose' is a major accuracy/mistranslation error
+'2013 Shark Tank show' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Ni eba ipari odun 2017' is a critical accuracy/mistranslation error. The machine translation wrongly represented 'At the end of 2017' instead of 'During the 2017 holiday season,' 
+'Siminoff fi ara han lori itakun mohun maworan ti awon ontaja QVC.' is a critical accuracy/mistranslation error. The machine translation did not accurately represent 'Siminoff showcased himself on the shark tank of QVC retailers.' Instead, it incorrectly translated it to 'Siminoff stepped down from the board of QVC retailers.' 'stepped down' is not accurate and changes the overall meaning.[SEP_TOKEN_WENDA]'The ADT is also responsible for the administration of the ADT Office.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'as effective as existing drugs' is a critical accuracy/mistranslation error
+'While research is underway' is a minor accuracy/omission error
+'slow the spread of Ebola' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'ZMapp' is a critical accuracy/mistranslation error
+'provides a map viewer' is a critical accuracy/mistranslation error
+'crashes' is a critical accuracy/mistranslation error
+'A micro-client' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The PALM ZMapp project is a model that shows how scientists can map the three dimensions of the universe.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The U.S. Olympic Team endorses the Olympic Charter' is a critical accuracy/mistranslation error
+'and acknowledges that the IOC needs to ensure that it provides fair treatment for all our athletes.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"We accept the USOC's statement" is a critical accuracy/mistranslation error
+"as we continue to make changes to our sports system" is a critical accuracy/omission error
+"rather than withdrawing from the sport" is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The U.S. National Gymnastics Association supports research that will help clarify the use of the leg in the practices described by Larry Nassar.' is a critical accuracy/mistranslation error
+'Larry Nassar. ní kò bá ti lọ láì rí fún ọjọ́ pípẹ́ àti gbígba àwọn àyípadà tó yẹ.' is a critical accuracy/omission error
+'Eréje Gymnastics ti ilẹ̀ USA sàtìlẹyìn fún ìwádìí olómìnira tí ó lè tan ìmọ́lẹ̀ lórí àsìlò ìpín ní àwọn tó móríye ìsẹ̀lẹ̀ Larry Nassar sàpéjúwe pẹ̀lú akitiyan.' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'The U.S. National Olympic Committee and the USOC' is a major accuracy/addition error 
+'Olympic Code' is a major accuracy/mistranslation error
+'to ensure that athletes compete...' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'"During the 1976 coup, he spied on Carter"' is a critical accuracy/mistranslation error
+'after which he served as Director' is a major accuracy/omission error
+'National Security Agency (NSA) from 1977 to 1981' is a major accuracy/mistranslation error
+'succeeding Henry Kissinger.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Iran–Iraq War in response to the Iranian nuclear attacks in 1979' is a critical accuracy/mistranslation error
+'it assisted Carter in overseeing the Global Security Initiative' is a major accuracy/mistranslation error
+'the deterioration of US–China relations in the late 1970s' is a major accuracy/omission error
+'including the 1978 Camp David Accords;' is a minor style/awkward error
+'mímú áyípadà bá àjọsepọ̀ ilẹ̀ US–China ní ọwọ ìparí 1970s;' is an omission error
+'Ìjagbara àwọn ilẹ̀ Iran tí ó yorí sí rògbòdìyàn ìdógo àwọn Iran' is untranslated text error[SEP_TOKEN_WENDA]No errors were identified in the translation.[SEP_TOKEN_WENDA]'yege fún ìbò' is a critical accuracy/omission error.[SEP_TOKEN_WENDA]'Repetition of Director of Photography' is a critical accuracy/addition error
+'Other awards not translated' is a critical accuracy/omission error
+'Apohùnpọ̀, àti Akọ̀tà.' being translated as 'Author' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'"The Band Wagon" and "Star Trek"' is a major accuracy/mistranslation error
+'Two songs from the film' is a major accuracy/omission error
+'over many other studios' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'last month' is a critical accuracy/mistranslation error
+'visit' is a major accuracy/mistranslation error
+'Won se ikede naa leyin ti Trumpi ba Aare Toki Resep Tayipi Edogani lori ago.' is a major non-translation error.[SEP_TOKEN_WENDA]'Turkey is facing a massive immigration crisis of ISIS fighters' is a critical accuracy/mistranslation error
+'which is why' is a major accuracy/addition error
+'European countries' is a minor accuracy/omission error
+'welcome them back' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'three-legged structure' is a critical accuracy/mistranslation error
+'flying dinosaurs' is a major accuracy/omission error
+'it was lighter than the flying dinosaurs' is a major accuracy/omission error
+'a valid assertion that it did' is a major fluency/awkward error[SEP_TOKEN_WENDA]'high vitamin C content' is a critical accuracy/mistranslation error
+'Some scientists think' is a major fluency/register error
+'due to the presence of carotenoids' is a major accuracy/omission error.[SEP_TOKEN_WENDA]'The wing also provides a list of the individuals in the bird.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'ìyẹ́ dánísọ̀̀' is a critical accuracy/untranslated text error
+'Since' is a major fluency/grammar error
+'from the wings' is a major accuracy/mistranslation error
+'ramus' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The bird's neck was not intended to be used in a sculpture but for demonstration purposes' is a critical accuracy/mistranslation error
+'Researchers now argue that it was in fact a dinosaur's neck, an example of a dinosaur's neck display' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The appearance is that of a mammal rather than a baby.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'group of suicide bombers' is a major accuracy/mistranslation error
+'hit a police station' is a major accuracy/mistranslation error
+'on Tuesday' is a major accuracy/addition error
+'injuring others' is a major accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'The authorities claimed responsibility for the attack' is a critical accuracy/mistranslation error
+'ọlọ́pa' is a critical accuracy/omission error
+'funra sí' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'generalization of nature' is a major accuracy/mistranslation error
+'them and only by their actions' is a major accuracy/mistranslation error
+'not by anything else' is a minor accuracy/addition error
+'the moon as on the stars' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'radioactivity' is a critical accuracy/mistranslation error
+'gamma rays per second' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The smaller the Rossby number,' is a critical accuracy/mistranslation error
+'the value of the bias is' is a critical accuracy/mistranslation error
+'relative to the post-diffraction error' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'his career' is a critical accuracy/mistranslation error
+'Iwasaki signed solo several times' is a critical accuracy/mistranslation error
+'ní ọ̀pọ̀lọpọ ìgbà' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'The entire sentence' is a critical accuracy/mistranslation error
+'The details of the source text including stealing, use of dogs etc.' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'sise pelu eto igbohun si afefe' is a critical accuracy/omission error
+'eto 802.11n' is a minor fluency/awkwards error[SEP_TOKEN_WENDA]'Èyí yíò fún ní àǹfànni láti padà sẹ́yìn' is a critical accuracy/omission error
+'ibùdó o ní rádíò méjì' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Fifty-second speeds are commonly used' is a critical accuracy/mistranslation error
+'tens of thousands of Mbit/s' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Dufaali who married with two sons' is a critical accuracy/mistranslation error
+'also liked Mila' is a major accuracy/mistranslation error
+'whose story is not so much about her, but about her husband' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"No errors"[SEP_TOKEN_WENDA]"A ó tiraka láti gé ohun tí ó ń jáde carbon dioxide lóní ìwọ̀n GDP pẹ̀lú àmì tó farahàn bí yíò bá fi di 2020 láti ìpele 2005 gẹ́gẹ́ bí" is a major accuracy/omission error.[SEP_TOKEN_WENDA]'The line' is a major accuracy/mistranslation error
+'it did not assign a value' is a critical accuracy/omission error
+'it would be used in accordance with China's historical policy.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Hu urged the older generations" is a critical accuracy/mistranslation error
+"remember the old ways of doing things and to help the younger ones to do the same." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'"not to mention,' is a major accuracy/addition error
+'"however,' is a major accuracy/addition error
+'allowed' is a critical accuracy/mistranslation error
+'to take advantage' is a critical accuracy/mistranslation error
+'of their status, position and power' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The Iraqi investigation team' is a major accuracy/mistranslation error
+'set up its defense' is a critical accuracy/mistranslation error
+'around 11:00 a.m.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'He argues that' is a major accuracy/addition error 
+'the war' is a critical accuracy/mistranslation error 
+'democracy' is a major accuracy/mistranslation error 
+'which he sees as a' is a major accuracy/omission error[SEP_TOKEN_WENDA]"He is also a supporter of open debate" is a critical accuracy/mistranslation error
+"and consultation in the United States on decisions affecting the Northwest Territories" is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The US' is a critical accuracy/addition error
+'a return to it' is a major accuracy/mistranslation error
+'the new policy of the US in Iraq' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'One of the 14 commitments' is a major accuracy/mistranslation error
+'to speed up the implementation of a peace process' is a critical accuracy/omission error
+'to its normal state' is a major accuracy/omission error
+'and to re-establish close relation with the government' is a major accuracy/omission error[SEP_TOKEN_WENDA]"The incumbent Senate" is a critical accuracy/mistranslation error
+"announced the nomination of the presidential candidate" is a critical accuracy/mistranslation error
+"ohn fe wo idije" is a critical accuracy/untranslated text error
+"an aa" is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'Arábìnrin' is a major accuracy/omission error
+'kéde èróngbà láti díje dunpò ààrẹ ilé ìseré ìtàgé' is a major accuracy/mistranslation error
+'ibùdó kanáà tí ó lò fún ìpolongo rẹ̀ fún ìdìbò asòfin gẹ́gẹ́ bí ọmọ ẹgbẹ́ aṣojú ẹkùn' is a major accuracy/mistranslation error
+'Buenos Aires City Council' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]"'jiyàn lóri owó ìtura àtí àtúnkọ́ ilé' is a major accuracy/mistranslation error
+'the Yoruba language' is a major accuracy/addition error
+'Ìgbà Ọrikénì' is a critical accuracy/omission error
+'àwọn konsafetifu' is a critical accuracy/omission error
+'tí fi yẹ̀yẹ́ sọ' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'The unrelenting drive for census power' is a major accuracy/mistranslation error
+'has led to the creation of the Washington State Census Bureau' is a major accuracy/mistranslation error
+There is a critical accuracy/omission error as the meaning of the whole sentence has been changed.[SEP_TOKEN_WENDA]'The construction' is a critical accuracy/mistranslation error
+'for the death' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'it was not possible for everyone to see the entrance' is a critical accuracy/mistranslation error
+'the crypt of St. Peter's Basilica' is a major fluency/style error[SEP_TOKEN_WENDA]'watch the celebration' is a critical accuracy/mistranslation error
+'countryside of Rome' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The entire translation is a critical accuracy/mistranslation error, none of the details present in the source segment is translated accurately in the target.[SEP_TOKEN_WENDA]'Àpérò bẹ̀rl sí ní kó owó sí obcenity' is a critical accuracy/untranslated text error
+'n\i ọdún 2005' is a major locale convention/date format error
+'fíìmù àgbàlagbà' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"góòlù tó ga jùlọ" is a critical accuracy/mistranslation error
+"48 wickets and 200 runs" is a critical accuracy/mistranslation error
+"àádọ́rin pẹ̀lú bọ́ọ̀lù mọ́kànlélógì nípa gbígbá mẹ́rin mọ́kànlá àti mẹ́fà méjì" is a critical accuracy/omission error[SEP_TOKEN_WENDA]'ṣe dáadáa tí wọ́n sì ní ọgọ́rùn ún àjọsepọ̀.' is a critical non-translation error
+'100%' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'losing the wicket' is a major accuracy/mistranslation error
+'to break his record' is a critical accuracy/addition error
+'Ṣùgban lẹ́yìn tí wọ́n sọ' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'14 months ago' is a major accuracy/mistranslation error
+'a new era of US involvement' is a major accuracy/mistranslation error
+'Olori oorilrede' is a major accuracy/omission error
+'oorilrede' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Igbákejì Olórí Singapo Wongi Kani Sengi' is a critical accuracy/mistranslation error
+'and a briefing' is a major accuracy/addition error[SEP_TOKEN_WENDA]'After a week-long tour of the country' is a major accuracy/mistranslation error
+'crowd of supporters' is a major accuracy/omission error
+'the Asian crisis' is a minor accuracy/omission error[SEP_TOKEN_WENDA]The entire Translation text is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'Laytoni also requested a review of the Ethics Act and, in a meeting with the PM, urged that the Ethics Act be amended' is a critical accuracy/mistranslation error
+'ùwàsí àyíká lákòókò ìpàdé' is a critical accuracy/omission error
+'àtúnkọ àbádòfin ìhùwà ẹgbẹ́ sí àyíká.' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'approved the Merseyside Museum move' is a critical accuracy/mistranslation error
+'the Federal Council have been criticising this move' is a major accuracy/mistranslation error
+'implications for the upcoming November election' is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'former Minister' is a major accuracy/mistranslation error
+'the dam was intended to protect the museum's collections' is a critical accuracy/mistranslation error
+'so the Tasmanian government did not want to buy it, costing $94 million' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'have taken advantage of' is a critical accuracy/mistranslation error
+'PWC's' is a major accuracy/omission error
+'major' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Forty of Hawaii's islands' is a critical accuracy/mistranslation error
+'near the ocean' is a major accuracy/addition error
+'ìkìlọ̀ kúrò.' is a critical non-translation error[SEP_TOKEN_WENDA]'ìkẹ́de náà wọlé' is a major accuracy/mistranslation error. The correct translation should be 'entered the left foot' or 'limped in' not 'received the award'.
+'Ààrẹ orilé-ẹ̀dẹ̀ Améríkà' is a minor terminology/inappropriate for context error, the correct term is 'President' not 'US President'.[SEP_TOKEN_WENDA]'Bush' is a critical accuracy/mistranslation error
+'Godoni Johanudro' is a critical accuracy/mistranslation error
+'a bold step toward denuclearizing the Korean peninsula' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'could not be considered a hurricane' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The U.S. military, led by scientists, estimated that a 10-foot-wide organization would eliminate the existing Ewe population.' is a critical accuracy/mistranslation error
+'a 10-foot-wide organization' is a critical accuracy/addition error
+'the existing Ewe population' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ìpín Kẹ̀sán' is a critical accuracy/untranslated text error
+'tó ní ìrírí ẹ̀kúnwọ́ tó ga tó ìwọ̀n bàtà ogún' is a critical accuracy/omission error
+'lọ́wọ́ lọ́wọ́ ti máa ní gíga tó ègbé ikùn bí ìdarí omi tó sún mọ́tí di bíbò mọ́lẹ. .' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'one-tenth of a foot' is a major accuracy/mistranslation error
+'is' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'Many Associate' is a major accuracy/mistranslation error
+'coverage of the protests' is a major accuracy/mistranslation error
+'his dismay' is a major accuracy/omission error
+'ní Wikinews lóṣù tó kọjá' has been left untranslated which is a critical accuracy/untranslated text error.[SEP_TOKEN_WENDA]'"He [Wales] has given us a start' is a minor accuracy/mistranslation error
+'First by continuing to act unless it was legally required' is a critical accuracy/mistranslation error
+'Second, by insisting that he listened to us as he did his job' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'The area's popularity led' is a critical accuracy/mistranslation error
+'that attracted millions of public media viewers' is a major accuracy/omission error[SEP_TOKEN_WENDA]'The classification is mostly for academic purposes' is a critical accuracy/mistranslation error
+'but the scheme was developed to dismiss the errors in the description of the Sagirrarius as a giant' is a critical accuracy/mistranslation error
+'Sagirrarius' is a minor spelling error[SEP_TOKEN_WENDA]'This gravitational pull may be due to the collision of the cluster between the galaxy and the Milky Way black hole.' is a major accuracy/mistranslation error
+'between the galaxy and the Milky Way black hole' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Much like the Milky Way is in relation to the Earth,' is a critical accuracy/mistranslation error
+'and is likely to expand,' is a critical accuracy/mistranslation error
+'So is the Sagittarius galaxy' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'The whole sentence' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'This explanation assumes' is a major accuracy/mistranslation error
+'that smaller objects are dispersed' is a major accuracy/omission error[SEP_TOKEN_WENDA]'"Reports from the cave's interior show that the cave was filled with water."' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'not take water' is a major accuracy/mistranslation error
+'remove their mobile phones' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'In cooperation with the Chemical Industry Association of Japan' is a major accuracy/mistranslation error
+'the factory was tested for harmful chemicals and iodine' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'This was because' is a major accuracy/mistranslation error
+'the rocks were so rich in uranium that' is a major accuracy/mistranslation error
+'they were placed on the surface of the earth' is a major accuracy/mistranslation error
+'they would burn' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"the title was" is a critical accuracy/mistranslation error
+"it was funny because it was the first time I had ever seen a man die." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'Dr. Molli said that the patients were taken to the hospital with a broken bone' is a major accuracy/mistranslation error.
+'and that two of them were in critical condition.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]

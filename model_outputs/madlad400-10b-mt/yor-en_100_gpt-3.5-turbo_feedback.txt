@@ -1,0 +1,61 @@
+'he added' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There is an untranslated text error as the machine translation did not translate the word "Ehud" in the source segment.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'reached' is a major accuracy/mistranslation error
+'interest in it' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'However' is a minor fluency/inconsistency error
+"didn't turn from the garage to the garage" is a major accuracy/addition error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'where industry authorities worked hard to encourage startups' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'At the end of 2017' is a major accuracy/mistranslation error
+'Siminoff stepped down from the board of QVC retailers' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is completely unrelated to the source. This is a critical non-translation error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'ZMapp' is a minor accuracy/mistranslation error
+'àǹfàní tó kéré' is a major accuracy/mistranslation error
+'dènà ikú' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"sayensi fi ṣe gbendeke" is a major accuracy/mistranslation error
+"wé" is a major accuracy/mistranslation error
+"ogun mẹ́ta ìyóku" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'rather than withdrawing from the sport' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Eréje Gymnastics' is a major accuracy/mistranslation error
+'sàtìlẹyìn' is a minor accuracy/mistranslation error
+'olómìnira' is a minor accuracy/mistranslation error
+'to help clarify' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'Àwòrán tó dára jù' is a major accuracy/mistranslation error
+'Olùdarí, Àyàwòrán, Aṣaralóge, Asàtúntò-Fíìmù, Aṣàtúntò ohùn, Apohùnpọ̀, àti Akọ̀tà' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Two songs from the film' is a major accuracy/mistranslation error
+'Lionsgate won four of the six nominations' is a major accuracy/mistranslation error
+'over many other studios' is a minor fluency/awkwardness error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'ba Aare' is a minor accuracy/mistranslation error
+'Edogani' is a major accuracy/mistranslation error
+'lori ago' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'àwọn dinosaurs' is a critical accuracy/mistranslation error
+'àti títò lanà mẹt' is a minor accuracy/mistranslation error
+'ẹ̀kúnrẹ́rẹ́ àlàyé egungun ẹranko dinosaurs bíi àwọ́' is a major accuracy/mistranslation error
+'as a three-legged animal with a three-legged structure' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in this translation.[SEP_TOKEN_WENDA]"also" is a major accuracy/mistranslation error
+"individuals" is a major accuracy/mistranslation error
+"in the bird" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]'àwọn' is a major accuracy/mistranslation error
+'for the attack to' is a major accuracy/mistranslation error
+'militants' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the moon' is a critical accuracy/mistranslation error
+'the stars' is a critical accuracy/mistranslation error
+'the actions of all stars were observed as being governed by them' is a major accuracy/mistranslation error
+'not by anything else' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'gamma rays per second' is a critical accuracy/mistranslation error
+'ti o ní Ṣe pẹ̀lú bí olasma Ṣe wàn s' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]During his career, Iwasaki signed solo several times. There are no errors in the translation.[SEP_TOKEN_WENDA]'àjalèlókun' is a major accuracy/mistranslation error
+'nípa lílo ajá elégbọn' is a major accuracy/addition error
+'ìgbáyàwó' is a major accuracy/mistranslation error
+'wọ́n sì mu ní India' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'provide' is a minor fluency/grammar error[SEP_TOKEN_WENDA]'theoretical maximum' is a major accuracy/mistranslation error
+'Fifty-second speeds' is a major accuracy/mistranslation error
+'of tens of thousands' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'married with two sons' is a major accuracy/mistranslation error
+'tan mó' is a major accuracy/mistranslation error
+'whose story is not so much about her, but about her husband' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]"assign a value to the line" is a major accuracy/mistranslation error
+"stating that it would be used in accordance with China's historical policy" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'defense' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'He argues' is a major accuracy/mistranslation error
+'which he sees' is a major accuracy/omission error[SEP_TOKEN_WENDA]The translation is a complete mistranslation and does not convey the meaning of the source segment.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Washington State Census Bureau' is a critical accuracy/mistranslation error
+'fún àwọn ọmọ ìlú Washington' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'construction' is a major accuracy/mistranslation error
+'departure' is a major accuracy/mistranslation error
+'four million tourists' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is correct and contains no errors.[SEP_TOKEN_WENDA]'A series of giant megaphones were installed around the countryside of Rome to allow the public to watch the celebration.' is a critical accuracy/addition error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'entered the list of highest scoring cricketers' is a major accuracy/mistranslation error
+'48 wickets and 200 runs' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is mostly accurate and fluent, with some minor errors:
+'Olori oorilrede' is a minor accuracy/mistranslation error
+'n je' is a minor accuracy/mistranslation error
+'i aro ojo ikerindinlogun' is a minor accuracy/mistranslation error
+'ni osu kokanla' is a minor accuracy/addition error
+'eyi to fi bere awoyika ilu Asia olose kan' is a minor accuracy/addition error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'the country' is a major accuracy/mistranslation error
+'about the Asian crisis' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation provided is not understandable and contains no-error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'federal government' is a major accuracy/mistranslation error
+'Merseyside Museum' is a minor accuracy/mistranslation error
+'the state government and the Federal Council' is a minor accuracy/mistranslation error
+'November election' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'àbù àwọn ohun èlò ilé ìwòsàn náà' is a major accuracy/mistranslation error
+'márùndínlógójì' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'led by scientists' is a major accuracy/mistranslation error
+'estimated that a 10-foot-wide organization would eliminate the existing Ewe population' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'one-tenth of a foot on one side' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]'He [Wales]' is a major accuracy/mistranslation error
+'Second, by insisting that he listened to us as he did his job.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is a non-translation as it does not preserve the meaning of the source segment.[SEP_TOKEN_WENDA]"The classification is mostly for academic purposes" is a minor accuracy/mistranslation error
+"but the scheme was developed to dismiss the errors in the description of the Sagirrarius as a giant" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'galaksi' is a major terminology/mistranslation error
+'Ona Milik' is a major terminology/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'centered in a halo of galaxy' is a major accuracy/mistranslation error
+'are dispersed' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'not take water' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the factory' is a major accuracy/mistranslation error
+'was tested' is a major accuracy/mistranslation error
+'for harmful chemicals and iodine' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'awon alase' is a major accuracy/mistranslation error
+'eyi toka si pe awon kolo to n di epo uraniumu ni ni oju ibe le ti be ati pe o n jo' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'In a interview' is a minor fluency/grammar error
+'he said that' is a minor fluency/grammar error
+'the title' is a major accuracy/mistranslation error
+'because it was the first time I had ever seen a man die' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'ati wipe meji lara won je osise eleto ile-iwosan naa' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]

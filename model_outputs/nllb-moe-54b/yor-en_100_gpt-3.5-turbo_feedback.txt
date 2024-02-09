@@ -1,0 +1,58 @@
+"he's ready for a supplement" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'head writer' is a minor terminology/inconsistent use error
+'the group that could not reach' is a major accuracy/mistranslation error
+'to contact her' is a major accuracy/omission error[SEP_TOKEN_WENDA]The translation is incomplete and does not make sense. It contains a critical accuracy/mistranslation error and a major fluency/grammar error.[SEP_TOKEN_WENDA]The translation is not provided in English.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]'the market' is a major accuracy/mistranslation error
+'the show's executives were successful in getting the show off the ground' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Ni eba ipari odun' is a major accuracy/mistranslation error
+'fi ara han lori' is a major accuracy/addition error
+'awon ontaja' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The machine translation is not provided, please provide it so I can annotate errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'United States Gymnastics Federation' is a major accuracy/mistranslation error
+'Special Olympics' is a major accuracy/mistranslation error
+'for all athletes' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'àkitiyan' is a major accuracy/mistranslation error
+'ó lè tan ìmọ́lẹ̀ lórí àsìlò ìpín' is a major accuracy/mistranslation error
+'ní àwọn tó móríye ìsẹ̀lẹ̀' is a major accuracy/mistranslation error
+'ní kò bá ti lọ láì rí fún ọjọ́ pípẹ́ àti gbígba àwọn àyípadà tó yẹ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'goals that protect the integrity of sports' is a major accuracy/mistranslation error
+'their goals are for the public to enjoy their sport in a safe, healthy and enjoyable environment' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'yíyàn nì gbogbo éka pàtàkì' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'We're not going to be able to get a warrant for the truck.' is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'has also' is a minor accuracy/omission error
+'forcibly' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"more powerful" is a major accuracy/mistranslation error
+"it provides a" is a major accuracy/mistranslation error
+"detailed description of the bones" is a major accuracy/mistranslation error
+"the elephant and the small lizard" is a major accuracy/mistranslation error
+"bíi àwọ́ àti títò lanà mẹt" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The source text is not in a recognizable or understandable language, therefore it cannot be translated.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'ìrù ọmọ dinosaur' is a major accuracy/mistranslation error
+'àpẹrẹ rẹ' is a minor accuracy/omission error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'the war' is a major accuracy/mistranslation error
+'using his military skills' is a major accuracy/mistranslation error
+'escaped from his wife's family' is a major accuracy/mistranslation error
+'moved to India' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'China's economic results' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"kọ ọ̀nà àtijọ́ tí wọ́n má ń ba àyíká jẹ́ saájú kí wọ́n tó tún un se bóbá yá" is a major accuracy/mistranslation error. The translation does not capture the meaning of the original text.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'The Iraq Survey Group established its base about 12 hours ago today.' is a major fluency/inconsistent error[SEP_TOKEN_WENDA]'He warned' is a major accuracy/mistranslation error
+'at odds' is a minor fluency/translation error[SEP_TOKEN_WENDA]The translation is completely unrelated to the source. This is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'ọ̀nà padà' is a major accuracy/mistranslation error
+'ìlú Iraq' is a minor accuracy/omission error
+'called for them to change course' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'One of the 28 conditions is' is a minor terminology/inconsistent use error
+'tako' is a minor accuracy/translation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Chamber of Commerce' is a major accuracy/mistranslation error
+'campaign for re-election' is a major accuracy/mistranslation error
+'Buenos Aires Provincial Council' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is completely wrong.[SEP_TOKEN_WENDA]'fẹ́ gbé iṣẹ́ àtúnkọ́lé' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]A variety of large-format cameras were installed throughout the Roman Empire to allow the people to watch the celebrations.[SEP_TOKEN_WENDA]'Ni ọpọ awọn ilu omiran ni Italy' is a major accuracy/mistranslation error
+'papa julọ ni Poland' is a major accuracy/mistranslation error
+'bayi wa' is a major accuracy/mistranslation error
+'eyi ti opolopo eniyan ri' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Historians' is a major accuracy/mistranslation error
+'the United Nations Office of Emergency Services' is major accuracy/mistranslation error
+'for its use of force' is a major accuracy/mistranslation error
+'in easily solved incidents' is a critical accuracy/mistranslation error
+'cases of carjacking with a gun' is a major accuracy/mistranslation error
+'to promote its use' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'and so the FBI has no more than ten agents for adult films' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'entered with a top score of 70' is a major accuracy/mistranslation error
+'by taking 4 for 11 and 2 for 6' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are multiple errors in the translation:
+
+'Lẹ́yin àdánu ọ̀sẹ̀ kan nínú ètò ìdìbò ìdajì sáà' is a major accuracy/mistranslation error. It should be translated as "After a successful trip yesterday".
+
+'Bush sọ fún àkójọpọ̀ àwọn èro rẹ̀ nípa sísàmúngbòrò kátàkárà ní ilẹ̀ Asia' is a major accuracy/addition error. It should be translated as "Bush spoke about his plans for advancing economic growth in Asia".
+
+Overall, the translation does not accurately capture the meaning of the source segment.[SEP_TOKEN_WENDA]'ban on the Clean Air Act' is a critical accuracy/mistranslation error
+'ordering a meeting of members of the public' is a major accuracy/mistranslation error
+'will hold a special election on Labor Day' is a major accuracy/mistranslation error
+'as PMO' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'changes to environmental legislation' is a major accuracy/mistranslation error
+'revise the environmental group's definition' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'Chief Minister' is a major accuracy/mistranslation error
+'hospital facilities' is a major accuracy/mistranslation error
+'leaving $35 million to be spent' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'but the fires burned for a short time' is a major accuracy/mistranslation error
+'preventing the Tonga authorities from detecting the tsunami produced by the PWC' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Fourteen schools in Hawaii located on or near the coast' is a major accuracy/mistranslation error
+'as a result of the removal of the warning' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Former US President' is a major accuracy/omission error[SEP_TOKEN_WENDA]no-error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'could not make contact with the ground' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is non-sensical and does not accurately convey the meaning of the source segment.[SEP_TOKEN_WENDA]'tó ní ìrírí' is a major accuracy/mistranslation error
+'tò' is a minor accuracy/mistranslation error
+'ídarí omi tó sún mọ́tí di bíbò mọ́lẹ' is a major accuracy/mistranslation error
+'. .' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'expressed his concerns' is a minor accuracy/mistranslation error
+'about the errors that occurred' is a minor accuracy/mistranslation error
+'during the Wikinews talk last month' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is non-translation because the translator did not translate the source segment.[SEP_TOKEN_WENDA]'the power to write a street-level communication strategy' is a major accuracy/mistranslation error
+'that would host a million public media outlets' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'for study' is a major accuracy/mistranslation error
+'is not caused by Sagittarius in the sky' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'galaxy' is a minor accuracy/mistranslation error
+'Milky Way' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is a non-translation error.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'Antiquities' is a critical terminology/mistranslation error[SEP_TOKEN_WENDA]'eyi toka si pe awon kolo to n di epo uraniumu ni ni oju ibe le ti be ati pe o n jo' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The translation is in Yoruba.[SEP_TOKEN_WENDA]

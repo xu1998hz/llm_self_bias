@@ -1,0 +1,56 @@
+"Mentioned" is a major accuracy/mistranslation error
+"currently have four children who do not have diabetes but were diagnosed with diabetes" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'and deputy secretary of Canada's Department of Marine and Fisheries Sciences under the Department of Environment' is a major accuracy/mistranslation error
+'the research is not groundbreaking' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'he' is a major accuracy/mistranslation error
+'in individuals with Type 1 diabetes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No error[SEP_TOKEN_WENDA]'creative director' is a major accuracy/mistranslation error
+'the garage to the garage' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is almost perfect. There are no errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"In 2017's closure" is a major accuracy/mistranslation error
+"gracefully resigned from his position on the board" is a minor fluency/awkward error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is a critical accuracy/mistranslation error in which the translation does not convey the meaning of the source correctly.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'Eréje' is a critical accuracy/mistranslation error
+'ìwádìí' is a major fluency/character encoding error
+'olómìnira' is a minor terminology/inappropriate for context error
+'tò' is a minor fluency/character encoding error
+'àwọn tó móríye ìsẹ̀lẹ̀' is a major accuracy/mistranslation error
+'àyípadà' is a minor terminology/inconsistent use error
+'tó yẹ' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]No errors were identified.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]The translation is a non-translation.[SEP_TOKEN_WENDA]'In the Best Original Song category' is a major accuracy/mistranslation error
+'two remarkable tunes' is a major accuracy/mistranslation error
+'films "The Band Wagon" and "Star Trek"' is a major accuracy/mistranslation error
+'outstanding nominees' is a major accuracy/mistranslation error
+'proved its prowess' is a major accuracy/mistranslation error
+'surpassing numerous rival studios' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Last month' is a minor fluency/inaccuracy error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'it does serve as' is a major accuracy/mistranslation error
+'with a tripartite structure' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]'In addition' is a major accuracy/mistranslation error
+'the wing' is a major accuracy/mistranslation error
+'of the avian occupants' is a minor accuracy/addition error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Contrary to its original purpose in a sculpture' is a major accuracy/mistranslation error
+'researchers currently speculate' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]According to the government office, it was reported that 29 individuals who tragically took their own lives were members of the police force.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'On the moon' is a major accuracy/mistranslation error
+'they discovered' is a major accuracy/mistranslation error
+'a common pattern' is a minor accuracy/mistranslation error
+'in nature' is a minor accuracy/mistranslation error
+'all stars were seen' is a major accuracy/mistranslation error
+'to be guided solely by their own' is a major accuracy/mistranslation error
+'rather than anything else' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'are usually described' is a major accuracy/mistranslation error
+'in terms of their luminosity and rotation' is a major accuracy/mistranslation error
+'determine their radioactivity' is a major accuracy/mistranslation error
+'are measured in units of gamma rays per second' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'wọ́n jalè ní Tibet nípa lílo ajá elégbọn' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'fifty-second' is a major accuracy/mistranslation error
+'tens of thousands' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'No value was assigned to the line' is a major accuracy/mistranslation error
+'with the explanation that it would be employed in alignment with China's historical policy' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'kọ ọ̀nà àtijọ́ tí wọ́n má ń ba àyíká jẹ́ saájú kí wọ́n tó tún un se bóbá yá.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]"he contends" is a major accuracy/mistranslation error
+"present political system amidst the ongoing war" is a major accuracy/mistranslation error
+"which he perceives" is a major accuracy/mistranslation error
+"direct menace" is a major accuracy/mistranslation error
+"to democracy" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'àwọn ípinnu' is a major accuracy/mistranslation error
+'pélù Ààrin Gúngún Ìlà-oòrùn' is a major accuracy/mistranslation error
+'within the United States' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]The translation is correct.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'the establishment of the Census Bureau of Washington State' is a major accuracy/mistranslation error
+'ùnwámàrìnú tí fẹ́' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'As a result of the ongoing construction' is a major accuracy/mistranslation error
+'a staggering four million tourists bid farewell' is a major accuracy/mistranslation error
+'to the captivating city of Rome' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]This is not a machine translation error as the translation provided is not a translation of the source text.[SEP_TOKEN_WENDA]There is a critical accuracy/mistranslation error as the translation does not convey the same meaning as the source.
+The translation also has a major accuracy/omission error where it does not include the part "papa julọ ni Poland" in the translation.
+There are no other errors in this translation.[SEP_TOKEN_WENDA]'authors' is a major accuracy/mistranslation error
+'United Nations Office for the Coordination of Humanitarian Affairs (OCHA) reporting programme' is a major accuracy/mistranslation error
+'voice their disapproval' is a major accuracy/omission error
+'UN agency' is a major accuracy/omission error
+'UN agency's reporting and evaluation tools' is a major accuracy/omission error
+'successfully attaining its objectives' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]The machine translation is inappropriate for the given context, which is a major terminology error.[SEP_TOKEN_WENDA]The machine translation is completely inaccurate and mistranslated.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'arẹ̀sẹ̀' is a critical accuracy/mistranslation error
+'ardent supporters' is a major accuracy/mistranslation error
+'Asia' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Around forty' is a minor accuracy/mistranslation error
+'situated either on or close to the ocean' is a minor accuracy/mistranslation error
+'have faced significant erosion, resulting in severe impact' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'According to Godoni Johanudro, the spokesperson for Bush, North Korea's response is deemed as a courageous move towards achieving a denuclearized Korean peninsula.' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'tí òjọ̀ bá rọ ìwọ̀n íǹṣì mẹ́fà péré' is a critical accuracy/mistranslation error
+'ojú ihò ewé tó ti bàjẹ́ tẹ́lẹ' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]The translation is mostly non-translation.[SEP_TOKEN_WENDA]The translation is not provided in the target language, so I am unable to annotate errors.[SEP_TOKEN_WENDA]The translation is non-existent.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'ro' is a minor accuracy/mistranslation error
+'kokoro naa' is a minor accuracy/omission error
+'meji lara' is a minor accuracy/mistranslation error
+'eleto' is a minor accuracy/omission error[SEP_TOKEN_WENDA]

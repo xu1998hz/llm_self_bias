@@ -1,0 +1,82 @@
+'Having enjoyed a blissful period of four months free from the grip of diabetes, he is now prepared to embrace a nourishing supplement.' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]This translation is a non-translation.[SEP_TOKEN_WENDA]'Ring CEO' is a minor terminology/inconsistent use error
+'beforehand' is a minor fluency/word choice error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Ni eba ipari odun 2017' is a major accuracy/mistranslation error
+'fi ara han lori itakun mohun maworan ti awon ontaja' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]'ajìjàkadi ilẹ̀ Àmẹ́ríkà' is a major accuracy/mistranslation error
+'expreesing their' is a minor fluency/grammar error
+'gùara m̄i' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'backed Olympic research' is a major accuracy/mistranslation error
+'characterizing the endeavor as "a swift and effective journey towards crucial transformations."' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]'yíyàn nì gbogbo éka pàtàkì' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]"Obtaining a warrant for the truck seems unlikely." is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]'has taken charge of' is a major accuracy/mistranslation error
+'who have withheld their consent' is a major accuracy/mistranslation error
+'to their own countries' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No error.[SEP_TOKEN_WENDA]'Awon onimo sayensi' is a major terminology/inappropriate for context error
+'être' is a minor accuracy/untranslated text error
+'sesnut-' is a minor fluency/spelling error
+'labe' is a minor fluency/spelling error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]The translation is non-translation.[SEP_TOKEN_WENDA]'had entered into matrimony' is a major accuracy/mistranslation error
+'in the loving company' is a major accuracy/translation error
+'tale' is a minor accuracy/mistranslation error
+'harbors a complexity beyond surface comprehension' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were found in the translation.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]'He refrained from expanding on the rationale behind the relocation' is a major accuracy/mistranslation error
+'attributing it to China's economic performance' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'to "kọ ọ̀nà àtijọ́ tí wọ́n má ń ba àyíká jẹ́ saájú kí wọ́n tó tún un se bóbá yá."' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]The translation is completely unrelated to the source. It is a critical accuracy/mistranslation error.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'28 conditions' is a major accuracy/mistranslation error
+'prompt and resolute action by year-end' is a major accuracy/mistranslation error
+'ISIL' is a major accuracy/untranslated text error
+'forging a robust alliance with the coalition' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]The translation is not accurate and contains several errors:
+
+1. "originated from" is a major accuracy/mistranslation error.
+2. "expenses of housing and construction" is a minor accuracy/mistranslation error.
+3. "during the era of Oryol" is a major accuracy/mistranslation error.
+4. "In this chaos" is a minor accuracy/mistranslation error.
+5. "the local entrepreneurs proclaimed themselves" is a minor accuracy/mistranslation error.
+6. "as the mighty" is a minor fluency/awkwardness error.
+7. "'Olympic Trade Titun Buṣì'" is a major accuracy/mistranslation error.[SEP_TOKEN_WENDA]'The citizens of Washington are about to experience a rejuvenating transformation with the construction of this new building.' is a major accuracy/mistranslation error. The translation does not capture the meaning of the source sentence.[SEP_TOKEN_WENDA]'attracted' is a major accuracy/mistranslation error
+'staggering number of over four million attendees' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors were identified in the translation.[SEP_TOKEN_WENDA]'throughout the vast expanse of the Roman Empire' is a major accuracy/mistranslation error
+'cameras' is a major accuracy/mistranslation error
+'exquisite pleasure' is a major accuracy/mistranslation error
+'joyous festivities' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'monuments' is a minor accuracy/mistranslation error
+'people' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'àwọn akọ̀tàn' is a major accuracy/mistranslation error
+'àríwísí' is a major accuracy/mistranslation error
+'àtẹ̀yìnwá' is a major accuracy/mistranslation error
+'ọ́fíìsì àjọ àpapọ̀' is a major accuracy/omission error
+'ìsẹ̀lẹ̀ tó rọrùn láti yanjú' is a major accuracy/omission error
+'ní pàtàkì àwọn ọ̀ràn jíjí ọkọ̀ áyọkẹ́lẹ́' is a major accuracy/omission error
+'èróngbá' is a major accuracy/mistranslation error
+'ìgbélárugẹ' is a major accuracy/mistranslation error
+'ódiwọ̀n àsẹyọrì' is a major accuracy/mistranslation error
+'rẹ' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]The translation is incorrect and appears to be a mix of different languages. It contains several major accuracy errors, including mistranslation and omission. There are also minor fluency errors.
+
+Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评```
+Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.```
+
+MQM annotations:
+- "of high-speed rail" is a critical accuracy/addition error. There is no mention of "high-speed rail" in the source text, and it is not relevant to the context of a home furnishing store.
+- "find a decoration company, and go to the reviews" is a major accuracy/mistranslation error. The meaning is not accurately conveyed from the source text. It should be something like "find a decoration company, go to Dianping for the reviews."
+
+Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.```
+Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.```
+
+MQM annotations:
+- "involvement" is a major accuracy/mistranslation error. It should be "ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit Ihnen zu besprechen," which means "without the account holder's permission, I would not be able to discuss this with you."
+- "the account holder" is a major accuracy/omission error. It should be "Erlaubnis des Kontoinhabers," which means "the account holder's permission."
+- "wäre" is a minor fluency/grammar error. It should be "wäre ich nicht in der Lage," which means "I would not be able to."
+- "dir" is a minor fluency/register error. It should be "Ihnen," which means "with you."
+
+Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.```
+Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.```
+
+MQM annotations:
+- "ve Vídni" is a major accuracy/addition error. It means "in Vienna" and is repeated unnecessarily.
+- "the stop-start" is a major accuracy/omission error. The phrase is not translated properly, and the meaning is lost.
+- "partaje" is a minor terminology/inappropriate for context error. It should be "strany," which means "sides" or "parties."
+
+Source: ```Olori oorilrede U.S to n je George W. Bush de si ilu Singapore ni aro ojo ikerindinlogun ninu osu kokanla, eyi to fi bere awoyika ilu Asia olose kan.```
+Translation: ```The President of the United States, George W. Bush, paid a visit to Singapore and took a close look at the impressive logistics of Asia's largest plant.```
+
+MQM annotations:
+- The translation is incorrect and appears to be a mix of different languages. It does not accurately convey the meaning of the source text.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA] 'midterm campaign' is a major accuracy/mistranslation error
+'instigating' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'is set to be banned' is a major accuracy/mistranslation error
+'across the government' is a major accuracy/addition error
+'has approved' is a major accuracy/mistranslation error
+'a public gathering will be called for' is a major accuracy/mistranslation error
+'an extraordinary election on Labor Day' is a major accuracy/mistranslation error
+'assuming the role of PMO' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There is a critical accuracy/mistranslation error in the translation. The phrase "a strong opposition voiced" does not accurately convey the meaning of "ìjọba ìbílẹ̀ àti àwọn Aṣojú ìjọbá àpapọ̀ ti bu ẹnu àtẹ́ lu ìgbésẹ̀ yìí gẹ́gẹ́ bí ètè" which means "strong opposition from local government officials and federal MPs".[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]Although Tonga did not experience any significant damage or casualties, the fires burned briefly, hindering the local authorities from detecting the tsunami caused by the PWC.[SEP_TOKEN_WENDA]The translation provided does not correspond to the source segment.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'According to the individual' is a minor fluency/grammar error[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]According to the estimations by the U.S. Army Corps of Engineers, a six-inch thick gun would be sufficient to conceal the hole in the damaged leaf.[SEP_TOKEN_WENDA]The translation contains untranslated text (in the source language).[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]There is no error in the translation.[SEP_TOKEN_WENDA]'Additionally' is a major accuracy/mistranslation error
+'the local campaign' is a major accuracy/mistranslation error
+'street-level communication strategy' is a major accuracy/mistranslation error
+'public media outlets' is a major accuracy/mistranslation error
+'numbering in the millions' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'rule out any connection between the earthquake and the Sagittarius constellation in the sky' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]There is a single minor fluency/grammar error in the translation.[SEP_TOKEN_WENDA]No errors were found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors were identified, but it is worth noting that the translation is non-sensical and does not accurately convey the meaning of the source segment.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'possess the ability' is a major accuracy/mistranslation error
+'if the cancer is in remission' is a minor accuracy/mistranslation error
+'together, they can ascertain its status' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]
