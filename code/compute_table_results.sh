@@ -1,10 +1,10 @@
-lang="yor-en"
-eval_name="gpt-4"
+lang="jav_Latn-en"
+eval_name="mistral_moe"
 model_name="${eval_name}"
 device_id="5"
 
-mkdir model_outputs/${eval_name}/self_refine/${lang}/bleurt-raw/
-mkdir model_outputs/${eval_name}/self_refine/${lang}/bleurt-nor/
+# mkdir model_outputs/${eval_name}/self_refine/${lang}/bleurt-raw/
+# mkdir model_outputs/${eval_name}/self_refine/${lang}/bleurt-nor/
 
 # for iteration in "0" "1" "2" "3" "4" "5" # "6" "7" "8" "9" "10" 
 # do 

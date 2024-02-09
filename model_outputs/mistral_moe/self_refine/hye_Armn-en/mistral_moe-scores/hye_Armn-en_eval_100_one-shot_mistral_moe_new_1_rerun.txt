@@ -1,0 +1,280 @@
+'4 monthly' is a major accuracy/addition error
+'in debt' is a major accuracy/omission error
+'add to it' is a minor fluency/grammar error
+'they don't' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'aerospace engineering' is a major accuracy/mistranslation error
+'a professor of' is a major accuracy/omission error
+'the president of' is a major accuracy/omission error
+'stated' is a minor accuracy/mistranslation error
+'the test results' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'type 1 diabetes' is a minor accuracy/inappropriate for context error
+'discoveries' is a minor accuracy/mistranslation error
+'have no effect' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'On Saturday' is a minor accuracy/addition error
+'the Nobel Committee's literary field' is a minor accuracy/addition error
+'unable to establish contact' is a minor accuracy/omission error
+'had given up on its attempts' is a minor accuracy/addition error
+'to award him the Nobel Prize in Literature' is a minor accuracy/addition error
+'in 2016' is a minor accuracy/addition error
+'to award him the Nobel Prize in Literature' is a minor accuracy/addition error
+'had given up[SEP_TOKEN_WENDA] 'have received many responses' is a major accuracy/mistranslation error
+'it is a code' is a major accuracy/mistranslation error
+'associates' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the ring leader' is a major accuracy/omission error
+'the robbery' is a major accuracy/addition error
+'the garage' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'I am not able to provide a translation for the given source as it is not in a recognizable language.' is a critical non-translation error[SEP_TOKEN_WENDA] 'Siminofn' is a minor accuracy/mistranslation error
+'Shnadzukneri' is a minor accuracy/mistranslation error
+'the initial financial support' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'television channel' is a minor accuracy/addition error
+'was aired' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the symbol of the E-D-T air corps' is a major accuracy/omission error
+'the official badge' is a major accuracy/omission error
+'the E-D-T air corps' is a major accuracy/addition error
+'the ring' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'special unit' is a minor accuracy/mistranslation error
+'detect and prevent' is a minor accuracy/mistranslation error
+'any terrorist threat' is a minor accuracy/mistranslation error
+'traditional methods and information' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'human error' is a major accuracy/mistranslation error
+'aviation' is a major terminology/inappropriate for context error
+'improving' is a minor terminology/inconsistent use error
+'air traffic controllers' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'seismic and laboratory' is a minor accuracy/addition error
+'methods' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the Olympic team' is a major accuracy/omission error
+'the ANM's military training' is a major accuracy/omission error
+'the entire country's border areas' is a major accuracy/omission error
+'the military training has been completed' is a minor accuracy/addition error
+'the Olympic team is ready' is a minor accuracy/mistranslation error
+'protect' is a minor accuracy/omission error
+'our entire country' is a minor accuracy/omission error
+'border areas' is a minor accuracy/omission error
+'the entire[SEP_TOKEN_WENDA] 'the International Olympic Committee's initiative' is a minor accuracy/addition error
+'promote sports' is a minor accuracy/mistranslation error
+'our regions and communities' is a minor accuracy/addition error
+'highlighting' is a minor terminology/inappropriate for context error
+'through a change in symbolism' is a minor terminology/inappropriate for context error
+'rather than excluding other regions' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'ANM' is a major accuracy/mistranslation error
+'development assistance' is a major accuracy/mistranslation error
+'the long-standing issues' is a major accuracy/mistranslation error
+'the Lake Assad region' is a major accuracy/mistranslation error
+'requires immediate and appropriate changes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA] 'the aim' is a minor accuracy/addition error
+'the Ministry of Sport and Youth Affairs and the National Olympic Committee' is a minor terminology/inappropriate for context error
+'provide regions with the means' is a minor accuracy/mistranslation error
+'develop and excel in sports' is a minor accuracy/mistranslation error
+'enabling them to reach their full potential' is a minor accuracy/mistranslation error
+'in a secure, fair, and inclusive setting' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'In 1960' is a critical accuracy/addition error
+'the position of General Secretary of the Communist Party of the Soviet Union was created' is a critical accuracy/addition error
+'Nikita Sergeyevich Khrushchev' is a critical accuracy/mistranslation error
+'was appointed to this position' is a critical accuracy/addition error
+'the Communist Party of the Soviet Union' is a critical accuracy/addition error
+'was created' is a critical accuracy/addition error
+'was appointed' is a critical accuracy/addition error
+[SEP_TOKEN_WENDA] 'the Communist Party of China' is a minor accuracy/addition error
+'the Politburo' is a minor accuracy/addition error
+'the Standing Committee of the Political Bureau' is a minor accuracy/addition error
+'succeeding' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'As a member of the ACDP (Armenian Center for Democratic Politics)' is a minor accuracy/addition error
+'he participated in the discussion and resolution of various international issues' is a minor accuracy/mistranslation error
+'the Sino-American rapprochement in 1978' is a minor accuracy/mistranslation error
+'the Iranian Revolution in 1979, which resulted in the Iran hostage crisis' is a minor accuracy/mistranslation error
+'the Soviet-Afghan War in 1979' is a minor[SEP_TOKEN_WENDA] 'was well-received' is a critical accuracy/mistranslation error
+'every family gathering' is a major accuracy/addition error[SEP_TOKEN_WENDA] The source text is not a valid input for translation, so there is a critical non-translation error.[SEP_TOKEN_WENDA] 'The following are being developed' is a critical accuracy/addition error
+'films' is a minor terminology/inappropriate for context error
+'opera' is a minor terminology/inappropriate for context error
+'dance' is a minor terminology/inappropriate for context error
+'original compositions' is a minor terminology/inappropriate for context error
+'special effects' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'The Witch' is a minor accuracy/untranslated text error
+'The Wretched' is a minor accuracy/untranslated text error
+'Laynsegeth' is a major accuracy/mistranslation error
+'26 awards' is a minor style/awkward error[SEP_TOKEN_WENDA]'the airstrikes' is a major accuracy/omission error
+'coordinated' is a major accuracy/addition error
+'ISIS' is a major accuracy/terminology/inappropriate for context error
+'Squadron Leader' is a major accuracy/omission error
+'fighter pilot' is a major accuracy/terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'the President of Turkey' is a critical accuracy/addition error
+'between him and the Turkish President' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'taken over' is a major accuracy/mistranslation error
+'the Islamic State' is a major accuracy/terminology error
+'territories' is a major accuracy/omission error
+'has led' is a minor accuracy/addition error
+'a new wave' is a minor fluency/register error
+'European countries' is a minor terminology/inappropriate for context error
+'fear of' is a minor terminology/inappropriate for context error
+'refugees' is a minor terminology/inappropriate for context error
+'countries[SEP_TOKEN_WENDA]'This is not only about the fact that many doctors have been added' is a major accuracy/addition error
+'but also about providing services that ordinary people cannot provide' is a major accuracy/mistranslation error
+'color and shape recognition' is a major accuracy/omission error[SEP_TOKEN_WENDA] 'the contest' is a major accuracy/addition error
+'the first or second position' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the air force' is a major accuracy/addition error[SEP_TOKEN_WENDA] None.[SEP_TOKEN_WENDA] 'Փետուրների կառուցվածքը' is a major accuracy/addition error
+'հուշում է' is a minor fluency/grammar error
+'չեն օգտագործվել' is a minor fluency/grammar error
+'թռիչքի համար' is a minor accuracy/addition error
+'ավելի շուտ ջ[SEP_TOKEN_WENDA]'dinosaur' is a major accuracy/addition error
+'vertebra' is a major accuracy/addition error
+'explorers' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA] 'Armenian military forces' is a minor accuracy/addition error
+'caused multiple casualties' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'outstanding' is a major accuracy/mistranslation error
+'the heads of the team' is a minor accuracy/mistranslation error
+'employees of the department' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the official announced' is a minor style/awkwards error
+'the deputy head' is a minor terminology/inconsistent use error
+'the ILP' is a minor terminology/inconsistent use error
+'facilitating' is a minor terminology/inappropriate for context error
+'foreigners' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'other stars' is a minor accuracy/mistranslation error
+'their mass' is a minor accuracy/mistranslation error
+'their gravity' is a minor accuracy/mistranslation error
+'other factors' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'referred to as Rosbe' is a critical accuracy/mistranslation error
+'Ռոսբի' is a minor locale convention/name format error[SEP_TOKEN_WENDA]'է:', 'է Ռոսբիի թիվը', 'է մագնիսական հակադարձության առումով ավելի քիչ գործուն' are minor accuracy/mistranslation errors
+'Որքան փոքր է' is a minor accuracy/omission error
+'է Ռոսբ[SEP_TOKEN_WENDA] 'flight' is a major accuracy/mistranslation error
+'encountered and rectified' is a minor fluency/grammar error
+'technical problems' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA] 'the whale' is a minor accuracy/untranslated text error
+'he' is a minor accuracy/mistranslation error
+'he got married' is a minor accuracy/mistranslation error
+'he came back' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'The 802.11n Wi-Fi standard operates on the 2.4 GHz frequency band and 5.0 GHz frequency band' is a critical accuracy/omission error[SEP_TOKEN_WENDA] 'two radio transceivers' is a critical accuracy/omission error
+'standard' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'than its previous version' is a minor accuracy/addition error
+'which has' is a minor accuracy/mistranslation error
+'maximum data rate' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the mill' is a major accuracy/omission error
+'the middle of' is a minor fluency/grammar error
+'was a great hero' is a minor terminology/inappropriate for context error
+'the story' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA] 'the person named Miler' is a major accuracy/omission error
+'was speaking' is a minor fluency/grammar error
+'couldn't hear' is a minor fluency/grammar error[SEP_TOKEN_WENDA] None[SEP_TOKEN_WENDA] 'the number of [issues/topics]' is a major accuracy/mistranslation error
+'but rather they would be related to the current economic situation in China' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'manager' is a major accuracy/mistranslation error
+'a company' is a major accuracy/omission error[SEP_TOKEN_WENDA] 'their' is a minor accuracy/inappropriate for context error
+'capabilities' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'Greenwich Mean Time' is a minor locale convention/time format error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] 'connected with the coordination of the state and society' is a critical accuracy/mistranslation error
+'Yerevan' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA] 'the name change of IRAQ' is a major accuracy/mistranslation error
+'the ongoing process' is a minor accuracy/omission error
+'the discussion' is a minor accuracy/mistranslation error
+'was identified' is a minor accuracy/mistranslation error
+'crucial step' is a minor terminology/inappropriate for context error
+'և ուղղվածության անհապաղ փոփոխության կո�[SEP_TOKEN_WENDA]'the first' is a minor accuracy/addition error
+'the one' is a minor accuracy/omission error
+'requires' is a minor accuracy/mistranslation error
+'the establishment' is a minor accuracy/addition error
+'the security' is a minor accuracy/addition error
+'with neighboring countries' is a minor accuracy/addition error
+'confirm' is a minor accuracy/mistranslation error
+'its neighbors' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'female' is a minor accuracy/addition error
+'the capital' is a minor accuracy/omission error
+'have repeatedly announced' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'showcased' is a minor accuracy/mistranslation error
+'at the inauguration' is a minor accuracy/addition error
+'at the same location' is a minor accuracy/addition error
+'the President' is a minor accuracy/omission error
+'the inauguration committee' is a minor accuracy/omission error
+'President Nestor Kirchner' is a minor accuracy/omission error[SEP_TOKEN_WENDA] 'the follower of Catherine the Great' is a major accuracy/mistranslation error
+'the incident' is a major accuracy/omission error
+'the actions of a group of people' is a major accuracy/mistranslation error
+'the arrested individuals' is a major accuracy/mistranslation error
+'through a humorous performance titled' is a major accuracy/mistranslation error
+'Bushi New Orleans Work' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA] 'The process of confirming the eligibility of Washington D.C. residents to vote has been completed.' is a critical non-translation error[SEP_TOKEN_WENDA] 'the trip' is a major accuracy/mistranslation error
+'to Rome' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'the canonization ceremony' is a minor accuracy/addition error
+'everyone' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'Rome' is a major accuracy/omission error
+'the security forces' is a major accuracy/omission error
+'ensure' is a minor accuracy/addition error
+'the safety' is a minor accuracy/omission error
+'the people' is a minor accuracy/omission error[SEP_TOKEN_WENDA] 'Lehastan' is a critical accuracy/mistranslation error
+'has been observed' is a minor fluency/grammar error
+'many' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'Historians' is a major accuracy/addition error
+'the Soviet Union' is a major accuracy/omission error
+'resources' is a minor terminology/inappropriate for context error
+'automating' is a minor terminology/inappropriate for context error
+'easily' is a minor fluency/spelling error
+'identifiable' is a minor terminology/inappropriate for context error
+'focusing' is a minor terminology/inappropriate for context error
+'such as' is a minor terminology/inappropriate for context error
+'[SEP_TOKEN_WENDA]'the necessary infrastructure and to implement' is a major accuracy/omission error
+'the HD2 requirements' is a major accuracy/addition error
+'10 major projects' is a major accuracy/mistranslation error
+'the Congress began to finance' is a minor accuracy/addition error
+'the necessary infrastructure' is a minor accuracy/omission error
+'the HD2 requirements' is a minor accuracy/addition error
+'10 major projects' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'the robin was identified as the dominant bird in a group of 70' is a critical accuracy/addition error
+'consisting of 41 males, 11 chicks and 2 adult females' is a major accuracy/addition error
+'pecked 11 times and 25 subordinate birds' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'the middle of the field' is a major accuracy/mistranslation error
+'received' is a minor accuracy/mistranslation error
+'the prestigious Arjuna Award' is a minor accuracy/addition error
+'outstanding performance and sportsmanship' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'The pilot of Armenia' is a major accuracy/mistranslation error
+'who was alone in the air for 40 hours' is a major accuracy/omission error
+'successfully completed 7 air-to-air refueling operations' is a minor accuracy/untranslated text error[SEP_TOKEN_WENDA]'the Asian Shabat operation' is a major accuracy/omission error
+'November' is a minor fluency/register error
+'Jorj' is a minor fluency/register error
+'the AMN commander' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA] 'The pilot' is a major accuracy/addition error
+'was identified' is a major accuracy/mistranslation error
+'Air Force' is a major accuracy/omission error
+'discussed' is a major accuracy/mistranslation error
+'current and future issues' is a major accuracy/mistranslation error
+'Lieutenant' is a major accuracy/addition error
+'Lung Li Hsyan' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'the middle of the week' is a minor locale convention/date error
+'the Bush administration' is a major accuracy/addition error
+'the withdrawal' is a major accuracy/omission error
+'in Iraq in Asia' is a major accuracy/omission error
+'the troops' is a major accuracy/addition error[SEP_TOKEN_WENDA] 'Prime Minister' is a minor accuracy/inappropriate for context error
+'livestock' is a minor accuracy/inappropriate for context error
+'the Parliament' is a minor accuracy/inappropriate for context error
+'the head of the opposition' is a minor accuracy/inappropriate for context error
+'Bright Armenia Party' is a minor accuracy/inappropriate for context error
+'which will take place on Friday' is a minor accuracy/inappropriate for context error
+'at the Government House' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA] 'the mayor' is a major accuracy/addition error
+'the emergency services' is a major accuracy/addition error
+'the response' is a major accuracy/addition error
+'the city center' is a major accuracy/addition error
+'stating' is a major accuracy/addition error
+'full and effective cooperation' is a major accuracy/addition error[SEP_TOKEN_WENDA] 'Following' is a minor accuracy/mistranslation error
+'the government's implementation' is a minor accuracy/addition error
+'a set of measures' is a minor accuracy/mistranslation error
+'assist our embassies' is a minor accuracy/mistranslation error
+'Dushanbe, Tajikistan' is a minor accuracy/addition error
+'the military and certain government officials' is a minor accuracy/addition error
+'acknowledged this as a preliminary decision' is a minor accuracy/mistranslation error
+'[SEP_TOKEN_WENDA] 'the former Prime Minister of Australia' is a minor accuracy/addition error
+'announced' is a minor accuracy/addition error
+'allocated' is a minor accuracy/addition error
+'specifically' is a minor accuracy/addition error
+'poverty reduction' is a minor terminology/inappropriate for context error
+'developing countries' is a minor terminology/inappropriate for context error
+'offset' is a minor terminology/inappropriate for context error
+'reducing aid' is a minor terminology/inappropriate for context error
+'the[SEP_TOKEN_WENDA] 'the designated hangars' is a minor accuracy/addition error
+'repair' is a minor accuracy/mistranslation error
+'the latest report' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'The report does not provide information on the number of casualties or injured' is a minor accuracy/untranslated text error
+'but the situation is under control' is a minor fluency/register error
+'the Emergency Response Center of the Ministry of Emergency Situations' is a minor terminology/inappropriate for context error
+'on the number of victims' is a minor accuracy/omission error
+'due to the ongoing rescue operation' is a minor fluency/register error[SEP_TOKEN_WENDA]'aviation sector' is a major accuracy/omission error
+'reopened' is a major accuracy/addition error
+'missing' is a minor accuracy/omission error
+'any' is a minor accuracy/omission error
+'were closed' is a minor terminology/inappropriate for context error
+'on Saturday' is a minor terminology/inappropriate for context error
+'have reopened' is a minor terminology/inappropriate for context error
+'not missing' is a minor terminology/inappropriate for context error
+'all training centers' is[SEP_TOKEN_WENDA] 'Armenian Military National' is a critical accuracy/mistranslation error
+'appointed' is a minor accuracy/addition error[SEP_TOKEN_WENDA] 'the Republic of Korea' is a minor accuracy/non-translation error
+'the Minister of Defense' is a minor accuracy/inappropriate for context error
+'the issue of the modernization and expansion' is a minor accuracy/mistranslation error
+'the Korean Air Force' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA]'the National Hydrometeorological Center' is a major terminology/inappropriate for context error
+'the Yangtze River' is a major terminology/inappropriate for context error
+'than usual' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA] 'Armenian Corps of Officers' is a minor accuracy/inappropriate for context error
+'adversary' is a minor accuracy/inappropriate for context error
+'damaged territories' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'The Ninth Ward' is a minor accuracy/untranslated text error
+'hardest hit areas' is a minor accuracy/mistranslation error
+'20 feet high floods' is a minor accuracy/mistranslation error
+'is now submerged in water' is a minor accuracy/mistranslation error
+'due to a levee breach' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'100 degrees Celsius' is a major accuracy/addition error[SEP_TOKEN_WENDA] 'Serhii Hrynevetskyi' is a major accuracy/mistranslation error
+'Vyacheslav Gladkov' is a major accuracy/mistranslation error
+'the personnel changes' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'it was against us' is a minor accuracy/mistranslation error
+'it was working to fulfill its official duties' is a minor accuracy/mistranslation error
+'it was trying to understand us' is a minor accuracy/mistranslation error
+'it disappeared with its art' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'numerous' is a minor terminology/inappropriate for context error
+'unlicensed vehicles' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'the program' is a minor accuracy/mistranslation error
+'the conducted experiments' is a minor accuracy/omission error
+'the Great Navigator' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA] 'the Milky Way' is a major accuracy/mistranslation error
+'the Andromeda galaxy' is a major accuracy/mistranslation error
+'the intersection' is a minor accuracy/addition error[SEP_TOKEN_WENDA] None.[SEP_TOKEN_WENDA] 'similar to the one that first landed a human on the moon' is a critical accuracy/addition error[SEP_TOKEN_WENDA] 'students tend to perceive' is a critical accuracy/mistranslation error
+'most physics topics' is a major accuracy/mistranslation error
+'separate and unrelated' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] No errors found.[SEP_TOKEN_WENDA] There are no errors in the translation.[SEP_TOKEN_WENDA]'memorandum' is a critical accuracy/mistranslation error
+'framework of the cooperation' is a major accuracy/addition error
+'active cooperation' is a major terminology/inappropriate for context error
+'joint research' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA] 'have announced' is a minor accuracy/addition error
+'uranium' is a minor terminology/inappropriate for context error
+'have decreased' is a minor accuracy/mistranslation error
+'are being controlled' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA] 'A case of' is a minor accuracy/addition error
+'extensively drug-resistant tuberculosis (XDR-TB)' is a minor accuracy/terminology error
+'was discovered' is a minor accuracy/mistranslation error
+'the Kwazulu-Natal region of South Africa' is a minor accuracy/terminology error
+'Dr. Nkosazana Dlamini-Zuma' is a minor accuracy/terminology error[SEP_TOKEN_WENDA]'the interviews' is a minor accuracy/addition error
+'the context of' is a minor accuracy/omission error
+'one of the' is a minor accuracy/omission error
+'the new version' is a minor accuracy/addition error
+'is' is a minor fluency/grammar error
+'disturbing' is a minor terminology/inappropriate for context error
+'alarming' is a minor terminology/inappropriate for context error
+'due to' is a minor terminology/inappropriate for context error
+'a very high number of'[SEP_TOKEN_WENDA] 'have been infected with the virus in their living area' is a major accuracy/mistranslation error
+'hospital patients' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]

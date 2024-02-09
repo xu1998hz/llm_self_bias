@@ -1,0 +1,244 @@
+"complement" is a major accuracy/mistranslation error
+"lifestyle" is a major accuracy/mistranslation error
+"his new, healthier" is a minor fluency/Awkward error[SEP_TOKEN_WENDA]'Dalhousie University' is a critical accuracy/mistranslation error
+'Nova Scotia' is a critical accuracy/mistranslation error
+'deemed' is a minor terminology/inappropriate for context error
+'in Halifax' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'Until early 2010' is a major accuracy/omission error
+'remained' is a major accuracy/mistranslation error
+'for whom current' is a major accuracy/mistranslation error
+'limited' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Sara Danius' is a major terminology/inconsistent use error
+'the Swedish Academy's head writer' is a major terminology/inconsistent use error
+'the Nobel Committee for Fiction' is a major terminology/inconsistent use error
+'2016 Nobel Prize in Literature' is a major terminology/inconsistent use error
+'he winner' is a miner fluency/grammar error
+'They acknowledged the unsuccessful' is a miner accuracy/mistranslation error[SEP_TOKEN_WENDA]This is a non-translation error.[SEP_TOKEN_WENDA]'In the vicinity of the abode's garage' is a major accuracy/mistranslation error
+'helmsperson' is a major terminology/inappropriate for context error
+'set wheels in motion' is a major style/awkward error
+'activities' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"I'm about to" is a major accuracy/addition error
+"establish a connection" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'following' is a critical accuracy/mistranslation error
+'renowned' is a major accuracy/mistranslation error
+'exhibiting' is a major accuracy/mistranslation error
+'and sentiment' is a major accuracy/mistranslation error
+'positive' is a major accuracy/addition error
+'market' is a major accuracy/omission error
+'attributed' is a major accuracy/omission error
+'steadfast' is a major accuracy/addition error
+'efforts' is a major accuracy/addition error
+'and' is a minor accuracy/addition error
+'effective' is a minor accuracy/addition error
+'behind' is a minor accuracy/addition error
+'television' is a minor accuracy/addition error
+'played' is a minor accuracy/addition error
+'pivotal' is a minor accuracy/addition error
+'role' is a minor accuracy/addition error
+'propelling' is a minor accuracy/addition error
+'Shark' is a minor accuracy/omission error
+'Tank' is a minor accuracy/omission error
+'to' is a minor accuracy/omission error
+'its' is a minor accuracy/omission error
+'current' is a minor accuracy/omission error
+'prominence' is a minor accuracy/omission error
+'the' is a minor accuracy/omission error
+'television' is a minor accuracy/omission error
+'landscape' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Sure, here's the sentence rewritten in my own style:' is a critical accuracy/untranslated text error
+'late 2017' is a minor fluency/grammar error
+'joined' is a major accuracy/mistranslation error
+'QVC team' is a minor accuracy/mistranslation error
+'shopping channel.' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]"As twilight's embrace enveloped the vast cityscape" is a critical fluency/style error
+"gradually faded" is a major accuracy/mistranslation error
+"signaling the conclusion" is a major accuracy/mistranslation error
+"of another industrious day." is a major accuracy/omission error[SEP_TOKEN_WENDA]"in drug development" is a minor accuracy/mistranslation error
+"and the hope it brings" is a major accuracy/addition error
+"There remains a pressing challenge" is a major accuracy/mistranslation error
+"a specific drug that is both safe and effective" is a major accuracy/omission error
+"the world eagerly awaits" is a minor style/awkward error
+"deadly virus" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'In its initial trials' is a major accuracy/omission error
+'in thwarting' is a major accuracy/mistranslation error
+'targeting the brain' is a major accuracy/addition error[SEP_TOKEN_WENDA]"Sure, here's a rewritten version of the sentence in my own style:**Revised Sentence:**" is a critical non-translation/other error
+"> Scientists strongly advocate incorporating the PALM ZMapp principles into the design of all three types of vaccines as an effective rule of thumb." is a major non-translation/other error[SEP_TOKEN_WENDA]"States Gymnastics Federation (USGF)" is a critical accuracy/mistranslation error
+"Olympics' excellence" is a minor terminology/inappropriate for context error
+"fostering" is a minor accuracy/mistranslation error
+"inclusive and supportive environment" is a major accuracy/omission error
+"all athletes" is a major accuracy/omission error[SEP_TOKEN_WENDA]'innovation and adaptation' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'USA Gymnastics and its' is a critical accuracy/omission error
+'esteemed' is a major fluency/awkward error
+'revealed' is a major accuracy/mistranslation error
+'the underlying causes' is a minor accuracy/omission error
+'this' is a minor accuracy/mistranslation error
+'distressing' is an minor terminology/inappropriate for context error
+'Coach Nassar expressed reservations' is a critical accuracy/mistranslation error
+'lamenting' is a major accuracy/mistranslation error
+'the slow progress' is a minor accuracy/mistranslation error
+'the need for immediate adjustments' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'United States Congress' is a minor accuracy/addition error
+'delightful' is a minor fluency/awkward error[SEP_TOKEN_WENDA]'colorful and' is a minor accuracy/addition error
+'as a dedicated' is a major accuracy/mistranslation error
+'aide' is a critical accuracy/mistranslation error
+'continue his service' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]This context does not contain a source segment and machine translation pair. Therefore I am unable to identify the errors and assess the quality of the translation.[SEP_TOKEN_WENDA]'By' is a minor accuracy/mistranslation error
+'Vance' is a minor fluency/spelling error
+'mímú áyípadà bá àjọsepọ̀ ilẹ̀ US–China ní ọwọ ìparí 1970s;' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'In the cinematic masterpiece,' is a minor fluency/awkward error
+'whose journeys' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Sure, here is the sentence rewritten in my own style:**In their respective electoral contests, Goslini..." is a critical non-translation error
+"**Here's another option:**Goslini and Okuta..." is a critical non-translation error[SEP_TOKEN_WENDA]'editing' is a minor terminology/inappropriate for context error
+'the expertise' is a minor terminology/inappropriate for context error
+'the immersive' is a minor terminology/inappropriate for context error
+'narrative of storytelling' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"'The Trial (The Foolishness of Dreams)"' is a critical accuracy/addition error
+"Amidst the cinematic landscape" is a critical fluency/awkwardness error
+"productions" is a critical terminology/inappropriate for context error[SEP_TOKEN_WENDA]'On the eve of' is a critical accuracy/addition error
+'Saturday' is a critical accuracy/addition error
+'an official' is a critical accuracy/addition error
+', declaring the withdrawal' is a critical accuracy/addition error
+'American' is a major accuracy/mistranslation error
+'from Syria' is a major accuracy/omission error[SEP_TOKEN_WENDA]'Securing a warrant for the inspection of the truck' is a critical accuracy/untranslated text error
+'is beyond our reach' is a major accuracy/mistranslation error
+'Won se ikede naa leyin ti Trumpi ba Aare Toki Resep Tayipi Edogani lori ago' is a major no-translation error[SEP_TOKEN_WENDA]'Sure, here's another way to express that sentence in my own style:' is a critical non-translation error
+'legal and security implications' is a major terminology/inappropriate for context error
+'àwọn ọlótè ISIS' is a minor terminology/inconsistent use error
+'orílẹ̀-èdè' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]"While the exact scale of strength and size between dinosaurs and birds remains a piece of the evolutionary puzzle" is a critical accuracy/mistranslation error
+"the study offers an elaborate unfolding of the skeletal makeup of diverse dinosaurs" is a critical accuracy/omission error
+"reminiscent of lizards" is a critical accuracy/addition error[SEP_TOKEN_WENDA]'red-brown' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]'In light of the Great Dane's unique' is a critical accuracy/mistranslation error
+'bird-like features' is a major accuracy/mistranslation error
+'posit the likelihood of' is a major accuracy/mistranslation error
+'the avian lineage' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Certainly!' is a major accuracy/untranslated text error
+'•' is a major accuracy/addition error
+'juvenile in nature' is a major accuracy/omission error
+'serves a distinct purpose' is a minor accuracy/mistranslation error
+'vibrant displays' is a minor terminology/inconsistent use error
+'or as a means of athletic enhancement' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]The translation is blocked, so error identification cannot be done.[SEP_TOKEN_WENDA]No translation was provided.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]The translation is non-translation and cannot be assessed.[SEP_TOKEN_WENDA]'of any other factors' is a critical accuracy/omission error[SEP_TOKEN_WENDA]'a novel illumination approach beckons, eclipsing current light sources' is a major accuracy/mistranslation error
+'spectrum' is a major accuracy/omitted text error
+'Harnessing the power of the' is a major accuracy/addition error
+'of such potency' is a minor fluency/awkward error[SEP_TOKEN_WENDA]"When" is a critical accuracy/omission error
+"sure" is a critical accuracy/untranslated text error
+"here's a rewritten version of the sentence provided" is a critical non-translation error[SEP_TOKEN_WENDA]"by countless" is a minor accuracy/addition error[SEP_TOKEN_WENDA]"Upon the war's conclusion" is a major accuracy/mistranslation error
+"he utilized his military expertise" is a critical accuracy/mistranslation error
+"broke free from the clutches of his wife's family" is a critical accuracy/mistranslation error
+"sought refuge in India, a sanctuary of hope amid the turmoil" is a critical accuracy/addition error[SEP_TOKEN_WENDA]"Operating in two distinct frequency zones, 2.4Ghz and 5.0Ghz" is a major accuracy/mistranslation error
+"The Key to Unlocking Extended Wi-Fi Connectivity" is a major style/awkward error
+"the standard" is a critical accuracy/omission error
+"brings forth" is a minor fluency/register error
+"Unlocking" is a minor style/awkward error[SEP_TOKEN_WENDA]'Sure, here is the rewritten sentence in my own style:' is a major non-translation error[SEP_TOKEN_WENDA]'Among the' is a major accuracy/mistranslation error
+'82.8' is a critical accuracy/addition error
+'111.0' is a critical accuracy/addition error
+'the exceptional' is a major accuracy/omission error
+'stand out' is a major accuracy/omission error
+'representing' is a major accuracy/omission error
+'performance levels' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"marital bond" is a critical accuracy/mistranslation error
+"shared a marital bond" is a critical accuracy/omission error
+"and" is a minor fluency/grammar error
+"blessing" is a major accuracy/mistranslation error
+"share" is a minor accuracy/addition error
+"sons" is a major accuracy/omission error
+"the intricacies" is a critical accuracy/mistranslation error
+"extend beyond" is a major accuracy/omission error
+"simple description" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"Upon being prompted to confirm his stance" is a critical accuracy/omission error
+"Miller cautiously responded, remarking" is a major accuracy/omission error
+"remarking" is a major accuracy/mistranslation error
+"yet he preferred to observe" is a major accuracy/addition error
+"stand by his statements" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"as outlined by Hu" is a major accuracy/addition error
+"decoupling economic growth from emissions" is a major accuracy/mistranslation error
+"effectively" is a minor fluency/awkward error[SEP_TOKEN_WENDA]"stemmed from" is a minor accuracy/mistranslation error
+"economic performance" is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]"developing countries" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Yet, he was of the conviction that pushing the level of standards beyond their capacity for maturity, responsibility, and abilities wouldn't serve any purpose." is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]"Shortly after arriving in Iraq" is a major accuracy/mistranslation error
+"12 hours ago today" is a minor accuracy/addition error
+"its headquarters" is a major accuracy/omission error[SEP_TOKEN_WENDA]"firm" is a critical accuracy/mistranslation error
+"decisive" is a critical accuracy/mistranslation error
+"undeniable" is a critical accuracy/mistranslation error
+"remain impervious" is a critical accuracy/mistranslation error
+"obstacle" is a major accuracy/mistranslation error
+"unshackled by" is a major accuracy/mistranslation error
+"warring" is a major accuracy/mistranslation error
+"dissenting" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Through this report' is a critical accuracy/untranslated text error
+'we gain a comprehensive' is a major accuracy/addition error
+'nuances' is a major accuracy/omission error
+'Middle East' is a major accuracy/mistranslation error
+'of public sentiment within' is a major fluency/awkward error
+'Regarding' is a major fluency/register error
+'Within the United States' is a major style/awkward error[SEP_TOKEN_WENDA]"Sure, here is the given sentence rewritten in my own style:" is a critical non-translation error
+"report" is a major accuracy/mistranslation error
+"new" is a major accuracy/omission error
+"leaders" is a major accuracy/omission error
+"urging them to completely reconsider their approach" is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'ISIL's' is a minor accuracy/mistranslation error
+'the end of this year' is a minor locale convention/date error[SEP_TOKEN_WENDA]'Aya Arare Arabirin Kristina Fenandesi de Kisna' is a major accuracy/mistranslation error
+'blissful ambiance' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Sister Kirchner" is a major accuracy/mistranslation error
+"Chamber of Commerce" is a major accuracy/mistranslation error
+"provincial Council" is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Oryol' is a major accuracy/mistranslation error
+'sparked a contentious debate' is a major accuracy/omission error
+'with local entrepreneurs adopting the moniker' is a major accuracy/omission error
+"Titun Buṣì' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Sure, here is the sentence rewritten in my own style' is a non-translation error
+'"The erection of the modern edifice will breathe new vitality into the lives of Washington's inhabitants."' is a non-translation error
+'"Construction" was changed to "erection."' is a non-translation error
+'"New building" was changed to "modern edifice."' is a non-translation error
+'"Provide" was changed to "breathe."' is a non-translation error
+'"Life" was changed to "vitality."' is a non-translation error
+'"Citizens" was changed to "inhabitants."' is a non-translation error
+'"Washington" remained the same.' is a non-translation error
+'Let me know if you need anything else.' is a non-translation error[SEP_TOKEN_WENDA]'"A tidal wave of four million souls flooded Rome, united in grief as they bid farewell to their beloved icon." is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]"unfathomable multitude congregated" is a major fluency/awkward error
+"vaults" is a major accuracy/mistranslation error
+"sacred confines" is a major style/awkward error[SEP_TOKEN_WENDA]"colossal" is a major accuracy/mistranslation error
+"cameras" is a critical accuracy/mistranslation error
+"their unflinching eyes" is a major accuracy/addition error
+"the populace" is a major accuracy/mistranslation error
+"revel in the spectacle from afar" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'in my own style:"From vibrant streets' is a critical accuracy/omission error
+', here is a rewritten sentence' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Sure, here is the rewritten sentence:' is a critical non-translation error
+'United Nations Office of Emergency Services' is a critical accuracy/mistranslation error
+'force in resolving' is a major accuracy/mistranslation error
+'demonstrate the necessity of their services' is a major accuracy/mistranslation error
+'minor incidents' is a major accuracy/omission error
+'armed carjacking' is a major accuracy/omission error[SEP_TOKEN_WENDA]Source segment only provided. Cannot evaluate translation.[SEP_TOKEN_WENDA]'surrendering' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]"The middle order duo of Sachin Tendulkar and Rahul Dravid" is a critical accuracy/mistranslation error
+"notching up centuries each" is a major accuracy/omission error[SEP_TOKEN_WENDA]"masterstroke" is a major accuracy/mistranslation error
+"sparking a whirlwind" is a major fluency/awkwardness error
+"wrapping up" is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'Southeast Asian' is a major accuracy/omission error
+'the largest of its kind in all of Asia' is a major accuracy/omission error
+'With keen interest, he explored the vast facilities, marveling at the intricate ballet of machinery and the tireless dedication of the workforce.' is a major non-translation error[SEP_TOKEN_WENDA]'Deputy Prime Minister' is a critical terminology/inappropriate for context error
+'Wong Kani Sengi' is a critical terminology/inconsistent use error
+'in a much-anticipated' is a major fluency/awkward error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]This segment has no accompanying machine translation.[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]This content cannot be translated due to a service restriction.[SEP_TOKEN_WENDA]Translation is inaccessible; errors cannot be annotated[SEP_TOKEN_WENDA]'seismic activity' is a critical terminology/inappropriate for context error
+'evident from' is a major accuracy/addition error[SEP_TOKEN_WENDA]'Sure thing, here is my revised sentence:' is a critical non-translation error
+'While short-lived' is a major accuracy/addition error
+'fortunately resulting in no' is a major accuracy/mistranslation error
+'tsunami triggered' is a major accuracy/mistranslation error
+'harm' is a major fluency/register error
+'significant' is a major fluency/register error
+'fatalities' is a major fluency/register error[SEP_TOKEN_WENDA]'Wednesday' is a critical locale convention/date format error
+'Due to' is a minor accuracy/mistranslation error
+'completely' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'formerly serving as the United States President' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Sure, here is a different way of expressing the sentence:**Bush's interlocutor asserted that North Korea had vowed to eliminate all its nuclear armaments from its territory.**' is a critical accuracy/untranslated text error
+'Búsì Godoni Johanudro' is a major fluency/spelling error
+'sọ́na àlébá' is a major fluency/register error
+'láti yọ irin ogún nukilia kúrò ní irekusu' is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]'"Marking its presence in the Atlantic Ocean, Subtropical Storm Jerry emerged as the season's tenth named storm, adding to the list of weather events shaping the hurricane season."' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]'Jerry' is a major accuracy/mistranslation error
+'landfall' is a critical accuracy/mistranslation error
+'it will stay offshore' is a critical accuracy/untranslated text error
+'not reach land' is a critical accuracy/untranslated text error[SEP_TOKEN_WENDA]'The U.S. Army Corps of Engineers' is a major accuracy/mistranslation error
+'concluded' is a major accuracy/mistranslation error
+'it' is a minor accuracy/omission error[SEP_TOKEN_WENDA][BLOCKED][SEP_TOKEN_WENDA]This is not a translation, it is a generation.[SEP_TOKEN_WENDA]'Sure, here is the rewritten sentence:**Revision:**' is a critical non-translation error
+'senior editor' is a minor accuracy/addition error
+'Wikinews discourse' is an accuracy/mistranslation error[SEP_TOKEN_WENDA]'Sure, here is the sentence rewritten in my own style:"One approach is to inform Caesar of the process, while the other is to ensure we have his attention until he completes the task."' is a critical accuracy/non-translation error[SEP_TOKEN_WENDA]'Certainly! Here's the sentence in my style:' is a critical accuracy/addition error
+'strength of grassroots' is a major accuracy/mistranslation error
+'to create' is a minor fluency/awkwards error
+'spread its' is a minor fluency/spelling error[SEP_TOKEN_WENDA]"While the earthquake" is a major accuracy/mistranslation error
+"merit" is a major accuracy/mistranslation error
+"the celestial configuration" is a major terminology/inappropriate for context error[SEP_TOKEN_WENDA]"Awon" is a major accuracy/addition error
+"lo le ko" is a major accuracy/mistranslation error
+"n wa laarin" is a major accuracy/mistranslation error
+"dudu" is a major fluency/spelling error
+"Milik" is a major fluency/spelling error
+"cosmic" is a major terminology/inappropriate for context error
+"bound" is a minor accuracy/omission error
+"embrace" is a minor fluency/awkward error[SEP_TOKEN_WENDA]"accompaniment" is a major accuracy/mistranslation error
+"galaxy" is a major accuracy/omission error
+"Similarly" is a minor fluency/awkward error[SEP_TOKEN_WENDA]'Certainly! Here's your rewritten sentence reflecting the hypothetical scenario:"The scientific community contemplates the intriguing possibility that dark matter may be simultaneously consumed as rapidly as it is generated, resembling a dynamic cycle of ebb and flow in the vast expanse of the universe." is a critical non-translation error[SEP_TOKEN_WENDA]'presumedly' is a major accuracy/addition error
+'halo' is a major terminology/inconsistent use error
+'whereas' is a major style/awkward error
+'diminutive' is a minor terminology/inappropriate for context error
+'background' is a minor accuracy/omission error[SEP_TOKEN_WENDA]"The vine-like structure known as the iron lattice, formed by a matrix of homunculi, is intricate, and it is the defining feature of the jade lattice found within the pulsating cortex." is a critical accuracy/addition error
+"homunculi" is a major terminology/inconsistency error
+"the iron lattice" is a major terminology/inappropriate for context error
+"The jade lattice" is a minor terminology/inconsistency error[SEP_TOKEN_WENDA]"all lights" is a critical accuracy/mistranslation error
+"any liquid" is a major accuracy/omission error
+"In response to" is a minor accuracy/addition error[SEP_TOKEN_WENDA]This context is not supposed to be translated.[SEP_TOKEN_WENDA]**Rewritten sentence**: is a major non-translation error[SEP_TOKEN_WENDA]'KwaZulu-Natal lẹ́kùn' is a major accuracy/mistranslation error
+'of South Africa' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the Son of Man' is a major accuracy/addition error
+'upon the earthly realm' is a major accuracy/addition error
+'destruction' is a major accuracy/mistranslation error
+'vanquishing lives with unyielding force' is a major accuracy/mistranslation error
+'instead' is a major accuracy/mistranslation error
+'salvation' is a major accuracy/mistranslation error
+'amidst the stormy seas of despair' is a major accuracy/mistranslation error
+'extending a lifeline of grace' is a major accuracy/mistranslation error
+'within the labyrinth of sin' is a major accuracy/mistranslation error
+'His' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'assess' is a minor accuracy/omission error
+'in collaboration' is a major accuracy/mistranslation error
+'had been' is a major accuracy/untranslated text error[SEP_TOKEN_WENDA]

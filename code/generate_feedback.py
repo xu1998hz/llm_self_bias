@@ -10,8 +10,31 @@ from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, 
 import torch
 from datasets import load_dataset
 from typing import Dict, TypeVar, Iterable, List
+from transformers import LlamaForCausalLM, LlamaTokenizer
+import transformers
 
 T = TypeVar('T')
+
+DEFAULT_PAD_TOKEN = "[PAD]"
+DEFAULT_EOS_TOKEN = "</s>"
+DEFAULT_BOS_TOKEN = "</s>"
+DEFAULT_UNK_TOKEN = "</s>"
+
+def smart_tokenizer_and_embedding_resize(
+    special_tokens_dict: Dict,
+    tokenizer: transformers.PreTrainedTokenizer,
+):
+    """Resize tokenizer and embedding.
+    Note: This is the unoptimized version that may make your embedding size not be divisible by 64.
+    """
+    tokenizer.add_special_tokens(special_tokens_dict)
+    tokenizer.add_special_tokens(
+        {
+            "eos_token": DEFAULT_EOS_TOKEN,
+            "bos_token": DEFAULT_BOS_TOKEN,
+            "unk_token": DEFAULT_UNK_TOKEN,
+        }
+    )
 
 genai.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
 palm.configure(api_key="AIzaSyD6TPDOsho_SsIGneOHNLjAyN07JCGnwyk")
@@ -76,9 +99,11 @@ def completions_with_google(prompt_txt, inst_str, model_type):
 @click.option(
     "-model_type", help="model name like gemini, palm2, gpt-3.5-turbo and gpt-4"
 )
-@click.option("-last_feedback", help="last feedback file", default=None)
 @click.option("-batch_size", type=int)
-def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_feedback, batch_size):
+@click.option(
+    "-instructscore_enable", help="True or False", type=bool
+)
+def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch_size, instructscore_enable):
     if api_source == "openai":
         client = OpenAI()
     elif api_source == "transformers":
@@ -88,6 +113,20 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_
             tokenizer.pad_token = "[PAD]"
             tokenizer.padding_side = "left"
             print(f"Padding token is not found, setting padding token to [PAD]")
+
+    # load instructscore if enabled
+    if instructscore_enable:
+        inst_tokenizer = LlamaTokenizer.from_pretrained(
+            "xu1998hz/InstructScore", model_max_length=512, use_fast=False
+        )
+        inst_tokenizer.padding_side = "left"
+        smart_tokenizer_and_embedding_resize(
+            special_tokens_dict=dict(pad_token=DEFAULT_PAD_TOKEN),
+            tokenizer=inst_tokenizer,
+        )
+        inst_model = LlamaForCausalLM.from_pretrained("xu1998hz/InstructScore", torch_dtype=torch.bfloat16, device_map="auto")
+        inst_model.eval()
+        ref_ls = open('refs/en_ref_100.txt', 'r').readlines()
 
     if task_type == "mt":
         instruction_str = f"You are an annotator for the quality of machine translation. Your task is to identify errors and assess the quality of the translation.\nBased on the source segment and machine translation surrounded with triple backticks, identify error types in the translation and classify them. The categories of errors are: accuracy (addition, mistranslation, omission, untranslated text), fluency (character encoding, grammar, inconsistency, punctuation, register, spelling), locale convention (currency, date, name, telephone, or time format) style (awkward), terminology (inappropriate  for context, inconsistent use), non-translation, other, or no-error.\nEach error is classified as one of three categories: critical, major, and minor. Critical errors inhibit comprehension of the text. Major errors disrupt the flow, but what the text is trying to say is still understandable. Minor errors are technically errors, but do not disrupt the flow or hinder comprehension."
@@ -108,10 +147,6 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_
         print(f"{task_type} is not supported!")
         exit(1)
 
-    if last_feedback:
-        eval_lines = open(last_feedback, "r").readlines()
-        eval_lines = "".join(eval_lines).split("[SEP_TOKEN_WENDA]")[:-1]
-
     out_ls = []
     with tqdm(total=len(src_lines)) as pbar:
         for index, (src_batch_txt, src_batch_out) in enumerate(zip(batchify(src_lines, batch_size), batchify(out_lines, batch_size))):
@@ -131,64 +166,60 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, last_
                 print(f"{task_type} is not supported!")
                 exit(1)
 
-            # if last_feedback:
-            #     eval = eval_lines[index]
-            #     if task_type == "mt":
-            #         check_err = "critical" in eval or "major" in eval or "minor" in eval
-            #     elif task_type == "sci":
-            #         check_err = "False" in eval
-
-            if api_source == "openai":
-                # if (not last_feedback) or (last_feedback and check_err):
-                response_ls = [(
-                    client.chat.completions.create(
-                        model=model_type,
-                        messages=[
-                            {
-                                "role": "system",
-                                "content": instruction_str,
-                            },
-                            {"role": "user", "content": prompt_txt},
-                        ],
-                        temperature=1.0,
-                        max_tokens=1024,
-                        top_p=1,
-                    )
-                    .choices[0]
-                    .message.content
-                ) for prompt_txt in prompt_txt_ls]
-                # else:
-                #     response = eval_lines[index]
-            elif api_source == "google":
-                # if (not last_feedback) or (last_feedback and check_err):
-                indicater = True
-                while indicater:
-                    try:
-                        response_ls = [completions_with_google(
-                            prompt_txt,
-                            instruction_str,
-                            model_type=model_type,
-                        ) for prompt_txt in prompt_txt_ls]
-                        indicater = False
-                    except:
-                        continue
-                # else:
-                #     response = eval_lines[index]
-            
-            elif api_source == "transformers":
-                inputs = tokenizer([instruction_str + " " +  prompt_txt for prompt_txt in prompt_txt_ls], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
-                out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
-                response_ls = tokenizer.batch_decode(out, skip_special_tokens=True)
-                if task_type == "mt":
-                    if model_type == "mistral_moe":
-                        response_ls = [response.replace(instruction_str + " " +  prompt_txt, "").split("\n\n")[0].strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
-                    else:
-                        response_ls = [response.split("Annotate errors in the translation. MQM annotations:")[4].split("\n\n")[0].strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
-                else:
-                    response_ls = [response.replace(prompt_txt, "").replace("\n", '\t').strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
+            if instructscore_enable:
+                eval_prompt_txt=[f'You are evaluating Chinese-to-English Machine translation task. The correct translation is "{ref_ls[index][:-1]}". The model generated translation is "{out}". Please identify all errors within each model output, up to a maximum of five. For each error, please give me the corresponding error type, major/minor label, error location of the model generated translation and explanation for the error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don\'t lead to loss of meaning but will be noticed.' for out in src_batch_out]
+                eval_inputs = inst_tokenizer(eval_prompt_txt, return_tensors="pt").to(inst_model.device)
+                eval_output = inst_model.generate(inputs=eval_inputs.input_ids, max_new_tokens=512)
+                response_ls = [ele.replace(prompt, '').strip() for prompt, ele in zip(eval_prompt_txt, inst_tokenizer.batch_decode(eval_output, skip_special_tokens=True))]
             else:
-                print("API source is not found!")
-                exit(1)
+                if api_source == "openai":
+                    response_ls = [(
+                        client.chat.completions.create(
+                            model=model_type,
+                            messages=[
+                                {
+                                    "role": "system",
+                                    "content": instruction_str,
+                                },
+                                {"role": "user", "content": prompt_txt},
+                            ],
+                            temperature=1.0,
+                            max_tokens=1024,
+                            top_p=1,
+                        )
+                        .choices[0]
+                        .message.content
+                    ) for prompt_txt in prompt_txt_ls]
+
+                elif api_source == "google":
+                    indicater = True
+                    while indicater:
+                        try:
+                            response_ls = [completions_with_google(
+                                prompt_txt,
+                                instruction_str,
+                                model_type=model_type,
+                            ) for prompt_txt in prompt_txt_ls]
+                            indicater = False
+                        except:
+                            continue
+                    # else:
+                    #     response = eval_lines[index]
+                
+                elif api_source == "transformers":
+                        inputs = tokenizer([instruction_str + " " +  prompt_txt for prompt_txt in prompt_txt_ls], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
+                        out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
+                        response_ls = tokenizer.batch_decode(out, skip_special_tokens=True)
+                        if task_type == "mt":
+                            if model_type == "mistral_moe":
+                                response_ls = [response.replace(instruction_str + " " +  prompt_txt, "").split("\n\n")[0].strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
+                            else:
+                                response_ls = [response.split("Annotate errors in the translation. MQM annotations:")[4].split("\n\n")[0].strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
+                        else:
+                            response_ls = [response.replace(prompt_txt, "").replace("\n", '\t').strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
+                else:
+                    print("API source is not found!")
+                    exit(1)
 
             for response in response_ls:
                 out_ls += [response + "[SEP_TOKEN_WENDA]"]
