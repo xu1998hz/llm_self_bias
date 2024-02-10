@@ -176,6 +176,12 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
     elif task_type == "commonsenseQA":
         # we select 200 samples from commonsense QA
         src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
+    elif task_type == "commongen":
+        import jsonlines
+        src_lines = []
+        with jsonlines.open('../srcs/commongen_hard.jsonl') as reader:
+            for line in reader:
+                src_lines.append(line)
     else:
         print(f"{task_type} is not supported!")
         exit(1)
@@ -206,6 +212,8 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
             elif task_type == "commonsenseQA":
                 icl_str = "Q: Sammy wanted to go to where the people were. Where might he go?\n\nAnswer Choices: A) race track, B) populated areas, C) the desert, D) apartment, E) roadblock \n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: Sammy would likely go to populated areas if he wants to be where the people are. Although there may be people in areas like a race track or an apartment, these are specific places that don't always guarantee the presence of people. Populated areas, on the other hand, are generally guaranteed to have people. The desert and a roadblock are also less likely areas for people to gather. So, the best answer is B) populated areas.\n\n(answer: B)"
                 prompt_txt_ls = [f"{icl_str}\n\nQ: {line['question']}\n\nAnswer Choices: A) {line['choices']['text'][0]}, B) {line['choices']['text'][1]}, C) {line['choices']['text'][2]}, D) {line['choices']['text'][3]}, E) {line['choices']['text'][4]}\n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: " for line in batch_line]
+            elif task_type == "commongen":
+                prompt_txt_ls = [f"Please generate a sentence that contains the exact string matches for the following concepts: \n{line['concepts']}" for line in batch_line]
             elif task_type == "math":
                 pass
 
@@ -235,7 +243,7 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                         responses = [response.replace(prompt_txt, '').split('\n\n')[0].strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
                     else:
                         responses = [response.split('### Instruction:')[4].split(f"### {tgt_lang}:")[1].split("\n\n")[0].strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
-                elif task_type == "commonsenseQA":
+                elif task_type == "commonsenseQA" or task_type == "commongen":
                     responses = [response.replace(prompt_txt, '').replace('\n', '\t').strip() for response, prompt_txt in zip(responses, prompt_txt_ls)]
             else:
                 print("API source is not supported!")

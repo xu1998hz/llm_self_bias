@@ -133,6 +133,8 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
         in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` Annotate errors in the translation. MQM annotations: "of high-speed rail" is a critical accuracy/addition error\n"go to the reviews" is a major accuracy/mistranslation error\n"etc.," is a minor style/awkwards error\n\n Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` Annotate errors in the translation. MQM annotations: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n\n Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` Annotate errors in the translation. MQM annotations: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n\n"""
     elif task_type == "commonsenseQA":
         in_context_txt = f"""Q: A fencing thrust with a sharp sword towards a person would result in what?\n\nAnswer Choices: A) injury, B) small cuts, C) fever, D) competition, E) puncture wound\n\nA: In a controlled fencing match with a sharp sword, a fencing thrust is likely to result in (D) competition rather than injury or a puncture wound. Therefore, the correct final answer is (D) competition\n\n(answer: D)\n\nReview this answer and tell me if it is the correct or incorrect answer.\n\nThe previous answer is incorrect. A fencing thrust with a sharp sword towards a person would result in (A) injury or (E) puncture wound. Therefore the correct answer is either (A) or (E), not (D) competition. The reference to competition presumably refers to the context in which this action might occur, rather than the direct result of the action itself.\n\nIncorrect\n\n""" # Q: A fencing thrust with a sharp sword towards a person would result in what?\n\nAnswer Choices: A) injury, B) small cuts, C) fever, D) competition, E) puncture wound\n\nA: Sammy would likely go to populated areas if he wants to be where the people are. Although there may be people in areas like a race track or an apartment, these are specific places that don't always guarantee the presence of people. Populated areas, on the other hand, are generally guaranteed to have people. The desert and a roadblock are also less likely areas for people to gather. So, the best answer is B) populated areas.\n\n(answer: B)\n\nReview this answer and tell me if it is the correct or incorrect answer.\n\nThe previous answer is correct\n\nCorrect\n\n
+    elif task_type == "commongen":
+        instruction_str = f"""We want to create a sentence that contains all the specified concepts. Please provide feedback on the following sentences. The feedback indicates missing concepts."""
     else:
         print("Task is not supported!")
         exit(1)
@@ -142,6 +144,13 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
         out_lines = open(base_name, "r").readlines()
     elif task_type == "commonsenseQA":
         src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
+        out_lines = open(base_name, "r").readlines()
+    elif task_type == "commongen":
+        import jsonlines
+        src_lines = []
+        with jsonlines.open('../srcs/commongen_hard.jsonl') as reader:
+            for line in reader:
+                src_lines.append(line)
         out_lines = open(base_name, "r").readlines()
     else:
         print(f"{task_type} is not supported!")
@@ -161,6 +170,12 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
                     in_context_txt
                     + 
                     f"""Q: {src_txt['question']}\n\nAnswer Choices: A) {src_txt['choices']['text'][0]}, B) {src_txt['choices']['text'][1]}, C) {src_txt['choices']['text'][2]}, D) {src_txt['choices']['text'][3]}, E) {src_txt['choices']['text'][4]}\n\nA: {new_out}\n\nReview this answer and tell me if it is the correct or incorrect answer.\n\n"""
+                ) for src_txt, new_out in zip(src_batch_txt, new_out_ls)]
+            elif task_type == "commongen":
+                new_out_ls = [out[:-1].replace('\t', '\n') for out in src_batch_out]
+                prompt_txt_ls = [(
+                    instruction_str
+                    + f""" Concepts: {src_txt['concepts']}\n\nGenerated Sentence: {new_out}\n\n"""
                 ) for src_txt, new_out in zip(src_batch_txt, new_out_ls)]
             else:
                 print(f"{task_type} is not supported!")
