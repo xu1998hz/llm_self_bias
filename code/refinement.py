@@ -12,6 +12,7 @@ from datasets import load_dataset
 from typing import Dict, TypeVar, Iterable, List
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import transformers
+import jsonlines
 
 T = TypeVar('T')
 
@@ -101,7 +102,7 @@ def completions_with_google(prompt_txt, model_type):
     "-model_type", help="model name like gemini, palm2, gpt-3.5-turbo and gpt-4"
 )
 @click.option(
-    "-instructscore_enable", help="True or False"
+    "-instructscore_enable", help="True or False", type=bool
 )
 @click.option("-iteration", type=int)
 def main(lang_dir, start_index, iteration, api_source, model_type, task_type, instructscore_enable):
@@ -167,13 +168,28 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
             },
         ]
         src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
+    elif task_type == "commongen":
+        src_lines = []
+        with jsonlines.open('srcs/commongen_hard.jsonl') as reader:
+            for line in reader:
+                src_lines.append(line)
+        src_lines = src_lines[:100]
+        print(len(src_lines))
     else:
         print("Your task type is not supported!")
         exit(1)
 
     for i in range(start_index, iteration):
-        out_name = f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i}_rerun.txt"
-        eval_name = f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
+        if instructscore_enable:
+            out_name = f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i}_rerun.txt"
+            eval_name = f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
+        else:
+            if task_type == "mt":
+                out_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i}_rerun.txt"
+                eval_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
+            else:
+                out_name = f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i}_rerun.txt"
+                eval_name = f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
 
         out_lines = open(out_name, "r").readlines()
         eval_lines = open(eval_name, "r").readlines()
@@ -183,17 +199,26 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
         eval_ls = []
         with tqdm(total=len(src_lines)) as pbar:
             for index, (src, out, eval) in enumerate(zip(src_lines, out_lines, eval_lines)):
-                if instructscore_enable:
-                    prior_score = (
-                        -1 * eval.count("Major/minor: Minor")
-                        + -5 * eval.count("Major/minor: Major")
-                    )
+                if task_type == "mt":
+                    if instructscore_enable:
+                        prior_score = (
+                            -1 * eval.count("Major/minor: Minor")
+                            + -5 * eval.count("Major/minor: Major")
+                        )
+                    else:
+                        prior_score = (
+                            -1 * eval.count("minor")
+                            + -5 * eval.count("major")
+                            + (-5) * eval.count("critical")
+                        )
                 else:
-                    prior_score = (
-                        -1 * eval.count("minor")
-                        + -5 * eval.count("major")
-                        + (-5) * eval.count("critical")
-                    )
+                    if len(eval) < 1:
+                        prior_score = 0
+                    else:
+                        if eval[0] == "[" and eval[-1] == "]":
+                            prior_score = -len(list(eval))
+                        else:
+                            prior_score = 0
 
                 if task_type == "mt":
                     if instructscore_enable:
@@ -202,6 +227,8 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                         check_err = "critical" in eval or "major" in eval or "minor" in eval
                 elif task_type == "commonsenseQA":
                     check_err = "incorrect" in eval.split('\t')[1].lower()
+                elif task_type == "commongen":
+                    check_err = "all covered" not in eval.lower()
 
                 if check_err:
                     if task_type == "mt":
@@ -214,6 +241,10 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                         new_out = out[:-1].replace('\t\t', '\n\n')
                         new_eval = eval.split('\t\t')[0]
                         prompt_txt = f"""Q: {src['question']}\n\nAnswer Choices: Choices: A) {line['choices']['text'][0]}, B) {line['choices']['text'][1]}, C) {line['choices']['text'][2]}, D) {line['choices']['text'][3]}, E) {line['choices']['text'][4]}\n\nA: {new_out}\n\nFeedback: {new_eval}\n\nNew answer:"""
+                    elif task_type == "commongen":
+                        eval_inst_str = "We want to create a sentence that contains all the specified concepts. Please provide feedback on the following sentences. The feedback should list all missing concepts. If all concepts are covered, output 'all covered'"
+                        in_context_txt = f""" Concepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: A dog leaps to catch a thrown frisbee.\n\nFeedback: all covered\n\nConcepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: Two dogs are throwing frisbees at each other .\n\nFeedback: ['catch']\n\n"""
+                        prompt_txt = f"Concepts: {src} Generated sentence: {out} Missing Concepts: {eval} Please revise generated sentence which covers all missing concepts and all given concepts, with the exact string matches. New sentence:"
                     if api_source == "openai":
                         # perform refinement based on the feedback
                         response = (
@@ -231,7 +262,8 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                             )
                             .choices[0]
                             .message.content
-                        )
+                        ).replace('\n', '')
+
                         # perform additional feedback on the refined output
                         if instructscore_enable:
                             eval_prompt_txt=f'You are evaluating Chinese-to-English Machine translation task. The correct translation is "{ref_ls[index][:-1]}". The model generated translation is "{response}". Please identify all errors within each model output, up to a maximum of five. For each error, please give me the corresponding error type, major/minor label, error location of the model generated translation and explanation for the error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don\'t lead to loss of meaning but will be noticed.'
@@ -239,66 +271,94 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                             eval_output = inst_model.generate(inputs=eval_inputs.input_ids, max_new_tokens=512)
                             eval_response = inst_tokenizer.batch_decode(eval_output, skip_special_tokens=True)[0]
                         else:
-                            eval_response = (
-                                client.chat.completions.create(
-                                    model=model_type,
-                                    messages=[
-                                        {
-                                            "role": "system",
-                                            "content": eval_inst_str,
-                                        },
-                                        {"role": "user", "content": in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:"""},
-                                    ],
-                                    temperature=1.0,
-                                    max_tokens=1024,
-                                    top_p=1,
+                            if task_type == "mt":
+                                eval_response = (
+                                    client.chat.completions.create(
+                                        model=model_type,
+                                        messages=[
+                                            {
+                                                "role": "system",
+                                                "content": eval_inst_str,
+                                            },
+                                            {"role": "user", "content": in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:"""},
+                                        ],
+                                        temperature=1.0,
+                                        max_tokens=1024,
+                                        top_p=1,
+                                    )
+                                    .choices[0]
+                                    .message.content
                                 )
-                                .choices[0]
-                                .message.content
-                            )
+                            else:
+                                eval_response = (
+                                    client.chat.completions.create(
+                                        model=model_type,
+                                        messages=[
+                                            {
+                                                "role": "system",
+                                                "content": eval_inst_str,
+                                            },
+                                            {"role": "user", "content": in_context_txt + " " + f""" Concepts: {src['concepts']}\n\nGenerated Sentence: {response}\n\nFeedback:"""},
+                                        ],
+                                        temperature=1.0,
+                                        max_tokens=1024,
+                                        top_p=1,
+                                    )
+                                    .choices[0]
+                                    .message.content
+                                ).replace('\n','').strip()
                     elif api_source == "google":
                         # perform refinement based on the feedback
-                        # print(prompt_txt)
                         indicater = True
                         while indicater:
                             try:
                                 response = completions_with_google(
                                     prompt_txt,
                                     model_type=model_type,
-                                )
+                                ).replace('\n', '')
                                 indicater = False
                             except:
                                 continue
+
                         # perform additional feedback on the refined output
                         if instructscore_enable:
                             eval_prompt_txt=[f'You are evaluating Chinese-to-English Machine translation task. The correct translation is "{ref_ls[index][:-1]}". The model generated translation is "{response}". Please identify all errors within each model output, up to a maximum of five. For each error, please give me the corresponding error type, major/minor label, error location of the model generated translation and explanation for the error. Major errors can confuse or mislead the reader due to significant change in meaning, while minor errors don\'t lead to loss of meaning but will be noticed.']
                             eval_inputs = inst_tokenizer(eval_prompt_txt, return_tensors="pt").to(inst_model.device)
                             eval_output = inst_model.generate(inputs=eval_inputs.input_ids, max_new_tokens=512)
                             eval_response = inst_tokenizer.batch_decode(eval_output, skip_special_tokens=True)[0].replace(eval_prompt_txt[0],'')
-                            # print(eval_prompt_txt)
-                            # print('-'*50)
-                            # print(eval_response)
-                            # print('-'*100)
                         else:
-                            indicater = True
-                            while indicater:
-                                try:
-                                    eval_response = completions_with_google(
-                                        eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:""",
-                                        model_type=model_type,
-                                    )
-                                    indicater = False
-                                except:
-                                    continue
+                            if task_type == "mt":
+                                indicater = True
+                                while indicater:
+                                    try:
+                                        eval_response = completions_with_google(
+                                            eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:""",
+                                            model_type=model_type,
+                                        )
+                                        indicater = False
+                                    except:
+                                        continue
+                            else:
+                                indicater = True
+                                while indicater:
+                                    try:
+                                        eval_response = completions_with_google(
+                                            eval_inst_str + " " + in_context_txt + " " + f""" Concepts: {src['concepts']}\n\nGenerated Sentence: {response}\n\nFeedback:""",
+                                            model_type=model_type,
+                                        ).replace('\n','').strip()
+                                        indicater = False
+                                    except:
+                                        continue
+
                     elif api_source == "transformers":
                         model.generation_config = GenerationConfig.from_pretrained(name_dict[model_type])
                         model.generation_config.pad_token_id = model.generation_config.eos_token_id
-                        input_batch = [icl_refinements + [{"role": "user", "content": prompt_txt}]]
-                        input_batch = [tokenizer.apply_chat_template(ele, add_generation_prompt=True, tokenize=False) for ele in input_batch] 
+                        input_batch = [prompt_txt] # [icl_refinements + [{"role": "user", "content": prompt_txt}]]
+                        # input_batch = [tokenizer.apply_chat_template(ele, add_generation_prompt=True, tokenize=False) for ele in input_batch] 
                         inputs = tokenizer(input_batch, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         output = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
                         response = tokenizer.batch_decode(output, skip_special_tokens=True)[0]
-                        
+                        print(response.replace(prompt_txt, ''))
                         if model_type[:6] == "llama2":
                             if 'improved translation' in response.split('[/INST]')[4].split("\n")[0].lower():
                                 response = response.split('[/INST]')[4].split("\n")[2]
@@ -314,30 +374,42 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                             eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` Annotate errors in the translation. MQM annotations:"""
                         else:
                             # If I have other tasks and I will modiffy them for here
-                            pass
+                            eval_inp_prompt = eval_inst_str + " " + in_context_txt + " " + f""" Concepts: {src['concepts']}\n\nGenerated Sentence: {response}\n\nFeedback:"""
                         eval_inputs = tokenizer([eval_inp_prompt], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                         eval_out = model.generate(inputs=eval_inputs.input_ids, max_new_tokens=128)
                         eval_response = tokenizer.batch_decode(eval_out, skip_special_tokens=True)[0]
-                        if model_type == "mistral_moe":
-                            eval_response = eval_response.replace(eval_inp_prompt, "").split("\n\n")[0]
+                        if task_type == "mt":
+                            if model_type == "mistral_moe":
+                                eval_response = eval_response.replace(eval_inp_prompt, "").split("\n\n")[0]
+                            else:
+                                eval_response = eval_response.split("MQM annotations:")[4].split("\n\n")[0].strip()
                         else:
-                            eval_response = eval_response.split("MQM annotations:")[4].split("\n\n")[0].strip()
-
+                            eval_response = eval_response.replace(eval_inp_prompt, "").split("\n\n")[0]
                     else:
                         print("API source is not found!")
                         exit(1)
                     
-                    if instructscore_enable:
-                        post_score = (
-                            -1 * eval_response.count("Major/minor: Minor")
-                            + -5 * eval_response.count("Major/minor: Major")
-                        )
+                    if task_type == "mt":
+                        if instructscore_enable:
+                            post_score = (
+                                -1 * eval_response.count("Major/minor: Minor")
+                                + -5 * eval_response.count("Major/minor: Major")
+                            )
+                        else:
+                            post_score = (
+                                -1 * eval_response.count("minor")
+                                + -5 * eval_response.count("major")
+                                + (-5) * eval_response.count("critical")
+                            )
                     else:
-                        post_score = (
-                            -1 * eval_response.count("minor")
-                            + -5 * eval_response.count("major")
-                            + (-5) * eval_response.count("critical")
-                        )
+                        if len(eval_response) < 1:
+                            post_score = 0
+                        else:
+                            if eval_response[0]=='[' and eval_response[-1]==']':
+                                post_score = -len(list(eval_response))
+                            else:
+                                post_score = 0
+
                     if post_score > prior_score:
                         out_ls += [response.replace("\n", "").replace("\t", "") + "\n"]
                         eval_ls += [eval_response + "[SEP_TOKEN_WENDA]"]
@@ -349,12 +421,20 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                     eval_ls += [eval + "[SEP_TOKEN_WENDA]"]
                 pbar.update(1)
 
-        if task_type == "mt":
-            save_refine_name=f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
-            save_eval_name=f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+        if instructscore_enable:
+            if task_type == "mt":
+                save_refine_name=f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+                save_eval_name=f"model_outputs-inst/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+            else:
+                save_refine_name=f"model_outputs-inst/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+                save_eval_name=f"model_outputs-inst/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
         else:
-            save_refine_name=f"model_outputs-inst/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
-            save_eval_name=f"model_outputs-inst/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+            if task_type == "mt":
+                save_refine_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+                save_eval_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+            else:
+                save_refine_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+                save_eval_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
 
         with open(save_refine_name,"w") as f:
             f.writelines(out_ls)

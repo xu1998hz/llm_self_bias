@@ -12,6 +12,7 @@ from datasets import load_dataset
 from typing import Dict, TypeVar, Iterable, List
 from transformers import LlamaForCausalLM, LlamaTokenizer
 import transformers
+import jsonlines
 
 T = TypeVar('T')
 
@@ -135,7 +136,8 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
     elif task_type == "commonsenseQA":
         in_context_txt = f"""Q: A fencing thrust with a sharp sword towards a person would result in what?\n\nAnswer Choices: A) injury, B) small cuts, C) fever, D) competition, E) puncture wound\n\nA: In a controlled fencing match with a sharp sword, a fencing thrust is likely to result in (D) competition rather than injury or a puncture wound. Therefore, the correct final answer is (D) competition\n\n(answer: D)\n\nReview this answer and tell me if it is the correct or incorrect answer.\n\nThe previous answer is incorrect. A fencing thrust with a sharp sword towards a person would result in (A) injury or (E) puncture wound. Therefore the correct answer is either (A) or (E), not (D) competition. The reference to competition presumably refers to the context in which this action might occur, rather than the direct result of the action itself.\n\nIncorrect\n\n""" # Q: A fencing thrust with a sharp sword towards a person would result in what?\n\nAnswer Choices: A) injury, B) small cuts, C) fever, D) competition, E) puncture wound\n\nA: Sammy would likely go to populated areas if he wants to be where the people are. Although there may be people in areas like a race track or an apartment, these are specific places that don't always guarantee the presence of people. Populated areas, on the other hand, are generally guaranteed to have people. The desert and a roadblock are also less likely areas for people to gather. So, the best answer is B) populated areas.\n\n(answer: B)\n\nReview this answer and tell me if it is the correct or incorrect answer.\n\nThe previous answer is correct\n\nCorrect\n\n
     elif task_type == "commongen":
-        instruction_str = f"""We want to create a sentence that contains all the specified concepts. Please provide feedback on the following sentences. The feedback indicates missing concepts."""
+        instruction_str = "We want to create a sentence that contains all the specified concepts. Please provide feedback on the following sentences. The feedback should list all missing concepts. If all concepts are covered, output 'all covered'"
+        in_context_txt = f""" Concepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: A dog leaps to catch a thrown frisbee.\n\nFeedback: all covered\n\nConcepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: Two dogs are throwing frisbees at each other .\n\nFeedback: ['catch']\n\n"""
     else:
         print("Task is not supported!")
         exit(1)
@@ -147,11 +149,11 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
         src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
         out_lines = open(base_name, "r").readlines()
     elif task_type == "commongen":
-        import jsonlines
         src_lines = []
-        with jsonlines.open('../srcs/commongen_hard.jsonl') as reader:
+        with jsonlines.open('srcs/commongen_hard.jsonl') as reader:
             for line in reader:
                 src_lines.append(line)
+        src_lines = src_lines[:100]
         out_lines = open(base_name, "r").readlines()
     else:
         print(f"{task_type} is not supported!")
@@ -175,8 +177,8 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
             elif task_type == "commongen":
                 new_out_ls = [out[:-1].replace('\t', '\n') for out in src_batch_out]
                 prompt_txt_ls = [(
-                    instruction_str
-                    + f""" Concepts: {src_txt['concepts']}\n\nGenerated Sentence: {new_out}\n\n"""
+                    in_context_txt
+                    + f""" Concepts: {src_txt['concepts']}\n\nGenerated Sentence: {new_out}\n\nFeedback:"""
                 ) for src_txt, new_out in zip(src_batch_txt, new_out_ls)]
             else:
                 print(f"{task_type} is not supported!")
@@ -205,7 +207,7 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
                         )
                         .choices[0]
                         .message.content
-                    ) for prompt_txt in prompt_txt_ls]
+                    ).replace('\n','').strip() for prompt_txt in prompt_txt_ls]
 
                 elif api_source == "google":
                     indicater = True
@@ -215,12 +217,10 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
                                 prompt_txt,
                                 instruction_str,
                                 model_type=model_type,
-                            ) for prompt_txt in prompt_txt_ls]
+                            ).replace('\n','').strip() for prompt_txt in prompt_txt_ls]
                             indicater = False
                         except:
                             continue
-                    # else:
-                    #     response = eval_lines[index]
                 
                 elif api_source == "transformers":
                         inputs = tokenizer([instruction_str + " " +  prompt_txt for prompt_txt in prompt_txt_ls], return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
@@ -232,7 +232,7 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
                             else:
                                 response_ls = [response.split("Annotate errors in the translation. MQM annotations:")[4].split("\n\n")[0].strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
                         else:
-                            response_ls = [response.replace(prompt_txt, "").replace("\n", '\t').strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
+                            response_ls = [response.replace(instruction_str + " " +  prompt_txt, "").split("\n")[0].strip() for prompt_txt, response in zip(prompt_txt_ls, response_ls)]
                 else:
                     print("API source is not found!")
                     exit(1)

@@ -10,10 +10,15 @@ import time
 from datasets import load_dataset
 import glob
 import json
-from typing import Dict, TypeVar, Iterable, List
+from typing import Set, Dict, TypeVar, Iterable, List
 from google.generativeai.types import safety_types
 from transformers import AutoModelForCausalLM, AutoTokenizer, GenerationConfig, AutoModel
 import torch
+import jsonlines
+import re
+import pandas as pd
+import nltk
+import spacy
 
 T = TypeVar('T')
 
@@ -121,6 +126,21 @@ def completions_with_google(system_prompt, prompt_txt, model_type):
         print("model type is not supported!")
         exit(1)
 
+nlp = spacy.load("en_core_web_sm")
+
+def detect_concepts(sentence: str, concepts: List[str]) -> Set[str]:
+    present_concepts = []
+    
+    # Tokenize the sentence and lemmatize the tokens
+    tokens = nltk.word_tokenize(sentence)
+    lemmas = [token.lemma_ for token in nlp(sentence)]
+    
+    # Check if each concept is present in the sentence
+    for concept in concepts:
+        if concept in tokens or concept in lemmas:
+            present_concepts.append(concept)
+    
+    return set(present_concepts)
 
 @click.command()
 @click.option("-task_type", help="mt, sci or code")
@@ -176,13 +196,14 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
         system_prompt = f"You are translating {src_lang}-to-{tgt_lang} machine translation. Do not provide any explanations or text apart from the translation. "
     elif task_type == "commonsenseQA":
         # we select 200 samples from commonsense QA
-        src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:200]
+        src_lines = [{'question': ele['question'], 'choices': ele['choices']} for ele in load_dataset('tau/commonsense_qa')['test']][:100]
     elif task_type == "commongen":
-        import jsonlines
+        system_prompt = "You are generating text based on specified words. Do not provide any explanations or text apart from the text output."
         src_lines = []
-        with jsonlines.open('../srcs/commongen_hard.jsonl') as reader:
+        with jsonlines.open('srcs/commongen_hard.jsonl') as reader:
             for line in reader:
                 src_lines.append(line)
+        src_lines = src_lines[:100]
     else:
         print(f"{task_type} is not supported!")
         exit(1)
@@ -226,6 +247,15 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                     .choices[0]
                     .message.content
                 ) for prompt_txt in prompt_txt_ls]
+                # print(prompt_txt_ls[0])
+                # print()
+                # print(batch_line[0]['concepts'])
+                # print()
+                # print(responses)
+                # print()
+                # print(len(detect_concepts(responses[0],batch_line[0]['concepts']))/len(batch_line[0]['concepts']))
+                # print('-'*50)
+                # print()
             elif api_source == "google":
                 indicater = True
                 while indicater:
@@ -234,6 +264,11 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                         indicater = False
                     except:
                         continue
+                # print(line['concepts'])
+                # print(responses)
+                # print(detect_concepts(responses[0],line['concepts']))
+                # print('-'*50)
+                # print()
             elif api_source == "transformers":
                 inputs = tokenizer(prompt_txt_ls, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                 out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
