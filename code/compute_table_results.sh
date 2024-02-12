@@ -1,12 +1,12 @@
-lang="jav_Latn-en"
-eval_name="mistral_moe"
+lang="yor-en"
+eval_name="iter0"
 model_name="${eval_name}"
-device_id="5"
+device_id="1"
 
 # mkdir model_outputs/${eval_name}/self_refine/${lang}/bleurt-raw/
 # mkdir model_outputs/${eval_name}/self_refine/${lang}/bleurt-nor/
 
-# for iteration in "0" "1" "2" "3" "4" "5" # "6" "7" "8" "9" "10" 
+# for iteration in "0" # "1" "2" "3" "4" "5" # "6" "7" "8" "9" "10" 
 # do 
 #     # first compute all bleurt scores on translaiton outputs
 #     CUDA_VISIBLE_DEVICES="${device_id}" python3 code/eval_bleurt.py  \
@@ -24,7 +24,7 @@ device_id="5"
 
 # compute bias score for all iterations
 
-for iteration in "0" "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
+for iteration in "0" # "1" "2" "3" "4" "5" "6" "7" "8" "9" "10"
 do  
     echo "${model_name} judges ${eval_name} at ${lang}"
     python3 code/compute_bias.py -bleurt_nor_file "model_outputs/${eval_name}/self_refine/${lang}/bleurt-nor/${eval_name}_${iteration}_bleurt_nor.txt" \
