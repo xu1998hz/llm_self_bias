@@ -1,0 +1,266 @@
+'in difficulty' is a minor accuracy/addition error
+'get out of that situation' is a minor accuracy/mistranslation error
+'she advised' is a minor fluency/register error[SEP_TOKEN_WENDA]'Dr. Ehud' is a minor accuracy/addition error
+'the first open-heart surgery' is a minor accuracy/omission error
+'the History of Halifax' is a minor accuracy/addition error
+'and Canada' is a minor accuracy/omission error
+'the first cardiac transplant surgeon' is a minor accuracy/omission error
+'Ìtọ ṣugga Ìlú Canada sọ pé they have ever performed' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'According' is a major accuracy/addition error
+'extremely' is a minor fluency/grammar error
+'having' is a minor terminology/inappropriate for context error
+'the disorder' is a minor terminology/inconsistent use error
+'Type 1' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'award' is a minor terminology/inappropriate for context error
+'the Prize for Literature' is a minor terminology/inappropriate for context error
+'jury members' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Then he said' is a minor style/awkwards error
+'The workload will be reduced' is a minor accuracy/addition error
+'most of the tasks' is a minor accuracy/omission error
+'assigned' is a minor terminology/inappropriate for context error
+'For now, I will rest' is a minor accuracy/addition error
+'I have already finished' is a minor accuracy/omission error
+'the tasks' is a minor terminology/inappropriate for context error
+'assigned to me' is a minor terminology/inappropriate for[SEP_TOKEN_WENDA]'the Ring company' is a minor accuracy/addition error
+'the previous version' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the WiFi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Season 2013' is a minor locale convention/time format error
+'announced' is a minor fluency/spelling error
+'the coffee cup holder' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'During' is a minor fluency/register error
+'2017' is a minor locale convention/date error
+'Siminoff took over' is a minor accuracy/addition error
+'the QVC home shopping network' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Òrùká' is a critical accuracy/untranslated text error
+'ìlé' is a minor fluency/spelling error
+'was welcomed' is a minor accuracy/mistranslation error
+'fit for a king' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'ZMapp' is a major accuracy/mistranslation error
+'PALM' is a major accuracy/mistranslation error
+'40,0000' is a major locale convention/number format error
+'antibody' is a major terminology/inappropriate for context error
+'combating' is a minor terminology/inconsistent use error
+'deadly' is a minor terminology/inappropriate for context error
+'Ebola' is a minor terminology/inconsistent use error
+'ogun' is a minor terminology[SEP_TOKEN_WENDA]'American Ajejakadi Olympic team' is a major accuracy/addition error
+'25 medals' is a minor accuracy/omission error
+'held this time' is a minor accuracy/omission error
+'all athletes' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'full responsibility' is a major accuracy/omission error
+'failings' is a minor accuracy/addition error
+'errors' is a minor accuracy/addition error
+'the selection' is a minor terminology/inappropriate for context error
+'the administration' is a minor terminology/inappropriate for context error
+'address and review' is a minor terminology/inconsistent use error
+'the best they can be' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'USA Gymnastics' is a minor accuracy/untranslated text error
+'the abuse of gymnasts by Larry Nassar' is a minor accuracy/mistranslation error
+'to continue for over two decades' is a minor accuracy/omission error
+'and they pledged to make changes' is a minor accuracy/omission error
+'It’s also important to note that there are currently no civil or criminal lawsuits involving this matter pending in the US courts.' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'The U.S.' is a minor locale convention/name error
+'launched' is a minor fluency/grammar error
+'inclusiveness' is a minor terminology/inappropriate for context error
+'have the opportunity to succeed' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'1960' is a major accuracy/omission error
+'In' is a minor fluency/register error
+'Jonsin' is a minor fluency/register error[SEP_TOKEN_WENDA]'1976' is a minor locale convention/date error
+'1981' is a minor locale convention/date error
+'November' is a minor fluency/spelling error
+'secretly' is a minor style/awkwards error
+'he appointed' is a minor style/awkwards error
+'president' is a minor fluency/spelling error
+'he secretly met' is a minor style/awkwards error
+'leaders' is a minor accuracy/mistranslation error
+'Soviet Union' is a minor accuracy/mistrans[SEP_TOKEN_WENDA]'According to the NSA' is a minor accuracy/addition error
+'Carter signed' is a minor accuracy/mistranslation error
+'the Camp David Accords' is a minor accuracy/omission error
+'normalization' is a minor terminology/inappropriate for context error
+'the 1970s' is a minor accuracy/addition error
+'the Iranian revolution' is a minor accuracy/mistranslation error
+'the Soviet invasion' is a minor accuracy/mistranslation error
+'of Afghanistan' is a minor accuracy/omission[SEP_TOKEN_WENDA]'applause' is a major accuracy/mistranslation error
+'every scene' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'the Goose and the Stone' is a major accuracy/untranslated text error
+'fought' is a minor fluency/spelling error
+'for the love of' is a minor terminology/inappropriate for context error
+'Elephant-man and Elephant-woman' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Awọn ìsọ̀rí' is a minor fluency/register error
+'Àwòrán tó dára jù' is a minor fluency/register error
+'Olùdarí' is a minor fluency/register error
+'Àyàwòrán' is a minor fluency/register error
+'Asaralóge' is a minor fluency/register error
+'Asàtúntò-Fíìmù' is a minor fluency/register error
+'As[SEP_TOKEN_WENDA]'popular music stars' is a minor accuracy/addition error
+'including popular music acts and music' is a minor accuracy/addition error
+'artists' is a minor terminology/inappropriate for context error
+'set to be premiered' is a minor accuracy/addition error
+'the Liongate channel' is a minor accuracy/addition error
+'in addition to other channels' is a minor accuracy/addition error
+'This is a first-of-its-kind event' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Donald Trump' is a minor accuracy/untranslated text error
+'the American President' is a minor accuracy/omission error
+'suggesting' is a minor fluency/grammar error
+'a possible US military strike' is a minor accuracy/addition error
+'on Syria' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Trumpi' is a minor accuracy/mistranslation error
+'ba Aare' is a minor accuracy/mistranslation error
+'Resep' is a minor accuracy/mistranslation error
+'Edogani' is a minor accuracy/mistranslation error
+'lori' is a minor accuracy/mistranslation error
+'ago' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'had already destroyed' is a major accuracy/addition error
+'collaborated' is a major accuracy/mistranslation error
+'launch' is a major fluency/spelling error
+'these elements' is a minor accuracy/omission error
+'cities' is a minor terminology/inappropriate for context error
+'where these elements were located' is a minor accuracy/omission error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'antioxidants' is a critical accuracy/mistranslation error
+'vitamins' is a major accuracy/addition error
+'Nutrients like' is a minor terminology/inappropriate for context error
+'carotenoids' is a minor terminology/inconsistent use error
+'protect' is a minor terminology/inconsistent use error
+'our eyes' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'slums' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'dinosaur's footprints' is a minor accuracy/addition error
+'dinosaur' is a minor terminology/inappropriate for context error
+'ascertain the truth' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'dinosaur' is a major terminology/inappropriate for context error
+'an old person' is a minor terminology/inconsistent use error
+'be a child' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the man's family' is a minor accuracy/addition error
+'the number of guns' is a minor accuracy/mistranslation error
+'as part of, the bride price / dowry process' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'The government' is a minor accuracy/untranslated text error
+'unemployed' is a minor terminology/inappropriate for context error
+'from all over the country' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Ọlọ́pa' is a minor fluency/register error
+'sí' is a minor fluency/register error
+'fún' is a minor fluency/register error
+'ìṣẹ̀lẹ̀' is a minor fluency/register error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'atí' is a minor fluency/spelling error
+'pọ̀' is a minor fluency/character encoding error
+'bí' is a minor fluency/spelling error
+'wàn' is a minor fluency/spelling error
+'pẹ̀lú' is a minor fluency/character encoding error
+'olasma' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the Rossby waves' is a critical accuracy/addition error
+'the pattern' is a minor accuracy/addition error
+'the eastern Pacific Ocean' is a minor accuracy/addition error
+'upwelling' is a minor accuracy/addition error
+'nutrients' is a minor accuracy/addition error
+'cold water' is a minor accuracy/addition error
+'the ocean floor' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'During' is a minor fluency/register error
+'Iwasaki' is a critical accuracy/mistranslation error
+'was seriously' is a minor fluency/grammar error
+'on the battlefield' is a minor fluency/register error[SEP_TOKEN_WENDA]'adventurers' is a minor accuracy/addition error
+'hunted' is a minor accuracy/mistranslation error
+'ferocious' is a minor accuracy/addition error
+'brought' is a minor accuracy/mistranslation error
+'safely' is a minor accuracy/addition error
+'India' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'802.11n' is a critical accuracy/mistranslation error
+'kind of' is a minor terminology/inappropriate for context error
+'Hz' is a minor locale convention/currency error
+'stands for' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'a picture' is a minor accuracy/mistranslation error
+'had a speed' is a minor accuracy/mistranslation error
+'100 Mb/s' is a minor locale convention/currency error[SEP_TOKEN_WENDA]'fluently' is a minor accuracy/addition error
+'the Chinese delegation' is a minor accuracy/omission error
+'at the meeting' is a minor accuracy/omission error
+'will be held' is a minor accuracy/addition error
+'later' is a minor fluency/spelling error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'equivalent emissions' is a minor accuracy/omission error
+'was' is a minor fluency/grammar error
+'from 2020 to 2005 levels' is a minor accuracy/addition error
+'he' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'billionaire guessing' is a major accuracy/mistranslation error
+'It is not easy to compete with a wealthy man' is a minor style/awkwards error
+'even' is a minor fluency/register error
+'in China' is a minor locale convention/name error[SEP_TOKEN_WENDA]'They have accepted with joy' is a critical accuracy/mistranslation error
+'the suggestion' is a minor accuracy/addition error
+'start small and accumulate wealth gradually through continuous efforts' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'should be careful' is a minor accuracy/addition error
+'at the front, back' is a minor accuracy/omission error
+'edges' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Ẹgbẹ́' is a minor fluency/character encoding error
+'àgbékalẹ̀' is a minor fluency/character encoding error
+'àbọ̀' is a minor fluency/character encoding error
+'nǹ' is a minor fluency/character encoding error
+'i aago' is a minor fluency/spelling error
+'méjìlá' is a minor fluency/register error
+'òní' is a minor fluency/register error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'The new travel ban' is a major accuracy/addition error
+'eight predominantly Muslim' is a major accuracy/addition error
+'in the United States' is a major accuracy/addition error
+'Iran' is a major accuracy/mistranslation error[SEP_TOKEN_WENDA]'migrants' is a major accuracy/addition error
+'the COVID-19' is a major accuracy/addition error
+'worldwide' is a minor style/awkwards error[SEP_TOKEN_WENDA]'the President of Nigeria' is a minor accuracy/omission error
+'peace' is a minor accuracy/mistranslation error
+'the UN' is a minor accuracy/omission error
+'foreign and local leaders' is a minor accuracy/omission error
+'involved' is a minor fluency/spelling error
+'Iraqi' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'The Senators' is a major terminology/inconsistent use error
+'Aare Arabirin Kristina Fenandesi de Kisna' is a major terminology/inappropriate for context error
+'hear' is a minor fluency/spelling error
+'Buenos Aresi' is a major terminology/inappropriate for context error
+'31 miles' is a major locale convention/currency error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'the dry season' is a minor accuracy/addition error
+'the rainy season' is a minor accuracy/addition error
+'called' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'ìlú' is a minor locale convention/time format error
+'exotic animals' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'genocide' is a critical accuracy/mistranslation error
+'Romania' is a major accuracy/omission error[SEP_TOKEN_WENDA]'this church' is a minor accuracy/mistranslation error
+'have suddenly passed away' is a major accuracy/addition error
+'the St. Peter's Square' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'The new immigration policy' is a major accuracy/omission error
+'quickly' is a minor fluency/spelling error
+'move into' is a minor terminology/inappropriate for context error
+'welcome more people' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'epidemic' is a minor fluency/spelling error
+'colleague' is a minor fluency/register error
+'agbekalẹ' is a minor terminology/inappropriate for context error
+'eniyan' is a minor terminology/inappropriate for context error
+'wa' is a minor terminology/inappropriate for context error
+'ti' is a minor terminology/inappropriate for context error
+'opolo' is a minor terminology/inappropriate for context error
+'eniy' is a minor terminology/in[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'the fiscal year' is a minor accuracy/addition error
+'obscenity initiatives' is a minor accuracy/mistranslation error
+'the commission' is a minor accuracy/omission error
+'work effectively' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the fourth ODI of the India-Australia series' is a minor accuracy/addition error
+'against the Australian bowling attack' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'ṣe dáadáa' is a minor fluency/spelling error
+'tí wọ́n' is a minor fluency/spelling error
+'ní ọgọ́rùn' is a minor fluency/spelling error
+'àjọsepọ̀' is a minor fluency/spelling error[SEP_TOKEN_WENDA]'dismissed' is a minor accuracy/mistranslation error
+'the Indian cricket team' is a minor terminology/inappropriate for context error
+'to win' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'Bush' is a minor accuracy/addition error
+'the ninth month' is a major locale convention/date error
+'an effort' is a minor style/awkwards error
+'the U.S and Asian countries' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Vivian Balakrishnan' is a critical accuracy/mistranslation error
+'will have an interview' is a major accuracy/addition error
+'Singapore's Prime Minister' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'Former US President' is a minor accuracy/addition error
+'the Pearl Harbor' is a minor accuracy/addition error
+'21st' is a major locale convention/time format error
+'state visit' is a minor terminology/inappropriate for context error
+'Asia' is a minor accuracy/spelling error[SEP_TOKEN_WENDA]'the Clean Air Law' is a minor accuracy/mistranslation error
+'children's health program' is a minor accuracy/addition error
+'reduces pollution emissions by 2012' is a minor accuracy/mistranslation error
+'the NDP Jack Layton party' is a minor accuracy/mistranslation error
+'at a meeting at the PMO' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'at the meeting with the PM' is a major accuracy/addition error
+'so that they can make sure' is a major fluency/awkwards error
+'in detail' is a minor fluency/register error[SEP_TOKEN_WENDA]'the Royal Navy’s Mersey Division of Devonport, Tasmania' is a major accuracy/addition error
+'it was difficult to distinguish between the ships of the Royal Navy and those from other navies using only the color of their hulls' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'However' is a minor style/awkwards error
+'the senior minister' is a minor accuracy/addition error
+'foreigners' is a minor terminology/inappropriate for context error
+'Tasmanian devils' is a major accuracy/mistranslation error
+'imported' is a minor terminology/inappropriate for context error
+'thousands' is a major terminology/inconsistent use error
+'non-native' is a minor terminology/inappropriate for context error
+'environment' is a minor terminology/inappropriate for[SEP_TOKEN_WENDA]'an unexpected wave' is a critical accuracy/addition error
+'tsunami' is a major accuracy/mistranslation error
+'Pago Pago' is a minor terminology/inconsistent use error
+'Niue' is a minor terminology/inconsistent use error[SEP_TOKEN_WENDA]'violence' is a minor accuracy/addition error
+'quickly' is a minor fluency/grammar error
+'PwC' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the coast and the ocean' is a minor accuracy/addition error
+'massive destruction' is a minor accuracy/mistranslation error
+'like that seen in movies' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'The former American President' is a minor accuracy/untranslated text error
+'Bush' is a minor accuracy/mistranslation error
+'has visited' is a minor fluency/grammar error
+'again' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]'the resident of' is a minor accuracy/addition error
+'the war' is a minor accuracy/omission error
+'the firebrand that lit the fighting spirit of the Koria people' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'The tropical storm' is a minor accuracy/addition error
+'direct translations' is a minor style/awkwards error[SEP_TOKEN_WENDA]'the citizenry' is a major terminology/inappropriate for context error
+'might' is a minor fluency/grammar error
+'the peace' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dropped' is a minor accuracy/mistranslation error
+'the city' is a minor accuracy/omission error
+'infra-red' is a minor terminology/inappropriate for context error
+'on their helmets' is a minor accuracy/addition error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'levee' is a minor accuracy/mistranslation error
+'channeled' is a minor fluency/grammar error
+'irrigation' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Adam Cuerden' is a minor accuracy/addition error
+'his outstanding contribution' is a minor accuracy/omission error
+'the development' is a minor accuracy/addition error
+'leading to him being promoted' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'gbè náà fa agbára láti kọ ìlànà tó ní ṣe pẹ̀lú ìbálòpọ́ fún ojú òpó tó gba àlejò tó mílíọ́nù mídíà gbangba' is a critical accuracy/mistranslation error[SEP_TOKEN_WENDA]'the common man' is a minor accuracy/addition error
+'beyond the earth' is a minor accuracy/addition error
+'reaching' is a minor fluency/spelling error
+'the realm of Saturn' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'21st' is a major locale convention/currency error
+'Telescopes' is a major terminology/inappropriate for context error
+'Dark Galaxies' is a major terminology/inconsistent use error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'They teach' is a minor accuracy/addition error
+'what is dirty' is a minor accuracy/mistranslation error
+'as if it is clean' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the disc' is a minor accuracy/addition error
+'correlated' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'(It)' is a minor style/awkwards error
+'in the paper' is a minor style/awkwards error
+'bird' is a minor terminology/inappropriate for context error
+'dropped' is a minor fluency/spelling error
+'into the engine' is a minor style/awkwards error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'investigating' is a minor accuracy/mistranslation error
+'a large quantity' is a minor accuracy/addition error
+'stolen drugs' is a minor accuracy/mistranslation error
+'missing iodine' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'traditional rulers' is a minor accuracy/mistranslation error
+'rock deposit' is a minor accuracy/omission error
+'might be radioactive and dangerous' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'Extremely Drug Resistant Tuberculosis (XDR-TB)' is a minor accuracy/addition error
+'discovered' is a minor accuracy/mistranslation error
+'KwaZulu-Natal' is a minor locale convention/name format error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'at the hospital' is a minor accuracy/addition error
+'intravenous fluid' is a minor accuracy/mistranslation error
+'received' is a minor fluency/grammar error[SEP_TOKEN_WENDA]
