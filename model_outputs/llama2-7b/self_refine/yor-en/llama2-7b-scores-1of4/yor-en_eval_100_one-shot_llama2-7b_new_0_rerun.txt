@@ -1,0 +1,100 @@
+'olóṣù' is a major accuracy/omission error
+'afikún' is a minor fluency/register error
+'ìmọ̀ ogun' is a critical accuracy/omission error
+'tí ó' is a critical accuracy/omission error
+'tí' is a critical accuracy/inconsistency error
+'wọ́n kéde' is a major accuracy/omission error
+'kan lóri rẹ́díò' is a minor fluency/grammar error
+'tí wọ́n' is a major accuracy/omission error
+'deceived' is a critical accuracy/mistranslation error
+'fun igba yi' is a major accuracy/omission error
+'iléeṣẹ́' is a major accuracy/mistranslation error
+'ní iléeṣẹ́' is a minor terminology/inappropriate for context error
+'lọ sókè' is a major accuracy/omission error
+'lọ' is a major accuracy/omission error
+'mohun' is a minor fluency/spelling error
+'scene of the crime' is a minor style/awkwards error
+'títí' is a major accuracy/omission error
+'títí di àsìkò' is a major accuracy/mistranslation error
+'kò tí i sí' is a minor fluency/grammar error
+'wípé' is a minor terminology/inappropriate for context error
+'gbogbo' is a major accuracy/omission error
+'asáré-ìje wa gbogbo' is a major accuracy/omission error
+'kúro' is a critical accuracy/omission error
+'terms of infrastructure' is a minor style/awkward error
+'ìwádìí' is a minor terminology/inappropriate for context error
+'olómìnira' is a major accuracy/inappropriate for context error
+'ìdárayá ìsangun àtawọn míran wà fáwọn eléréje láti le ma siṣẹ́ tọ àlá wọn' is a critical accuracy/omission error
+'mún kí' is a major accuracy/omission error
+'sise' is a critical accuracy/mistranslation error
+'Isakoso' is a major accuracy/omission error
+'mímú áyípadà' is a major accuracy/inconsistency error
+'bí i' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'yíyanjú' is a critical accuracy/addition error
+'ò ran' is a major accuracy/omission error
+'íparí' is a major accuracy/omission error
+'Eléré' is a minor accuracy/omission error
+'Awonu' is a minor accuracy/omission error
+'Asarologe' is a minor terminology/inappropriate for context error
+'Aworan to the dara ju' is a major accuracy/omission error
+'ìlú' is a major accuracy/omission error
+'ìdánwò' is a major accuracy/omission error
+'the country is in chaos' is a critical accuracy/omission error
+'kéde pé' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'does not understand' is a major accuracy/mistranslation error
+'sílẹ̀' is a critical accuracy/omission error
+'èyí' is a major accuracy/inconsistency error
+'òrìlẹ̀-èdè' is a major accuracy/inconsistent use error
+'ti tànká' is a major accuracy/mistranslation error
+'ti tànká' is a major accuracy/omission error
+'sesi' is a minor fluency/spelling error
+'onimo' is a critical accuracy/omission error
+'tún fúni' is a minor fluency/grammar error
+'ti wón' is a major accuracy/omission error
+'tí wón' is a critical accuracy/omission error
+'ti wọ́n ń pè ní rachis' is a minor terminology/inappropriate for context error
+'ọkọ̀' is a minor terminology/inappropriate for context error
+'skilled dinosaur' is a minor terminology/inappropriate for context error
+'kìn ṣe' is a major accuracy/omission error
+'méjì' is a minor terminology/inappropriate for context error
+'ni a kíyèsí' is a major accuracy/inconsistency error
+'pé' is a minor style/awkwards error
+'blinds the eyes' is a major accuracy/mistranslation error
+'ìràwọ̀' is a minor style/awkward error
+'íràwọ̀' is a minor accuracy/omission error
+'wàhálà' is a minor style/awkwards error
+'ibwasaki' is a major accuracy/omission error
+'elégbọn' is a major accuracy/omission error
+'ó sá kúrò nínu' is a major accuracy/omission error
+'rádíò' is a minor fluency/spelling error
+'ìtàn' is a minor fluency/grammar error
+'ti ìtàn' is a major accuracy/omission error
+'ò' is a minor fluency/register error
+'emissions of the industrial sector' is a minor accuracy/omission error
+'sọ pé wọ́n' is a major accuracy/omission error
+'do not want' is a critical accuracy/addition error
+'kí wọ́n máṣe' is a major accuracy/mistranslation error
+'NNkan' is a critical accuracy/omission error
+'wípé kò' is a critical accuracy/omission error
+'ípinnu' is a minor fluency/grammar error
+'sí' is a minor fluency/grammar error
+'táko' is a major accuracy/omission error
+'takó' is a major accuracy/omission error
+'ilu ti o' is a minor fluency/punctuation error
+'Kisna' is a minor accuracy/omission error
+'kanáà' is a minor terminology/inappropriate for context error
+'ò lò fún' is a major accuracy/mistranslation error
+'tí' is a critical accuracy/omission error
+'sọ lórúkọ' is a minor fluency/register error
+'gbé' is a minor terminology/inappropriate for context error
+'gbogbo' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'pastor' is a minor accuracy/omission error
+'káàkiri' is a major accuracy/mistranslation error
+'wo' is a minor fluency/punctuation error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'last night' is a critical accuracy/omission error
+'àríwísí' is a major accuracy/omission error
+'rè lòr[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'àwọn akọ̀tàn' is a critical accuracy/addition error
+'demanding' is a major accuracy/mistranslation error
+'fiscal' is a minor terminology/inappropriate for context error
+'bí i àádọ́rin' is a major accuracy/omission error
+'aroo' is a minor fluency/spelling error
+'ilu' is a minor style/awkward error
+'Olórí Singapo' is a major accuracy/omission error
+'Singapo' is a minor accuracy/omission error
+'ní ilẹ̀' is a minor style/awkwards error

@@ -1,0 +1,39 @@
+none[SEP_TOKEN_WENDA]'akọ́ṣẹмọṣẹ́' is a critical accuracy/mistranslation error
+'ìmọ̀ ogun' is a major accuracy/omission error
+'alága' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'The Yoruba text reads' is a minor style/awkward error
+'did not attend the ceremony' is a minor accuracy/omission error
+'and the Swedish Academy did not know how to handle the situation' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'òhun kò dún sókè látinú' is a critical accuracy/mistranslation error
+'aráng' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'wọ́n' is a major accuracy/omission error
+'gbogbo' is a minor terminology/inappropriate for context error
+'asáré-ìje' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ti' is a critical accuracy/addition error
+'tó dára tó sì' is a major accuracy/omission error
+'seégbé' is a minor style/awkward error[SEP_TOKEN_WENDA]'sited' is a critical accuracy/mistranslation error
+'Isaac Johnson' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'ó ran' is a critical accuracy/addition error
+'yíyanjú' is a major accuracy/omission error
+'ìparí' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Awon' is a major accuracy/mistranslation error
+'Aworan' is a major accuracy/omission error
+'Akota' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'oníròyìn' is a critical accuracy/mistranslation error
+'kéde pé àwọn ọmọ ogun' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'barbs and barbules' is a major accuracy/inconsistency error
+'ti wón' is a minor fluency/spelling error
+'sọ ohun' is a minor fluency/register error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'Mò ń' is a critical accuracy/mistranslation error
+'gbáradìnítorínà' is a minor terminology/inappropriate for context error
+'ò' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'ilu ti o' is a minor fluency/grammar error
+'Arabirin' is a minor terminology/inappropriate for context error
+'Bwenos Aresi' is a minor non-translation error[SEP_TOKEN_WENDA]'ibùdó kanáà' is a critical accuracy/mistranslation error
+'ọmọ ẹgbẹ́' is a critical accuracy/omission error
+'aṣojú' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'scene of the accident' is a critical accuracy/addition error
+'identified' is a major accuracy/mistranslation error
+'òtẹlẹ̀múyé' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'obcenity' is a critical accuracy/mistranslation error
+'físcal' is a minor terminology/inappropriate for context error
+'nílái' is a minor fluency/grammar error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'íhàlẹ̀' is a critical accuracy/mistranslation error
+'ọ̀rọ̀' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'kátàkárà' is a critical accuracy/mistranslation error
+'ní ilẹ̀' is a minor style/awkward error[SEP_TOKEN_WENDA]'ranṣẹ' is a critical accuracy/addition error
+'ipade' is a major accuracy/omission error
+'especially since' is a minor style/awkward error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'The Mersey River' is a major accuracy/omission error
+'connects' is a minor fluency/grammar error
+'kọkànlá' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'tón' is a minor accuracy/omission error
+'gbejáde' is a minor style/awkward error
+'súnámì' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]none detected[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none found[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'kẹ́míkà' is a major accuracy/omission error
+'ti di àwárí' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]none[SEP_TOKEN_WENDA]'too much' is a minor accuracy/mistranslation error
+'spoiled' is a minor accuracy/omission error
+'ati' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]

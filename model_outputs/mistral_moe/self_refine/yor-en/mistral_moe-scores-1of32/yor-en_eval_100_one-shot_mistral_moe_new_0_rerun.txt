@@ -1,0 +1,81 @@
+None[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'such an influenza' is a minor accuracy/addition error
+'Type 1 diabetes patients' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'the organization responsible for awarding the Nobel Prize in Literature' is a minor accuracy/addition error
+'the Academy decided to defer the award of 2016 Nobel Prize for Literature to next year' is a minor accuracy/addition error
+'the reason for the postponement is that the Academy 'had not yet formed a picture' of the laureate in 2016' is a minor accuracy/addition error
+'In previous years, the Academy presented the Nobel Prize in Literature together with other Nobel Prizes' is a minor accuracy/[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'at a house' is a minor accuracy/addition error
+'Ring’s' is a minor accuracy/addition error
+'the Super Bowl' is a minor accuracy/inappropriate for context error[SEP_TOKEN_WENDA]'Connect to WiFi, OK' is a no-error[SEP_TOKEN_WENDA]'an outdoor fire pit' is a minor accuracy/addition error
+'received a lot of investors' attention' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the holiday season' is a minor accuracy/addition error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'it is expected to serve as a valuable weapon' is a minor accuracy/addition error
+'in the fight against deadly infectious diseases' is a minor accuracy/addition error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Let us receive the USOC' is a minor accuracy/mistranslation error
+'present it to our outstanding athletes and coaches as well as the staff of our athletes' is a minor accuracy/addition error
+'so that we can be remembered for our great accomplishments in sports forever, as our legacy' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]'the United States athletes and the United States Olympic Committee' is a minor accuracy/untranslated text error
+'an order has been issued' is a minor accuracy/mistranslation error
+'the examination of matters concerning the alleged misuse of performance-enhancing drugs by some of them' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the 1960 election' is a minor accuracy/addition error
+'incumbent' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'during his visit' is a minor accuracy/addition error
+'the National Security Council (NSA)' is a minor terminology/inappropriate for context error
+'from 1977 to 1981' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'During' is a minor accuracy/addition error
+'Carter signed' is a minor accuracy/mistranslation error
+'emerged' is a minor fluency/grammar error
+'warld' is a minor accuracy/addition error
+'attacked' is a minor fluency/grammar error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'the purchase' is a minor accuracy/addition error
+'an elephant and a lion' is a minor accuracy/addition error
+'for the male and female Elere' is a minor accuracy/addition error
+'respectively' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'Awọn' is a minor accuracy/addition error
+'Àwòrán' is a minor accuracy/mistranslation error
+'Aṣaralóge' is a minor accuracy/mistranslation error
+'Asàtúntò-Fíìmù' is a minor accuracy/mistranslation error
+'Apohùnpọ̀' is a minor accuracy/mistranslation error
+'àti' is a minor accuracy/mistranslation error
+'Akọ̀tà' is a[SEP_TOKEN_WENDA]'For kids and adults' is a minor accuracy/addition error
+'unlike many of today's films' is a minor accuracy/omission error
+'several' is a minor fluency/spelling error
+'high-quality' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'oníròyìn' is a minor accuracy/mistranslation error
+'U.S.' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'after Trump fired the former one' is a minor accuracy/addition error
+'Rex Tillerson' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the war' is a minor accuracy/addition error
+'assist' is a minor accuracy/mistranslation error
+'their territories' is a minor accuracy/omission error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Essential' is a major accuracy/addition error
+'that' is a minor fluency/grammar error
+'support' is a minor fluency/grammar error
+'include' is a minor fluency/grammar error
+'lutein' is a minor terminology/inappropriate for context error
+'zeaxanthin' is a minor terminology/inappropriate for context error
+'carotenoids' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'802.11n' is a minor terminology/inconsistent use error
+'frequency band' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'dual-radio adapters' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]'2.5 Mbps' is a minor locale convention/currency error
+'equally' is a minor style/awkwards error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'might have seen something' is a minor accuracy/mistranslation error
+'Don't bring me anyone other than the person he saw' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the impact of carbon emissions on GDP' is a minor accuracy/mistranslation error
+'achieved' is a minor fluency/spelling error
+'compared to the level in 2005' is a minor accuracy/omission error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'the real cause(s)' is a minor accuracy/mistranslation error
+'which resulted in so much hardship and suffering for mankind' is a minor accuracy/addition error
+'called on responsible parties to be accountable' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]'the National Air and Space Administration (NASA)' is a minor accuracy/addition error
+'extraterrestrial object' is a minor accuracy/addition error
+'the Advanced Rapid Imaging and Analysis (ARIA) system' is a minor accuracy/addition error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'on two buses' is a minor accuracy/omission error
+'Aare Arabirin Kristina Fenandesi with her 1,000 followers' is a minor accuracy/addition error
+'summit of leaders' is a minor accuracy/mistranslation error
+'which is 50 kilometers (31 miles) from Buenos Aires' is a minor locale convention/time format error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Parents who cannot help their children in Washington are not parents at all.' is a no-error translation.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'People have been urged to pray for all affected by the collapse of a building on St. Peters Street.' is a no-error translation[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Go to' is a minor accuracy/addition error
+'which is densely populated' is a minor style/awkward error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'strict financial inspection' is a minor accuracy/mistranslation error
+'the Obscene Art' is a minor accuracy/mistranslation error
+'various violations' is a minor accuracy/mistranslation error
+'in the older documents' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'He scored 36 runs and took 7 wickets in a match against India he won.' is a no-error translation[SEP_TOKEN_WENDA]'the 11th day of the 12th month of the year 2001' is a minor accuracy/mistranslation error
+'50 years' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Chinese companies and officials' is a minor accuracy/mistranslation error
+'alleged' is a minor accuracy/omission error[SEP_TOKEN_WENDA]'the Clean Air Act' is a minor accuracy/addition error
+'their right' is a minor accuracy/omission error
+'industrialists' is a minor terminology/inappropriate for context error
+'the power of the PMO' is a minor accuracy/addition error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'at Devonport' is a minor accuracy/addition error
+'Tasmania' is a minor accuracy/spelling error
+'killing' is a minor fluency/spelling error
+'bound for Africa' is a minor accuracy/omission error
+'almost all of them capsized' is a minor accuracy/mistranslation error
+'at the Cape of Good Hope' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'military' is a minor terminology/inappropriate for context error
+'the town of Tasmania' is a minor accuracy/addition error
+'however' is a minor style/awkwards error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'the tight security requirements' is a minor accuracy/addition error
+'one day' is a minor accuracy/addition error[SEP_TOKEN_WENDA]'heavy rain and stormy winds' is a minor accuracy/mistranslation error
+'resulting in severe flooding' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'Johann Duensing' is a minor accuracy/spelling error
+'Bushido Japan' is a minor accuracy/spelling error
+'the use of the ‘Swastika symbol’' is a minor accuracy/mistranslation error
+'the Korean War victory commemoration ceremony' is a minor accuracy/mistranslation error
+'korea@bushidokan.com' is a minor accuracy/spelling error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'who are not familiar with the terrain' is a minor accuracy/addition error
+'when they mistakenly use old maps' is a minor accuracy/mistranslation error[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]'millions of naira' is a minor locale convention error
+'the local council' is a minor terminology/inconsistent use error
+'gbangba' is a minor terminology/inappropriate for context error[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]'Those with great power over water' is a minor accuracy/addition error
+'will now take charge of cleaning up' is a minor accuracy/mistranslation error
+'the space and the dark parts of the Milky Way' is a minor accuracy/addition error[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]There are no errors in the translation.[SEP_TOKEN_WENDA]None.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]No errors found.[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]None[SEP_TOKEN_WENDA]
