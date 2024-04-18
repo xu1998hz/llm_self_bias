@@ -63,6 +63,8 @@ def main(llm_score_file, llm_out_file):
     ).readlines()
     final_ls = "".join(lines).split("[SEP_TOKEN_WENDA]")[:-1]
     diff_ls = []
+    gt_ls = []
+    pred_ls= []
     for index, ele in enumerate(final_ls):
         total = len(src_lines[index]['concepts'])
         present_concepts = detect_concepts(out_lines[index], src_lines[index]['concepts'])
@@ -70,13 +72,18 @@ def main(llm_score_file, llm_out_file):
         if gt_score < 1:
             gt_score = 0
         
-        if ele[0] == '[' and ele[-1] == ']':
-            pred_score = 0
+        # if ele[0] == '[' and ele[-1] == ']':
+        if 'all covered' in ele:
+            pred_score = 1
             # pred_score = 1-len(ele.split(','))/total
         else:
-            pred_score = 1
+            pred_score = 0
         diff_ls += [pred_score-gt_score]
-
+        gt_ls += [gt_score]
+        pred_ls += [pred_score]
+    
+    print("Coverage (true): ", sum(gt_ls)/len(gt_ls))
+    print("Coverage (pred): ", sum(pred_ls)/len(pred_ls))
 
     # 1) Out of bia defination
     mean_bias = sum(diff_ls) / len(diff_ls)

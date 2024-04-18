@@ -174,10 +174,13 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
             for line in reader:
                 src_lines.append(line)
         src_lines = src_lines[:100]
-        print(len(src_lines))
+    elif task_type == "math":
+        src_lines = load_dataset('hendrycks/competition_math')['test']['problem'][:100]
     else:
         print("Your task type is not supported!")
         exit(1)
+
+    print("Size of testing set: ", len(src_lines))
 
     for i in range(start_index, iteration):
         if instructscore_enable:
@@ -187,9 +190,14 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
             if task_type == "mt":
                 out_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i}_rerun.txt"
                 eval_name = f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
+            elif task_type == "math":
+                out_name = f"model_outputs/{model_type}/self_refine/math_{i}.txt"
+                eval_name = f"model_outputs/{model_type}/self_refine/math_{i}_feedback.txt"
             else:
-                out_name = f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i}_rerun.txt"
-                eval_name = f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
+                out_name = f"model_outputs/{model_type}/self_refine/{task_type}_{i}.txt"
+                eval_name = f"model_outputs/{model_type}/self_refine/{task_type}_{i}_feedback.txt"
+                # out_name = f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i}_rerun.txt"
+                # eval_name = f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i}_rerun.txt"
 
         out_lines = open(out_name, "r").readlines()
         eval_lines = open(eval_name, "r").readlines()
@@ -211,6 +219,11 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                             + -5 * eval.count("major")
                             + (-5) * eval.count("critical")
                         )
+                elif task_type == "math":
+                    if 'incorrect' in eval.lower():
+                        prior_score = 0
+                    else:
+                        prior_score = 1
                 else:
                     if len(eval) < 1:
                         prior_score = 0
@@ -229,6 +242,11 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                     check_err = "incorrect" in eval.split('\t')[1].lower()
                 elif task_type == "commongen":
                     check_err = "all covered" not in eval.lower()
+                elif task_type == "math":
+                    check_err = "incorrect" in eval.lower()
+                else:
+                    print("Task type is not supported!")
+                    exit(1)
 
                 if check_err:
                     if task_type == "mt":
@@ -236,7 +254,7 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                         suffix_prompt = " Improved Yorba-to-English translation:"
                         in_context_txt = f"""Source: ```大众点评乌鲁木齐家居商场频道为您提供高铁居然之家地址，电话，营业时间等最新商户信息，找装修公司，就上大众点评``` Translation: ```Urumqi Home Furnishing Store Channel provides you with the latest bussiness information such as the address, telephone number, bussiness hours, etc., of high-speed rail, and find a decoration company, and go to the reviews.``` Annotate errors in the translation. MQM annotations: "of high-speed rail" is a critical accuracy/addition error\n"go to the reviews" is a major accuracy/mistranslation error\n"etc.," is a minor style/awkwards error\n\n Source: ```I do apologise about this, we must gain permission from the account holder to discuss an order with another person, I apologise if this was done previously, however, I would not be able to discuss this with yourself without the account holders permission.``` Translation: ```Ich entschuldige mich dafür, wir müssen die Erlaubnis einholen, um eine Bestellung mit einer anderen Person zu besprechen. Ich entschuldige mich, falls dies zuvor geschehen wäre, aber ohne die Erlaubnis des Kontoinhabers wäre ich nicht in der Lage, dies mit dir involvement.``` Annotate errors in the translation. MQM annotations: 'involvement' is a major accuracy/mistranslation error\n'the account holder' is a major accuracy/omission error\n'wäre' is a minor fluency/grammar error\n'dir' is a minor fluency/register error\n\n Source: ```Talks have resumed in Vienna to try to revive the nuclear pact, with both sides trying to gauge the prospects of success after the latest exchanges in the stop-start negotiations.``` Translation: ```Ve Vídni se ve Vídni obnovily rozhovory o oživení jaderného paktu, přičemže obě partaje se snaží posoudit vyhlídky na úspěch po posledních výměnách v jednáních.``` Annotate errors in the translation. MQM annotations: 've Vídni' is a major accuracy/addition error\n'the stop-start' is a major accuracy/omission error\n'partaje' is a minor terminology/inappropriate for context error\n\n"""
                         eval_inst_str = f"You are an annotator for the quality of machine translation. Your task is to identify errors and assess the quality of the translation.\nBased on the source segment and machine translation surrounded with triple backticks, identify error types in the translation and classify them. The categories of errors are: accuracy (addition, mistranslation, omission, untranslated text), fluency (character encoding, grammar, inconsistency, punctuation, register, spelling), locale convention (currency, date, name, telephone, or time format) style (awkward), terminology (inappropriate  for context, inconsistent use), non-translation, other, or no-error.\nEach error is classified as one of three categories: critical, major, and minor. Critical errors inhibit comprehension of the text. Major errors disrupt the flow, but what the text is trying to say is still understandable. Minor errors are technically errors, but do not disrupt the flow or hinder comprehension."
-                        prompt_txt = prompt_txt + eval.split("[PAD]")[0].strip() + "\n" + suffix_prompt
+                        prompt_txt = in_context_txt + prompt_txt + eval.split("[PAD]")[0].strip() + "\n" + suffix_prompt
                     elif task_type == "commonsenseQA":
                         new_out = out[:-1].replace('\t\t', '\n\n')
                         new_eval = eval.split('\t\t')[0]
@@ -244,7 +262,14 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                     elif task_type == "commongen":
                         eval_inst_str = "We want to create a sentence that contains all the specified concepts. Please provide feedback on the following sentences. The feedback should list all missing concepts. If all concepts are covered, output 'all covered'"
                         in_context_txt = f""" Concepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: A dog leaps to catch a thrown frisbee.\n\nFeedback: all covered\n\nConcepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: Two dogs are throwing frisbees at each other .\n\nFeedback: ['catch']\n\n"""
-                        prompt_txt = f"Concepts: {src} Generated sentence: {out} Missing Concepts: {eval} Please revise generated sentence which covers all missing concepts and all given concepts, with the exact string matches. New sentence:"
+                        prompt_txt = in_context_txt + f"Concepts: {src} Generated sentence: {out} Missing Concepts: {eval} Please revise generated sentence which covers all missing concepts and all given concepts, with the exact string matches. New sentence:"
+                    elif task_type == "math":
+                        eval_inst_str = "You are a competitive math problem solver. We want to evaluate the correctness of the Arithmetic steps."
+                        prompt_txt = f"Question: {src}\n\nAnswer: {out}\n\n Feedback: {eval}\n\nRevise the answer based on feedback:"
+                    else:
+                        print("Task type is not supported!")
+                        exit(1)
+                    
                     if api_source == "openai":
                         # perform refinement based on the feedback
                         response = (
@@ -281,6 +306,24 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                                                 "content": eval_inst_str,
                                             },
                                             {"role": "user", "content": in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:"""},
+                                        ],
+                                        temperature=1.0,
+                                        max_tokens=1024,
+                                        top_p=1,
+                                    )
+                                    .choices[0]
+                                    .message.content
+                                )
+                            elif task_type == "math":
+                                eval_response = (
+                                    client.chat.completions.create(
+                                        model=model_type,
+                                        messages=[
+                                            {
+                                                "role": "system",
+                                                "content": eval_inst_str,
+                                            },
+                                            {"role": "user", "content": f"Question: {src}\n\nAnswer: {response}\n\nRecalculate arithmetic step on answer and decide whether answer is correct or incorrect (Explicitly output 'The answer is correct' or 'The answer is incorrect'). If answer is incorrect, output the correct answer.\n\nFeedback: "},
                                         ],
                                         temperature=1.0,
                                         max_tokens=1024,
@@ -333,6 +376,17 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                                     try:
                                         eval_response = completions_with_google(
                                             eval_inst_str + " " + in_context_txt + " " + f"""Source: ```{src}``` Translation: ```{response}``` MQM annotations:""",
+                                            model_type=model_type,
+                                        )
+                                        indicater = False
+                                    except:
+                                        continue
+                            elif task_type == "math":
+                                indicater = True
+                                while indicater:
+                                    try:
+                                        eval_response = completions_with_google(
+                                            eval_inst_str + " " + f"Question: {src}\n\nAnswer: {response}\n\nRecalculate arithmetic step on answer and decide whether answer is correct or incorrect. If answer is incorrect, output the correct answer.\n\nFeedback: ",
                                             model_type=model_type,
                                         )
                                         indicater = False
@@ -401,6 +455,11 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
                                 + -5 * eval_response.count("major")
                                 + (-5) * eval_response.count("critical")
                             )
+                    elif task_type == "math":
+                        if 'incorrect' in eval_response.lower():
+                            post_score = 0
+                        else:
+                            post_score = 1
                     else:
                         if len(eval_response) < 1:
                             post_score = 0
@@ -432,9 +491,14 @@ def main(lang_dir, start_index, iteration, api_source, model_type, task_type, in
             if task_type == "mt":
                 save_refine_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-outputs/{lang_dir}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
                 save_eval_name=f"model_outputs/{model_type}/self_refine/{lang_dir}/{model_type}-scores/{lang_dir}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+            elif task_type == "math":
+                save_refine_name=f"model_outputs/{model_type}/self_refine/math_{i+1}.txt"
+                save_eval_name=f"model_outputs/{model_type}/self_refine/math_{i+1}_feedback.txt"
             else:
-                save_refine_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
-                save_eval_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
+                save_refine_name=f"model_outputs/{model_type}/self_refine/{task_type}_{i+1}.txt"
+                save_eval_name=f"model_outputs/{model_type}/self_refine/{task_type}_{i+1}_feedback.txt"
+                # save_refine_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-outputs/{task_type}_refinement_100_{model_type}_new_{i+1}_rerun.txt"
+                # save_eval_name=f"model_outputs/{model_type}/self_refine/{task_type}/{model_type}-scores/{task_type}_eval_100_one-shot_{model_type}_new_{i+1}_rerun.txt"
 
         with open(save_refine_name,"w") as f:
             f.writelines(out_ls)

@@ -138,6 +138,8 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
     elif task_type == "commongen":
         instruction_str = "We want to create a sentence that contains all the specified concepts. Please provide feedback on the following sentences. The feedback should list all missing concepts. If all concepts are covered, output 'all covered'"
         in_context_txt = f""" Concepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: A dog leaps to catch a thrown frisbee.\n\nFeedback: all covered\n\nConcepts: ['dog', 'frisbee', 'catch', 'throw']\n\nGenerated Sentence: Two dogs are throwing frisbees at each other .\n\nFeedback: ['catch']\n\n"""
+    elif task_type == "math":
+        instruction_str = "You are a competitive math problem solver. We want to evaluate the correctness of the Arithmetic steps."
     else:
         print("Task is not supported!")
         exit(1)
@@ -155,6 +157,9 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
                 src_lines.append(line)
         src_lines = src_lines[:100]
         out_lines = open(base_name, "r").readlines()
+    elif task_type == "math":
+        src_lines = load_dataset('hendrycks/competition_math')['test']['problem'][:100]
+        out_lines = open(base_name, 'r').readlines()
     else:
         print(f"{task_type} is not supported!")
         exit(1)
@@ -180,6 +185,9 @@ def main(lang_dir, savename, base_name, api_source, model_type, task_type, batch
                     in_context_txt
                     + f""" Concepts: {src_txt['concepts']}\n\nGenerated Sentence: {new_out}\n\nFeedback:"""
                 ) for src_txt, new_out in zip(src_batch_txt, new_out_ls)]
+            elif task_type == "math":
+                new_out_ls = [out[:-1] for out in src_batch_out]
+                prompt_txt_ls = [f"Question: {src_txt}\n\nAnswer: {new_out}\n\nRecalculate arithmetic step on answer and decide whether answer is correct or incorrect (Explicitly output 'The answer is correct' or 'The answer is incorrect'). If answer is incorrect, output the correct answer.\n\nFeedback: " for src_txt, new_out in zip(src_batch_txt, new_out_ls)]
             else:
                 print(f"{task_type} is not supported!")
                 exit(1)

@@ -19,6 +19,8 @@ import re
 import pandas as pd
 import nltk
 import spacy
+from datasets import load_dataset
+from google.generativeai.types import HarmCategory, HarmBlockThreshold
 
 T = TypeVar('T')
 
@@ -52,7 +54,7 @@ def batchify(data: Iterable[T], batch_size: int) -> Iterable[List[T]]:
         yield batch
 
 @backoff.on_exception(backoff.expo, RateLimitError)
-def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_type):
+def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_type,n):
     response = client.chat.completions.create(
         model=model_type,  # "gpt-3.5-turbo", "gpt-4"
         messages=[
@@ -65,6 +67,7 @@ def completions_with_backoff_openai(client, system_prompt, prompt_txt, model_typ
         temperature=1.0,
         max_tokens=2048,
         top_p=1,
+        n=n,
     )
     return response
 
@@ -75,7 +78,20 @@ def completions_with_google(system_prompt, prompt_txt, model_type):
         model = genai.GenerativeModel(model_name="gemini-pro")
         completion = model.generate_content(
             system_prompt + prompt_txt,
-            generation_config={"temperature": 1.0, "max_output_tokens": 1024},
+            generation_config={"temperature": 1.0, "max_output_tokens": 1024, "candidate_count": 1},
+            safety_settings={
+            # HarmCategory.HARM_CATEGORY_DANGEROUS: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_DANGEROUS_CONTENT: HarmBlockThreshold.BLOCK_NONE,
+            # HarmCategory.HARM_CATEGORY_DEROGATORY: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HATE_SPEECH: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_HARASSMENT: HarmBlockThreshold.BLOCK_NONE,
+            # HarmCategory.HARM_CATEGORY_MEDICAL: HarmBlockThreshold.BLOCK_NONE,
+            # HarmCategory.HARM_CATEGORY_SEXUAL: HarmBlockThreshold.BLOCK_NONE,
+            HarmCategory.HARM_CATEGORY_SEXUALLY_EXPLICIT: HarmBlockThreshold.BLOCK_NONE,
+            # HarmCategory.HARM_CATEGORY_TOXICITY: HarmBlockThreshold.BLOCK_NONE,
+            # HarmCategory.HARM_CATEGORY_UNSPECIFIED: HarmBlockThreshold.BLOCK_NONE,
+            # HarmCategory.HARM_CATEGORY_VIOLENCE: HarmBlockThreshold.BLOCK_NONE
+            }
         )
         try:
             return completion.text
@@ -151,7 +167,8 @@ def detect_concepts(sentence: str, concepts: List[str]) -> Set[str]:
 )
 @click.option("-save_name")
 @click.option("-batch_size", type=int)
-def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
+@click.option("-ret_seq", type=int, default=1)
+def main(lang_dir, api_source, model_type, task_type, save_name, batch_size, ret_seq):
     if api_source == "openai":
         client = OpenAI()
     elif api_source == "transformers":
@@ -204,6 +221,9 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
             for line in reader:
                 src_lines.append(line)
         src_lines = src_lines[:100]
+    elif task_type == "math":
+        system_prompt = "You are a competitive math problem solver. Please generate a step-by-step solution. Your final answer must be enclosed in LaTeX's \boxed tag."
+        src_lines = load_dataset('hendrycks/competition_math')['test']['problem'][:100]
     else:
         print(f"{task_type} is not supported!")
         exit(1)
@@ -235,40 +255,38 @@ def main(lang_dir, api_source, model_type, task_type, save_name, batch_size):
                 icl_str = "Q: Sammy wanted to go to where the people were. Where might he go?\n\nAnswer Choices: A) race track, B) populated areas, C) the desert, D) apartment, E) roadblock \n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: Sammy would likely go to populated areas if he wants to be where the people are. Although there may be people in areas like a race track or an apartment, these are specific places that don't always guarantee the presence of people. Populated areas, on the other hand, are generally guaranteed to have people. The desert and a roadblock are also less likely areas for people to gather. So, the best answer is B) populated areas.\n\n(answer: B)"
                 prompt_txt_ls = [f"{icl_str}\n\nQ: {line['question']}\n\nAnswer Choices: A) {line['choices']['text'][0]}, B) {line['choices']['text'][1]}, C) {line['choices']['text'][2]}, D) {line['choices']['text'][3]}, E) {line['choices']['text'][4]}\n\nExplain your reasoning. You must choose only one option from A to E. Your final answer should be a single letter from A to E, in the form (answer), at the end of your response.\n\n###A: " for line in batch_line]
             elif task_type == "commongen":
-                prompt_txt_ls = [f"Please generate a sentence that contains the exact string matches for the following concepts: \n{line['concepts']}" for line in batch_line]
+                prompt_txt_ls = [f"Please generate a sentence that contains the exact string matches for all the following concepts (All concepts must be used): \n{line['concepts']}" for line in batch_line]
             elif task_type == "math":
-                pass
+                icl_str = """Problem: Let \\[f(x) = \\left\\{\n\\begin{array}{cl} ax+3, &\\text{ if }x>2, \\\\\nx-5 &\\text{ if } -2 \\le x \\le 2, \\\\\n2x-b &\\text{ if } x <-2.\n\\end{array}\n\\right.\\]Find $a+b$ if the piecewise function is continuous (which means that its graph can be drawn without lifting your pencil from the paper). Solution: For the piecewise function to be continuous, the cases must "meet" at $2$ and $-2$. For example, $ax+3$ and $x-5$ must be equal when $x=2$. This implies $a(2)+3=2-5$, which we solve to get $2a=-6 \\Rightarrow a=-3$. Similarly, $x-5$ and $2x-b$ must be equal when $x=-2$. Substituting, we get $-2-5=2(-2)-b$, which implies $b=3$. So $a+b=-3+3=\\boxed{0}$."""
+                prompt_txt_ls = [f"{icl_str}\n\nProblem: {line} Solution:" for line in batch_line]
 
             if api_source == "openai":
-                responses = [(
-                    completions_with_backoff_openai(
-                        client, system_prompt, prompt_txt, model_type
-                    )
-                    .choices[0]
-                    .message.content
-                ) for prompt_txt in prompt_txt_ls]
-                # print(prompt_txt_ls[0])
-                # print()
-                # print(batch_line[0]['concepts'])
-                # print()
-                # print(responses)
-                # print()
-                # print(len(detect_concepts(responses[0],batch_line[0]['concepts']))/len(batch_line[0]['concepts']))
-                # print('-'*50)
-                # print()
-            elif api_source == "google":
                 indicater = True
                 while indicater:
                     try:
-                        responses = [completions_with_google(system_prompt, prompt_txt, model_type) for prompt_txt in prompt_txt_ls]
+                        responses = ['\t'.join([
+                            ele.message.content.replace('\t', '') for ele in completions_with_backoff_openai(
+                                client, system_prompt, prompt_txt, model_type, ret_seq
+                            ).choices
+                        ]) for prompt_txt in prompt_txt_ls]
                         indicater = False
                     except:
                         continue
-                # print(line['concepts'])
-                # print(responses)
-                # print(detect_concepts(responses[0],line['concepts']))
-                # print('-'*50)
-                # print()
+                
+            elif api_source == "google":
+                responses = []
+                for prompt_txt in prompt_txt_ls:
+                    cur_responses = []
+                    for _ in range(ret_seq):
+                        indicater = True
+                        while indicater:
+                            try:
+                                cur_responses += [completions_with_google(system_prompt, prompt_txt, model_type).replace('\t', '')]
+                                indicater = False
+                            except:
+                                continue
+                    responses += ['\t'.join(cur_responses)]
+                
             elif api_source == "transformers":
                 inputs = tokenizer(prompt_txt_ls, return_tensors="pt", padding=True, truncation=True, max_length=2048).to(model.device)
                 out = model.generate(inputs=inputs.input_ids, max_new_tokens=128)
